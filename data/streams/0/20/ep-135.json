@@ -1,10 +1,10 @@
 {
   "animeId": 20,
   "episode": 135,
-  "updatedAt": "2026-08-02T13:05:52.410Z",
+  "updatedAt": "2026-08-02T16:44:35.863Z",
   "server": "megaplay",
-  "lang": "dub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/20/135/dub",
+  "lang": "sub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/20/135/sub",
   "downloadUrl": "https://anikoto.cz/watch/road-of-naruto-ggjw8/ep-135",
   "availableServers": [
     {
@@ -25,14 +25,75 @@
     }
   ],
   "serversData": {
-    "sub": [],
-    "dub": []
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/20/135/sub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/20/135/sub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/20/135",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/20/135/sub?color=39FF14",
+        "server": "nest"
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/20/135/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/20/135/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/20/135",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/20/135/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
   },
   "sources": [
     {
-      "url": "https://megaplay.buzz/stream/mal/20/135/dub",
-      "server": "megaplay",
-      "lang": "dub"
+      "name": "Mega",
+      "url": "https://megaplay.buzz/stream/mal/20/135/sub",
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/20/135/sub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/20/135",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/20/135/sub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
     }
   ]
 }
