@@ -1,7 +1,7 @@
 {
   "animeId": 1535,
   "episode": 2,
-  "updatedAt": "2026-08-02T10:54:33.285Z",
+  "updatedAt": "2026-08-02T10:57:46.162Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/1535/2/sub",
@@ -24,14 +24,75 @@
     }
   ],
   "serversData": {
-    "sub": [],
-    "dub": []
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/1535/2/sub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/1535/2/sub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/1535/2",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/1535/2/sub?color=39FF14",
+        "server": "nest"
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/1535/2/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/1535/2/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/1535/2",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/1535/2/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
   },
   "sources": [
     {
+      "name": "Mega",
       "url": "https://megaplay.buzz/stream/mal/1535/2/sub",
-      "server": "megaplay",
-      "lang": "sub"
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/1535/2/sub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/1535/2",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/1535/2/sub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
     }
   ]
 }
