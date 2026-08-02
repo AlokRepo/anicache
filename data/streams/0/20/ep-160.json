@@ -1,7 +1,7 @@
 {
   "animeId": 20,
   "episode": 160,
-  "updatedAt": "2026-08-02T09:34:20.106Z",
+  "updatedAt": "2026-08-02T12:35:16.362Z",
   "server": "megaplay",
   "lang": "dub",
   "streamUrl": "https://megaplay.buzz/stream/mal/20/160/dub",
@@ -25,14 +25,75 @@
     }
   ],
   "serversData": {
-    "sub": [],
-    "dub": []
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/20/160/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/20/160/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/20/160",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/20/160/dub?color=39FF14",
+        "server": "nest"
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/20/160/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/20/160/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/20/160",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/20/160/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
   },
   "sources": [
     {
+      "name": "Mega",
       "url": "https://megaplay.buzz/stream/mal/20/160/dub",
-      "server": "megaplay",
-      "lang": "dub"
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/20/160/dub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/20/160",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/20/160/dub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
     }
   ]
 }
