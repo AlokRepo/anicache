@@ -1,11 +1,10 @@
 {
   "animeId": 181444,
   "episode": 8,
-  "updatedAt": "2026-08-02T09:58:00.082Z",
-  "server": "cage",
+  "updatedAt": "2026-08-02T21:37:16.676Z",
+  "server": "megaplay",
   "lang": "dub",
-  "streamUrl": "https://vidnest.fun/animepahe/181444/8/dub?color=39FF14",
-  "downloadUrl": "https://anikoto.cz/watch/the-fragrant-flower-blooms-with-dignity-0gjoe/ep-8",
+  "streamUrl": "https://megaplay.buzz/stream/mal/59845/8/dub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -25,14 +24,75 @@
     }
   ],
   "serversData": {
-    "sub": [],
-    "dub": []
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/59845/8/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/181444/8/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/181444/8",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/181444/8/dub?color=39FF14",
+        "server": "nest"
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/59845/8/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/181444/8/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/181444/8",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/181444/8/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
   },
   "sources": [
     {
+      "name": "Mega",
+      "url": "https://megaplay.buzz/stream/mal/59845/8/dub",
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
       "url": "https://vidnest.fun/animepahe/181444/8/dub?color=39FF14",
-      "server": "cage",
-      "lang": "dub"
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/181444/8",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/181444/8/dub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
     }
   ]
 }
