@@ -1,10 +1,10 @@
 {
   "animeId": 1735,
   "episode": 250,
-  "updatedAt": "2026-08-02T10:47:33.529Z",
-  "server": "anikoto-hd-1",
-  "lang": "dub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/1735/250/dub",
+  "updatedAt": "2026-08-02T10:48:04.482Z",
+  "server": "megaplay",
+  "lang": "sub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/1735/250/sub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -24,14 +24,75 @@
     }
   ],
   "serversData": {
-    "sub": [],
-    "dub": []
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/1735/250/sub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/1735/250/sub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/1735/250",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/1735/250/sub?color=39FF14",
+        "server": "nest"
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/1735/250/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/1735/250/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/1735/250",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/1735/250/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
   },
   "sources": [
     {
-      "url": "https://megaplay.buzz/stream/mal/1735/250/dub",
-      "server": "anikoto-hd-1",
-      "lang": "dub"
+      "name": "Mega",
+      "url": "https://megaplay.buzz/stream/mal/1735/250/sub",
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/1735/250/sub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/1735/250",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/1735/250/sub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
     }
   ]
 }
