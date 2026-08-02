@@ -1,10 +1,11 @@
 {
   "animeId": 210031,
   "episode": 5,
-  "updatedAt": "2026-08-02T12:56:16.661Z",
+  "updatedAt": "2026-08-02T14:55:51.310Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/63832/5/sub",
+  "downloadUrl": "https://megaplay.buzz/stream/s-2/871538/sub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,11 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
     }
   ],
   "serversData": {
@@ -44,6 +50,21 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/210031/5/sub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/871538/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ],
     "dub": [
