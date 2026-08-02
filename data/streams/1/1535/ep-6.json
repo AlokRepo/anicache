@@ -1,10 +1,10 @@
 {
   "animeId": 1535,
   "episode": 6,
-  "updatedAt": "2026-08-02T10:18:54.418Z",
+  "updatedAt": "2026-08-02T16:33:07.577Z",
   "server": "megaplay",
-  "lang": "dub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/1535/6/dub",
+  "lang": "sub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/1535/6/sub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -24,14 +24,75 @@
     }
   ],
   "serversData": {
-    "sub": [],
-    "dub": []
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/1535/6/sub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/1535/6/sub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/1535/6",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/1535/6/sub?color=39FF14",
+        "server": "nest"
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/1535/6/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/1535/6/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/1535/6",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/1535/6/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
   },
   "sources": [
     {
-      "url": "https://megaplay.buzz/stream/mal/1535/6/dub",
-      "server": "megaplay",
-      "lang": "dub"
+      "name": "Mega",
+      "url": "https://megaplay.buzz/stream/mal/1535/6/sub",
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/1535/6/sub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/1535/6",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/1535/6/sub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
     }
   ]
 }
