@@ -1,7 +1,7 @@
 {
   "animeId": 269,
   "episode": 329,
-  "updatedAt": "2026-08-02T09:51:51.147Z",
+  "updatedAt": "2026-08-02T12:25:21.726Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/269/329/sub",
@@ -22,10 +22,51 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
     }
   ],
   "serversData": {
-    "sub": [],
+    "sub": [
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/694507/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/694507/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      }
+    ],
     "dub": []
   },
   "sources": [
