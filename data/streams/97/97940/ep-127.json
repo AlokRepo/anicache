@@ -1,10 +1,10 @@
 {
   "animeId": 97940,
   "episode": 127,
-  "updatedAt": "2026-08-02T09:37:32.126Z",
-  "server": "megaplay",
+  "updatedAt": "2026-08-02T14:07:28.282Z",
+  "server": "nest",
   "lang": "sub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/34572/127/sub",
+  "streamUrl": "https://vidnest.fun/anime/97940/127/sub?color=39FF14",
   "downloadUrl": "https://anikoto.cz/watch/black-clover-sword-of-the-wizard-king-gog2j/ep-127",
   "availableServers": [
     {
@@ -25,14 +25,75 @@
     }
   ],
   "serversData": {
-    "sub": [],
-    "dub": []
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/34572/127/sub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/97940/127/sub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/97940/127",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/97940/127/sub?color=39FF14",
+        "server": "nest"
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/34572/127/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/97940/127/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/97940/127",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/97940/127/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
   },
   "sources": [
     {
+      "name": "Mega",
       "url": "https://megaplay.buzz/stream/mal/34572/127/sub",
-      "server": "megaplay",
-      "lang": "sub"
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/97940/127/sub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/97940/127",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/97940/127/sub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
     }
   ]
 }
