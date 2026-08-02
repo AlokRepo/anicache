@@ -1,0 +1,204 @@
+{
+  "id": 199404,
+  "idMal": 62589,
+  "title": {
+    "romaji": "Blue Lock: NEO EGOIST LEAGUE",
+    "english": "BLUE LOCK NEO EGOIST LEAGUE",
+    "native": "ブルーロック ネオ・エゴイストリーグ"
+  },
+  "synonyms": [
+    "BLUE LOCK Season 3",
+    "ブルーロック第3期"
+  ],
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199404-zpQfeRq7AftA.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199404-zpQfeRq7AftA.jpg"
+  },
+  "bannerImage": null,
+  "description": "The third season of <i>Blue Lock</i>.\n<br><br>",
+  "averageScore": null,
+  "genres": [
+    "Action",
+    "Drama",
+    "Sports"
+  ],
+  "episodes": null,
+  "status": "NOT_YET_RELEASED",
+  "season": null,
+  "seasonYear": null,
+  "duration": null,
+  "format": "TV",
+  "isAdult": false,
+  "startDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 4418,
+          "name": "8-bit",
+          "isAnimationStudio": true
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 159,
+          "name": "Kodansha",
+          "isAnimationStudio": false
+        }
+      }
+    ]
+  },
+  "nextAiringEpisode": null,
+  "externalLinks": [
+    {
+      "site": "Twitter",
+      "url": "https://x.com/BLUELOCK_PR/",
+      "type": "SOCIAL",
+      "language": "Japanese"
+    },
+    {
+      "site": "Official Site",
+      "url": "https://tv.bluelock-pr.com/",
+      "type": "INFO",
+      "language": "Japanese"
+    },
+    {
+      "site": "Twitter",
+      "url": "https://x.com/Blue_Lock_En",
+      "type": "SOCIAL",
+      "language": "English"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Football"
+    },
+    {
+      "name": "Male Protagonist"
+    },
+    {
+      "name": "Shounen"
+    }
+  ],
+  "trailer": null,
+  "relations": {
+    "edges": [
+      {
+        "relationType": "PREQUEL",
+        "node": {
+          "id": 163146,
+          "title": {
+            "romaji": "Blue Lock VS. U-20 JAPAN",
+            "english": "BLUE LOCK Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-BVZPgyzkqi82.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163146-BVZPgyzkqi82.png"
+          },
+          "averageScore": 75,
+          "isAdult": false,
+          "episodes": 14,
+          "format": "TV",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2024,
+          "duration": 24
+        }
+      },
+      {
+        "relationType": "ADAPTATION",
+        "node": {
+          "id": 106130,
+          "title": {
+            "romaji": "Blue Lock",
+            "english": "Blue Lock"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106130-yPNeuSu75ey1.jpg"
+          },
+          "averageScore": 82,
+          "isAdult": false,
+          "episodes": null,
+          "format": "MANGA",
+          "status": "RELEASING",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 140856,
+          "name": {
+            "userPreferred": "Yoichi Isagi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b140856-wVzKSyvU7R5B.png"
+          }
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 268963,
+          "name": {
+            "userPreferred": "Michael Kaiser"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b268963-0i8SgRcs6ibf.png"
+          }
+        },
+        "voiceActors": []
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Original Story",
+        "node": {
+          "id": 114049,
+          "name": {
+            "userPreferred": "Muneyuki Kaneshiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114049-ipN7kb9ho7Q8.jpg"
+          }
+        }
+      },
+      {
+        "role": "Original Character Design",
+        "node": {
+          "id": 118764,
+          "name": {
+            "userPreferred": "Yuusuke Nomura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118764-I3fXa2QzPyYp.jpg"
+          }
+        }
+      }
+    ]
+  }
+}
