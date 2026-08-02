@@ -1,7 +1,7 @@
 {
   "animeId": 100388,
   "episode": 15,
-  "updatedAt": "2026-08-02T09:48:42.846Z",
+  "updatedAt": "2026-08-02T10:05:42.810Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/36649/15/sub",
@@ -22,10 +22,83 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi-stream",
+      "label": "Kiwi-Stream",
+      "rawName": "Kiwi-Stream"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
-    "sub": [],
+    "sub": [
+      {
+        "name": "Kiwi-Stream",
+        "url": "",
+        "download": {
+          "Kiwi-Stream": "https://pahe.nekostream.site/NBtkZ"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/4149/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/4149/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/S3RFTXNPenRNS2lCbTZiNiszaGd6TDI0Skc4ZHYrUmpLcmpCck9YMjhkMD0/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      }
+    ],
     "dub": []
   },
   "sources": [
