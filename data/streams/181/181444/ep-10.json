@@ -1,7 +1,7 @@
 {
   "animeId": 181444,
   "episode": 10,
-  "updatedAt": "2026-08-02T11:24:12.629Z",
+  "updatedAt": "2026-08-02T14:53:07.843Z",
   "server": "cage",
   "lang": "dub",
   "streamUrl": "https://vidnest.fun/animepahe/181444/10/dub?color=39FF14",
@@ -25,14 +25,75 @@
     }
   ],
   "serversData": {
-    "sub": [],
-    "dub": []
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/59845/10/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/181444/10/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/181444/10",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/181444/10/dub?color=39FF14",
+        "server": "nest"
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/59845/10/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/181444/10/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/181444/10",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/181444/10/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
   },
   "sources": [
     {
+      "name": "Mega",
+      "url": "https://megaplay.buzz/stream/mal/59845/10/dub",
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
       "url": "https://vidnest.fun/animepahe/181444/10/dub?color=39FF14",
-      "server": "cage",
-      "lang": "dub"
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/181444/10",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/181444/10/dub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
     }
   ]
 }
