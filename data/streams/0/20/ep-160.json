@@ -1,11 +1,11 @@
 {
   "animeId": 20,
   "episode": 160,
-  "updatedAt": "2026-08-02T09:33:42.359Z",
+  "updatedAt": "2026-08-02T09:34:20.106Z",
   "server": "megaplay",
   "lang": "dub",
   "streamUrl": "https://megaplay.buzz/stream/mal/20/160/dub",
-  "downloadUrl": "https://megaplay.buzz/stream/s-5/94736/sub",
+  "downloadUrl": "https://anikoto.cz/watch/road-of-naruto-ggjw8/ep-160",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,86 +22,10 @@
     {
       "key": "nest",
       "label": "Nest"
-    },
-    {
-      "key": "anikoto-hd-1",
-      "label": "HD-1",
-      "rawName": "HD-1"
-    },
-    {
-      "key": "anikoto-vidstream-2",
-      "label": "Vidstream-2",
-      "rawName": "Vidstream-2"
-    },
-    {
-      "key": "anikoto-vidplay-1",
-      "label": "VidPlay-1",
-      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
-    "sub": [
-      {
-        "name": "HD-1",
-        "url": "https://megaplay.buzz/stream/s-5/94736/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
-      },
-      {
-        "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/94736/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
-      },
-      {
-        "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/UDZnSkZUb1lHQlVVZGM4dlpJN2JQbVNzV0MrcHMwclFic2dKRXVxS3ZWST0/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
-      },
-      {
-        "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/UDZnSkZUb1lHQlVVZGM4dlpJN2JQbVNzV0MrcHMwclFic2dKRXVxS3ZWST0/hsub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
-      }
-    ],
+    "sub": [],
     "dub": []
   },
   "sources": [
