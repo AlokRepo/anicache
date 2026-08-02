@@ -1,0 +1,37 @@
+{
+  "animeId": 20,
+  "episode": 123,
+  "updatedAt": "2026-08-02T13:04:06.176Z",
+  "server": "megaplay",
+  "lang": "dub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/20/123/dub",
+  "availableServers": [
+    {
+      "key": "megaplay",
+      "label": "Mega"
+    },
+    {
+      "key": "cage",
+      "label": "Cage"
+    },
+    {
+      "key": "peachify",
+      "label": "Peach"
+    },
+    {
+      "key": "nest",
+      "label": "Nest"
+    }
+  ],
+  "serversData": {
+    "sub": [],
+    "dub": []
+  },
+  "sources": [
+    {
+      "url": "https://megaplay.buzz/stream/mal/20/123/dub",
+      "server": "megaplay",
+      "lang": "dub"
+    }
+  ]
+}
