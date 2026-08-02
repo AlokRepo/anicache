@@ -1,10 +1,10 @@
 {
   "animeId": 180136,
   "episode": 4,
-  "updatedAt": "2026-08-02T11:08:20.609Z",
+  "updatedAt": "2026-08-02T23:16:47.892Z",
   "server": "megaplay",
-  "lang": "sub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/59741/4/sub",
+  "lang": "dub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/59741/4/dub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -24,75 +24,14 @@
     }
   ],
   "serversData": {
-    "sub": [
-      {
-        "name": "Mega",
-        "url": "https://megaplay.buzz/stream/mal/59741/4/sub",
-        "server": "megaplay"
-      },
-      {
-        "name": "Cage",
-        "url": "https://vidnest.fun/animepahe/180136/4/sub?color=39FF14",
-        "server": "cage"
-      },
-      {
-        "name": "Peach",
-        "url": "https://peachify.top/embed/anime/180136/4",
-        "server": "peachify"
-      },
-      {
-        "name": "Nest",
-        "url": "https://vidnest.fun/anime/180136/4/sub?color=39FF14",
-        "server": "nest"
-      }
-    ],
-    "dub": [
-      {
-        "name": "Mega",
-        "url": "https://megaplay.buzz/stream/mal/59741/4/dub",
-        "server": "megaplay"
-      },
-      {
-        "name": "Cage",
-        "url": "https://vidnest.fun/animepahe/180136/4/dub?color=39FF14",
-        "server": "cage"
-      },
-      {
-        "name": "Peach",
-        "url": "https://peachify.top/embed/anime/180136/4",
-        "server": "peachify"
-      },
-      {
-        "name": "Nest",
-        "url": "https://vidnest.fun/anime/180136/4/dub?color=39FF14",
-        "server": "nest"
-      }
-    ]
+    "sub": [],
+    "dub": []
   },
   "sources": [
     {
-      "name": "Mega",
-      "url": "https://megaplay.buzz/stream/mal/59741/4/sub",
-      "quality": "auto",
-      "server": "megaplay"
-    },
-    {
-      "name": "Cage",
-      "url": "https://vidnest.fun/animepahe/180136/4/sub?color=39FF14",
-      "quality": "auto",
-      "server": "cage"
-    },
-    {
-      "name": "Peach",
-      "url": "https://peachify.top/embed/anime/180136/4",
-      "quality": "auto",
-      "server": "peachify"
-    },
-    {
-      "name": "Nest",
-      "url": "https://vidnest.fun/anime/180136/4/sub?color=39FF14",
-      "quality": "auto",
-      "server": "nest"
+      "url": "https://megaplay.buzz/stream/mal/59741/4/dub",
+      "server": "megaplay",
+      "lang": "dub"
     }
   ]
 }
