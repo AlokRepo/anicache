@@ -12,12 +12,12 @@
     "Pasangan dari Alam Baka",
     "ยมลแห่งยมโลก",
     "Daemons do Reino das Sombras",
-    "Espíritus del Inframundo",
-    "Цугаи загробного мира"
+    "Espíritus del Inframundo"
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
   "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
@@ -26,10 +26,9 @@
     "Action",
     "Adventure",
     "Comedy",
-    "Fantasy",
-    "Supernatural"
+    "Fantasy"
   ],
-  "episodes": 24,
+  "episodes": 13,
   "status": "RELEASING",
   "season": "SPRING",
   "seasonYear": 2026,
@@ -51,7 +50,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 7585,
+          "id": 1,
           "name": "bones film",
           "isAnimationStudio": true
         }
@@ -59,7 +58,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 4,
+          "id": 2,
           "name": "bones",
           "isAnimationStudio": true
         }
@@ -67,7 +66,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 17,
+          "id": 3,
           "name": "Aniplex",
           "isAnimationStudio": false
         }
@@ -75,7 +74,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 58,
+          "id": 4,
           "name": "Square Enix",
           "isAnimationStudio": false
         }
@@ -83,44 +82,51 @@
     ]
   },
   "nextAiringEpisode": {
-    "episode": 18
+    "episode": 14,
+    "airingAt": 1786365749
   },
   "externalLinks": [
-    {
-      "site": "Twitter",
-      "url": "https://x.com/tsugai_official",
-      "type": "SOCIAL",
-      "language": "Japanese"
-    },
-    {
-      "site": "Official Site",
-      "url": "http://yominotsugai.com/",
-      "type": "INFO",
-      "language": "Japanese"
-    },
-    {
-      "site": "TikTok",
-      "url": "https://www.tiktok.com/@tsugai_official",
-      "type": "SOCIAL",
-      "language": "Japanese"
-    },
     {
       "site": "Crunchyroll",
       "url": "https://crunchyroll.com/series/GT00371630/daemons-of-the-shadow-realm",
       "type": "STREAMING",
-      "language": null
+      "language": "English"
     },
     {
       "site": "iQ",
       "url": "https://www.iq.com/album/1tmesonumnx",
       "type": "STREAMING",
-      "language": null
+      "language": "English"
     },
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2342276",
       "type": "STREAMING",
-      "language": null
+      "language": "English"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/",
+      "type": "STREAMING",
+      "language": "English"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/",
+      "type": "STREAMING",
+      "language": "English"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/",
+      "type": "STREAMING",
+      "language": "English"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg",
+      "type": "STREAMING",
+      "language": "English"
     }
   ],
   "tags": [
@@ -137,85 +143,603 @@
       "name": "Archery"
     },
     {
-      "name": "Proxy Battle"
-    },
-    {
-      "name": "Creature Taming"
-    },
-    {
       "name": "Rural"
-    },
-    {
-      "name": "Anachronism"
     },
     {
       "name": "Twins"
     },
     {
-      "name": "Demons"
-    },
-    {
       "name": "Urban Fantasy"
     },
     {
-      "name": "Gore"
-    },
-    {
-      "name": "Conspiracy"
-    },
-    {
-      "name": "Swordplay"
+      "name": "Demons"
     }
   ],
-  "trailer": {
-    "id": "XCyj9KKKjUI",
-    "site": "youtube",
-    "thumbnail": "https://i.ytimg.com/vi/XCyj9KKKjUI/hqdefault.jpg"
-  },
+  "trailer": null,
   "relations": {
     "edges": [
       {
-        "relationType": "ADAPTATION",
+        "relationType": "SEASON",
         "node": {
-          "id": 136899,
+          "id": 155331,
+          "idMal": 155331,
           "title": {
-            "romaji": "Yomi no Tsugai",
-            "english": "Daemons of the Shadow Realm"
+            "romaji": "Dragon's Triumph in the Celestial Realm",
+            "english": "Dragon's Triumph in the Celestial Realm",
+            "native": "Dragon's Triumph in the Celestial Realm"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136899-VXDZKWvu2UAu.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136899-VXDZKWvu2UAu.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155331-nBa0m6dF7fzz.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155331-nBa0m6dF7fzz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155331-nBa0m6dF7fzz.jpg"
           },
-          "averageScore": 74,
-          "isAdult": false,
-          "episodes": null,
-          "format": "MANGA",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155331-nBa0m6dF7fzz.jpg",
+          "averageScore": 0,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "episodes": 40,
           "status": "RELEASING",
-          "season": null,
-          "seasonYear": null,
-          "duration": null
+          "season": "SPRING",
+          "seasonYear": 2026,
+          "duration": 24,
+          "isAdult": false,
+          "format": "ONA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2026,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
         }
       },
       {
-        "relationType": "CHARACTER",
+        "relationType": "SEASON",
         "node": {
-          "id": 5114,
+          "id": 175872,
+          "idMal": 175872,
           "title": {
-            "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
-            "english": "Fullmetal Alchemist: Brotherhood"
+            "romaji": "The Brilliant Healer's New Life in the Shadows",
+            "english": "The Brilliant Healer's New Life in the Shadows",
+            "native": "The Brilliant Healer's New Life in the Shadows"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5114-nSWCgQlmOMtj.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175872-d55nfiC4WWHO.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175872-d55nfiC4WWHO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175872-d55nfiC4WWHO.jpg"
           },
-          "averageScore": 90,
-          "isAdult": false,
-          "episodes": 64,
-          "format": "TV",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175872-d55nfiC4WWHO.jpg",
+          "averageScore": 68,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "episodes": 12,
           "status": "FINISHED",
           "season": "SPRING",
-          "seasonYear": 2009,
-          "duration": 25
+          "seasonYear": 2025,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 176496,
+          "idMal": 176496,
+          "title": {
+            "romaji": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "Solo Leveling Season 2 -Arise from the Shadow-"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png",
+          "averageScore": 85,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "episodes": 13,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2025,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 153478,
+          "idMal": 153478,
+          "title": {
+            "romaji": "Sword Saint of The Ten Realms",
+            "english": "Sword Saint of The Ten Realms",
+            "native": "Sword Saint of The Ten Realms"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153478-o0IebG1YhaZ6.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153478-o0IebG1YhaZ6.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153478-o0IebG1YhaZ6.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153478-o0IebG1YhaZ6.png",
+          "averageScore": 54,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "episodes": 18,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2023,
+          "duration": 24,
+          "isAdult": false,
+          "format": "ONA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2023,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 161964,
+          "idMal": 161964,
+          "title": {
+            "romaji": "The Eminence in Shadow Season 2",
+            "english": "The Eminence in Shadow Season 2",
+            "native": "The Eminence in Shadow Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161964-JpkEbHI8ivaP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161964-JpkEbHI8ivaP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161964-JpkEbHI8ivaP.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161964-JpkEbHI8ivaP.jpg",
+          "averageScore": 82,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2023,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2023,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 130298,
+          "idMal": 130298,
+          "title": {
+            "romaji": "The Eminence in Shadow",
+            "english": "The Eminence in Shadow",
+            "native": "The Eminence in Shadow"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-YMdcKHytpWNH.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-YMdcKHytpWNH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-YMdcKHytpWNH.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-YMdcKHytpWNH.jpg",
+          "averageScore": 81,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "episodes": 20,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2022,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2022,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 137247,
+          "idMal": 137247,
+          "title": {
+            "romaji": "Fantasia Sango - Realm of Legends",
+            "english": "Fantasia Sango - Realm of Legends",
+            "native": "Fantasia Sango - Realm of Legends"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137247-JAj22GZfrbUk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137247-JAj22GZfrbUk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137247-JAj22GZfrbUk.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137247-JAj22GZfrbUk.png",
+          "averageScore": 44,
+          "genres": [
+            "Fantasy"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2022,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2022,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 139093,
+          "idMal": 139093,
+          "title": {
+            "romaji": "SHADOWS HOUSE 2nd Season",
+            "english": "SHADOWS HOUSE 2nd Season",
+            "native": "SHADOWS HOUSE 2nd Season"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139093-LwQoTAGhhs5v.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139093-LwQoTAGhhs5v.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139093-LwQoTAGhhs5v.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139093-LwQoTAGhhs5v.jpg",
+          "averageScore": 79,
+          "genres": [
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2022,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2022,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Horror"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Slice of Life"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 140085,
+          "idMal": 140085,
+          "title": {
+            "romaji": "Shadowverse Flame",
+            "english": "Shadowverse Flame",
+            "native": "Shadowverse Flame"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140085-3VhIbUc8HKYi.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140085-3VhIbUc8HKYi.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140085-3VhIbUc8HKYi.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140085-3VhIbUc8HKYi.jpg",
+          "averageScore": 65,
+          "genres": [
+            "Fantasy"
+          ],
+          "episodes": 50,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2022,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2022,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 125038,
+          "idMal": 125038,
+          "title": {
+            "romaji": "SHADOWS HOUSE",
+            "english": "SHADOWS HOUSE",
+            "native": "SHADOWS HOUSE"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125038-BCfEvry0QBXW.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125038-BCfEvry0QBXW.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125038-BCfEvry0QBXW.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125038-BCfEvry0QBXW.png",
+          "averageScore": 77,
+          "genres": [
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "episodes": 13,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2021,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Horror"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Slice of Life"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 112325,
+          "idMal": 112325,
+          "title": {
+            "romaji": "Shadowverse",
+            "english": "Shadowverse",
+            "native": "Shadowverse"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112325-NXi6RerKkbi6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112325-NXi6RerKkbi6.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112325-NXi6RerKkbi6.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112325-NXi6RerKkbi6.jpg",
+          "averageScore": 52,
+          "genres": [
+            "Fantasy"
+          ],
+          "episodes": 48,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2020,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 101555,
+          "idMal": 101555,
+          "title": {
+            "romaji": "Youkai Watch: Shadow Side",
+            "english": "Youkai Watch: Shadow Side",
+            "native": "Youkai Watch: Shadow Side"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101555-n4TcGWDhgmst.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101555-n4TcGWDhgmst.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101555-n4TcGWDhgmst.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101555-n4TcGWDhgmst.jpg",
+          "averageScore": 63,
+          "genres": [
+            "Comedy",
+            "Supernatural"
+          ],
+          "episodes": 49,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2018,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2018,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
         }
       }
     ]
@@ -224,911 +748,697 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 5114,
+          "id": 21,
+          "idMal": 21,
           "title": {
-            "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
-            "english": "Fullmetal Alchemist: Brotherhood"
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5114-nSWCgQlmOMtj.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5114-nSWCgQlmOMtj.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg"
           },
-          "averageScore": 90,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+          "averageScore": 87,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+          ],
+          "episodes": 1168,
+          "status": "RELEASING",
+          "season": "SPRING",
+          "seasonYear": 1999,
+          "duration": 24,
           "isAdult": false,
-          "episodes": 64,
           "format": "TV",
-          "status": "FINISHED",
-          "duration": 25
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 1999,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 121,
+          "id": 20,
+          "idMal": 20,
           "title": {
-            "romaji": "Hagane no Renkinjutsushi",
-            "english": "Fullmetal Alchemist"
+            "romaji": "Naruto",
+            "english": "Naruto",
+            "native": "Naruto"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-zjmixZ428Mwv.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121-zjmixZ428Mwv.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121-zjmixZ428Mwv.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg"
           },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+          "averageScore": 80,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "episodes": 220,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2002,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2002,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1735,
+          "idMal": 1735,
+          "title": {
+            "romaji": "Naruto: Shippuden",
+            "english": "Naruto: Shippuden",
+            "native": "Naruto: Shippuden"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+          "averageScore": 82,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "episodes": 500,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2007,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2007,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 97940,
+          "idMal": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "Black Clover"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
           "averageScore": 79,
-          "isAdult": false,
-          "episodes": 51,
-          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "episodes": 170,
           "status": "FINISHED",
-          "duration": 25
+          "season": "SPRING",
+          "seasonYear": 2017,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2017,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 113415,
+          "id": 20789,
+          "idMal": 20789,
           "title": {
-            "romaji": "Jujutsu Kaisen",
-            "english": "JUJUTSU KAISEN"
+            "romaji": "The Seven Deadly Sins",
+            "english": "The Seven Deadly Sins",
+            "native": "The Seven Deadly Sins"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-LHBAeoZDIsnF.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113415-LHBAeoZDIsnF.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg"
           },
-          "averageScore": 84,
-          "isAdult": false,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
+          "averageScore": 73,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Supernatural"
+          ],
           "episodes": 24,
-          "format": "TV",
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 2014,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2014,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Ecchi"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 101922,
+          "id": 101280,
+          "idMal": 101280,
           "title": {
-            "romaji": "Kimetsu no Yaiba",
-            "english": "Demon Slayer: Kimetsu no Yaiba"
+            "romaji": "That Time I Got Reincarnated as a Slime",
+            "english": "That Time I Got Reincarnated as a Slime",
+            "native": "That Time I Got Reincarnated as a Slime"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101922-WBsBl0ClmgYL.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101922-WBsBl0ClmgYL.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg"
           },
-          "averageScore": 83,
-          "isAdult": false,
-          "episodes": 26,
-          "format": "TV",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg",
+          "averageScore": 80,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "episodes": 24,
           "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 11061,
-          "title": {
-            "romaji": "HUNTER×HUNTER (2011)",
-            "english": "Hunter x Hunter (2011)"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11061-y5gsT1hoHuHw.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11061-y5gsT1hoHuHw.png"
-          },
-          "averageScore": 89,
+          "season": "SPRING",
+          "seasonYear": 2018,
+          "duration": 24,
           "isAdult": false,
-          "episodes": 148,
           "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2018,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
           "id": 3588,
+          "idMal": 3588,
           "title": {
             "romaji": "Soul Eater",
-            "english": "Soul Eater"
+            "english": "Soul Eater",
+            "native": "Soul Eater"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3588-fSMggQoFSbUI.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3588-fSMggQoFSbUI.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png"
           },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
           "averageScore": 77,
-          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Supernatural"
+          ],
           "episodes": 51,
-          "format": "TV",
           "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 178025,
-          "title": {
-            "romaji": "Gachiakuta",
-            "english": "Gachiakuta"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178025-cWJKEsZynkil.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178025-cWJKEsZynkil.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178025-cWJKEsZynkil.jpg"
-          },
-          "averageScore": 82,
+          "season": "SPRING",
+          "seasonYear": 2008,
+          "duration": 24,
           "isAdult": false,
-          "episodes": 24,
           "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2008,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 7592,
+          "id": 20920,
+          "idMal": 20920,
           "title": {
-            "romaji": "Nurarihyon no Mago",
-            "english": "Nura: Rise of the Yokai Clan"
+            "romaji": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+            "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+            "native": "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7592-28Qy7SBbSquT.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7592-28Qy7SBbSquT.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7592-28Qy7SBbSquT.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20920-MTREwZOG4BAD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20920-MTREwZOG4BAD.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20920-MTREwZOG4BAD.jpg"
           },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20920-MTREwZOG4BAD.jpg",
           "averageScore": 73,
-          "isAdult": false,
-          "episodes": 24,
-          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "episodes": 13,
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 2015,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Romance"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 154,
+          "id": 6702,
+          "idMal": 6702,
           "title": {
-            "romaji": "Shaman King",
-            "english": "Shaman King"
+            "romaji": "Fairy Tail",
+            "english": "Fairy Tail",
+            "native": "Fairy Tail"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154-hSYv4EtcBE1p.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154-hSYv4EtcBE1p.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154-hSYv4EtcBE1p.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png"
           },
-          "averageScore": 74,
-          "isAdult": false,
-          "episodes": 64,
-          "format": "TV",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png",
+          "averageScore": 72,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "episodes": 175,
           "status": "FINISHED",
-          "duration": 23
+          "season": "SPRING",
+          "seasonYear": 2009,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2009,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 20994,
+          "id": 108511,
+          "idMal": 108511,
           "title": {
-            "romaji": "GATE: Jieitai Kanochi nite, Kaku Tatakaeri",
-            "english": "Gate"
+            "romaji": "That Time I Got Reincarnated as a Slime Season 2",
+            "english": "That Time I Got Reincarnated as a Slime Season 2",
+            "native": "That Time I Got Reincarnated as a Slime Season 2"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20994-pSDk4I58jAK5.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20994-pSDk4I58jAK5.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20994-pSDk4I58jAK5.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108511-PufFordLNyIb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108511-PufFordLNyIb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108511-PufFordLNyIb.jpg"
           },
-          "averageScore": 74,
-          "isAdult": false,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108511-PufFordLNyIb.jpg",
+          "averageScore": 83,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
           "episodes": 12,
-          "format": "TV",
           "status": "FINISHED",
-          "duration": 23
+          "season": "SPRING",
+          "seasonYear": 2021,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 20935,
+          "id": 99539,
+          "idMal": 99539,
           "title": {
-            "romaji": "Arslan Senki (TV)",
-            "english": "The Heroic Legend of Arslan"
+            "romaji": "The Seven Deadly Sins: Revival of the Commandments",
+            "english": "The Seven Deadly Sins: Revival of the Commandments",
+            "native": "The Seven Deadly Sins: Revival of the Commandments"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20935-jCAXBOuei2T8.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20935-jCAXBOuei2T8.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20935-jCAXBOuei2T8.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg"
           },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg",
           "averageScore": 73,
-          "isAdult": false,
-          "episodes": 25,
-          "format": "TV",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "episodes": 24,
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 2018,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2018,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Ecchi"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 102883,
+          "id": 813,
+          "idMal": 813,
           "title": {
-            "romaji": "JoJo no Kimyou na Bouken: Ougon no Kaze",
-            "english": "JoJo's Bizarre Adventure: Golden Wind"
+            "romaji": "Dragon Ball Z",
+            "english": "Dragon Ball Z",
+            "native": "Dragon Ball Z"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102883-S9KzdMJhDswJ.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102883-S9KzdMJhDswJ.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx102883-S9KzdMJhDswJ.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png"
           },
-          "averageScore": 85,
-          "isAdult": false,
-          "episodes": 39,
-          "format": "TV",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
+          "averageScore": 80,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "episodes": 291,
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 1989,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 1989,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
         }
       }
     ]
   },
   "characters": {
-    "edges": [
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 270811,
-          "name": {
-            "userPreferred": "Yuru"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270811-RA1UwUhCSFiF.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95819,
-            "name": {
-              "userPreferred": "Kenshou Ono"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95819-O4fosAY0a1Ml.jpg"
-            }
-          },
-          {
-            "id": 119416,
-            "name": {
-              "userPreferred": "Kaede Hondo"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119416-7RC2mPKDKydB.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 270810,
-          "name": {
-            "userPreferred": "Asa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270810-RDnZzM4DtLyn.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 104510,
-            "name": {
-              "userPreferred": "Yume Miyamoto"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104510-hB8YLsPRLNKq.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 287182,
-          "name": {
-            "userPreferred": "Hidari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287182-zYp5RKVRz1OM.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95041,
-            "name": {
-              "userPreferred": "Takako Honda"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/41.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 324638,
-          "name": {
-            "userPreferred": "Migi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b324638-l8QJggUjmjt7.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95113,
-            "name": {
-              "userPreferred": "Rikiya Koyama"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 334313,
-          "name": {
-            "userPreferred": "Ryuu Tadera"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b334313-gxNKY6HepStK.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95513,
-            "name": {
-              "userPreferred": "Yuuichi Nakamura"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 334314,
-          "name": {
-            "userPreferred": "Ken Tadera"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b334314-tbug5Gc5VinN.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 119740,
-            "name": {
-              "userPreferred": "Natsumi Fujiwara"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119740-EEZ5DErQhOht.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 334316,
-          "name": {
-            "userPreferred": "Hana Danno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b334316-aUksSnDSaK63.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 126579,
-            "name": {
-              "userPreferred": "Miyuri Shimabukuro"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n126579-aYXUMZi7ozKD.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 321813,
-          "name": {
-            "userPreferred": "Gabby"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321813-PCL33msLB3LF.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 106641,
-            "name": {
-              "userPreferred": "Misaki Kuno"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106641-zsyRkJ74NXvE.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 321814,
-          "name": {
-            "userPreferred": "Jin Kagemori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321814-hYPHlnUXGI4D.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95095,
-            "name": {
-              "userPreferred": "Junichi Suwabe"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 270809,
-          "name": {
-            "userPreferred": "Nise Asa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270809-Fosf06MLM63X.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 104510,
-            "name": {
-              "userPreferred": "Yume Miyamoto"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104510-hB8YLsPRLNKq.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 395406,
-          "name": {
-            "userPreferred": "Danji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b395406-oJFFpmzeAOpE.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 110743,
-            "name": {
-              "userPreferred": "Ryouta Oosaka"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110743-k2SgQwU0JD33.png"
-            }
-          },
-          {
-            "id": 292760,
-            "name": {
-              "userPreferred": "Momoka Terasawa"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n292760-CnVs8Bk989Bu.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 395407,
-          "name": {
-            "userPreferred": "Yamaha"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b395407-qkQMfT1io7AF.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 102881,
-            "name": {
-              "userPreferred": "Mizuka Arima"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102881-sFKhi8lTSOsN.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 395408,
-          "name": {
-            "userPreferred": "Mine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b395408-XKdyG5PjUUZi.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 96637,
-            "name": {
-              "userPreferred": "Yuuya Uchida"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96637-GOQaib9J8Mu6.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 395409,
-          "name": {
-            "userPreferred": "Nagisa Kinjou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b395409-apyOQQs7ASEB.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 114884,
-            "name": {
-              "userPreferred": "Saori Oonishi"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 395410,
-          "name": {
-            "userPreferred": "Azami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b395410-rQLLGo3qPFhM.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 128650,
-            "name": {
-              "userPreferred": "Yukari Anzai"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128650-2BnCvrwg0Hrh.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 395411,
-          "name": {
-            "userPreferred": "Kyouka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b395411-SE4cDrOnY5WH.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 122482,
-            "name": {
-              "userPreferred": "Arisa Sakuraba"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122482-foDy9FyX0JOM.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 396084,
-          "name": {
-            "userPreferred": "Oshirasama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b396084-aNv2aj5Ajtsk.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95869,
-            "name": {
-              "userPreferred": "Saori Hayami"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 397195,
-          "name": {
-            "userPreferred": "Gonzo Kagemori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b397195-JT182YSET2Pk.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 100435,
-            "name": {
-              "userPreferred": "Hiroshi Iwasaki"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100435-Wmks380EzmJv.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 398959,
-          "name": {
-            "userPreferred": "Hikaru Kagemori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b398959-i8GpCdF1536z.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95067,
-            "name": {
-              "userPreferred": "Kappei Yamaguchi"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 334315,
-          "name": {
-            "userPreferred": "Asuma Kagemori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b334315-Cu8NQllDGidL.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95017,
-            "name": {
-              "userPreferred": "Akira Ishida"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png"
-            }
-          }
-        ]
-      }
-    ]
+    "edges": []
   },
   "staff": {
-    "edges": [
-      {
-        "role": "Original Creator",
-        "node": {
-          "id": 96874,
-          "name": {
-            "userPreferred": "Hiromu Arakawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96874-afKcZQmOlrJL.png"
-          }
-        }
-      },
-      {
-        "role": "Script (eps 5, 10, 14)",
-        "node": {
-          "id": 101160,
-          "name": {
-            "userPreferred": "Chiaki Konaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101160-2or5m1QLWUbO.jpg"
-          }
-        }
-      },
-      {
-        "role": "Storyboard (eps 1, 2, 10)",
-        "node": {
-          "id": 101518,
-          "name": {
-            "userPreferred": "Masahiro Andou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101518-daLPjgrbCaQi.png"
-          }
-        }
-      },
-      {
-        "role": "Director",
-        "node": {
-          "id": 101518,
-          "name": {
-            "userPreferred": "Masahiro Andou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101518-daLPjgrbCaQi.png"
-          }
-        }
-      },
-      {
-        "role": "Episode Director (ep 7)",
-        "node": {
-          "id": 101518,
-          "name": {
-            "userPreferred": "Masahiro Andou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101518-daLPjgrbCaQi.png"
-          }
-        }
-      },
-      {
-        "role": "Assistant Episode Director (OP1, OP2)",
-        "node": {
-          "id": 101518,
-          "name": {
-            "userPreferred": "Masahiro Andou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101518-daLPjgrbCaQi.png"
-          }
-        }
-      },
-      {
-        "role": "Planning",
-        "node": {
-          "id": 101519,
-          "name": {
-            "userPreferred": "Masahiko Minami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101519-THVBejDRSLaO.png"
-          }
-        }
-      },
-      {
-        "role": "Series Composition",
-        "node": {
-          "id": 101736,
-          "name": {
-            "userPreferred": "Noboru Takagi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6736.jpg"
-          }
-        }
-      },
-      {
-        "role": "Script (eps 1-3, 7, 8, 12, 16)",
-        "node": {
-          "id": 101736,
-          "name": {
-            "userPreferred": "Noboru Takagi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6736.jpg"
-          }
-        }
-      },
-      {
-        "role": "Key Animation (ep 1)",
-        "node": {
-          "id": 102673,
-          "name": {
-            "userPreferred": "Tokuyuki Matsutake"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102673-bzMCG1CxP5sQ.png"
-          }
-        }
-      },
-      {
-        "role": "Key Animation (OP1, eps 1, 4)",
-        "node": {
-          "id": 103123,
-          "name": {
-            "userPreferred": "Ryouhei Muta"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103123-DIiw4Q43H75Q.jpg"
-          }
-        }
-      },
-      {
-        "role": "Storyboard (ep 11)",
-        "node": {
-          "id": 103743,
-          "name": {
-            "userPreferred": "Shinji Ishihira"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103743-lE7d556GiDyq.png"
-          }
-        }
-      },
-      {
-        "role": "System Engineer",
-        "node": {
-          "id": 103764,
-          "name": {
-            "userPreferred": "Tatsuya Minami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103764-U5Fr4AZh6pY8.jpg"
-          }
-        }
-      },
-      {
-        "role": "Episode Director (ED1)",
-        "node": {
-          "id": 104133,
-          "name": {
-            "userPreferred": "Norimitsu Suzuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104133-xOMTC73YUUyv.png"
-          }
-        }
-      },
-      {
-        "role": "Storyboard (ED1)",
-        "node": {
-          "id": 104133,
-          "name": {
-            "userPreferred": "Norimitsu Suzuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104133-xOMTC73YUUyv.png"
-          }
-        }
-      }
-    ]
+    "edges": []
   },
-  "anikotoEpisodeList": []
+  "subCount": 13,
+  "dubCount": 0,
+  "updatedAt": "2026-08-03T12:42:30.677Z"
 }
