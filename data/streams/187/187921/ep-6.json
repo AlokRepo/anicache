@@ -1,10 +1,11 @@
 {
   "animeId": 187921,
   "episode": 6,
-  "updatedAt": "2026-08-03T04:09:47.548Z",
+  "updatedAt": "2026-08-03T08:35:26.951Z",
   "server": "megaplay",
   "lang": "dub",
   "streamUrl": "https://megaplay.buzz/stream/mal/61200/6/dub",
+  "downloadUrl": "https://pahe.nekostream.site/YMarb",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,36 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi--360p-",
+      "label": "Kiwi (360p)",
+      "rawName": "Kiwi (360p)"
+    },
+    {
+      "key": "anikoto-kiwi--720p-",
+      "label": "Kiwi (720p)",
+      "rawName": "Kiwi (720p)"
+    },
+    {
+      "key": "anikoto-kiwi--1080p-",
+      "label": "Kiwi (1080p)",
+      "rawName": "Kiwi (1080p)"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -44,6 +75,30 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/187921/6/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi (360p)",
+        "url": "https://kwik.cx/f/J58IKIOxi4pN"
+      },
+      {
+        "name": "Kiwi (720p)",
+        "url": "https://kwik.cx/f/N7l9S5fHb5pX"
+      },
+      {
+        "name": "Kiwi (1080p)",
+        "url": "https://kwik.cx/f/OMqVr8RG1lVW"
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/159641/sub"
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/159641/sub"
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/VkZaN3RmclNNSm9MekVNelZTdGQvZG0rSFFsZGJUa2dVZjdqcmsvZTNZOD0/sub"
       }
     ],
     "dub": [
@@ -66,6 +121,30 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/187921/6/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi (360p)",
+        "url": "https://kwik.cx/f/QpSUiWlhVHNV"
+      },
+      {
+        "name": "Kiwi (720p)",
+        "url": "https://kwik.cx/f/YJoQujnhR3HN"
+      },
+      {
+        "name": "Kiwi (1080p)",
+        "url": "https://kwik.cx/f/tAySbyqDxX9K"
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/159641/dub"
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/159641/dub"
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/VkZaN3RmclNNSm9MekVNelZTdGQvZG0rSFFsZGJUa2dVZjdqcmsvZTNZOD0/dub"
       }
     ]
   },
