@@ -1,7 +1,7 @@
 {
   "animeId": 162804,
   "episode": 4,
-  "updatedAt": "2026-08-02T13:57:01.736Z",
+  "updatedAt": "2026-08-03T11:48:12.100Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/54744/4/sub",
@@ -24,14 +24,75 @@
     }
   ],
   "serversData": {
-    "sub": [],
-    "dub": []
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/54744/4/sub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/162804/4/sub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/162804/4",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/162804/4/sub?color=39FF14",
+        "server": "nest"
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/54744/4/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/162804/4/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/162804/4",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/162804/4/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
   },
   "sources": [
     {
+      "name": "Mega",
       "url": "https://megaplay.buzz/stream/mal/54744/4/sub",
-      "server": "megaplay",
-      "lang": "sub"
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/162804/4/sub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/162804/4",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/162804/4/sub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
     }
   ]
 }
