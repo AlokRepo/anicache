@@ -1,11 +1,11 @@
 {
   "animeId": 97940,
   "episode": 128,
-  "updatedAt": "2026-08-02T14:27:36.418Z",
+  "updatedAt": "2026-08-03T08:55:21.068Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/34572/128/sub",
-  "downloadUrl": "https://anikoto.cz/watch/black-clover-sword-of-the-wizard-king-gog2j/ep-128",
+  "downloadUrl": "https://pahe.nekostream.site/spyNJ",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,6 +22,26 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -45,6 +65,60 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/97940/128/sub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/spyNJ",
+          "720p": "https://pahe.nekostream.site/JVYFj",
+          "1080p": "https://pahe.nekostream.site/RAuUV"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/102057/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/102057/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/MUVIWVo0S3dxaEhSOXg5QkQrYVArdnh4S3R6cjNhSk5QSS9DZnhmY2dleWRib1pMT042VFFXb3BNWW13RENYKw/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ],
     "dub": [
@@ -67,6 +141,60 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/97940/128/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/FVUBF",
+          "720p": "https://pahe.nekostream.site/nRAlJ",
+          "1080p": "https://pahe.nekostream.site/RMJto"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/102057/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/102057/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/MUVIWVo0S3dxaEhSOXg5QkQrYVArdnh4S3R6cjNhSk5QSS9DZnhmY2dleWRib1pMT042VFFXb3BNWW13RENYKw/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ]
   },
