@@ -30,6 +30,7 @@
   "seasonYear": 2026,
   "duration": 24,
   "format": "TV",
+  "isAdult": false,
   "startDate": {
     "year": 2026,
     "month": 4,
@@ -93,8 +94,8 @@
     ]
   },
   "nextAiringEpisode": {
-    "episode": 9,
-    "airingAt": 1780408800
+    "episode": 14,
+    "airingAt": 1786348503
   },
   "externalLinks": [
     {
@@ -911,5 +912,8 @@
   },
   "staff": {
     "edges": []
-  }
+  },
+  "subCount": 13,
+  "dubCount": 0,
+  "updatedAt": "2026-08-03T07:55:05.288Z"
 }
