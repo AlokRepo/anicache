@@ -21,8 +21,7 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
   "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.<br><br>\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.<br><br>\n<b>*This includes the following special episodes:</b><br>\n- Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)<br>\n- The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (Episode 492)<br>\n- Team Formation! Save Chopper (Episode 542)<br>\n- History's Strongest Collaboration vs. Glutton of the Sea (Episode 590)<br>\n- 20th Anniversary! Special Romance Dawn (Episode 907)",
@@ -34,7 +33,7 @@
     "Drama",
     "Fantasy"
   ],
-  "episodes": 1168,
+  "episodes": null,
   "status": "RELEASING",
   "season": "FALL",
   "seasonYear": 1999,
@@ -56,7 +55,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 1,
+          "id": 18,
           "name": "Toei Animation",
           "isAnimationStudio": true
         }
@@ -64,47 +63,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 2,
-          "name": "TAP",
-          "isAnimationStudio": true
-        }
-      },
-      {
-        "isMain": false,
-        "node": {
-          "id": 3,
-          "name": "Magic Bus",
-          "isAnimationStudio": true
-        }
-      },
-      {
-        "isMain": false,
-        "node": {
-          "id": 4,
-          "name": "Mushi Production",
-          "isAnimationStudio": true
-        }
-      },
-      {
-        "isMain": false,
-        "node": {
-          "id": 5,
-          "name": "Studio Guts",
-          "isAnimationStudio": true
-        }
-      },
-      {
-        "isMain": false,
-        "node": {
-          "id": 6,
-          "name": "Asahi Production",
-          "isAnimationStudio": true
-        }
-      },
-      {
-        "isMain": false,
-        "node": {
-          "id": 7,
+          "id": 102,
           "name": "Funimation",
           "isAnimationStudio": false
         }
@@ -112,7 +71,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 8,
+          "id": 169,
           "name": "Fuji TV",
           "isAnimationStudio": false
         }
@@ -120,7 +79,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 9,
+          "id": 2524,
           "name": "4Kids Entertainment",
           "isAnimationStudio": false
         }
@@ -128,7 +87,15 @@
       {
         "isMain": false,
         "node": {
-          "id": 10,
+          "id": 416,
+          "name": "TAP",
+          "isAnimationStudio": true
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 142,
           "name": "Asatsu DK",
           "isAnimationStudio": false
         }
@@ -136,7 +103,39 @@
       {
         "isMain": false,
         "node": {
-          "id": 11,
+          "id": 207,
+          "name": "Magic Bus",
+          "isAnimationStudio": true
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 68,
+          "name": "Mushi Production",
+          "isAnimationStudio": true
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6291,
+          "name": "Studio Guts",
+          "isAnimationStudio": true
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 406,
+          "name": "Asahi Production",
+          "isAnimationStudio": true
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 6429,
           "name": "Avex Pictures",
           "isAnimationStudio": false
         }
@@ -144,69 +143,92 @@
     ]
   },
   "nextAiringEpisode": {
-    "episode": 1169,
-    "airingAt": 1783865760
+    "episode": 1173
   },
   "externalLinks": [
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/one-piece",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
+    },
+    {
+      "site": "Official Site",
+      "url": "https://one-piece.com/",
+      "type": "INFO",
+      "language": "Japanese"
     },
     {
       "site": "Hulu",
       "url": "http://www.hulu.com/one-piece",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/80107103",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/media/37976",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "iQ",
       "url": "https://www.iq.com/album/1bk9icvr331",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "WeTV",
       "url": "https://wetv.vip/en/play/tnfk3rniubz3m8o",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
+    },
+    {
+      "site": "Twitter",
+      "url": "https://twitter.com/Eiichiro_Staff/",
+      "type": "SOCIAL",
+      "language": "Japanese"
     },
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/@onepieceofficial",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Hoopla",
       "url": "https://www.hoopladigital.com/series/one-piece/14153295320",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
+    },
+    {
+      "site": "Instagram",
+      "url": "https://www.instagram.com/onepiece_staff/",
+      "type": "SOCIAL",
+      "language": "Japanese"
     },
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/@OnePieceOfficialENG",
       "type": "STREAMING",
+      "language": null
+    },
+    {
+      "site": "Official Site",
+      "url": "https://one-piece.com/op/links_eng/",
+      "type": "INFO",
       "language": "English"
     },
     {
-      "site": "Shahid",
-      "url": "https://shahid.mbc.net/en/series/One-Piece/series-826519",
-      "type": "STREAMING",
-      "language": "English"
+      "site": "TikTok",
+      "url": "https://www.tiktok.com/@onepiece.staff.official",
+      "type": "SOCIAL",
+      "language": "Japanese"
     }
   ],
   "tags": [
@@ -232,13 +254,22 @@
       "name": "Male Protagonist"
     },
     {
-      "name": "Conspiracy"
+      "name": "Tragedy"
     },
     {
       "name": "Ships"
     },
     {
+      "name": "Conspiracy"
+    },
+    {
       "name": "Slapstick"
+    },
+    {
+      "name": "Prophecy"
+    },
+    {
+      "name": "Time Skip"
     },
     {
       "name": "Politics"
@@ -250,22 +281,34 @@
       "name": "Dystopian"
     },
     {
+      "name": "Slavery"
+    },
+    {
       "name": "Fugitive"
+    },
+    {
+      "name": "Gods"
     },
     {
       "name": "Crime"
     },
     {
+      "name": "Swordplay"
+    },
+    {
       "name": "Lost Civilization"
+    },
+    {
+      "name": "Philosophy"
+    },
+    {
+      "name": "Henshin"
     },
     {
       "name": "Monster Boy"
     },
     {
-      "name": "Swordplay"
-    },
-    {
-      "name": "Anthropomorphism"
+      "name": "Shapeshifting"
     },
     {
       "name": "Cyborg"
@@ -274,687 +317,1540 @@
       "name": "Food"
     },
     {
-      "name": "Shapeshifting"
-    },
-    {
-      "name": "Anti-Hero"
-    },
-    {
       "name": "Primarily Adult Cast"
     },
     {
       "name": "Animals"
     },
     {
+      "name": "Anti-Hero"
+    },
+    {
+      "name": "Anthropomorphism"
+    },
+    {
       "name": "Skeleton"
-    },
-    {
-      "name": "Medicine"
-    },
-    {
-      "name": "Samurai"
     },
     {
       "name": "Robots"
     },
     {
-      "name": "Guns"
+      "name": "Desert"
     },
     {
-      "name": "Desert"
+      "name": "Guns"
     },
     {
       "name": "Anachronism"
     },
     {
+      "name": "Prison"
+    },
+    {
       "name": "Post-Apocalyptic"
+    },
+    {
+      "name": "Medicine"
+    },
+    {
+      "name": "Royal Affairs"
+    },
+    {
+      "name": "Kaiju"
+    },
+    {
+      "name": "Samurai"
+    },
+    {
+      "name": "Espionage"
+    },
+    {
+      "name": "Drugs"
+    },
+    {
+      "name": "Marriage"
+    },
+    {
+      "name": "Artificial Intelligence"
+    },
+    {
+      "name": "Monster Girl"
+    },
+    {
+      "name": "Aromantic"
+    },
+    {
+      "name": "Fairy"
+    },
+    {
+      "name": "Kuudere"
+    },
+    {
+      "name": "Revenge"
+    },
+    {
+      "name": "Dragons"
+    },
+    {
+      "name": "Assassins"
+    },
+    {
+      "name": "Battle Royale"
+    },
+    {
+      "name": "Adoption"
+    },
+    {
+      "name": "Mermaid"
+    },
+    {
+      "name": "Ninja"
+    },
+    {
+      "name": "Time Manipulation"
     },
     {
       "name": "Indigenous Cultures"
     },
     {
-      "name": "Royal Affairs"
+      "name": "Dinosaurs"
+    },
+    {
+      "name": "Kabuki"
+    },
+    {
+      "name": "Demons"
+    },
+    {
+      "name": "Musical Theater"
+    },
+    {
+      "name": "Arranged Marriage"
+    },
+    {
+      "name": "Gender Bending"
+    },
+    {
+      "name": "Angels"
+    },
+    {
+      "name": "Clone"
+    },
+    {
+      "name": "Zombie"
+    },
+    {
+      "name": "Trains"
+    },
+    {
+      "name": "Human Experimentation"
+    },
+    {
+      "name": "Unrequited Love"
+    },
+    {
+      "name": "Blackmail"
+    },
+    {
+      "name": "Fake Relationship"
+    },
+    {
+      "name": "Boxing"
+    },
+    {
+      "name": "Brainwashing"
+    },
+    {
+      "name": "Interspecies"
     }
   ],
   "trailer": null,
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
+        "relationType": "SIDE_STORY",
         "node": {
-          "id": 197178,
-          "idMal": 197178,
+          "id": 466,
           "title": {
-            "romaji": "ONE PIECE HEROINES",
-            "english": "ONE PIECE HEROINES",
-            "native": "ONE PIECE HEROINES"
+            "romaji": "ONE PIECE: Taose! Kaizoku Ganzack",
+            "english": "One Piece: Defeat the Pirate Ganzack!"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx466-bVP54I7dCB2F.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx466-bVP54I7dCB2F.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
-          "averageScore": 0,
-          "genres": [],
-          "episodes": 1,
-          "status": "NOT_YET_RELEASED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
+          "averageScore": 64,
           "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": []
+          "episodes": 1,
+          "format": "OVA",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 1998,
+          "duration": 28
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SIDE_STORY",
         "node": {
-          "id": 188668,
-          "idMal": 188668,
+          "id": 1094,
           "title": {
-            "romaji": "Koisuru ONE PIECE",
-            "english": "Koisuru ONE PIECE",
-            "native": "Koisuru ONE PIECE"
+            "romaji": "ONE PIECE TV Special: Umi no Heso no Daibouken-hen",
+            "english": "One Piece: Umi no Heso no Daibouken-hen"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188668-rOB7rkgOz89w.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188668-rOB7rkgOz89w.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188668-rOB7rkgOz89w.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1094-H3YFJ1TR0ZZi.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1094-H3YFJ1TR0ZZi.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188668-rOB7rkgOz89w.jpg",
+          "averageScore": 67,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2000,
+          "duration": 49
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 1237,
+          "title": {
+            "romaji": "ONE PIECE: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+            "english": "One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1237.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1237.jpg"
+          },
+          "averageScore": 67,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2003,
+          "duration": 46
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 1238,
+          "title": {
+            "romaji": "ONE PIECE: Mamore! Saigo no Oobutai",
+            "english": "One Piece Special: Protect! The Last Great Performance"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1238-Rf2wqBrCwgvO.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1238-Rf2wqBrCwgvO.jpg"
+          },
+          "averageScore": 68,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2003,
+          "duration": 45
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 2020,
+          "title": {
+            "romaji": "ONE PIECE: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou",
+            "english": "One Piece Special: The Detective Memoirs of Chief Straw Hat Luffy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2020.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2020.jpg"
+          },
+          "averageScore": 68,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2005,
+          "duration": 44
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 2386,
+          "title": {
+            "romaji": "ONE PIECE: Yume no Soccer Ou!",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2386-NQQkq1taHJ08.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2386-NQQkq1taHJ08.jpg"
+          },
           "averageScore": 66,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "episodes": 5,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2025,
-          "duration": 24,
           "isAdult": false,
-          "format": "ONA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2025,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 182469,
-          "idMal": 182469,
-          "title": {
-            "romaji": "ONE PIECE FAN LETTER",
-            "english": "ONE PIECE FAN LETTER",
-            "native": "ONE PIECE FAN LETTER"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182469-JQ808NBPxmgn.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182469-JQ808NBPxmgn.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182469-JQ808NBPxmgn.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182469-JQ808NBPxmgn.jpg",
-          "averageScore": 90,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2024,
-          "duration": 24,
-          "isAdult": false,
           "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2024,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2002,
+          "duration": 5
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SIDE_STORY",
         "node": {
-          "id": 141902,
-          "idMal": 141902,
+          "id": 2490,
           "title": {
-            "romaji": "One Piece Film: Red",
-            "english": "One Piece Film: Red",
-            "native": "One Piece Film: Red"
+            "romaji": "ONE PIECE: Mezase! Kaizoku Yakyuu Ou",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2490-AL4WmnCJ5zvE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2490-AL4WmnCJ5zvE.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
-          "averageScore": 78,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Music"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2022,
-          "duration": 24,
+          "averageScore": 64,
           "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2022,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Music"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 105143,
-          "idMal": 105143,
-          "title": {
-            "romaji": "One Piece: Stampede",
-            "english": "One Piece: Stampede",
-            "native": "One Piece: Stampede"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105143-5uBDmhvMr6At.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105143-5uBDmhvMr6At.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105143-5uBDmhvMr6At.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105143-5uBDmhvMr6At.png",
-          "averageScore": 80,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy"
-          ],
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 101918,
-          "idMal": 101918,
-          "title": {
-            "romaji": "One Piece: Episode of Skypiea",
-            "english": "One Piece: Episode of Skypiea",
-            "native": "One Piece: Episode of Skypiea"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101918-3uyCYHw1syki.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101918-3uyCYHw1syki.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101918-3uyCYHw1syki.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101918-3uyCYHw1syki.png",
-          "averageScore": 69,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
           "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2004,
+          "duration": 5
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SIDE_STORY",
         "node": {
-          "id": 99302,
-          "idMal": 99302,
+          "id": 12001,
           "title": {
-            "romaji": "One Piece: Episode of East Blue",
-            "english": "One Piece: Episode of East Blue",
-            "native": "One Piece: Episode of East Blue"
+            "romaji": "ONE PIECE 3D: Gekisou! Trap Coaster",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99302-b40WIhc5dylo.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99302-b40WIhc5dylo.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99302-b40WIhc5dylo.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx12001-XX0NNNfaKZ3e.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12001-XX0NNNfaKZ3e.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99302-b40WIhc5dylo.jpg",
-          "averageScore": 76,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
+          "averageScore": 61,
           "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21335,
-          "idMal": 21335,
-          "title": {
-            "romaji": "One Piece Film: Gold",
-            "english": "One Piece Film: Gold",
-            "native": "One Piece Film: Gold"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21335-XsXdE0AeOkkZ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21335-XsXdE0AeOkkZ.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21335-XsXdE0AeOkkZ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21335-XsXdE0AeOkkZ.jpg",
-          "averageScore": 77,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy"
-          ],
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2011,
+          "duration": 12
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SIDE_STORY",
         "node": {
-          "id": 21831,
-          "idMal": 21831,
+          "id": 16239,
           "title": {
-            "romaji": "One Piece: Heart of Gold",
-            "english": "One Piece: Heart of Gold",
-            "native": "One Piece: Heart of Gold"
+            "romaji": "ONE PIECE: Episode of Luffy - Hand Island no Bouken",
+            "english": "One Piece: Episode of Luffy - Hand Island Adventure"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21831-qj5IKYiPOupF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21831-qj5IKYiPOupF.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21831-qj5IKYiPOupF.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16239-XzoVjd7JK8xJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16239-XzoVjd7JK8xJ.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21831-qj5IKYiPOupF.jpg",
           "averageScore": 72,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 1,
           "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2012,
+          "duration": 102
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SIDE_STORY",
         "node": {
-          "id": 21230,
-          "idMal": 21230,
+          "id": 16468,
           "title": {
-            "romaji": "One Piece - Episode of Sabo: Bond of Three Brothers - A Miraculous Reunion and an Inherited Will",
-            "english": "One Piece - Episode of Sabo: Bond of Three Brothers - A Miraculous Reunion and an Inherited Will",
-            "native": "One Piece - Episode of Sabo: Bond of Three Brothers - A Miraculous Reunion and an Inherited Will"
+            "romaji": "ONE PIECE FILM: Z - GLORIOUS ISLAND",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21230-rfoUZud1Jn0L.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21230-rfoUZud1Jn0L.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21230-rfoUZud1Jn0L.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16468-pMKFwfY8lYZX.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16468-pMKFwfY8lYZX.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21230-rfoUZud1Jn0L.png",
-          "averageScore": 74,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
-          "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21485,
-          "idMal": 21485,
-          "title": {
-            "romaji": "One Piece: Adventure of Nebulandia",
-            "english": "One Piece: Adventure of Nebulandia",
-            "native": "One Piece: Adventure of Nebulandia"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21485-KR1sv4rYSe6V.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21485-KR1sv4rYSe6V.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21485-KR1sv4rYSe6V.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21485-KR1sv4rYSe6V.jpg",
           "averageScore": 69,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 2,
           "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2012,
+          "duration": 5
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 15323,
+          "title": {
+            "romaji": "ONE PIECE: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15323.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15323.jpg"
+          },
+          "averageScore": 78,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2012,
+          "duration": 105
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 19123,
+          "title": {
+            "romaji": "ONE PIECE: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+            "english": "One Piece: Episode of Merry - The Tale of One More Friend"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx19123-leET1CrSJknT.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19123-leET1CrSJknT.jpg"
+          },
+          "averageScore": 78,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2013,
+          "duration": 106
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
         "node": {
           "id": 20835,
-          "idMal": 20835,
           "title": {
-            "romaji": "One Piece 3D2Y: Overcome Ace’s Death! Luffy’s Vow to his Friends",
-            "english": "One Piece 3D2Y: Overcome Ace’s Death! Luffy’s Vow to his Friends",
-            "native": "One Piece 3D2Y: Overcome Ace’s Death! Luffy’s Vow to his Friends"
+            "romaji": "ONE PIECE \"3D2Y\": Ace no shi wo Koete! Luffy Nakama to no Chikai",
+            "english": "One Piece 3D2Y: Overcome Ace’s Death! Luffy’s Vow to his Friends"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20835-QVV6LpJlqe1A.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20835-QVV6LpJlqe1A.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20835-QVV6LpJlqe1A.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20835-QVV6LpJlqe1A.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20835-QVV6LpJlqe1A.jpg",
           "averageScore": 76,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Fantasy"
-          ],
+          "isAdult": false,
           "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2014,
+          "duration": 107
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 21230,
+          "title": {
+            "romaji": "ONE PIECE: Episode of Sabo - 3-Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
+            "english": "One Piece - Episode of Sabo: Bond of Three Brothers - A Miraculous Reunion and an Inherited Will"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21230-rfoUZud1Jn0L.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21230-rfoUZud1Jn0L.png"
+          },
+          "averageScore": 73,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2015,
+          "duration": 110
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 21485,
+          "title": {
+            "romaji": "ONE PIECE: Adventure of Nebulandia",
+            "english": "One Piece: Adventure of Nebulandia"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21485-KR1sv4rYSe6V.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21485-KR1sv4rYSe6V.jpg"
+          },
+          "averageScore": 69,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2015,
+          "duration": 116
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 21831,
+          "title": {
+            "romaji": "ONE PIECE: Heart of Gold",
+            "english": "One Piece: Heart of Gold"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21831-qj5IKYiPOupF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21831-qj5IKYiPOupF.jpg"
+          },
+          "averageScore": 72,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2016,
+          "duration": 104
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 99302,
+          "title": {
+            "romaji": "ONE PIECE: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
+            "english": "One Piece: Episode of East Blue"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99302-b40WIhc5dylo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99302-b40WIhc5dylo.jpg"
+          },
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2017,
+          "duration": 106
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 459,
+          "title": {
+            "romaji": "ONE PIECE (Movie)",
+            "english": "ONE PIECE: The Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx459-Ivw65mUXackh.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx459-Ivw65mUXackh.png"
+          },
+          "averageScore": 68,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2000,
+          "duration": 50
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 460,
+          "title": {
+            "romaji": "ONE PIECE: Nejimaki-jima no Bouken",
+            "english": "One Piece: Clockwork Island Adventure"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx460-p9HObfGUhWn0.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx460-p9HObfGUhWn0.jpg"
+          },
+          "averageScore": 67,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
           "status": "FINISHED",
           "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
+          "seasonYear": 2001,
+          "duration": 55
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 461,
+          "title": {
+            "romaji": "ONE PIECE: Chinjuu-jima no Chopper Oukoku",
+            "english": "One Piece: Chopper’s Kingdom on the Island of Strange Animals"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx461-DC9fMDl3AaK1.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx461-DC9fMDl3AaK1.jpg"
+          },
+          "averageScore": 64,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2002,
+          "duration": 55
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 462,
+          "title": {
+            "romaji": "ONE PIECE THE MOVIE: Dead End no Bouken",
+            "english": "One Piece The Movie: The Dead End Adventure"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx462-Ig8zfdsFWcql.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx462-Ig8zfdsFWcql.png"
+          },
+          "averageScore": 72,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2003,
+          "duration": 95
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 463,
+          "title": {
+            "romaji": "ONE PIECE: Norowareta Seiken",
+            "english": "One Piece: The Curse of the Sacred Sword"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx463-QDnETPoHp9oD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx463-QDnETPoHp9oD.jpg"
+          },
+          "averageScore": 67,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2004,
+          "duration": 95
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 464,
+          "title": {
+            "romaji": "ONE PIECE THE MOVIE: Omatsuri Danshaku to Himitsu no Shima",
+            "english": "One Piece: Baron Omatsuri and the Secret Island"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx464-g4wcZPjbhY5j.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx464-g4wcZPjbhY5j.png"
+          },
+          "averageScore": 78,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2005,
+          "duration": 91
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 465,
+          "title": {
+            "romaji": "ONE PIECE THE MOVIE: Karakuri-jou no Mecha Kyohei",
+            "english": "One Piece: Mega Mecha Soldier of Karakuri Castle"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx465-qSRr0MKYhS0I.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx465-qSRr0MKYhS0I.jpg"
+          },
+          "averageScore": 67,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2006,
+          "duration": 94
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 2107,
+          "title": {
+            "romaji": "ONE PIECE: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+            "english": "One Piece: The Desert Princess and the Pirates, Adventures in Alabasta"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2107-H8bRuRRbhCIJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2107-H8bRuRRbhCIJ.jpg"
+          },
+          "averageScore": 70,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2007,
+          "duration": 90
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 3848,
+          "title": {
+            "romaji": "ONE PIECE THE MOVIE: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+            "english": "One Piece: Episode Of Chopper +: The Miracle Winter Cherry Blossom"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3848-SCnYGTn34Llt.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3848-SCnYGTn34Llt.jpg"
+          },
+          "averageScore": 71,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2008,
+          "duration": 113
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 4155,
+          "title": {
+            "romaji": "ONE PIECE FILM: STRONG WORLD",
+            "english": "One Piece Film: Strong World"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4155-P5TDf6t6qFwX.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4155-P5TDf6t6qFwX.png"
+          },
+          "averageScore": 78,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2009,
+          "duration": 113
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 9999,
+          "title": {
+            "romaji": "ONE PIECE 3D: Mugiwara Chase",
+            "english": "One Piece 3D: Mugiwara Chase"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9999-2icUDMDtpH2L.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9999-2icUDMDtpH2L.jpg"
+          },
+          "averageScore": 64,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2011,
+          "duration": 30
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 12859,
+          "title": {
+            "romaji": "ONE PIECE FILM: Z",
+            "english": "One Piece Film: Z"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12859-uQFENDPzMWz6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12859-uQFENDPzMWz6.jpg"
+          },
+          "averageScore": 79,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2012,
+          "duration": 107
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 21335,
+          "title": {
+            "romaji": "ONE PIECE FILM: GOLD",
+            "english": "One Piece Film: Gold"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21335-XsXdE0AeOkkZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21335-XsXdE0AeOkkZ.jpg"
+          },
+          "averageScore": 77,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2016,
+          "duration": 120
+        }
+      },
+      {
+        "relationType": "ADAPTATION",
+        "node": {
+          "id": 96427,
+          "title": {
+            "romaji": "ONE PIECE: Loguetown-hen",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96427-XiDc44cTlf29.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96427-XiDc44cTlf29.png"
+          },
+          "averageScore": 68,
+          "isAdult": false,
+          "episodes": null,
+          "format": "NOVEL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "ADAPTATION",
+        "node": {
+          "id": 30013,
+          "title": {
+            "romaji": "ONE PIECE",
+            "english": "One Piece"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-BeslEMqiPhlk.jpg"
+          },
+          "averageScore": 91,
+          "isAdult": false,
+          "episodes": null,
+          "format": "MANGA",
+          "status": "RELEASING",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 101918,
+          "title": {
+            "romaji": "ONE PIECE: Episode of Sorajima",
+            "english": "One Piece: Episode of Skypiea"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101918-3uyCYHw1syki.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101918-3uyCYHw1syki.png"
+          },
+          "averageScore": 69,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2018,
+          "duration": 105
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 8740,
+          "title": {
+            "romaji": "ONE PIECE FILM: STRONG WORLD - EPISODE:0",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8740-oZajT3brPn7b.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8740-oZajT3brPn7b.jpg"
+          },
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "OVA",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2010,
+          "duration": 18
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 105143,
+          "title": {
+            "romaji": "ONE PIECE STAMPEDE",
+            "english": "One Piece: Stampede"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105143-5uBDmhvMr6At.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105143-5uBDmhvMr6At.png"
+          },
+          "averageScore": 80,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2019,
+          "duration": 101
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 102639,
+          "title": {
+            "romaji": "Nissan SERENA x One Piece: Sennyuu Sauzando Sanii-gou",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102639-AjxqMLkusd2Y.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102639-AjxqMLkusd2Y.jpg"
+          },
+          "averageScore": 55,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 12
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 106492,
+          "title": {
+            "romaji": "Kyutai Panic Adventure!",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b106492-ciLSI5nTJsV7.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b106492-ciLSI5nTJsV7.png"
+          },
+          "averageScore": 43,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 9
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 106572,
+          "title": {
+            "romaji": "ONE PIECE: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106572-k1gqIsDcqGaV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106572-k1gqIsDcqGaV.jpg"
+          },
+          "averageScore": 68,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2011,
+          "duration": 15
+        }
+      },
+      {
+        "relationType": "OTHER",
+        "node": {
+          "id": 107110,
+          "title": {
+            "romaji": "ONE PIECE: Cry heart",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107110-pF0sMxDe3aLi.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107110-pF0sMxDe3aLi.png"
+          },
+          "averageScore": 58,
+          "isAdult": false,
+          "episodes": 3,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2014,
+          "duration": 5
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 107256,
+          "title": {
+            "romaji": "Kyutai Panic Adventure Returns!!!",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107256-Pvgk6VnCmMZq.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107256-Pvgk6VnCmMZq.png"
+          },
+          "averageScore": 46,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 9
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 2385,
+          "title": {
+            "romaji": "ONE PIECE: Nejimaki-jima no Bouken - Jango no Dance Carnival",
+            "english": "One Piece: Django's Dance Carnival"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2385-06iBj9aNIadt.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2385-06iBj9aNIadt.jpg"
+          },
+          "averageScore": 67,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2001,
+          "duration": 6
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 101099,
+          "title": {
+            "romaji": "HUNGRY DAYS: Aoharu ka yo.",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101099-3AoCbJWTj2cV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101099-3AoCbJWTj2cV.jpg"
+          },
+          "averageScore": 61,
+          "isAdult": false,
+          "episodes": 11,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 1
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 21880,
+          "title": {
+            "romaji": "ONE PIECE FILM: GOLD - episode 0 711ver.",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21880-uxsZ880LXSdY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21880-uxsZ880LXSdY.jpg"
+          },
+          "averageScore": 69,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2016,
+          "duration": 10
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 5252,
+          "title": {
+            "romaji": "ONE PIECE: ROMANCE DAWN STORY",
+            "english": "One Piece: Romance Dawn Story"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5252.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5252.jpg"
+          },
+          "averageScore": 70,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "OVA",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2008,
+          "duration": 33
+        }
+      },
+      {
+        "relationType": "ADAPTATION",
+        "node": {
+          "id": 30793,
+          "title": {
+            "romaji": "WANTED! Oda Eiichiro Tanpenshuu",
+            "english": "Wanted! Eiichiro Oda Before One Piece"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30793-Zca4SIWG5j8e.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30793-Zca4SIWG5j8e.png"
+          },
+          "averageScore": 70,
+          "isAdult": false,
+          "episodes": null,
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 113308,
+          "title": {
+            "romaji": "Kinen Satsuei",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113308-u6wWW3d01DSt.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113308-u6wWW3d01DSt.jpg"
+          },
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 5
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 114761,
+          "title": {
+            "romaji": "A-RA-SHI : Reborn",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114761-C2xOMuA44zKY.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114761-C2xOMuA44zKY.png"
+          },
+          "averageScore": 56,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 4
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 10033,
+          "title": {
+            "romaji": "Toriko",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10033-V7xnlgAVtaVR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10033-V7xnlgAVtaVR.jpg"
+          },
+          "averageScore": 69,
+          "isAdult": false,
+          "episodes": 147,
+          "format": "TV",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2011,
+          "duration": 24
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 813,
+          "title": {
+            "romaji": "Dragon Ball Z",
+            "english": "Dragon Ball Z"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx813-ZhnFNOeCU5dQ.png"
+          },
+          "averageScore": 80,
+          "isAdult": false,
+          "episodes": 291,
+          "format": "TV",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 1989,
+          "duration": 24
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 126649,
+          "title": {
+            "romaji": "Tokyo One Piece Tower: Tongari Shima no Dai Hihou",
+            "english": "The Great Tongari Island Treasure Hunting Adventure"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126649-sbuKTAghtsln.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126649-sbuKTAghtsln.jpg"
+          },
+          "averageScore": 60,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2016,
+          "duration": 10
+        }
+      },
+      {
+        "relationType": "ADAPTATION",
+        "node": {
+          "id": 134184,
+          "title": {
+            "romaji": "Romance Dawn",
+            "english": "Romance Dawn"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx134184-25CEkbRJEzXB.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134184-25CEkbRJEzXB.png"
+          },
+          "averageScore": 69,
+          "isAdult": false,
+          "episodes": null,
+          "format": "ONE_SHOT",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 141902,
+          "title": {
+            "romaji": "ONE PIECE FILM: RED",
+            "english": "One Piece Film: Red"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141902-fTyoTk8F8qOl.jpg"
+          },
+          "averageScore": 78,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2022,
+          "duration": 115
+        }
+      },
+      {
+        "relationType": "OTHER",
+        "node": {
+          "id": 143293,
+          "title": {
+            "romaji": "One Piece: Annecy Festival 60th Anniversary",
+            "english": "One Piece: Annecy Festival 60th Anniversary"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143293-1ngwckHDsK95.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143293-1ngwckHDsK95.jpg"
+          },
+          "averageScore": 53,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "ONA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 1
+        }
+      },
+      {
+        "relationType": "PREQUEL",
+        "node": {
+          "id": 167404,
+          "title": {
+            "romaji": "MONSTERS: Ippaku Sanjou Hiryuu Jigoku",
+            "english": "MONSTERS: 103 Mercies Dragon Damnation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167404-QMZJVARntkbv.jpg"
+          },
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "ONA",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2024,
+          "duration": 25
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 171630,
+          "title": {
+            "romaji": "THE ONE PIECE",
+            "english": "THE ONE PIECE"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171630-CW3kbduXmmUE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171630-CW3kbduXmmUE.jpg"
+          },
+          "averageScore": null,
+          "isAdult": false,
+          "episodes": 7,
+          "format": null,
+          "status": "NOT_YET_RELEASED",
+          "season": "WINTER",
+          "seasonYear": 2027,
+          "duration": 43
+        }
+      },
+      {
+        "relationType": "OTHER",
+        "node": {
+          "id": 177475,
+          "title": {
+            "romaji": "ONE PIECE×KAWAISOUNI! Kono Boushi wo Omae ni Azukeru",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177475-8HlvUgopoH0S.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177475-8HlvUgopoH0S.png"
+          },
+          "averageScore": 58,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "ONA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 1
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 182469,
+          "title": {
+            "romaji": "ONE PIECE FAN LETTER",
+            "english": "ONE PIECE FAN LETTER"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182469-JQ808NBPxmgn.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182469-JQ808NBPxmgn.jpg"
+          },
+          "averageScore": 90,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2024,
+          "duration": 25
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 183423,
+          "title": {
+            "romaji": "ONE PIECE: Gyojin Tou-hen",
+            "english": "One Piece Log: Fish-Man Island Saga"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183423-6Iiu194UDxD0.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183423-6Iiu194UDxD0.jpg"
+          },
+          "averageScore": 77,
+          "isAdult": false,
+          "episodes": 21,
+          "format": "TV",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2024,
+          "duration": 24
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 187225,
+          "title": {
+            "romaji": "LOS ANGELES LAKERS x ONE PIECE",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187225-H0ppAOkOYMxM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187225-H0ppAOkOYMxM.jpg"
+          },
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2025,
+          "duration": 1
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 188668,
+          "title": {
+            "romaji": "Koisuru ONE PIECE",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188668-rOB7rkgOz89w.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188668-rOB7rkgOz89w.jpg"
+          },
+          "averageScore": 66,
+          "isAdult": false,
+          "episodes": 5,
+          "format": "ONA",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2025,
+          "duration": 7
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 197178,
+          "title": {
+            "romaji": "ONE PIECE HEROINES",
+            "english": "ONE PIECE HEROINES"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197178-Ui8PY9HQbNgu.jpg"
+          },
+          "averageScore": 78,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2026,
+          "duration": 23
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 187380,
+          "title": {
+            "romaji": "ONE PIECE: Original Episode/Luffy, Law",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187380-RZmxpJyB3A6Y.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187380-RZmxpJyB3A6Y.jpg"
+          },
+          "averageScore": 63,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2025,
+          "duration": 5
+        }
+      },
+      {
+        "relationType": "SPIN_OFF",
+        "node": {
+          "id": 204432,
+          "title": {
+            "romaji": "CHOPPER's",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204432-h8U4bVnSU6bM.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204432-h8U4bVnSU6bM.png"
+          },
+          "averageScore": 55,
+          "isAdult": false,
+          "episodes": 12,
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2026,
+          "duration": 1
         }
       }
     ]
@@ -963,741 +1859,1012 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 20,
-          "idMal": 20,
+          "id": 5114,
           "title": {
-            "romaji": "Naruto",
-            "english": "Naruto",
-            "native": "Naruto"
+            "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+            "english": "Fullmetal Alchemist: Brotherhood"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5114-nSWCgQlmOMtj.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5114-nSWCgQlmOMtj.jpg"
+          },
+          "averageScore": 90,
+          "isAdult": false,
+          "episodes": 64,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20,
+          "title": {
+            "romaji": "NARUTO",
+            "english": "Naruto"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20-dE6UHbFFg1A5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20-dE6UHbFFg1A5.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
           "averageScore": 80,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 220,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2002,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 220,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2002,
-            "month": 12,
-            "day": 31
+          "status": "FINISHED",
+          "duration": 23
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 11061,
+          "title": {
+            "romaji": "HUNTER×HUNTER (2011)",
+            "english": "Hunter x Hunter (2011)"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11061-y5gsT1hoHuHw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11061-y5gsT1hoHuHw.png"
+          },
+          "averageScore": 89,
+          "isAdult": false,
+          "episodes": 148,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 223,
+          "title": {
+            "romaji": "Dragon Ball",
+            "english": "Dragon Ball"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx223-scE5uJfXqqj8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx223-scE5uJfXqqj8.png"
+          },
+          "averageScore": 78,
+          "isAdult": false,
+          "episodes": 153,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 813,
+          "title": {
+            "romaji": "Dragon Ball Z",
+            "english": "Dragon Ball Z"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx813-ZhnFNOeCU5dQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx813-ZhnFNOeCU5dQ.png"
+          },
+          "averageScore": 80,
+          "isAdult": false,
+          "episodes": 291,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 10033,
+          "title": {
+            "romaji": "Toriko",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10033-V7xnlgAVtaVR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10033-V7xnlgAVtaVR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx10033-V7xnlgAVtaVR.jpg"
+          },
+          "averageScore": 69,
+          "isAdult": false,
+          "episodes": 147,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 101024,
+          "title": {
+            "romaji": "Radiant",
+            "english": "RADIANT"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101024-4dFUVMKSE0Q1.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101024-4dFUVMKSE0Q1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx101024-4dFUVMKSE0Q1.jpg"
+          },
+          "averageScore": 65,
+          "isAdult": false,
+          "episodes": 21,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 6033,
+          "title": {
+            "romaji": "Dragon Ball Kai",
+            "english": "Dragon Ball Z Kai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6033-TKDWyjZN3dXk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6033-TKDWyjZN3dXk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6033-TKDWyjZN3dXk.png"
+          },
+          "averageScore": 77,
+          "isAdult": false,
+          "episodes": 97,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 23
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1604,
+          "title": {
+            "romaji": "Katekyou Hitman REBORN!",
+            "english": "REBORN!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1604-W2q38L4OCGLI.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1604-W2q38L4OCGLI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1604-W2q38L4OCGLI.png"
+          },
+          "averageScore": 77,
+          "isAdult": false,
+          "episodes": 203,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 45,
+          "title": {
+            "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+            "english": "Rurouni Kenshin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx45-DEFgZRCxiGmF.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx45-DEFgZRCxiGmF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx45-DEFgZRCxiGmF.png"
+          },
+          "averageScore": 79,
+          "isAdult": false,
+          "episodes": 94,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 2618,
+          "title": {
+            "romaji": "Takarajima",
+            "english": "Treasure Island"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2618-guJAqUkp0pyT.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2618-guJAqUkp0pyT.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2618-guJAqUkp0pyT.png"
+          },
+          "averageScore": 77,
+          "isAdult": false,
+          "episodes": 26,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
           "id": 1735,
-          "idMal": 1735,
           "title": {
-            "romaji": "Naruto: Shippuden",
-            "english": "Naruto: Shippuden",
-            "native": "Naruto: Shippuden"
+            "romaji": "NARUTO: Shippuuden",
+            "english": "Naruto: Shippuden"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1735-kGfVm0YqCPcu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1735-kGfVm0YqCPcu.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
           "averageScore": 82,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Supernatural"
-          ],
+          "isAdult": false,
           "episodes": 500,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2007,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2007,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20770,
-          "idMal": 20770,
-          "title": {
-            "romaji": "Yona of the Dawn",
-            "english": "Yona of the Dawn",
-            "native": "Yona of the Dawn"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20770-brCDvhTXlums.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20770-brCDvhTXlums.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20770-brCDvhTXlums.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20770-brCDvhTXlums.png",
-          "averageScore": 79,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "episodes": 24,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 101168,
-          "idMal": 101168,
-          "title": {
-            "romaji": "Plunderer",
-            "english": "Plunderer",
-            "native": "Plunderer"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101168-LY3XA61byAVo.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101168-LY3XA61byAVo.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101168-LY3XA61byAVo.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101168-LY3XA61byAVo.jpg",
-          "averageScore": 63,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
-          ],
-          "episodes": 24,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 21499,
-          "idMal": 21499,
-          "title": {
-            "romaji": "Twin Star Exorcists",
-            "english": "Twin Star Exorcists",
-            "native": "Twin Star Exorcists"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21499-JCxvIXc27mVT.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21499-JCxvIXc27mVT.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21499-JCxvIXc27mVT.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21499-JCxvIXc27mVT.jpg",
-          "averageScore": 69,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Romance",
-            "Supernatural"
-          ],
-          "episodes": 50,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20981,
-          "idMal": 20981,
-          "title": {
-            "romaji": "The Boy and the Beast",
-            "english": "The Boy and the Beast",
-            "native": "The Boy and the Beast"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20981-D6PAJAOC4jPc.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20981-D6PAJAOC4jPc.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20981-D6PAJAOC4jPc.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20981-D6PAJAOC4jPc.jpg",
-          "averageScore": 79,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 141902,
-          "idMal": 141902,
-          "title": {
-            "romaji": "One Piece Film: Red",
-            "english": "One Piece Film: Red",
-            "native": "One Piece Film: Red"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
-          "averageScore": 78,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Music"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2022,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2022,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Music"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 552,
-          "idMal": 552,
-          "title": {
-            "romaji": "Digimon: Digital Monsters",
-            "english": "Digimon: Digital Monsters",
-            "native": "Digimon: Digital Monsters"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg",
-          "averageScore": 75,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Sci-Fi"
-          ],
-          "episodes": 54,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1999,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1999,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 105143,
-          "idMal": 105143,
-          "title": {
-            "romaji": "One Piece: Stampede",
-            "english": "One Piece: Stampede",
-            "native": "One Piece: Stampede"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105143-5uBDmhvMr6At.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105143-5uBDmhvMr6At.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105143-5uBDmhvMr6At.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105143-5uBDmhvMr6At.png",
-          "averageScore": 80,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 21335,
-          "idMal": 21335,
-          "title": {
-            "romaji": "One Piece Film: Gold",
-            "english": "One Piece Film: Gold",
-            "native": "One Piece Film: Gold"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21335-XsXdE0AeOkkZ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21335-XsXdE0AeOkkZ.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21335-XsXdE0AeOkkZ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21335-XsXdE0AeOkkZ.jpg",
-          "averageScore": 77,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 178548,
-          "idMal": 178548,
-          "title": {
-            "romaji": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
-            "english": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
-            "native": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
-          "averageScore": 63,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2025,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2025,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 4155,
-          "idMal": 4155,
-          "title": {
-            "romaji": "One Piece Film: Strong World",
-            "english": "One Piece Film: Strong World",
-            "native": "One Piece Film: Strong World"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4155-P5TDf6t6qFwX.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4155-P5TDf6t6qFwX.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4155-P5TDf6t6qFwX.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4155-P5TDf6t6qFwX.png",
-          "averageScore": 78,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2009,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2009,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
+          "duration": 23
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 40,
+          "name": {
+            "userPreferred": "Luffy D. Monkey"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95075,
+            "name": {
+              "userPreferred": "Mayumi Tanaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95075-1qD4TeW1ON92.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 61,
+          "name": {
+            "userPreferred": "Robin Nico"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95130,
+            "name": {
+              "userPreferred": "Yuriko Yamaguchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95130-GoO41ve3YWQw.png"
+            }
+          },
+          {
+            "id": 95983,
+            "name": {
+              "userPreferred": "Yuuko Kobayashi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95983-lqRFYTojbkRi.png"
+            }
+          },
+          {
+            "id": 111463,
+            "name": {
+              "userPreferred": "Anzu Nagai"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/16463.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 62,
+          "name": {
+            "userPreferred": "Zoro Roronoa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95123,
+            "name": {
+              "userPreferred": "Kazuya Nakai"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95123-54LrTiD9kGwY.jpg"
+            }
+          },
+          {
+            "id": 101663,
+            "name": {
+              "userPreferred": "Megumi Urawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101663-0ioQAduoHX8j.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 64,
+          "name": {
+            "userPreferred": "Franky"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95131,
+            "name": {
+              "userPreferred": "Kazuki Yao"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95131-TCVTgxb08tfE.png"
+            }
+          },
+          {
+            "id": 95277,
+            "name": {
+              "userPreferred": "Junko Noda"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95277-hcE9l52SPjNP.jpg"
+            }
+          },
+          {
+            "id": 107480,
+            "name": {
+              "userPreferred": "Subaru Kimura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107480-h2RgLXNP7hcj.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 305,
+          "name": {
+            "userPreferred": "Sanji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95125,
+            "name": {
+              "userPreferred": "Hiroaki Hirata"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95125-NeFFiJupoDVj.png"
+            }
+          },
+          {
+            "id": 95128,
+            "name": {
+              "userPreferred": "Ikue Ootani"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 309,
+          "name": {
+            "userPreferred": "Chopper Tony Tony"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95128,
+            "name": {
+              "userPreferred": "Ikue Ootani"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png"
+            }
+          },
+          {
+            "id": 95420,
+            "name": {
+              "userPreferred": "Kazue Ikura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95420-or3epAZNwUdi.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 723,
+          "name": {
+            "userPreferred": "Nami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95076,
+            "name": {
+              "userPreferred": "Akemi Okamura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95076-itRGy8F3x5Em.png"
+            }
+          },
+          {
+            "id": 95496,
+            "name": {
+              "userPreferred": "Wakana Yamazaki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95496-PAwWafRnHtEf.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 724,
+          "name": {
+            "userPreferred": "Usopp"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95067,
+            "name": {
+              "userPreferred": "Kappei Yamaguchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 5627,
+          "name": {
+            "userPreferred": "Brook"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5627-av8oD3zhKvDl.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95898,
+            "name": {
+              "userPreferred": "Choo"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95898-XHSESV65G8Jv.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 18938,
+          "name": {
+            "userPreferred": "Jinbe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18938-yZANEfjsVhW4.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95744,
+            "name": {
+              "userPreferred": "Daisuke Gouri"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95744-Iu1p0eNvShfN.jpg"
+            }
+          },
+          {
+            "id": 100317,
+            "name": {
+              "userPreferred": "Katsuhisa Houki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100317-8qR7ph0AKfXu.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 725,
+          "name": {
+            "userPreferred": "Buggy"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n725-g04AaiaK5f9B.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95255,
+            "name": {
+              "userPreferred": "Shigeru Chiba"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.png"
+            }
+          },
+          {
+            "id": 107480,
+            "name": {
+              "userPreferred": "Subaru Kimura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107480-h2RgLXNP7hcj.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 726,
+          "name": {
+            "userPreferred": "Vivi Nefertari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b726-DqAIpscMuYYx.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95230,
+            "name": {
+              "userPreferred": "Misa Watanabe"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95230-lCHOeyeVaISA.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 727,
+          "name": {
+            "userPreferred": "Shanks"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b727-wUJx7M1z5xON.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95598,
+            "name": {
+              "userPreferred": "Shuuichi Ikeda"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95598-IZBrsaxRsACg.png"
+            }
+          },
+          {
+            "id": 105989,
+            "name": {
+              "userPreferred": "Nobunaga Shimazaki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1541,
+          "name": {
+            "userPreferred": "Enel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1541-6c8RouunoL88.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95006,
+            "name": {
+              "userPreferred": "Toshiyuki Morikawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2064,
+          "name": {
+            "userPreferred": "Dracule Mihawk"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n2064-OpnF4nLi6bvL.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95142,
+            "name": {
+              "userPreferred": "Takeshi Aono"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95142-73E1XmGOOmhG.png"
+            }
+          },
+          {
+            "id": 102664,
+            "name": {
+              "userPreferred": "Hirohiko Kakegawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102664-hDenVljsoR8F.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2072,
+          "name": {
+            "userPreferred": "Ace D. Portgas"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2072-Lc6jEdsueJUK.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95278,
+            "name": {
+              "userPreferred": "Daisuke Sakaguchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95278-IrUPhIvJCsF9.png"
+            }
+          },
+          {
+            "id": 95673,
+            "name": {
+              "userPreferred": "Toshio Furukawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95673-jNN4GqGgpssj.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2519,
+          "name": {
+            "userPreferred": "Kuro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2519-OfgRt6mP6Ae8.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95837,
+            "name": {
+              "userPreferred": "Kouichi Hashimoto"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95837-bikmUoB3B6B9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2748,
+          "name": {
+            "userPreferred": "Bellamy"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2748-vnCKira7yjrp.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95133,
+            "name": {
+              "userPreferred": "Wataru Takagi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95133-cqDtu078voZ1.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2749,
+          "name": {
+            "userPreferred": "Crocodile"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2749-e8ebEBN1SlS2.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95836,
+            "name": {
+              "userPreferred": "Ryuuzaburou Ootomo"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95836-cHQyycQ0PWo2.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2750,
+          "name": {
+            "userPreferred": "Tashigi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2750-j3Rf9SC37ehT.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95277,
+            "name": {
+              "userPreferred": "Junko Noda"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95277-hcE9l52SPjNP.jpg"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
+    "edges": [
+      {
+        "role": "Theme Song Performance (English; OP1, OP3, ED11)",
+        "node": {
+          "id": 95043,
+          "name": {
+            "userPreferred": "Vic Mignogna"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95043-cgQunZolvkPW.png"
+          }
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 95202,
+          "name": {
+            "userPreferred": "Mike McFarland"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/202.jpg"
+          }
+        }
+      },
+      {
+        "role": "Producer (English)",
+        "node": {
+          "id": 95203,
+          "name": {
+            "userPreferred": "Justin Ryan Cook"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95203-S3aCVxUoYwJl.jpg"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Performance (English; ED2, ED7, ED10)",
+        "node": {
+          "id": 95313,
+          "name": {
+            "userPreferred": "Caitlin Glass"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95313-zK3WpeNtACvm.jpg"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Performance (English; ED4, ED12)",
+        "node": {
+          "id": 95475,
+          "name": {
+            "userPreferred": "Stephanie Young"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95475-QV9KFgsYrsPb.jpg"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Performance (English; OP2)",
+        "node": {
+          "id": 95535,
+          "name": {
+            "userPreferred": "Meredith McCoy"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/535.jpg"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Performance (English; OP4, ED1)",
+        "node": {
+          "id": 95659,
+          "name": {
+            "userPreferred": "Brina Palencia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/659.jpg"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Performance (English; ED6)",
+        "node": {
+          "id": 95859,
+          "name": {
+            "userPreferred": "Leah Clark"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/859.jpg"
+          }
+        }
+      },
+      {
+        "role": "ADR Director (English; eps 131-135)",
+        "node": {
+          "id": 96339,
+          "name": {
+            "userPreferred": "Jeremy Inman"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1339.jpg"
+          }
+        }
+      },
+      {
+        "role": "ADR Director Assistant (Brazilian Portuguese; 2nd dub)",
+        "node": {
+          "id": 96423,
+          "name": {
+            "userPreferred": "Marcelo Campos"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96423-YaAvwaxG5fNk.jpg"
+          }
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 96881,
+          "name": {
+            "userPreferred": "Eiichirou Oda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+          }
+        }
+      },
+      {
+        "role": "Episode Director (ep 199)",
+        "node": {
+          "id": 100067,
+          "name": {
+            "userPreferred": "Mamoru Hosoda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100067-uJP6jmnZhqmF.png"
+          }
+        }
+      },
+      {
+        "role": "ADR Director (Brazilian Portuguese; 1st dub)",
+        "node": {
+          "id": 100138,
+          "name": {
+            "userPreferred": "Vagner Fagundes"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100138-5aMzO7vjUu0J.jpg"
+          }
+        }
+      },
+      {
+        "role": "Director (eps 1-278)",
+        "node": {
+          "id": 100162,
+          "name": {
+            "userPreferred": "Kounosuke Uda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100162-JuVs6OqdYknv.png"
+          }
+        }
+      },
+      {
+        "role": "Episode Director",
+        "node": {
+          "id": 100162,
+          "name": {
+            "userPreferred": "Kounosuke Uda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100162-JuVs6OqdYknv.png"
+          }
+        }
+      }
+    ]
   },
-  "subCount": 1168,
+  "subCount": 0,
   "dubCount": 0,
-  "updatedAt": "2026-08-03T12:42:30.299Z"
+  "updatedAt": "2026-08-03T18:15:57.901Z"
 }
