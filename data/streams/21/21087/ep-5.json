@@ -1,7 +1,7 @@
 {
   "animeId": 21087,
   "episode": 5,
-  "updatedAt": "2026-08-03T04:49:03.498Z",
+  "updatedAt": "2026-08-03T13:52:21.640Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/30276/5/sub",
@@ -41,26 +41,6 @@
   "serversData": {
     "sub": [
       {
-        "name": "Mega",
-        "url": "https://megaplay.buzz/stream/mal/30276/5/sub",
-        "server": "megaplay"
-      },
-      {
-        "name": "Cage",
-        "url": "https://vidnest.fun/animepahe/21087/5/sub?color=39FF14",
-        "server": "cage"
-      },
-      {
-        "name": "Peach",
-        "url": "https://peachify.top/embed/anime/21087/5",
-        "server": "peachify"
-      },
-      {
-        "name": "Nest",
-        "url": "https://vidnest.fun/anime/21087/5/sub?color=39FF14",
-        "server": "nest"
-      },
-      {
         "name": "HD-1",
         "url": "https://megaplay.buzz/stream/s-5/72211/sub"
       },
@@ -73,53 +53,13 @@
         "url": "https://vidtube.site/stream/VlJwQ1lSM25UdHFkRWVHbldqQnR5UU9TQmpoWVU2NGlyQis0aXZsR1ZJVXhrV1QxWFlxdktNOCs1bS94KzBwRW5lZFRkM1kzR29YUlk4LzdnWGhEZkE9PQ/sub"
       }
     ],
-    "dub": [
-      {
-        "name": "Mega",
-        "url": "https://megaplay.buzz/stream/mal/30276/5/dub",
-        "server": "megaplay"
-      },
-      {
-        "name": "Cage",
-        "url": "https://vidnest.fun/animepahe/21087/5/dub?color=39FF14",
-        "server": "cage"
-      },
-      {
-        "name": "Peach",
-        "url": "https://peachify.top/embed/anime/21087/5",
-        "server": "peachify"
-      },
-      {
-        "name": "Nest",
-        "url": "https://vidnest.fun/anime/21087/5/dub?color=39FF14",
-        "server": "nest"
-      }
-    ]
+    "dub": []
   },
   "sources": [
     {
-      "name": "Mega",
       "url": "https://megaplay.buzz/stream/mal/30276/5/sub",
-      "quality": "auto",
-      "server": "megaplay"
-    },
-    {
-      "name": "Cage",
-      "url": "https://vidnest.fun/animepahe/21087/5/sub?color=39FF14",
-      "quality": "auto",
-      "server": "cage"
-    },
-    {
-      "name": "Peach",
-      "url": "https://peachify.top/embed/anime/21087/5",
-      "quality": "auto",
-      "server": "peachify"
-    },
-    {
-      "name": "Nest",
-      "url": "https://vidnest.fun/anime/21087/5/sub?color=39FF14",
-      "quality": "auto",
-      "server": "nest"
+      "server": "megaplay",
+      "lang": "sub"
     }
   ]
 }
