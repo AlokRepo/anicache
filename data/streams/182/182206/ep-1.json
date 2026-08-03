@@ -1,10 +1,11 @@
 {
   "animeId": 182206,
   "episode": 1,
-  "updatedAt": "2026-08-02T14:09:52.390Z",
+  "updatedAt": "2026-08-03T03:40:27.139Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/59971/1/sub",
+  "downloadUrl": "https://megaplay.buzz/stream/s-5/186829/sub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,16 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
     }
   ],
   "serversData": {
@@ -44,6 +55,36 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/182206/1/sub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/186829/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/186829/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ],
     "dub": [
@@ -66,6 +107,21 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/182206/1/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/186829/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ]
   },
