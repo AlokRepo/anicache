@@ -1,10 +1,11 @@
 {
   "animeId": 146850,
   "episode": 12,
-  "updatedAt": "2026-08-03T01:52:14.802Z",
+  "updatedAt": "2026-08-03T01:52:22.270Z",
   "server": "megaplay",
   "lang": "dub",
   "streamUrl": "https://megaplay.buzz/stream/mal/51462/12/dub",
+  "downloadUrl": "https://pahe.nekostream.site/NdDZJ",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,36 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi--360p-",
+      "label": "Kiwi (360p)",
+      "rawName": "Kiwi (360p)"
+    },
+    {
+      "key": "anikoto-kiwi--720p-",
+      "label": "Kiwi (720p)",
+      "rawName": "Kiwi (720p)"
+    },
+    {
+      "key": "anikoto-kiwi--1080p-",
+      "label": "Kiwi (1080p)",
+      "rawName": "Kiwi (1080p)"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -44,6 +75,30 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/146850/12/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi (360p)",
+        "url": "https://kwik.cx/f/secYd2VvqDHM"
+      },
+      {
+        "name": "Kiwi (720p)",
+        "url": "https://kwik.cx/f/gi9VkoRsJ0DV"
+      },
+      {
+        "name": "Kiwi (1080p)",
+        "url": "https://kwik.cx/f/mrL53k2i47c3"
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/424305/sub"
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/424305/sub"
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/VThzTXFHTFo1NmU0RFA4ckJOQWJvaElwV3B6SWE3ZVdTUU9CRUk4V1FmSHY2UEtsZ2g4amVEOU14dnVrc2U5bQ/sub"
       }
     ],
     "dub": [
@@ -66,6 +121,18 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/146850/12/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/424305/dub"
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/424305/dub"
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/VThzTXFHTFo1NmU0RFA4ckJOQWJvaElwV3B6SWE3ZVdTUU9CRUk4V1FmSHY2UEtsZ2g4amVEOU14dnVrc2U5bQ/dub"
       }
     ]
   },
