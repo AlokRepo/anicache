@@ -1,0 +1,131 @@
+{
+  "animeId": 199111,
+  "episode": 5,
+  "updatedAt": "2026-08-03T17:01:39.152Z",
+  "server": "megaplay",
+  "lang": "sub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/62542/5/sub",
+  "downloadUrl": "https://pahe.nekostream.site/eeJzM",
+  "availableServers": [
+    {
+      "key": "megaplay",
+      "label": "Mega"
+    },
+    {
+      "key": "cage",
+      "label": "Cage"
+    },
+    {
+      "key": "peachify",
+      "label": "Peach"
+    },
+    {
+      "key": "nest",
+      "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    }
+  ],
+  "serversData": {
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/62542/5/sub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/199111/5/sub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/199111/5",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/199111/5/sub?color=39FF14",
+        "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/eeJzM"
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/628765/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            39,
+            129
+          ],
+          "outro": [
+            1335,
+            1425
+          ]
+        }
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/62542/5/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/199111/5/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/199111/5",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/199111/5/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Mega",
+      "url": "https://megaplay.buzz/stream/mal/62542/5/sub",
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/199111/5/sub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/199111/5",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/199111/5/sub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
+    }
+  ]
+}
