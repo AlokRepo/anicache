@@ -1,11 +1,10 @@
 {
   "animeId": 178789,
   "episode": 6,
-  "updatedAt": "2026-08-03T10:28:16.017Z",
+  "updatedAt": "2026-08-03T23:28:30.173Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/59193/6/sub",
-  "downloadUrl": "https://pahe.nekostream.site/nqXIb",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,21 +21,6 @@
     {
       "key": "nest",
       "label": "Nest"
-    },
-    {
-      "key": "anikoto-kiwi",
-      "label": "Kiwi",
-      "rawName": "Kiwi"
-    },
-    {
-      "key": "anikoto-vidstream-2",
-      "label": "Vidstream-2",
-      "rawName": "Vidstream-2"
-    },
-    {
-      "key": "anikoto-vidplay-1",
-      "label": "VidPlay-1",
-      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -60,45 +44,6 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/178789/6/sub?color=39FF14",
         "server": "nest"
-      },
-      {
-        "name": "Kiwi",
-        "url": "",
-        "download": {
-          "360p": "https://pahe.nekostream.site/nqXIb",
-          "720p": "https://pahe.nekostream.site/Sraua",
-          "1080p": "https://pahe.nekostream.site/stNMc"
-        }
-      },
-      {
-        "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/206923/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
-      },
-      {
-        "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/OUdtQlJKRDN3T1R5M29FaHNiUGZtVXYzaGpYQkI1dzM2aXlYcHBxeHBYNUxSRUp2R1pSSWQ2SXFpQk91QjNlNmF2Y2xaMGlMVFF0Q1dpbDNJeXJ0UHc9PQ/hsub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
       }
     ],
     "dub": [
