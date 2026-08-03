@@ -1,11 +1,11 @@
 {
   "animeId": 5114,
   "episode": 31,
-  "updatedAt": "2026-08-02T14:40:57.751Z",
+  "updatedAt": "2026-08-03T10:39:36.674Z",
   "server": "megaplay",
   "lang": "dub",
   "streamUrl": "https://megaplay.buzz/stream/mal/5114/31/dub",
-  "downloadUrl": "https://anikoto.cz/watch/fullmetal-alchemist-brotherhood-9s0fl/ep-31",
+  "downloadUrl": "https://pahe.nekostream.site/rcyeb",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,6 +22,26 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -45,6 +65,60 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/5114/31/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/rcyeb",
+          "720p": "https://pahe.nekostream.site/iwqgz",
+          "1080p": "https://pahe.nekostream.site/lPUyh"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/31/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/31/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/RERXdWlQekIzYURqdk9DdmJCK1VqMWVTdzE4bnBTMFVZQjhuZHBvdW1UVWNpL3BQV2k3TytCUTJtK043UFczWQ/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ],
     "dub": [
@@ -67,6 +141,60 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/5114/31/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/gNkys",
+          "720p": "https://pahe.nekostream.site/Ljwyc",
+          "1080p": "https://pahe.nekostream.site/uzdpw"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/31/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/31/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/RERXdWlQekIzYURqdk9DdmJCK1VqMWVTdzE4bnBTMFVZQjhuZHBvdW1UVWNpL3BQV2k3TytCUTJtK043UFczWQ/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ]
   },
