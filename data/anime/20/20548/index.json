@@ -1,0 +1,783 @@
+{
+  "id": 20548,
+  "idMal": 21013,
+  "title": {
+    "romaji": "Disk Wars: Avengers",
+    "english": "Marvel Disk Wars: The Avengers",
+    "native": "ディスク・ウォーズ：アベンジャーズ"
+  },
+  "synonyms": [],
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20548.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20548.jpg"
+  },
+  "bannerImage": null,
+  "description": "The story will revolve around how the Avengers--Iron Man, Captain America, Thor and the Hulk together with the help of Spider-Man and a group of teens--will harness their respective fighting skills and superhuman powers to foil Loki’s scheme to take over the world. \"Marvel Disk Wars: The Avengers\" will target boys in the 6-12 age group.\n<br><br>\n(Source: Marvel)",
+  "averageScore": 51,
+  "genres": [
+    "Action"
+  ],
+  "episodes": 51,
+  "status": "FINISHED",
+  "season": "SPRING",
+  "seasonYear": 2014,
+  "duration": 22,
+  "format": "TV",
+  "isAdult": false,
+  "startDate": {
+    "year": 2014,
+    "month": 4,
+    "day": 2
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 3,
+    "day": 25
+  },
+  "studios": {
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 18,
+          "name": "Toei Animation",
+          "isAnimationStudio": true
+        }
+      }
+    ]
+  },
+  "nextAiringEpisode": null,
+  "externalLinks": [],
+  "tags": [
+    {
+      "name": "Kids"
+    },
+    {
+      "name": "Super Power"
+    },
+    {
+      "name": "Superhero"
+    }
+  ],
+  "trailer": null,
+  "relations": {
+    "edges": [
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 98872,
+          "title": {
+            "romaji": "Marvel Future Avengers",
+            "english": "Marvel Future Avengers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98872-OYzOqXGfOYuG.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98872-OYzOqXGfOYuG.jpg"
+          },
+          "averageScore": 51,
+          "isAdult": false,
+          "episodes": 26,
+          "format": "TV",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2017,
+          "duration": 22
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 126770,
+          "title": {
+            "romaji": "Deadpool: SAMURAI",
+            "english": "Deadpool: Samurai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126770-tEQu6MPQGfKn.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126770-tEQu6MPQGfKn.jpg"
+          },
+          "averageScore": 71,
+          "isAdult": false,
+          "episodes": null,
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": [
+      {
+        "mediaRecommendation": {
+          "id": 101697,
+          "title": {
+            "romaji": "Marvel Future Avengers 2nd Season",
+            "english": "Marvel Future Avengers 2nd Season"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101697-0fHSYzI0rj50.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101697-0fHSYzI0rj50.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx101697-0fHSYzI0rj50.jpg"
+          },
+          "averageScore": 49,
+          "isAdult": false,
+          "episodes": 13,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 22
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 169402,
+          "title": {
+            "romaji": "Boku no Hero Academia: Yuuei Heroes Battle",
+            "english": "My Hero Academia UA BATTLE HEROES"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169402-w2PQESC7VAY3.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169402-w2PQESC7VAY3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b169402-w2PQESC7VAY3.png"
+          },
+          "averageScore": 68,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "OVA",
+          "status": "FINISHED",
+          "duration": 23
+        }
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 24033,
+          "name": {
+            "userPreferred": "Anthony Edward Stark"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/24033.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95804,
+            "name": {
+              "userPreferred": "Eiji Hanawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95804-plVC2L7kuwTE.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154710,
+          "name": {
+            "userPreferred": "Bruce Banner"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154710-PsuzWXbnROTT.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 105273,
+            "name": {
+              "userPreferred": "Kenichirou Matsuda"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105273-asextl049B2s.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154711,
+          "name": {
+            "userPreferred": "Akira Akatsuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154711-j8tCypGnsUBP.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95197,
+            "name": {
+              "userPreferred": "Mitsuki Saiga"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95197-4Uxn95bRlvMu.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154712,
+          "name": {
+            "userPreferred": "Hikaru Akatsuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154712-RXM4h2TKa72C.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 105064,
+            "name": {
+              "userPreferred": "Yuuichi Iguchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105064-Yi6aG3ZtcyjU.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154713,
+          "name": {
+            "userPreferred": "Janet van Dyne"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154713-yqbXKrjr2nWf.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95156,
+            "name": {
+              "userPreferred": "Kaori Mizuhashi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95156-7tw0zP396ecG.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154714,
+          "name": {
+            "userPreferred": "Loki Laufeyson"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154714-oQZWn8Z7l4Oy.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 105267,
+            "name": {
+              "userPreferred": "Tadashi Mutou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105267-7sgi6sXCqmn8.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154716,
+          "name": {
+            "userPreferred": "Edward Grant"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154716-AjxYM2Q4hCTv.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 154743,
+            "name": {
+              "userPreferred": "Yayoi Sugaya"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n154743-5WXiNTS1qtTA.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154717,
+          "name": {
+            "userPreferred": "Peter Parker"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154717-y43WTcwaAnQC.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95410,
+            "name": {
+              "userPreferred": "Shinji Kawada"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95410-AosJKUc7YZXE.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154718,
+          "name": {
+            "userPreferred": "Jessica Shannon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154718-VmoptIc4zlNu.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 117329,
+            "name": {
+              "userPreferred": "Naomi Oozora"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117329-b0JyOtyttcJI.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154719,
+          "name": {
+            "userPreferred": "Chris Taylor"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154719-9OOr72cILHdC.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 133353,
+            "name": {
+              "userPreferred": "Yuusuke Kuwahata"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133353-XomdXR3uWCmb.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154720,
+          "name": {
+            "userPreferred": "Steve Rogers"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154720-Eq9wBb65RngW.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 112627,
+            "name": {
+              "userPreferred": "Kazuhiro Nakaya"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/17627.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 154721,
+          "name": {
+            "userPreferred": "Thor Odinson"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b154721-lYT7DD1mEYBU.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95801,
+            "name": {
+              "userPreferred": "Yasuyuki Kase"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95801-Jno6Y2OawOII.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 66985,
+          "name": {
+            "userPreferred": "James Howlett"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/66985.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95299,
+            "name": {
+              "userPreferred": "Kenji Nomura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95299-emNsgDYS4DBi.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 151211,
+          "name": {
+            "userPreferred": "Wade Wilson"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b151211-L3DulahwrhKc.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95160,
+            "name": {
+              "userPreferred": "Takehito Koyasu"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247757,
+          "name": {
+            "userPreferred": "Rocket Raccoon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247757-mwSxDCN2itps.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 105554,
+            "name": {
+              "userPreferred": "Fumihiro Okabayashi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105554-qqAixAUe5Xx4.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247758,
+          "name": {
+            "userPreferred": "Drax the Destroyer"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247758-UX9PL3CLDZxx.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 102712,
+            "name": {
+              "userPreferred": "Yoshinori Sonobe"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7712.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247759,
+          "name": {
+            "userPreferred": "Groot"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247759-FlGHfDNiXYsr.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 103003,
+            "name": {
+              "userPreferred": "Masato Funaki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8003.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247760,
+          "name": {
+            "userPreferred": "Gamora"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247760-lULa3Z0lnskG.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 105634,
+            "name": {
+              "userPreferred": "Junko Kitanishi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105634-k4crYIeacBXT.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 247761,
+          "name": {
+            "userPreferred": "Peter Jason Quill"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b247761-nPFwvZjm4b6P.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95527,
+            "name": {
+              "userPreferred": "Gou Inoue"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95527-8eI52NWm305v.png"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "staff": {
+    "edges": [
+      {
+        "role": "Theme Song Performance (OP, ED)",
+        "node": {
+          "id": 95714,
+          "name": {
+            "userPreferred": "Takanori Nishikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95714-vuQG3u1I81Nc.jpg"
+          }
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 100048,
+          "name": {
+            "userPreferred": "Stan Lee"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100048-HAs6WlM5OjrM.png"
+          }
+        }
+      },
+      {
+        "role": "Animation Director (eps 8, 16, 29-30, 50)",
+        "node": {
+          "id": 103469,
+          "name": {
+            "userPreferred": "Naoki Tate"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103469-Fwer4ZTuEOSW.png"
+          }
+        }
+      },
+      {
+        "role": "Character Design (eps 27-51)",
+        "node": {
+          "id": 103469,
+          "name": {
+            "userPreferred": "Naoki Tate"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103469-Fwer4ZTuEOSW.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (OP, eps 1, 3, 9, 16, 22, 28-31, 43)",
+        "node": {
+          "id": 106924,
+          "name": {
+            "userPreferred": "Naotoshi Shida"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/106924-8al7xjlJqfux.jpg"
+          }
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 107795,
+          "name": {
+            "userPreferred": "Jack Kirby"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12795.jpg"
+          }
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 110939,
+          "name": {
+            "userPreferred": "Mitsutaka Hirota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110939-X5Bkt9JyvJew.png"
+          }
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 118403,
+          "name": {
+            "userPreferred": "Toshiaki Komura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118403-YPLw835B9lgm.png"
+          }
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 119105,
+          "name": {
+            "userPreferred": "Toshimitsu Takeuchi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119105-nD2tg1yu9mFS.png"
+          }
+        }
+      },
+      {
+        "role": "Script (eps 15, 18, 20, 24-26, 31-32, 37, 40, 45, 47)",
+        "node": {
+          "id": 119994,
+          "name": {
+            "userPreferred": "Fumi Tsubota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119994-wmkt7OurUzuj.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (eps 6, 8, 9, 13, 16, 18, 21, 24, 30, 36, 42, 50, 51)",
+        "node": {
+          "id": 143517,
+          "name": {
+            "userPreferred": "Akihiro Oota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n143517-sLlak7YB5rdb.png"
+          }
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 151213,
+          "name": {
+            "userPreferred": "Rob Liefeld"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n151213-ZRxKUYI6tTVa.jpg"
+          }
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 154723,
+          "name": {
+            "userPreferred": "Ryuu King"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      },
+      {
+        "role": "Script (eps 1-10, 16-17, 22-23, 26-28, 30, 38-40, 42-43, 49-51)",
+        "node": {
+          "id": 154723,
+          "name": {
+            "userPreferred": "Ryuu King"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 154724,
+          "name": {
+            "userPreferred": "Takuya Masumoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n154724-cYHJHungBqB1.png"
+          }
+        }
+      }
+    ]
+  },
+  "subCount": 51,
+  "dubCount": 0,
+  "updatedAt": "2026-08-04T20:10:17.528Z"
+}
