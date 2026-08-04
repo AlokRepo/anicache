@@ -9,9 +9,10 @@
   "synonyms": [],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133787-0RQkGL5grRXH.png",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133787-0RQkGL5grRXH.png"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133787-0RQkGL5grRXH.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133787-0RQkGL5grRXH.png"
   },
-  "bannerImage": null,
+  "bannerImage": "https://image.tmdb.org/t/p/original/5tlgGsmFAewf95OJeUPnfh4QE72.jpg",
   "description": "Nie Feng, with genuine yang vitality, was born from ordinary and led an eventful life. Repeatedly oppressed and framed, he confronted the eight clans all alone, only to be forced to jump off cliff desperately. Unexpectedly, Nie Feng is reborn as a young man of seventeen. In this life, humble as he is, he owns peerless martial arts, and rises to fame swiftly. He makes up all his regrets and takes revenge on all his enemies in the previous life!\n<br><br>\n(Source: Youku)",
   "averageScore": 64,
   "genres": [
@@ -40,7 +41,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 6475,
+          "id": 1,
           "name": "Ruo Hong Culture",
           "isAnimationStudio": true
         }
@@ -48,7 +49,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 6530,
+          "id": 2,
           "name": "Youku",
           "isAnimationStudio": false
         }
@@ -61,61 +62,597 @@
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeAScNvGCgdTzTSqRPsFkicX",
       "type": "STREAMING",
-      "language": null
+      "language": "English"
     },
     {
       "site": "Youku",
       "url": "https://list.youku.com/show/id_fcae06d654bd4a15b269",
       "type": "STREAMING",
-      "language": null
+      "language": "English"
     }
   ],
-  "tags": [
-    {
-      "name": "Female Harem"
-    },
-    {
-      "name": "Full CGI"
-    },
-    {
-      "name": "Cultivation"
-    },
-    {
-      "name": "Martial Arts"
-    },
-    {
-      "name": "Swordplay"
-    },
-    {
-      "name": "Age Regression"
-    },
-    {
-      "name": "Male Protagonist"
-    }
-  ],
+  "tags": [],
   "trailer": null,
   "relations": {
     "edges": [
       {
-        "relationType": "SEQUEL",
+        "relationType": "SEASON",
         "node": {
-          "id": 155322,
+          "id": 5020,
+          "idMal": 5020,
           "title": {
-            "romaji": "Zhenwu Dianfeng 2",
-            "english": null
+            "romaji": "Master of Martial Hearts",
+            "english": "Master of Martial Hearts",
+            "native": "Master of Martial Hearts"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155322-ZGG59ZJtgUq8.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155322-ZGG59ZJtgUq8.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5020-5oL8hMhdY7ER.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5020-5oL8hMhdY7ER.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5020-5oL8hMhdY7ER.jpg"
           },
-          "averageScore": 62,
-          "isAdult": false,
-          "episodes": 52,
-          "format": "ONA",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5020-5oL8hMhdY7ER.jpg",
+          "averageScore": 38,
+          "genres": [
+            "Action",
+            "Ecchi"
+          ],
+          "episodes": 5,
           "status": "FINISHED",
-          "season": null,
-          "seasonYear": null,
-          "duration": 9
+          "season": "SPRING",
+          "seasonYear": 2008,
+          "duration": 24,
+          "isAdult": false,
+          "format": "OVA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2008,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Ecchi"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 5232,
+          "idMal": 5232,
+          "title": {
+            "romaji": "Manual of Ninja Martial Arts",
+            "english": "Manual of Ninja Martial Arts",
+            "native": "Manual of Ninja Martial Arts"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5232.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5232.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5232.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5232.jpg",
+          "averageScore": 46,
+          "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+          ],
+          "episodes": 1,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 1967,
+          "duration": 24,
+          "isAdult": false,
+          "format": "MOVIE",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 1967,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 186497,
+          "idMal": 186497,
+          "title": {
+            "romaji": "The Ramparts of Ice",
+            "english": "The Ramparts of Ice",
+            "native": "The Ramparts of Ice"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
+          "averageScore": 78,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "episodes": 9,
+          "status": "RELEASING",
+          "season": "SPRING",
+          "seasonYear": 2026,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2026,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Slice of Life"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 178433,
+          "idMal": 178433,
+          "title": {
+            "romaji": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+            "english": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+            "native": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178433-8KzNsjTmdAvw.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178433-8KzNsjTmdAvw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178433-8KzNsjTmdAvw.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178433-8KzNsjTmdAvw.jpg",
+          "averageScore": 66,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "episodes": 13,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2025,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Romance"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 196249,
+          "idMal": 196249,
+          "title": {
+            "romaji": "Pleasant Goat and Big Big Wolf: Martial World Rescue",
+            "english": "Pleasant Goat and Big Big Wolf: Martial World Rescue",
+            "native": "Pleasant Goat and Big Big Wolf: Martial World Rescue"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196249-uJK9BunCreuG.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196249-uJK9BunCreuG.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196249-uJK9BunCreuG.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196249-uJK9BunCreuG.png",
+          "averageScore": 0,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "episodes": 60,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2025,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV_SHORT",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Comedy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 198703,
+          "idMal": 198703,
+          "title": {
+            "romaji": "Martial Conqueror of the Cosmos",
+            "english": "Martial Conqueror of the Cosmos",
+            "native": "Martial Conqueror of the Cosmos"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198703-TmNQmhov0N7X.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198703-TmNQmhov0N7X.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198703-TmNQmhov0N7X.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198703-TmNQmhov0N7X.jpg",
+          "averageScore": 0,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "episodes": 60,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2025,
+          "duration": 24,
+          "isAdult": false,
+          "format": "ONA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 152184,
+          "idMal": 152184,
+          "title": {
+            "romaji": "True Beauty",
+            "english": "True Beauty",
+            "native": "True Beauty"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152184-JnfzbmDYysqJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152184-JnfzbmDYysqJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152184-JnfzbmDYysqJ.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152184-JnfzbmDYysqJ.png",
+          "averageScore": 63,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "episodes": 13,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2024,
+          "duration": 24,
+          "isAdult": false,
+          "format": "ONA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Romance"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 174718,
+          "idMal": 174718,
+          "title": {
+            "romaji": "The Secrets of Star Divine Arts",
+            "english": "The Secrets of Star Divine Arts",
+            "native": "The Secrets of Star Divine Arts"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174718-bVtmkxWLxV4y.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174718-bVtmkxWLxV4y.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174718-bVtmkxWLxV4y.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174718-bVtmkxWLxV4y.jpg",
+          "averageScore": 53,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "episodes": 40,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2024,
+          "duration": 24,
+          "isAdult": false,
+          "format": "ONA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 181179,
+          "idMal": 181179,
+          "title": {
+            "romaji": "Sarangui Heartsping",
+            "english": "Sarangui Heartsping",
+            "native": "Sarangui Heartsping"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181179-1V48e3Pf9JPZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181179-1V48e3Pf9JPZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181179-1V48e3Pf9JPZ.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181179-1V48e3Pf9JPZ.jpg",
+          "averageScore": 0,
+          "genres": [
+            "Fantasy",
+            "Mahou Shoujo"
+          ],
+          "episodes": 1,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2024,
+          "duration": 24,
+          "isAdult": false,
+          "format": "MOVIE",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mahou Shoujo"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 137639,
+          "idMal": 137639,
+          "title": {
+            "romaji": "Kyouki Sanmyaku: Naked Peak - Pilot Film",
+            "english": "Kyouki Sanmyaku: Naked Peak - Pilot Film",
+            "native": "Kyouki Sanmyaku: Naked Peak - Pilot Film"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137639-XaWByN7AZQnq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137639-XaWByN7AZQnq.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137639-XaWByN7AZQnq.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137639-XaWByN7AZQnq.jpg",
+          "averageScore": 64,
+          "genres": [
+            "Adventure",
+            "Sports"
+          ],
+          "episodes": 1,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2023,
+          "duration": 24,
+          "isAdult": false,
+          "format": "SPECIAL",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2023,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Sports"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 145001,
+          "idMal": 145001,
+          "title": {
+            "romaji": "Extreme Hearts",
+            "english": "Extreme Hearts",
+            "native": "Extreme Hearts"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145001-x653s1CPLogA.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145001-x653s1CPLogA.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145001-x653s1CPLogA.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145001-x653s1CPLogA.png",
+          "averageScore": 62,
+          "genres": [
+            "Music",
+            "Sports"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2022,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2022,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Music"
+            },
+            {
+              "name": "Sports"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 107666,
+          "idMal": 107666,
+          "title": {
+            "romaji": "True Cooking Master Boy",
+            "english": "True Cooking Master Boy",
+            "native": "True Cooking Master Boy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107666-7X6hemlnrRb4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107666-7X6hemlnrRb4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107666-7X6hemlnrRb4.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107666-7X6hemlnrRb4.jpg",
+          "averageScore": 60,
+          "genres": [
+            "Comedy"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2019,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Comedy"
+            }
+          ]
         }
       }
     ]
@@ -124,82 +661,670 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 142178,
+          "id": 16498,
+          "idMal": 16498,
           "title": {
-            "romaji": "Jian Yu Chuanqi",
-            "english": "The Legend of Sword Domain"
+            "romaji": "Attack on Titan",
+            "english": "Attack on Titan",
+            "native": "Attack on Titan"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142178-XI7zI4h9QU2H.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142178-XI7zI4h9QU2H.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142178-XI7zI4h9QU2H.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg"
           },
-          "averageScore": 61,
-          "isAdult": false,
-          "episodes": 40,
-          "format": "ONA",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+          "averageScore": 85,
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+          ],
+          "episodes": 25,
           "status": "FINISHED",
-          "duration": 10
+          "season": "SPRING",
+          "seasonYear": 2013,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2013,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mystery"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 133774,
+          "id": 101922,
+          "idMal": 101922,
           "title": {
-            "romaji": "Jiu Tian Xuan Di Jue",
-            "english": "The Success Of Empyrean Xuan Emperor"
+            "romaji": "Demon Slayer: Kimetsu no Yaiba",
+            "english": "Demon Slayer: Kimetsu no Yaiba",
+            "native": "Demon Slayer: Kimetsu no Yaiba"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133774-v7JB4m7rQkDg.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133774-v7JB4m7rQkDg.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx133774-v7JB4m7rQkDg.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg"
           },
-          "averageScore": 61,
-          "isAdult": false,
-          "episodes": 40,
-          "format": "ONA",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+          "averageScore": 83,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "episodes": 26,
           "status": "FINISHED",
-          "duration": 10
+          "season": "SPRING",
+          "seasonYear": 2019,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 131929,
+          "id": 11061,
+          "idMal": 11061,
           "title": {
-            "romaji": "Wan Jie Duzun",
-            "english": null
+            "romaji": "Hunter x Hunter (2011)",
+            "english": "Hunter x Hunter (2011)",
+            "native": "Hunter x Hunter (2011)"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131929-GPud0JD5PRQo.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131929-GPud0JD5PRQo.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131929-GPud0JD5PRQo.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png"
           },
-          "averageScore": 65,
-          "isAdult": false,
-          "episodes": 50,
-          "format": "ONA",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
+          "averageScore": 89,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "episodes": 148,
           "status": "FINISHED",
-          "duration": null
+          "season": "SPRING",
+          "seasonYear": 2011,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2011,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 102055,
+          "id": 21,
+          "idMal": 21,
           "title": {
-            "romaji": "Mu Wang Zhi Wang: Han Tie Dou",
-            "english": null
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102055-OhIew9o6zUvg.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102055-OhIew9o6zUvg.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx102055-OhIew9o6zUvg.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg"
           },
-          "averageScore": 49,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+          "averageScore": 87,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+          ],
+          "episodes": 1168,
+          "status": "RELEASING",
+          "season": "SPRING",
+          "seasonYear": 1999,
+          "duration": 24,
           "isAdult": false,
-          "episodes": 21,
-          "format": "ONA",
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 1999,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 5114,
+          "idMal": 5114,
+          "title": {
+            "romaji": "Fullmetal Alchemist: Brotherhood",
+            "english": "Fullmetal Alchemist: Brotherhood",
+            "native": "Fullmetal Alchemist: Brotherhood"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+          "averageScore": 90,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ],
+          "episodes": 64,
           "status": "FINISHED",
-          "duration": 20
+          "season": "SPRING",
+          "seasonYear": 2009,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2009,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20958,
+          "idMal": 20958,
+          "title": {
+            "romaji": "Attack on Titan Season 2",
+            "english": "Attack on Titan Season 2",
+            "native": "Attack on Titan Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
+          "averageScore": 85,
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2017,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2017,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mystery"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 11757,
+          "idMal": 11757,
+          "title": {
+            "romaji": "Sword Art Online",
+            "english": "Sword Art Online",
+            "native": "Sword Art Online"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
+          "averageScore": 70,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "episodes": 25,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2012,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Romance"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20,
+          "idMal": 20,
+          "title": {
+            "romaji": "Naruto",
+            "english": "Naruto",
+            "native": "Naruto"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+          "averageScore": 80,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "episodes": 220,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2002,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2002,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 110277,
+          "idMal": 110277,
+          "title": {
+            "romaji": "Attack on Titan Final Season",
+            "english": "Attack on Titan Final Season",
+            "native": "Attack on Titan Final Season"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-sKUNXAsWMNFw.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-sKUNXAsWMNFw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-sKUNXAsWMNFw.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-sKUNXAsWMNFw.jpg",
+          "averageScore": 87,
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+          ],
+          "episodes": 16,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2021,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mystery"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21355,
+          "idMal": 21355,
+          "title": {
+            "romaji": "Re:ZERO -Starting Life in Another World-",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ZERO -Starting Life in Another World-"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+          "averageScore": 81,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Romance",
+            "Thriller"
+          ],
+          "episodes": 25,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2016,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1735,
+          "idMal": 1735,
+          "title": {
+            "romaji": "Naruto: Shippuden",
+            "english": "Naruto: Shippuden",
+            "native": "Naruto: Shippuden"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+          "averageScore": 82,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "episodes": 500,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2007,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2007,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 97940,
+          "idMal": 97940,
+          "title": {
+            "romaji": "Black Clover",
+            "english": "Black Clover",
+            "native": "Black Clover"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+          "averageScore": 79,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "episodes": 170,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2017,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2017,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
         }
       }
     ]
@@ -212,5 +1337,5 @@
   },
   "subCount": 40,
   "dubCount": 0,
-  "updatedAt": "2026-08-03T10:09:00.967Z"
+  "updatedAt": "2026-08-04T21:09:56.638Z"
 }
