@@ -8,12 +8,12 @@
   },
   "synonyms": [
     "Bungou Stray Dogs (2016)",
+    "BSD 2",
     "คณะประพันธกรจรจัด ภาค 2"
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21679-9MKdz1A7YLV7.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21679-9MKdz1A7YLV7.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21679-9MKdz1A7YLV7.jpg"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21679-9MKdz1A7YLV7.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21679-cOXDcrmMGXBy.jpg",
   "description": "The second season of <i>Bungou Stray Dogs</i>.<br>\n<br>\nDespite their differences in position, three men—the youngest senior executive of the Port Mafia, Osamu Dazai, the lowest ranking member, Sakunosuke Oda, and the intelligence agent, Angou Sakaguchi—gather at the Lupin Bar at the end of the day to relax and take delight in the company of friends.<br></br>\n\nHowever, one night, Angou disappears. A photograph taken at the bar is all that is left of the three together.<br></br>\n\nFast forward to the present, and Dazai is now a member of the Armed Detective Agency. The Guild, an American gifted organization, has entered the fray and is intent on taking the Agency's work permit. They must now divide their attention between the two groups, the Guild and the Port Mafia, who oppose their very existence.",
@@ -30,6 +30,7 @@
   "seasonYear": 2016,
   "duration": 24,
   "format": "TV",
+  "isAdult": false,
   "startDate": {
     "year": 2016,
     "month": 10,
@@ -45,7 +46,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 1,
+          "id": 4,
           "name": "bones",
           "isAnimationStudio": true
         }
@@ -53,7 +54,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 2,
+          "id": 6158,
           "name": "Glovision",
           "isAnimationStudio": false
         }
@@ -61,7 +62,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 3,
+          "id": 6421,
           "name": "Crunchyroll",
           "isAnimationStudio": false
         }
@@ -71,16 +72,28 @@
   "nextAiringEpisode": null,
   "externalLinks": [
     {
+      "site": "Official Site",
+      "url": "http://bungo-stray-dogs.jp/",
+      "type": "INFO",
+      "language": "Japanese"
+    },
+    {
+      "site": "Twitter",
+      "url": "https://twitter.com/bungosd_anime",
+      "type": "SOCIAL",
+      "language": "Japanese"
+    },
+    {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/bungo-stray-dogs",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/80132126",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     }
   ],
   "tags": [
@@ -134,559 +147,144 @@
     },
     {
       "name": "Orphan"
+    },
+    {
+      "name": "Primarily Adult Cast"
+    },
+    {
+      "name": "Kuudere"
+    },
+    {
+      "name": "Conspiracy"
+    },
+    {
+      "name": "Shapeshifting"
+    },
+    {
+      "name": "Espionage"
+    },
+    {
+      "name": "Bar"
+    },
+    {
+      "name": "Cosmic Horror"
     }
   ],
-  "trailer": null,
+  "trailer": {
+    "id": "aeX94e7V0_w",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/aeX94e7V0_w/hqdefault.jpg"
+  },
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
-        "node": {
-          "id": 141249,
-          "idMal": 141249,
-          "title": {
-            "romaji": "Bungo Stray Dogs 4",
-            "english": "Bungo Stray Dogs 4",
-            "native": "Bungo Stray Dogs 4"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141249-8tjavEDHmLoT.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141249-8tjavEDHmLoT.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141249-8tjavEDHmLoT.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141249-8tjavEDHmLoT.jpg",
-          "averageScore": 84,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Mystery",
-            "Supernatural"
-          ],
-          "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2023,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2023,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 163263,
-          "idMal": 163263,
-          "title": {
-            "romaji": "Bungo Stray Dogs 5",
-            "english": "Bungo Stray Dogs 5",
-            "native": "Bungo Stray Dogs 5"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg",
-          "averageScore": 85,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Mystery",
-            "Supernatural"
-          ],
-          "episodes": 11,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2023,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2023,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 120150,
-          "idMal": 120150,
-          "title": {
-            "romaji": "Bungo Stray Dogs WAN!",
-            "english": "Bungo Stray Dogs WAN!",
-            "native": "Bungo Stray Dogs WAN!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120150-hxvcRrYzgP2F.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120150-hxvcRrYzgP2F.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120150-hxvcRrYzgP2F.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120150-hxvcRrYzgP2F.png",
-          "averageScore": 80,
-          "genres": [
-            "Comedy",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2021,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV_SHORT",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2021,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 98384,
-          "idMal": 98384,
-          "title": {
-            "romaji": "Bungo Stray Dogs: DEAD APPLE",
-            "english": "Bungo Stray Dogs: DEAD APPLE",
-            "native": "Bungo Stray Dogs: DEAD APPLE"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg",
-          "averageScore": 78,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Mystery",
-            "Supernatural"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21791,
-          "idMal": 21791,
-          "title": {
-            "romaji": "Bungo Stray Dogs 2: Walking Alone",
-            "english": "Bungo Stray Dogs 2: Walking Alone",
-            "native": "Bungo Stray Dogs 2: Walking Alone"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21791-OIFsu8KC77Da.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21791-OIFsu8KC77Da.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21791-OIFsu8KC77Da.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21791-OIFsu8KC77Da.jpg",
-          "averageScore": 76,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Mystery",
-            "Supernatural"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
-          "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
+        "relationType": "PREQUEL",
         "node": {
           "id": 21311,
-          "idMal": 21311,
           "title": {
-            "romaji": "Bungo Stray Dogs",
-            "english": "Bungo Stray Dogs",
-            "native": "Bungo Stray Dogs"
+            "romaji": "Bungou Stray Dogs",
+            "english": "Bungo Stray Dogs"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21311-hAXyT8Yoh6G9.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg",
           "averageScore": 77,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Mystery",
-            "Supernatural"
-          ],
+          "isAdult": false,
           "episodes": 12,
+          "format": "TV",
           "status": "FINISHED",
           "season": "SPRING",
           "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "duration": 24
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "ADAPTATION",
         "node": {
-          "id": 114411,
-          "idMal": 114411,
+          "id": 85307,
           "title": {
-            "romaji": "Bungo and Alchemist -Gears of Judgement-",
-            "english": "Bungo and Alchemist -Gears of Judgement-",
-            "native": "Bungo and Alchemist -Gears of Judgement-"
+            "romaji": "Bungou Stray Dogs",
+            "english": "Bungo Stray Dogs"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114411-PnXaweOf99xA.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114411-PnXaweOf99xA.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114411-PnXaweOf99xA.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85307-23PaGq5FakEV.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85307-23PaGq5FakEV.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114411-PnXaweOf99xA.jpg",
-          "averageScore": 59,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
+          "averageScore": 83,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
+          "episodes": null,
+          "format": "MANGA",
+          "status": "RELEASING",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SEQUEL",
         "node": {
-          "id": 21568,
-          "idMal": 21568,
+          "id": 103223,
           "title": {
-            "romaji": "Nora, Princess, and Stray cat.",
-            "english": "Nora, Princess, and Stray cat.",
-            "native": "Nora, Princess, and Stray cat."
+            "romaji": "Bungou Stray Dogs 3rd Season",
+            "english": "Bungo Stray Dogs 3"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21568-0JucnpivPhY2.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21568-0JucnpivPhY2.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21568-0JucnpivPhY2.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103223-bfdnnKWxE4YE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103223-bfdnnKWxE4YE.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21568-0JucnpivPhY2.jpg",
-          "averageScore": 50,
-          "genres": [
-            "Comedy",
-            "Ecchi"
-          ],
+          "averageScore": 81,
+          "isAdult": false,
           "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV_SHORT",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 15613,
-          "idMal": 15613,
-          "title": {
-            "romaji": "Hakkenden: Eight Dogs of the East",
-            "english": "Hakkenden: Eight Dogs of the East",
-            "native": "Hakkenden: Eight Dogs of the East"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15613-Wy2QXvj3BmSN.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15613-Wy2QXvj3BmSN.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15613-Wy2QXvj3BmSN.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15613-Wy2QXvj3BmSN.png",
-          "averageScore": 69,
-          "genres": [
-            "Action",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2019,
+          "duration": 24
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SIDE_STORY",
         "node": {
-          "id": 5593,
-          "idMal": 5593,
+          "id": 98384,
           "title": {
-            "romaji": "Dogs: Bullets & Carnage",
-            "english": "Dogs: Bullets & Carnage",
-            "native": "Dogs: Bullets & Carnage"
+            "romaji": "Bungou Stray Dogs: DEAD APPLE",
+            "english": "Bungo Stray Dogs: DEAD APPLE"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5593-WlCaQBHVx6h6.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5593-WlCaQBHVx6h6.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5593-WlCaQBHVx6h6.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98384-nXEnNzwiJ9BV.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5593-WlCaQBHVx6h6.jpg",
-          "averageScore": 67,
-          "genres": [
-            "Action"
-          ],
-          "episodes": 4,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2009,
-          "duration": 24,
+          "averageScore": 78,
           "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2009,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            }
-          ]
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2018,
+          "duration": 90
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "ADAPTATION",
         "node": {
-          "id": 3355,
-          "idMal": 3355,
+          "id": 123117,
           "title": {
-            "romaji": "Fortune Dogs",
-            "english": "Fortune Dogs",
-            "native": "Fortune Dogs"
+            "romaji": "Bungou Stray Dogs: Dazai Osamu to Kuro no Jidai",
+            "english": "Bungo Stray Dogs: Osamu Dazai and The Dark Era"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3355.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3355.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3355.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123117-bCfUg3y1tns9.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123117-bCfUg3y1tns9.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3355.jpg",
-          "averageScore": 64,
-          "genres": [
-            "Adventure"
-          ],
-          "episodes": 39,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2002,
-          "duration": 24,
+          "averageScore": 84,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2002,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Adventure"
-            }
-          ]
+          "episodes": null,
+          "format": "NOVEL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
         }
       }
     ]
@@ -695,674 +293,904 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 21311,
-          "idMal": 21311,
+          "id": 6746,
           "title": {
-            "romaji": "Bungo Stray Dogs",
-            "english": "Bungo Stray Dogs",
-            "native": "Bungo Stray Dogs"
+            "romaji": "Durarara!!",
+            "english": "Durarara!!"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6746-3LTwM95Uqeoa.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6746-3LTwM95Uqeoa.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6746-3LTwM95Uqeoa.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg",
-          "averageScore": 77,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Mystery",
-            "Supernatural"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
+          "averageScore": 79,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 4898,
-          "idMal": 4898,
-          "title": {
-            "romaji": "Black Butler",
-            "english": "Black Butler",
-            "native": "Black Butler"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4898-mW4gabZvwmLC.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4898-mW4gabZvwmLC.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4898-mW4gabZvwmLC.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4898-mW4gabZvwmLC.jpg",
-          "averageScore": 73,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Fantasy",
-            "Mystery",
-            "Supernatural"
-          ],
           "episodes": 24,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2008,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2008,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 108463,
-          "idMal": 108463,
+          "id": 20727,
           "title": {
-            "romaji": "Toilet-bound Hanako-kun",
-            "english": "Toilet-bound Hanako-kun",
-            "native": "Toilet-bound Hanako-kun"
+            "romaji": "Kekkai Sensen",
+            "english": "Blood Blockade Battlefront"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108463-u03vrYnyB3L9.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108463-u03vrYnyB3L9.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108463-u03vrYnyB3L9.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20727-jgVnxLCHAKqZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20727-jgVnxLCHAKqZ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20727-jgVnxLCHAKqZ.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108463-u03vrYnyB3L9.jpg",
-          "averageScore": 78,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Mystery",
-            "Supernatural"
-          ],
+          "averageScore": 74,
+          "isAdult": false,
           "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 25
         }
       },
       {
         "mediaRecommendation": {
-          "id": 141249,
-          "idMal": 141249,
+          "id": 14467,
           "title": {
-            "romaji": "Bungo Stray Dogs 4",
-            "english": "Bungo Stray Dogs 4",
-            "native": "Bungo Stray Dogs 4"
+            "romaji": "K",
+            "english": "K"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141249-8tjavEDHmLoT.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141249-8tjavEDHmLoT.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141249-8tjavEDHmLoT.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14467-TQjwOvq4jkYS.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14467-TQjwOvq4jkYS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx14467-TQjwOvq4jkYS.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141249-8tjavEDHmLoT.jpg",
-          "averageScore": 84,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Mystery",
-            "Supernatural"
-          ],
+          "averageScore": 71,
+          "isAdult": false,
           "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2023,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2023,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 6707,
-          "idMal": 6707,
+          "id": 21421,
           "title": {
-            "romaji": "Black Butler II",
-            "english": "Black Butler II",
-            "native": "Black Butler II"
+            "romaji": "Kiznaiver",
+            "english": "Kiznaiver"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx6707-eZvzqWlu51DD.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx6707-eZvzqWlu51DD.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx6707-eZvzqWlu51DD.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21421-5y8ryXsMB7aJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21421-5y8ryXsMB7aJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21421-5y8ryXsMB7aJ.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx6707-eZvzqWlu51DD.png",
-          "averageScore": 67,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Fantasy",
-            "Mystery",
-            "Supernatural"
-          ],
+          "averageScore": 72,
+          "isAdult": false,
           "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2010,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2010,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 98384,
-          "idMal": 98384,
-          "title": {
-            "romaji": "Bungo Stray Dogs: DEAD APPLE",
-            "english": "Bungo Stray Dogs: DEAD APPLE",
-            "native": "Bungo Stray Dogs: DEAD APPLE"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg",
-          "averageScore": 78,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Mystery",
-            "Supernatural"
-          ],
-          "episodes": 1,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 163263,
-          "idMal": 163263,
+          "id": 110349,
           "title": {
-            "romaji": "Bungo Stray Dogs 5",
-            "english": "Bungo Stray Dogs 5",
-            "native": "Bungo Stray Dogs 5"
+            "romaji": "GREAT PRETENDER",
+            "english": "Great Pretender"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110349-59hhZ9CNHVdk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110349-59hhZ9CNHVdk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx110349-59hhZ9CNHVdk.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg",
+          "averageScore": 81,
+          "isAdult": false,
+          "episodes": 23,
+          "format": "ONA",
+          "status": "FINISHED",
+          "duration": 23
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 102883,
+          "title": {
+            "romaji": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+            "english": "JoJo's Bizarre Adventure: Golden Wind"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102883-S9KzdMJhDswJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102883-S9KzdMJhDswJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx102883-S9KzdMJhDswJ.png"
+          },
           "averageScore": 85,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Mystery",
-            "Supernatural"
-          ],
-          "episodes": 11,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2023,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 39,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2023,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 21425,
-          "idMal": 21425,
+          "id": 114085,
           "title": {
-            "romaji": "Black Butler: Book of the Atlantic",
-            "english": "Black Butler: Book of the Atlantic",
-            "native": "Black Butler: Book of the Atlantic"
+            "romaji": "Kemono Jihen",
+            "english": "Kemono Jihen"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21425-HHZEaefKU8Jt.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21425-HHZEaefKU8Jt.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21425-HHZEaefKU8Jt.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114085-2w5rYZTOa7ER.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114085-2w5rYZTOa7ER.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx114085-2w5rYZTOa7ER.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21425-HHZEaefKU8Jt.png",
+          "averageScore": 72,
+          "isAdult": false,
+          "episodes": 12,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 113415,
+          "title": {
+            "romaji": "Jujutsu Kaisen",
+            "english": "JUJUTSU KAISEN"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-LHBAeoZDIsnF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113415-LHBAeoZDIsnF.jpg"
+          },
+          "averageScore": 84,
+          "isAdult": false,
+          "episodes": 24,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 114124,
+          "title": {
+            "romaji": "Yuukoku no Moriarty",
+            "english": "Moriarty the Patriot"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114124-def92qPuIVeK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114124-def92qPuIVeK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx114124-def92qPuIVeK.jpg"
+          },
           "averageScore": 81,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Fantasy",
-            "Mystery",
-            "Supernatural"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
           "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "episodes": 11,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 21791,
-          "idMal": 21791,
+          "id": 131646,
           "title": {
-            "romaji": "Bungo Stray Dogs 2: Walking Alone",
-            "english": "Bungo Stray Dogs 2: Walking Alone",
-            "native": "Bungo Stray Dogs 2: Walking Alone"
+            "romaji": "Vanitas no Carte",
+            "english": "The Case Study of Vanitas"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21791-OIFsu8KC77Da.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21791-OIFsu8KC77Da.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21791-OIFsu8KC77Da.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131646-cuyGfKcekZ62.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131646-cuyGfKcekZ62.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131646-cuyGfKcekZ62.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21791-OIFsu8KC77Da.jpg",
-          "averageScore": 76,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Mystery",
-            "Supernatural"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
-          "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 3901,
-          "idMal": 3901,
-          "title": {
-            "romaji": "Baccano! Specials",
-            "english": "Baccano! Specials",
-            "native": "Baccano! Specials"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3901-uUj3GeGsebmj.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3901-uUj3GeGsebmj.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3901-uUj3GeGsebmj.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3901-uUj3GeGsebmj.png",
           "averageScore": 78,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Mystery",
-            "Supernatural"
-          ],
-          "episodes": 3,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2008,
-          "duration": 24,
           "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2008,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "episodes": 12,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 23
         }
       },
       {
         "mediaRecommendation": {
-          "id": 170206,
-          "idMal": 170206,
+          "id": 6213,
           "title": {
-            "romaji": "Scott Pilgrim Takes Off",
-            "english": "Scott Pilgrim Takes Off",
-            "native": "Scott Pilgrim Takes Off"
+            "romaji": "Toaru Kagaku no Railgun",
+            "english": "A Certain Scientific Railgun"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6213-QtrlDQnexApL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6213-QtrlDQnexApL.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6213-QtrlDQnexApL.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-ZP4qAzx2I2oR.jpg",
-          "averageScore": 80,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Mystery",
-            "Romance",
-            "Supernatural"
-          ],
-          "episodes": 8,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2023,
-          "duration": 24,
+          "averageScore": 75,
           "isAdult": false,
-          "format": "ONA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2023,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "episodes": 24,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 113290,
-          "idMal": 113290,
+          "id": 141014,
           "title": {
-            "romaji": "Scissor Seven Season 2",
-            "english": "Scissor Seven Season 2",
-            "native": "Scissor Seven Season 2"
+            "romaji": "Tomodachi Game",
+            "english": "Tomodachi Game"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113290-zsH3Ni7M7STm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113290-zsH3Ni7M7STm.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113290-zsH3Ni7M7STm.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141014-bTWr7TtS0wt9.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141014-bTWr7TtS0wt9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx141014-bTWr7TtS0wt9.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113290-zsH3Ni7M7STm.jpg",
-          "averageScore": 81,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Mystery",
-            "Supernatural"
-          ],
-          "episodes": 10,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
+          "averageScore": 76,
           "isAdult": false,
+          "episodes": 12,
           "format": "ONA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 23
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 89197,
+          "name": {
+            "userPreferred": "Atsushi Nakajima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89197-vB5kP72ruckV.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 118498,
+            "name": {
+              "userPreferred": "Yuuto Uemura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118498-6YvZZS0HM2qD.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 89198,
+          "name": {
+            "userPreferred": "Osamu Dazai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95065,
+            "name": {
+              "userPreferred": "Mamoru Miyano"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 89200,
+          "name": {
+            "userPreferred": "Doppo Kunikida"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89200-mZJo7iEwJGzg.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 100626,
+            "name": {
+              "userPreferred": "Yoshimasa Hosoya"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89196,
+          "name": {
+            "userPreferred": "Yukichi Fukuzawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89196-E2tIf6nIPKnW.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95113,
+            "name": {
+              "userPreferred": "Rikiya Koyama"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89199,
+          "name": {
+            "userPreferred": "Ryuunosuke Akutagawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95819,
+            "name": {
+              "userPreferred": "Kenshou Ono"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95819-O4fosAY0a1Ml.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89201,
+          "name": {
+            "userPreferred": "Ranpo Edogawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89201-K0X5HNq88Oub.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95118,
+            "name": {
+              "userPreferred": "Hiroshi Kamiya"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89205,
+          "name": {
+            "userPreferred": "Junichirou Tanizaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89205-69AfPXd4QmX3.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95600,
+            "name": {
+              "userPreferred": "Toshiyuki Toyonaga"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95600-giNVqkdeWKuF.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89207,
+          "name": {
+            "userPreferred": "Kenji Miyazawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89207-i7pw9zNQqXpZ.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 119433,
+            "name": {
+              "userPreferred": "Hiroyuki Kagura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119433-2ypAywSEVR2m.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89208,
+          "name": {
+            "userPreferred": "Akiko Yosano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89208-Zjsz22lCmrIE.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 100295,
+            "name": {
+              "userPreferred": "Yuu Shimamura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100295-d7CPqlz4jGaT.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89209,
+          "name": {
+            "userPreferred": "Naomi Tanizaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89209-ABXFID46q7LW.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96760,
+            "name": {
+              "userPreferred": "Chiaki Omigawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96760-z00Vs7vhLR07.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89853,
+          "name": {
+            "userPreferred": "Chuuya Nakahara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89853-06qMPkrGlgP1.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95196,
+            "name": {
+              "userPreferred": "Kishou Taniyama"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95196-t2vbxQMee0ci.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89854,
+          "name": {
+            "userPreferred": "Motojirou Kajii"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89854-OJkUYnorbaRZ.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95098,
+            "name": {
+              "userPreferred": "Wataru Hatano"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89855,
+          "name": {
+            "userPreferred": "Ichiyou Higuchi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/89855-wWUfJVCKhGOJ.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 106787,
+            "name": {
+              "userPreferred": "Asami Seto"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-ojpoY7XEGYgc.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 89856,
+          "name": {
+            "userPreferred": "Kyouka Izumi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89856-GB3SOKXTBnrX.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 106404,
+            "name": {
+              "userPreferred": "Sumire Morohoshi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106404-uodatsBbsnJh.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 120625,
+          "name": {
+            "userPreferred": "Sakunosuke Oda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120625-i2xfexhHTwMQ.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95095,
+            "name": {
+              "userPreferred": "Junichi Suwabe"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png"
+            }
+          },
+          {
+            "id": 118498,
+            "name": {
+              "userPreferred": "Yuuto Uemura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118498-6YvZZS0HM2qD.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 121164,
+          "name": {
+            "userPreferred": "Francis Scott Key Fitzgerald"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121164-JI5C2eMIQrSG.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95079,
+            "name": {
+              "userPreferred": "Takahiro Sakurai"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 121165,
+          "name": {
+            "userPreferred": "Nathaniel Hawthorne"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/121165-cfbOLzjZ8PVU.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 102242,
+            "name": {
+              "userPreferred": "Tarusuke Shingaki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102242-bx8hrisiHiSK.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 121166,
+          "name": {
+            "userPreferred": "Howard Phillips Lovecraft"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121166-eMARUE9BOcC8.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 119185,
+            "name": {
+              "userPreferred": "Shunsuke Takeuchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119185-65kkxuTRxAgo.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 121168,
+          "name": {
+            "userPreferred": "Ougai Mori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121168-XkWaYGESyQpZ.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96469,
+            "name": {
+              "userPreferred": "Mitsuru Miyamoto"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96469-uVRO2mYXvXxP.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 127632,
+          "name": {
+            "userPreferred": "Edgar Allan Poe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127632-Y5Ega9Pvu0OA.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95006,
+            "name": {
+              "userPreferred": "Toshiyuki Morikawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
-  }
+    "edges": [
+      {
+        "role": "ADR Director (Latin American Spanish)",
+        "node": {
+          "id": 96462,
+          "name": {
+            "userPreferred": "Irwin Daayán"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96462-PWlPtfZ1sHX7.png"
+          }
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 100062,
+          "name": {
+            "userPreferred": "Youji Enokido"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100062-0V0Kqgk5Pvfg.png"
+          }
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 100172,
+          "name": {
+            "userPreferred": "Taku Iwasaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100172-2CkqEuEnS9Rn.png"
+          }
+        }
+      },
+      {
+        "role": "Production",
+        "node": {
+          "id": 101519,
+          "name": {
+            "userPreferred": "Masahiko Minami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101519-THVBejDRSLaO.png"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (ED)",
+        "node": {
+          "id": 101583,
+          "name": {
+            "userPreferred": "Yasuomi Umetsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101583-EUI5NHeKsMIC.png"
+          }
+        }
+      },
+      {
+        "role": "Episode Director (ED)",
+        "node": {
+          "id": 101583,
+          "name": {
+            "userPreferred": "Yasuomi Umetsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101583-EUI5NHeKsMIC.png"
+          }
+        }
+      },
+      {
+        "role": "Animation Director (ED)",
+        "node": {
+          "id": 101583,
+          "name": {
+            "userPreferred": "Yasuomi Umetsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101583-EUI5NHeKsMIC.png"
+          }
+        }
+      },
+      {
+        "role": "ADR Director (Brazilian Portuguese)",
+        "node": {
+          "id": 102974,
+          "name": {
+            "userPreferred": "Wellington Lima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102974-PW4xc2DMIK0d.png"
+          }
+        }
+      },
+      {
+        "role": "Animation Director (ep 5)",
+        "node": {
+          "id": 104361,
+          "name": {
+            "userPreferred": "Yoshiyuki Itou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104361-rdZtGfyCNjaI.png"
+          }
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 105087,
+          "name": {
+            "userPreferred": "Takuya Igarashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105087-aoj9RdnTaZ45.png"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (eps 1-4, 12)",
+        "node": {
+          "id": 105087,
+          "name": {
+            "userPreferred": "Takuya Igarashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105087-aoj9RdnTaZ45.png"
+          }
+        }
+      },
+      {
+        "role": "Episode Director (ep 12)",
+        "node": {
+          "id": 105087,
+          "name": {
+            "userPreferred": "Takuya Igarashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105087-aoj9RdnTaZ45.png"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (eps 10, 11)",
+        "node": {
+          "id": 105428,
+          "name": {
+            "userPreferred": "Michio Fukuda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105428-f4N2dkIvoM7d.png"
+          }
+        }
+      },
+      {
+        "role": "Insert Song Composition (\"Reason Living\"; eps 4, 12)",
+        "node": {
+          "id": 109351,
+          "name": {
+            "userPreferred": "Masatomo Oota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109351-Nw1hiTBfBt8B.png"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Composition (OP)",
+        "node": {
+          "id": 109351,
+          "name": {
+            "userPreferred": "Masatomo Oota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109351-Nw1hiTBfBt8B.png"
+          }
+        }
+      }
+    ]
+  },
+  "subCount": 12,
+  "dubCount": 0,
+  "updatedAt": "2026-08-04T15:48:57.779Z"
 }
