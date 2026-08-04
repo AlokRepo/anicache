@@ -14,12 +14,12 @@
     "Kimisui",
     "Eu Quero Comer Seu Pâncreas",
     "Хочу съесть твою поджелудочную железу",
-    "ตับอ่อนเธอนั้นขอฉันเถอะนะ"
+    "ตับอ่อนเธอนั้นขอฉันเถอะนะ",
+    "Tớ Muốn Ăn Tụy Của Cậu"
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-pNyly9d3MEgV.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-pNyly9d3MEgV.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-pNyly9d3MEgV.jpg"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99750-pNyly9d3MEgV.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99750-KPFW2Jv03b2B.jpg",
   "description": "Spring time in April and the last of the cherry blossoms are still in bloom. The usually aloof bookworm with no interest in others comes across a book in a hospital waiting room. Handwritten on the cover are the words: \"Living with Dying.\" He soon discovers that it is a diary kept by his very popular and genuinely cheerful classmate, Sakura Yamauchi, who reveals to him that she is secretly suffering from a pancreatic illness and only has a limited time left. It is at this moment that she gains just one more person to share her secret.<br>\n<br>\nTrying to maintain a normal life as much as possible, Sakura is determined to live her life to the fullest until the very last day. As her free spirit and unpredictable actions throw him for a loop, his heart begins to gradually change.\n<br><br>\n(Source: Aniplex USA)",
@@ -35,6 +35,7 @@
   "seasonYear": 2018,
   "duration": 108,
   "format": "MOVIE",
+  "isAdult": false,
   "startDate": {
     "year": 2018,
     "month": 9,
@@ -48,9 +49,9 @@
   "studios": {
     "edges": [
       {
-        "isMain": false,
+        "isMain": true,
         "node": {
-          "id": 1,
+          "id": 6164,
           "name": "Studio VOLN",
           "isAnimationStudio": false
         }
@@ -58,7 +59,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 2,
+          "id": 213,
           "name": "Half H.P Studio",
           "isAnimationStudio": false
         }
@@ -66,7 +67,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 3,
+          "id": 6340,
           "name": "Futabasha",
           "isAnimationStudio": false
         }
@@ -74,7 +75,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 4,
+          "id": 6377,
           "name": "ABC Animation",
           "isAnimationStudio": false
         }
@@ -82,7 +83,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 5,
+          "id": 6066,
           "name": "Asahi Shimbun",
           "isAnimationStudio": false
         }
@@ -90,7 +91,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 6,
+          "id": 6432,
           "name": "JR Higashi Nihon Kikaku",
           "isAnimationStudio": false
         }
@@ -98,7 +99,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 7,
+          "id": 6709,
           "name": "Tohan",
           "isAnimationStudio": false
         }
@@ -106,7 +107,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 8,
+          "id": 17,
           "name": "Aniplex",
           "isAnimationStudio": false
         }
@@ -116,13 +117,34 @@
   "nextAiringEpisode": null,
   "externalLinks": [
     {
+      "site": "Official Site",
+      "url": "http://kimisui-anime.com/",
+      "type": "INFO",
+      "language": "Japanese"
+    },
+    {
+      "site": "Twitter",
+      "url": "https://twitter.com/kimisui_anime/",
+      "type": "SOCIAL",
+      "language": "Japanese"
+    },
+    {
+      "site": "Official Site",
+      "url": "http://iwanttoeatyourpancreas.com/",
+      "type": "INFO",
+      "language": null
+    },
+    {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/81037593",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     }
   ],
   "tags": [
+    {
+      "name": "Tragedy"
+    },
     {
       "name": "Coming of Age"
     },
@@ -130,10 +152,10 @@
       "name": "Male Protagonist"
     },
     {
-      "name": "Female Protagonist"
+      "name": "Philosophy"
     },
     {
-      "name": "Philosophy"
+      "name": "Female Protagonist"
     },
     {
       "name": "Heterosexual"
@@ -142,613 +164,48 @@
       "name": "Primarily Teen Cast"
     },
     {
+      "name": "Classic Literature"
+    },
+    {
       "name": "Rehabilitation"
     },
     {
-      "name": "Classic Literature"
+      "name": "Achronological Order"
+    },
+    {
+      "name": "Unrequited Love"
+    },
+    {
+      "name": "School"
     }
   ],
-  "trailer": null,
+  "trailer": {
+    "id": "MmoBvmJA9XI",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/MmoBvmJA9XI/hqdefault.jpg"
+  },
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
+        "relationType": "ALTERNATIVE",
         "node": {
-          "id": 183385,
-          "idMal": 183385,
+          "id": 99609,
           "title": {
-            "romaji": "This Monster Wants to Eat Me",
-            "english": "This Monster Wants to Eat Me",
-            "native": "This Monster Wants to Eat Me"
+            "romaji": "Kimi no Suizou wo Tabetai",
+            "english": "I Want to Eat Your Pancreas"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183385-f1TgnttLckBT.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183385-f1TgnttLckBT.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183385-f1TgnttLckBT.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99609-hfnudDtTT1n5.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99609-hfnudDtTT1n5.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183385-f1TgnttLckBT.jpg",
-          "averageScore": 74,
-          "genres": [
-            "Drama",
-            "Horror",
-            "Psychological",
-            "Romance",
-            "Supernatural"
-          ],
-          "episodes": 13,
+          "averageScore": 83,
+          "isAdult": false,
+          "episodes": null,
+          "format": "MANGA",
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2025,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2025,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Horror"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21683,
-          "idMal": 21683,
-          "title": {
-            "romaji": "I Want to Deliver Your Voice",
-            "english": "I Want to Deliver Your Voice",
-            "native": "I Want to Deliver Your Voice"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21683-aEvZcmtN7Wtt.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21683-aEvZcmtN7Wtt.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21683-aEvZcmtN7Wtt.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21683-aEvZcmtN7Wtt.png",
-          "averageScore": 67,
-          "genres": [
-            "Drama",
-            "Music",
-            "Slice of Life"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Music"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 180746,
-          "idMal": 180746,
-          "title": {
-            "romaji": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
-            "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
-            "native": "SHIBOYUGI: Playing Death Games to Put Food on the Table"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg",
-          "averageScore": 71,
-          "genres": [
-            "Action",
-            "Drama",
-            "Mystery",
-            "Thriller"
-          ],
-          "episodes": 11,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Thriller"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 189565,
-          "idMal": 189565,
-          "title": {
-            "romaji": "You Can't Be In a Rom-Com with Your Childhood Friends!",
-            "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
-            "native": "You Can't Be In a Rom-Com with Your Childhood Friends!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189565-OHhadYSsd0Bg.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189565-OHhadYSsd0Bg.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189565-OHhadYSsd0Bg.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189565-OHhadYSsd0Bg.jpg",
-          "averageScore": 63,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 192867,
-          "idMal": 192867,
-          "title": {
-            "romaji": "Does it Count if You Lose Your Innocence to an Android?",
-            "english": "Does it Count if You Lose Your Innocence to an Android?",
-            "native": "Does it Count if You Lose Your Innocence to an Android?"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-AXAu2LP7YA7Y.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-AXAu2LP7YA7Y.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-AXAu2LP7YA7Y.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-AXAu2LP7YA7Y.jpg",
-          "averageScore": 60,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Romance",
-            "Sci-Fi"
-          ],
-          "episodes": 8,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV_SHORT",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 194393,
-          "idMal": 194393,
-          "title": {
-            "romaji": "I Want to End this Love Game",
-            "english": "I Want to End this Love Game",
-            "native": "I Want to End this Love Game"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
-          "averageScore": 72,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "episodes": 12,
-          "status": "RELEASING",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 197620,
-          "idMal": 197620,
-          "title": {
-            "romaji": "Sekiro: No Defeat",
-            "english": "Sekiro: No Defeat",
-            "native": "Sekiro: No Defeat"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197620-L0qFQZzbmj5z.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197620-L0qFQZzbmj5z.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197620-L0qFQZzbmj5z.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197620-L0qFQZzbmj5z.png",
-          "averageScore": 0,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 1,
-          "status": "NOT_YET_RELEASED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 199066,
-          "idMal": 199066,
-          "title": {
-            "romaji": "Hanaori-san Still Wants to Fight in the Next Life",
-            "english": "Hanaori-san Still Wants to Fight in the Next Life",
-            "native": "Hanaori-san Still Wants to Fight in the Next Life"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-o0aQNC5lcxFr.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-o0aQNC5lcxFr.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-o0aQNC5lcxFr.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-o0aQNC5lcxFr.jpg",
-          "averageScore": 0,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Supernatural"
-          ],
-          "episodes": 1,
-          "status": "NOT_YET_RELEASED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 199112,
-          "idMal": 199112,
-          "title": {
-            "romaji": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~",
-            "english": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~",
-            "native": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199112-WyGPtcAI5QZp.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199112-WyGPtcAI5QZp.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199112-WyGPtcAI5QZp.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199112-WyGPtcAI5QZp.jpg",
-          "averageScore": 80,
-          "genres": [
-            "Comedy",
-            "Romance"
-          ],
-          "episodes": 5,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 206949,
-          "idMal": 206949,
-          "title": {
-            "romaji": "Kyouran Reijou Nia Liston",
-            "english": "Kyouran Reijou Nia Liston",
-            "native": "Kyouran Reijou Nia Liston"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-OwIba0xC2YQm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-OwIba0xC2YQm.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-OwIba0xC2YQm.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-OwIba0xC2YQm.jpg",
-          "averageScore": 0,
-          "genres": [
-            "Fantasy"
-          ],
-          "episodes": 1,
-          "status": "NOT_YET_RELEASED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Fantasy"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 208044,
-          "idMal": 208044,
-          "title": {
-            "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
-            "english": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
-            "native": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208044-jweYvjbGKnCo.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208044-jweYvjbGKnCo.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208044-jweYvjbGKnCo.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208044-jweYvjbGKnCo.png",
-          "averageScore": 0,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "episodes": 1,
-          "status": "NOT_YET_RELEASED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 210234,
-          "idMal": 210234,
-          "title": {
-            "romaji": "Monster Eater",
-            "english": "Monster Eater",
-            "native": "Monster Eater"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210234-MZaMjdbBzEHz.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210234-MZaMjdbBzEHz.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210234-MZaMjdbBzEHz.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210234-MZaMjdbBzEHz.jpg",
-          "averageScore": 40,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "episodes": 9,
-          "status": "RELEASING",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV_SHORT",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
+          "season": null,
+          "seasonYear": null,
+          "duration": null
         }
       }
     ]
@@ -758,650 +215,664 @@
       {
         "mediaRecommendation": {
           "id": 20954,
-          "idMal": 20954,
           "title": {
-            "romaji": "A Silent Voice",
-            "english": "A Silent Voice",
-            "native": "A Silent Voice"
+            "romaji": "Koe no Katachi",
+            "english": "A Silent Voice"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20954-sYRfE5jQRtSB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20954-sYRfE5jQRtSB.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
           "averageScore": 88,
-          "genres": [
-            "Drama",
-            "Romance",
-            "Slice of Life"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 1,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 130
         }
       },
       {
         "mediaRecommendation": {
           "id": 20665,
-          "idMal": 20665,
           "title": {
-            "romaji": "Your lie in April",
-            "english": "Your lie in April",
-            "native": "Your lie in April"
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-TLgkL8T8IRFd.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-TLgkL8T8IRFd.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-TLgkL8T8IRFd.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20665-TLgkL8T8IRFd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20665-TLgkL8T8IRFd.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-TLgkL8T8IRFd.png",
           "averageScore": 84,
-          "genres": [
-            "Drama",
-            "Music",
-            "Romance",
-            "Slice of Life"
-          ],
+          "isAdult": false,
           "episodes": 22,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Music"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 23
         }
       },
       {
         "mediaRecommendation": {
-          "id": 4224,
-          "idMal": 4224,
+          "id": 1689,
           "title": {
-            "romaji": "Toradora!",
-            "english": "Toradora!",
-            "native": "Toradora!"
+            "romaji": "Byousoku 5 Centimeter",
+            "english": "5 Centimeters per Second"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1689-rJKhjLEjQHSy.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1689-rJKhjLEjQHSy.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1689-rJKhjLEjQHSy.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
-          "averageScore": 78,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance",
-            "Slice of Life"
-          ],
-          "episodes": 25,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2008,
-          "duration": 24,
+          "averageScore": 72,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2008,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 9989,
-          "idMal": 9989,
-          "title": {
-            "romaji": "Anohana: The Flower We Saw That Day",
-            "english": "Anohana: The Flower We Saw That Day",
-            "native": "Anohana: The Flower We Saw That Day"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9989-hImMg6kCMm6I.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9989-hImMg6kCMm6I.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9989-hImMg6kCMm6I.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9989-hImMg6kCMm6I.jpg",
-          "averageScore": 80,
-          "genres": [
-            "Drama",
-            "Romance",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 11,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2011,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2011,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 14813,
-          "idMal": 14813,
-          "title": {
-            "romaji": "My Teen Romantic Comedy SNAFU",
-            "english": "My Teen Romantic Comedy SNAFU",
-            "native": "My Teen Romantic Comedy SNAFU"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14813-3mNvcKNEQcDs.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14813-3mNvcKNEQcDs.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14813-3mNvcKNEQcDs.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14813-3mNvcKNEQcDs.jpg",
-          "averageScore": 78,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance",
-            "Slice of Life"
-          ],
-          "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 106286,
-          "idMal": 106286,
-          "title": {
-            "romaji": "Weathering With You",
-            "english": "Weathering With You",
-            "native": "Weathering With You"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
-          "averageScore": 81,
-          "genres": [
-            "Drama",
-            "Romance",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
+          "episodes": 3,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 22
         }
       },
       {
         "mediaRecommendation": {
-          "id": 14741,
-          "idMal": 14741,
+          "id": 21827,
           "title": {
-            "romaji": "Love, Chunibyo & Other Delusions",
-            "english": "Love, Chunibyo & Other Delusions",
-            "native": "Love, Chunibyo & Other Delusions"
+            "romaji": "Violet Evergarden",
+            "english": "Violet Evergarden"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14741-CGXEIeUe2roA.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14741-CGXEIeUe2roA.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14741-CGXEIeUe2roA.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21827-ubzq619ZA2E9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21827-ubzq619ZA2E9.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14741-CGXEIeUe2roA.jpg",
-          "averageScore": 76,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance",
-            "Slice of Life"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2012,
-          "duration": 24,
+          "averageScore": 85,
           "isAdult": false,
+          "episodes": 13,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 103572,
-          "idMal": 103572,
+          "id": 20872,
           "title": {
-            "romaji": "The Quintessential Quintuplets",
-            "english": "The Quintessential Quintuplets",
-            "native": "The Quintessential Quintuplets"
+            "romaji": "Plastic Memories",
+            "english": "Plastic Memories"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103572-cchriAdH95cQ.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103572-cchriAdH95cQ.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103572-cchriAdH95cQ.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20872-j5PBzzVtrYDM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20872-j5PBzzVtrYDM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20872-j5PBzzVtrYDM.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103572-cchriAdH95cQ.png",
-          "averageScore": 75,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance",
-            "Slice of Life"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
+          "averageScore": 77,
           "isAdult": false,
+          "episodes": 13,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 105334,
-          "idMal": 105334,
-          "title": {
-            "romaji": "Fruits Basket (2019)",
-            "english": "Fruits Basket (2019)",
-            "native": "Fruits Basket (2019)"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105334-AZwEdMu4KFtV.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105334-AZwEdMu4KFtV.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105334-AZwEdMu4KFtV.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105334-AZwEdMu4KFtV.jpg",
-          "averageScore": 82,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 25,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
           "id": 2167,
-          "idMal": 2167,
           "title": {
-            "romaji": "Clannad",
-            "english": "Clannad",
-            "native": "Clannad"
+            "romaji": "CLANNAD",
+            "english": "Clannad"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2167-pSDBcyc0vjej.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2167-pSDBcyc0vjej.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2167-pSDBcyc0vjej.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2167-pSDBcyc0vjej.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2167-pSDBcyc0vjej.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2167-pSDBcyc0vjej.jpg",
           "averageScore": 77,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance",
-            "Slice of Life",
-            "Supernatural"
-          ],
+          "isAdult": false,
           "episodes": 23,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2007,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2007,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 13759,
-          "idMal": 13759,
+          "id": 21519,
           "title": {
-            "romaji": "The Pet Girl of Sakurasou",
-            "english": "The Pet Girl of Sakurasou",
-            "native": "The Pet Girl of Sakurasou"
+            "romaji": "Kimi no Na wa.",
+            "english": "Your Name."
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13759-xNf0gJK4Axt2.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13759-xNf0gJK4Axt2.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13759-xNf0gJK4Axt2.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-SUo3ZQuCbYhJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-SUo3ZQuCbYhJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21519-SUo3ZQuCbYhJ.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13759-xNf0gJK4Axt2.jpg",
-          "averageScore": 78,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance",
-            "Slice of Life"
-          ],
-          "episodes": 24,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2012,
-          "duration": 24,
+          "averageScore": 86,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 107
         }
       },
       {
         "mediaRecommendation": {
-          "id": 20698,
-          "idMal": 20698,
+          "id": 9989,
           "title": {
-            "romaji": "My Teen Romantic Comedy SNAFU TOO!",
-            "english": "My Teen Romantic Comedy SNAFU TOO!",
-            "native": "My Teen Romantic Comedy SNAFU TOO!"
+            "romaji": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+            "english": "Anohana: The Flower We Saw That Day"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20698-YZIYor2zW3Ta.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20698-YZIYor2zW3Ta.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20698-YZIYor2zW3Ta.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9989-hImMg6kCMm6I.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9989-hImMg6kCMm6I.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9989-hImMg6kCMm6I.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20698-YZIYor2zW3Ta.png",
+          "averageScore": 80,
+          "isAdult": false,
+          "episodes": 11,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 22
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 587,
+          "title": {
+            "romaji": "Hanbun no Tsuki ga Noboru Sora",
+            "english": "Looking Up at the Half-Moon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx587-Y2r6jh7QNccg.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx587-Y2r6jh7QNccg.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx587-Y2r6jh7QNccg.png"
+          },
+          "averageScore": 70,
+          "isAdult": false,
+          "episodes": 6,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 105018,
+          "title": {
+            "romaji": "Kimi to, Nami ni Noretara",
+            "english": "Ride Your Wave"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105018-XM7rFyryltjb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105018-XM7rFyryltjb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105018-XM7rFyryltjb.jpg"
+          },
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 94
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 106286,
+          "title": {
+            "romaji": "Tenki no Ko",
+            "english": "Weathering With You"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106286-5COcpd0J9VbL.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx106286-5COcpd0J9VbL.png"
+          },
           "averageScore": 81,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance",
-            "Slice of Life"
-          ],
-          "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 115
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 743,
+          "title": {
+            "romaji": "Umi ga Kikoeru",
+            "english": "Ocean Waves"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx743-xbLqrRYuiKUJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx743-xbLqrRYuiKUJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx743-xbLqrRYuiKUJ.png"
+          },
+          "averageScore": 63,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "duration": 72
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 127116,
+          "name": {
+            "userPreferred": "Haruki Shiga"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127116-u2fIKMSYDdVj.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 127117,
+            "name": {
+              "userPreferred": "Mahiro Takasugi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/127117-OEMisJ12arjN.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 127118,
+          "name": {
+            "userPreferred": "Sakura Yamauchi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127118-XEvgt4yHSkQv.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 118806,
+            "name": {
+              "userPreferred": "Lynn"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118806-2aFjOHv08Iwm.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 133276,
+          "name": {
+            "userPreferred": "Issei Miyata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133276-4KX7vtZ6oQfN.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 105094,
+            "name": {
+              "userPreferred": "Jun Fukushima"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105094-Udz3lBFTZa5W.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 133277,
+          "name": {
+            "userPreferred": "Takahiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133277-yBGHCfo77UUv.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 119617,
+            "name": {
+              "userPreferred": "Yuuma Uchida"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 134460,
+          "name": {
+            "userPreferred": "Haruki no Haha"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134460-PVwi6xwYXqTS.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95100,
+            "name": {
+              "userPreferred": "Atsuko Tanaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-v07xvA8V2Yeh.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 134461,
+          "name": {
+            "userPreferred": "Kyoko Takimoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134461-0JqcCi30rN45.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 106162,
+            "name": {
+              "userPreferred": "Yukiyo Fujii"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106162-k7Jn7QGysSFk.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 134462,
+          "name": {
+            "userPreferred": "Haruki no Chichi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134462-AeWlVY6YZryS.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95022,
+            "name": {
+              "userPreferred": "Shinichirou Miki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 134463,
+          "name": {
+            "userPreferred": "Sakura no Haha"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134463-SXhA6Tg1n00H.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 134464,
+            "name": {
+              "userPreferred": "Emi Wakui"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n134464-9KkSNaka4IPh.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 377945,
+          "name": {
+            "userPreferred": "Omawari-san 1"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 175649,
+            "name": {
+              "userPreferred": "Kenta Kataoka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n175649-Q0q61lsgh3Ra.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 401315,
+          "name": {
+            "userPreferred": "Salaryman"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 267835,
+            "name": {
+              "userPreferred": "Takayuki Ogawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
+    "edges": [
+      {
+        "role": "Script Assistance",
+        "node": {
+          "id": 98113,
+          "name": {
+            "userPreferred": "Youichi Takahashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      },
+      {
+        "role": "Finishing",
+        "node": {
+          "id": 98766,
+          "name": {
+            "userPreferred": "Arisa Komatsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98766-UrSeRCTe8QS5.jpg"
+          }
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 102466,
+          "name": {
+            "userPreferred": "Daisuke Yoshida"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102466-ZsuIUPn1DgQH.png"
+          }
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 102466,
+          "name": {
+            "userPreferred": "Daisuke Yoshida"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102466-ZsuIUPn1DgQH.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 103064,
+          "name": {
+            "userPreferred": "Akio Sugino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103064-Nc8fgYOcBCSY.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 103184,
+          "name": {
+            "userPreferred": "Toshiyuki Komaru"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103184-xJpw4cFw0aaR.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 103251,
+          "name": {
+            "userPreferred": "Kyouko Yufu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103251-NtyK9PjWSfJg.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 104457,
+          "name": {
+            "userPreferred": "Toshiya Washida"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104457-2IKwEQWGcwLm.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 105088,
+          "name": {
+            "userPreferred": "Toshiyuki Kanno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10088.jpg"
+          }
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 105088,
+          "name": {
+            "userPreferred": "Toshiyuki Kanno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10088.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 105226,
+          "name": {
+            "userPreferred": "Mika Takahashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105226-1Zq3WL9RrrIZ.jpg"
+          }
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 105226,
+          "name": {
+            "userPreferred": "Mika Takahashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105226-1Zq3WL9RrrIZ.jpg"
+          }
+        }
+      },
+      {
+        "role": "Assistant Art Director",
+        "node": {
+          "id": 106485,
+          "name": {
+            "userPreferred": "Keito Watanabe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      },
+      {
+        "role": "Art Design",
+        "node": {
+          "id": 106485,
+          "name": {
+            "userPreferred": "Keito Watanabe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      },
+      {
+        "role": "Planning",
+        "node": {
+          "id": 109031,
+          "name": {
+            "userPreferred": "Atsuhiro Iwakami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109031-dwx9wRDFxquk.jpg"
+          }
+        }
+      }
+    ]
   },
-  "anikotoEpisodeList": []
+  "subCount": 1,
+  "dubCount": 0,
+  "updatedAt": "2026-08-04T13:47:38.375Z"
 }
