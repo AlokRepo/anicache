@@ -1,7 +1,7 @@
 {
   "animeId": 199748,
   "episode": 5,
-  "updatedAt": "2026-08-03T09:48:01.189Z",
+  "updatedAt": "2026-08-04T10:25:24.762Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/62617/5/sub",
@@ -24,19 +24,9 @@
       "label": "Nest"
     },
     {
-      "key": "anikoto-kiwi--360p-",
-      "label": "Kiwi (360p)",
-      "rawName": "Kiwi (360p)"
-    },
-    {
-      "key": "anikoto-kiwi--720p-",
-      "label": "Kiwi (720p)",
-      "rawName": "Kiwi (720p)"
-    },
-    {
-      "key": "anikoto-kiwi--1080p-",
-      "label": "Kiwi (1080p)",
-      "rawName": "Kiwi (1080p)"
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
     },
     {
       "key": "anikoto-vidstream-2",
@@ -72,24 +62,43 @@
         "server": "nest"
       },
       {
-        "name": "Kiwi (360p)",
-        "url": "https://kwik.cx/f/SqBOhiFWiUxT"
-      },
-      {
-        "name": "Kiwi (720p)",
-        "url": "https://kwik.cx/f/9t6vAeia43pO"
-      },
-      {
-        "name": "Kiwi (1080p)",
-        "url": "https://kwik.cx/f/K0XCYMluri6M"
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/ckbeP",
+          "720p": "https://pahe.nekostream.site/vDjFi",
+          "1080p": "https://pahe.nekostream.site/ReoNV"
+        }
       },
       {
         "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/187476/sub"
+        "url": "https://megaplay.buzz/stream/s-2/187476/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            90
+          ],
+          "outro": [
+            1325,
+            1415
+          ]
+        }
       },
       {
         "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/MnkvOW5BVkp3dE05UEpGWVk3WkluNWhYckkzbDBWelJ5a0Exb25ycXNRSmx5MzJFK28vRm1MdDUybHlwbHNFSG1xL1B4NHpOWmhFTUhGaVFqellWT0E9PQ/sub"
+        "url": "https://vidtube.site/stream/MnkvOW5BVkp3dE05UEpGWVk3WkluNWhYckkzbDBWelJ5a0Exb25ycXNRSmx5MzJFK28vRm1MdDUybHlwbHNFSG1xL1B4NHpOWmhFTUhGaVFqellWT0E9PQ/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            90
+          ],
+          "outro": [
+            1325,
+            1415
+          ]
+        }
       }
     ],
     "dub": [
