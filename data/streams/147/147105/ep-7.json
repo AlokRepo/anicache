@@ -1,10 +1,11 @@
 {
   "animeId": 147105,
   "episode": 7,
-  "updatedAt": "2026-08-04T01:52:42.718Z",
+  "updatedAt": "2026-08-04T07:17:04.984Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/51553/7/sub",
+  "downloadUrl": "https://pahe.nekostream.site/NDhqo",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,26 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -44,6 +65,60 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/147105/7/sub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/NDhqo",
+          "720p": "https://pahe.nekostream.site/FQOLd",
+          "1080p": "https://pahe.nekostream.site/wIeBY"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/871500700/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            148,
+            238
+          ],
+          "outro": [
+            1325,
+            1420
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/871500700/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            148,
+            238
+          ],
+          "outro": [
+            1325,
+            1420
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/RDNLSGRuZjUzNStSSGZ1aFc0T2tobFQ3UVVtRWJZZEgwcG1oMHM5N3ZoOD0/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            148,
+            238
+          ],
+          "outro": [
+            1325,
+            1420
+          ]
+        }
       }
     ],
     "dub": [
@@ -66,6 +141,60 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/147105/7/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/QCrWW",
+          "720p": "https://pahe.nekostream.site/HOgCX",
+          "1080p": "https://pahe.nekostream.site/koDAj"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/871500700/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            148,
+            238
+          ],
+          "outro": [
+            1325,
+            1420
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/871500700/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            148,
+            238
+          ],
+          "outro": [
+            1325,
+            1420
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/RDNLSGRuZjUzNStSSGZ1aFc0T2tobFQ3UVVtRWJZZEgwcG1oMHM5N3ZoOD0/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            148,
+            238
+          ],
+          "outro": [
+            1325,
+            1420
+          ]
+        }
       }
     ]
   },
