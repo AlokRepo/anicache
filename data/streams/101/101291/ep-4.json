@@ -1,11 +1,11 @@
 {
   "animeId": 101291,
   "episode": 4,
-  "updatedAt": "2026-08-03T17:32:57.135Z",
+  "updatedAt": "2026-08-04T10:18:31.500Z",
   "server": "megaplay",
   "lang": "dub",
   "streamUrl": "https://megaplay.buzz/stream/mal/37450/4/dub",
-  "downloadUrl": "https://anikoto.cz/watch/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai-picture-drama-1nwx2/ep-4",
+  "downloadUrl": "https://megaplay.buzz/stream/s-5/98953/sub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,6 +22,21 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -45,6 +60,51 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/101291/4/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/98953/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/98953/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/azVuSVFpeW1DUUhmTUcybHA2SGRwMi83U2VqMlZMSEVQclpwdWZPNG1MWVNrNjlxUGl2STRoT0pnTzE0Y0tSK1NFdnpVYmR0cHJPZ3ZFb3pQb2o1WHlNbnhXR1ZqY1FRT29FNk5TRk9WK2M9/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ],
     "dub": [
