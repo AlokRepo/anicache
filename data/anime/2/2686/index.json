@@ -12,11 +12,12 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2686-TuhNXLgXsszW.png",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2686-TuhNXLgXsszW.png"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2686-TuhNXLgXsszW.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2686-TuhNXLgXsszW.png"
   },
-  "bannerImage": null,
+  "bannerImage": "https://image.tmdb.org/t/p/original/rwldVfSKCLeNpeXLq5a0a5WEZDy.jpg",
   "description": "Dr.Haneda was developing experimental giant robot warriors to fight the allies during the Second World War, but before his creations could see action, Allied bombs destroyed the facility and killed him. A decade later criminals discovered two of the surviving prototypes, #26 and 27 in the series, and used the remote controlled robots to commit a number of crimes. Young Shotaro Haneda, the twelve year old son of Dr.Haneda, did some investigating and discovered that the mob were hunting for the twenty-eighth robot in the series, rumoured to be the most powerful of them all. Racing the villains, Shotaro discovers the robot first, along with Dr.Shikashima, a colleague of his father's who was also believed killed by the Allied bombing. Together the two prevent Tetusjin-28 (the robot's official designation) from falling into the hands of the bad guys, and decide to dedicate him to peace rather than war.<br><br>\nShotaro fought crime for a long time, supported by Dr.Shikashima, who would repair Tetsujin-28 when he was damaged, and by police officer Otsuka. Shotaro even battled the alien Magmans, invaders from the planet Magma, who came to Earth late in his career, bringing their own giant robots, Magma X and Gold Wolf, with them.",
-  "averageScore": 59,
+  "averageScore": 58,
   "genres": [
     "Adventure",
     "Mecha",
@@ -42,9 +43,9 @@
   "studios": {
     "edges": [
       {
-        "isMain": true,
+        "isMain": false,
         "node": {
-          "id": 191,
+          "id": 1,
           "name": "Eiken",
           "isAnimationStudio": false
         }
@@ -52,7 +53,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 53,
+          "id": 2,
           "name": "Dentsu",
           "isAnimationStudio": false
         }
@@ -60,7 +61,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 489,
+          "id": 3,
           "name": "TCJ",
           "isAnimationStudio": false
         }
@@ -68,7 +69,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 6870,
+          "id": 4,
           "name": "Ezaki Glico",
           "isAnimationStudio": false
         }
@@ -76,14 +77,7 @@
     ]
   },
   "nextAiringEpisode": null,
-  "externalLinks": [
-    {
-      "site": "Official Site",
-      "url": "https://eiken-anime.jp/works/鉄人28号/",
-      "type": "INFO",
-      "language": "Japanese"
-    }
-  ],
+  "externalLinks": [],
   "tags": [
     {
       "name": "Achromatic"
@@ -99,617 +93,711 @@
     },
     {
       "name": "Military"
-    },
-    {
-      "name": "Detective"
     }
   ],
   "trailer": null,
   "relations": {
-    "edges": [
-      {
-        "relationType": "ADAPTATION",
-        "node": {
-          "id": 76486,
-          "title": {
-            "romaji": "Tetsujin 28-gou",
-            "english": null
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46486.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46486.jpg"
-          },
-          "averageScore": null,
-          "isAdult": false,
-          "episodes": null,
-          "format": "MANGA",
-          "status": "FINISHED",
-          "season": null,
-          "seasonYear": null,
-          "duration": null
-        }
-      },
-      {
-        "relationType": "ALTERNATIVE",
-        "node": {
-          "id": 2337,
-          "title": {
-            "romaji": "Tetsujin 28-gou (2004)",
-            "english": "Tetsujin 28"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2337-5bWtfDud2VHi.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2337-5bWtfDud2VHi.png"
-          },
-          "averageScore": 73,
-          "isAdult": false,
-          "episodes": 26,
-          "format": "TV",
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2004,
-          "duration": 25
-        }
-      },
-      {
-        "relationType": "SEQUEL",
-        "node": {
-          "id": 145563,
-          "title": {
-            "romaji": "Tetsujin 28-gou 2",
-            "english": null
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145563-nAeylCSNqcOM.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145563-nAeylCSNqcOM.png"
-          },
-          "averageScore": null,
-          "isAdult": false,
-          "episodes": 13,
-          "format": "TV",
-          "status": "FINISHED",
-          "season": "FALL",
-          "seasonYear": 1965,
-          "duration": 25
-        }
-      }
-    ]
+    "edges": []
   },
   "recommendations": {
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 2253,
+          "id": 237,
+          "idMal": 237,
           "title": {
-            "romaji": "Mazinger Z",
-            "english": "Mazinger Z"
+            "romaji": "Eureka Seven",
+            "english": "Eureka Seven",
+            "native": "Eureka Seven"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2253-nS4Os86CPB5a.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2253-nS4Os86CPB5a.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2253-nS4Os86CPB5a.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx237-P1YEQQFqZ1An.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx237-P1YEQQFqZ1An.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx237-P1YEQQFqZ1An.jpg"
           },
-          "averageScore": 68,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx237-P1YEQQFqZ1An.jpg",
+          "averageScore": 78,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "episodes": 50,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2005,
+          "duration": 24,
           "isAdult": false,
-          "episodes": 92,
           "format": "TV",
-          "status": "FINISHED",
-          "duration": 25
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2005,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 1666,
+          "id": 16524,
+          "idMal": 16524,
           "title": {
-            "romaji": "Babel Nisei (1973)",
-            "english": null
+            "romaji": "Gargantia on the Verdurous Planet",
+            "english": "Gargantia on the Verdurous Planet",
+            "native": "Gargantia on the Verdurous Planet"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1666-vBYpqA5tAbQG.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1666-vBYpqA5tAbQG.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1666-vBYpqA5tAbQG.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16524-xox2OUR3L1at.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16524-xox2OUR3L1at.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16524-xox2OUR3L1at.png"
           },
-          "averageScore": 57,
-          "isAdult": false,
-          "episodes": 39,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 25
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 10648,
-          "title": {
-            "romaji": "Mars",
-            "english": null
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10648-ZFgUdVSQJVRc.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10648-ZFgUdVSQJVRc.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx10648-ZFgUdVSQJVRc.jpg"
-          },
-          "averageScore": 49,
-          "isAdult": false,
-          "episodes": 2,
-          "format": "OVA",
-          "status": "CANCELLED",
-          "duration": 30
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 132038,
-          "title": {
-            "romaji": "Giant Robo: Prologue-hen",
-            "english": null
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132038-gMj4M3lPyU1o.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132038-gMj4M3lPyU1o.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b132038-gMj4M3lPyU1o.jpg"
-          },
-          "averageScore": 52,
-          "isAdult": false,
-          "episodes": 1,
-          "format": "SPECIAL",
-          "status": "FINISHED",
-          "duration": 4
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 2321,
-          "title": {
-            "romaji": "Giant Robo THE ANIMATION: Chikyuu ga Seishi Suru Hi",
-            "english": "Giant Robo the Animation: The Day the Earth Stood Still"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2321-ETrAaZnKGpUS.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2321-ETrAaZnKGpUS.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx2321-ETrAaZnKGpUS.jpg"
-          },
-          "averageScore": 76,
-          "isAdult": false,
-          "episodes": 7,
-          "format": "OVA",
-          "status": "FINISHED",
-          "duration": 49
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 2322,
-          "title": {
-            "romaji": "Giant Robo Gaiden GinRei",
-            "english": null
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2322-ponF6coqrn1g.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2322-ponF6coqrn1g.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2322-ponF6coqrn1g.png"
-          },
-          "averageScore": 61,
-          "isAdult": false,
-          "episodes": 3,
-          "format": "OVA",
-          "status": "FINISHED",
-          "duration": 30
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 3146,
-          "title": {
-            "romaji": "GR: Giant Robo",
-            "english": null
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3146-BMYb9OTZ4iC3.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3146-BMYb9OTZ4iC3.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3146-BMYb9OTZ4iC3.jpg"
-          },
-          "averageScore": 63,
-          "isAdult": false,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16524-xox2OUR3L1at.png",
+          "averageScore": 72,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
           "episodes": 13,
-          "format": "TV",
           "status": "FINISHED",
-          "duration": 25
+          "season": "SPRING",
+          "seasonYear": 2013,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2013,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 5311,
+          "id": 183274,
+          "idMal": 183274,
           "title": {
-            "romaji": "Astroganger",
-            "english": "Astroganger"
+            "romaji": "I'm the Evil Lord of an Intergalactic Empire!",
+            "english": "I'm the Evil Lord of an Intergalactic Empire!",
+            "native": "I'm the Evil Lord of an Intergalactic Empire!"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5311-vucBt7dCx23C.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5311-vucBt7dCx23C.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5311-vucBt7dCx23C.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183274-zqrwevS4PBJF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183274-zqrwevS4PBJF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183274-zqrwevS4PBJF.jpg"
           },
-          "averageScore": 52,
-          "isAdult": false,
-          "episodes": 26,
-          "format": "TV",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183274-zqrwevS4PBJF.jpg",
+          "averageScore": 68,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "episodes": 12,
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 2025,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Ecchi"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 108987,
+          "idMal": 108987,
+          "title": {
+            "romaji": "SAKUGAN",
+            "english": "SAKUGAN",
+            "native": "SAKUGAN"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108987-rdPglVthrZP2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108987-rdPglVthrZP2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108987-rdPglVthrZP2.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108987-rdPglVthrZP2.jpg",
+          "averageScore": 63,
+          "genres": [
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2021,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 90,
+          "idMal": 90,
+          "title": {
+            "romaji": "Mobile Suit Gundam Wing",
+            "english": "Mobile Suit Gundam Wing",
+            "native": "Mobile Suit Gundam Wing"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b90-umBjF3yaeIdo.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b90-umBjF3yaeIdo.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b90-umBjF3yaeIdo.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b90-umBjF3yaeIdo.png",
+          "averageScore": 71,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "episodes": 49,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 1995,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 1995,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 109856,
+          "idMal": 109856,
+          "title": {
+            "romaji": "Listeners",
+            "english": "Listeners",
+            "native": "Listeners"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109856-zDYLvuF4Vuno.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109856-zDYLvuF4Vuno.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109856-zDYLvuF4Vuno.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109856-zDYLvuF4Vuno.jpg",
+          "averageScore": 49,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Music",
+            "Sci-Fi"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2020,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Music"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 81,
+          "idMal": 81,
+          "title": {
+            "romaji": "Mobile Suit Gundam: The 08th MS Team",
+            "english": "Mobile Suit Gundam: The 08th MS Team",
+            "native": "Mobile Suit Gundam: The 08th MS Team"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx81-qBgqd932d9lW.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx81-qBgqd932d9lW.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx81-qBgqd932d9lW.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx81-qBgqd932d9lW.jpg",
+          "averageScore": 77,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 1996,
+          "duration": 24,
+          "isAdult": false,
+          "format": "OVA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 1996,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1816,
+          "idMal": 1816,
+          "title": {
+            "romaji": "Sonic X",
+            "english": "Sonic X",
+            "native": "Sonic X"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1816-yxbOVMuD7SAJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1816-yxbOVMuD7SAJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1816-yxbOVMuD7SAJ.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1816-yxbOVMuD7SAJ.png",
+          "averageScore": 64,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "episodes": 52,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2003,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2003,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 82,
+          "idMal": 82,
+          "title": {
+            "romaji": "Mobile Suit Gundam 0080: War in the Pocket",
+            "english": "Mobile Suit Gundam 0080: War in the Pocket",
+            "native": "Mobile Suit Gundam 0080: War in the Pocket"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx82-aw5fvnBOYuNw.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx82-aw5fvnBOYuNw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx82-aw5fvnBOYuNw.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx82-aw5fvnBOYuNw.png",
+          "averageScore": 80,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "episodes": 6,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 1989,
+          "duration": 24,
+          "isAdult": false,
+          "format": "OVA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 1989,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 95,
+          "idMal": 95,
+          "title": {
+            "romaji": "Turn A Gundam",
+            "english": "Turn A Gundam",
+            "native": "Turn A Gundam"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx95-5okHk1B0VKro.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx95-5okHk1B0VKro.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx95-5okHk1B0VKro.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx95-5okHk1B0VKro.jpg",
+          "averageScore": 80,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "episodes": 50,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 1999,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 1999,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 12471,
+          "idMal": 12471,
+          "title": {
+            "romaji": "Eureka Seven AO",
+            "english": "Eureka Seven AO",
+            "native": "Eureka Seven AO"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12471-XFE6k5eDGhOt.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12471-XFE6k5eDGhOt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12471-XFE6k5eDGhOt.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12471-XFE6k5eDGhOt.jpg",
+          "averageScore": 62,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "episodes": 24,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2012,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 167,
+          "idMal": 167,
+          "title": {
+            "romaji": "Scrapped Princess",
+            "english": "Scrapped Princess",
+            "native": "Scrapped Princess"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b167-qwMN7Wmlen5s.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b167-qwMN7Wmlen5s.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b167-qwMN7Wmlen5s.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b167-qwMN7Wmlen5s.jpg",
+          "averageScore": 71,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "episodes": 24,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2003,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2003,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
         }
       }
     ]
   },
   "characters": {
-    "edges": [
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 38929,
-          "name": {
-            "userPreferred": "Shoutarou Kaneda"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38929-SyiEp94g5x3w.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 115072,
-            "name": {
-              "userPreferred": "Kazue Takahashi"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/20072.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 11510,
-          "name": {
-            "userPreferred": "Kenji Murasame"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/11510.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 226708,
-            "name": {
-              "userPreferred": "Shirou Kuno"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-            }
-          },
-          {
-            "id": 370977,
-            "name": {
-              "userPreferred": "Toshio Andou"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 38930,
-          "name": {
-            "userPreferred": "Ootsuka Shochou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38930-W0QrwJkfpoEs.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 101792,
-            "name": {
-              "userPreferred": "Kousei Tomita"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101792-hWklcmOIkrDO.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 38933,
-          "name": {
-            "userPreferred": "Shikishima Hakase"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38933-QKFgCJsaq3ny.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 106819,
-            "name": {
-              "userPreferred": "Minoru Yada"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106819-0BhkgrYd31wo.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 39836,
-          "name": {
-            "userPreferred": "Shutain Franken"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b39836-QsKGgDysULTa.png"
-          }
-        },
-        "voiceActors": []
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 226713,
-          "name": {
-            "userPreferred": "Black Dog Hakase"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 226712,
-            "name": {
-              "userPreferred": "Yoshihisa Kamo"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 297701,
-          "name": {
-            "userPreferred": "Dragnet Hakase"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b297701-418NHUphMmtP.jpg"
-          }
-        },
-        "voiceActors": []
-      },
-      {
-        "role": "BACKGROUND",
-        "node": {
-          "id": 36309,
-          "name": {
-            "userPreferred": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 101455,
-            "name": {
-              "userPreferred": "Yuzuru Fujimoto"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6455.jpg"
-            }
-          },
-          {
-            "id": 103860,
-            "name": {
-              "userPreferred": "Fuyumi Shiraishi"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103860-jVyAdLz2MZf1.png"
-            }
-          }
-        ]
-      }
-    ]
+    "edges": []
   },
   "staff": {
-    "edges": [
-      {
-        "role": "ADR Director (English)",
-        "node": {
-          "id": 96367,
-          "name": {
-            "userPreferred": "Peter Fernandez"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1367.jpg"
-          }
-        }
-      },
-      {
-        "role": "Original Creator",
-        "node": {
-          "id": 98679,
-          "name": {
-            "userPreferred": "Mitsuteru Yokoyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98679-lV6RRPXe7b7z.jpg"
-          }
-        }
-      },
-      {
-        "role": "Theme Song Lyrics (ED)",
-        "node": {
-          "id": 120334,
-          "name": {
-            "userPreferred": "Akira Itou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120334-i67BBMSfoqJm.png"
-          }
-        }
-      },
-      {
-        "role": "Script",
-        "node": {
-          "id": 147209,
-          "name": {
-            "userPreferred": "Isao Matsuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Theme Song Performance (OP)",
-        "node": {
-          "id": 161879,
-          "name": {
-            "userPreferred": "Duke Aces"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n161879-5SF9eQAvOXJU.png"
-          }
-        }
-      },
-      {
-        "role": "Theme Song Composition (ED)",
-        "node": {
-          "id": 180223,
-          "name": {
-            "userPreferred": "Koshibe Nobuyoshi "
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n180223-qYCSrInXQwNJ.jpg"
-          }
-        }
-      },
-      {
-        "role": "Theme Song Arrangement (ED)",
-        "node": {
-          "id": 180223,
-          "name": {
-            "userPreferred": "Koshibe Nobuyoshi "
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n180223-qYCSrInXQwNJ.jpg"
-          }
-        }
-      },
-      {
-        "role": "Episode Director",
-        "node": {
-          "id": 218035,
-          "name": {
-            "userPreferred": "Yonehiko Watanabe"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Music",
-        "node": {
-          "id": 220366,
-          "name": {
-            "userPreferred": "Hideo Arashino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Theme Song Composition (OP)",
-        "node": {
-          "id": 226714,
-          "name": {
-            "userPreferred": "Torirou Miki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Theme Song Arrangement (OP)",
-        "node": {
-          "id": 226714,
-          "name": {
-            "userPreferred": "Torirou Miki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Theme Song Lyrics (OP)",
-        "node": {
-          "id": 226714,
-          "name": {
-            "userPreferred": "Torirou Miki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Script",
-        "node": {
-          "id": 226715,
-          "name": {
-            "userPreferred": "Kinzou Okamoto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Episode Director",
-        "node": {
-          "id": 236794,
-          "name": {
-            "userPreferred": "Kiyoshi Oonishi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Episode Director",
-        "node": {
-          "id": 236796,
-          "name": {
-            "userPreferred": "Isao Kawauchi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      }
-    ]
+    "edges": []
   },
   "subCount": 83,
   "dubCount": 0,
-  "updatedAt": "2026-08-03T11:27:01.595Z"
+  "updatedAt": "2026-08-04T12:02:39.536Z"
 }
