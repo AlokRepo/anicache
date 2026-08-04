@@ -1,10 +1,10 @@
 {
   "animeId": 11061,
   "episode": 27,
-  "updatedAt": "2026-08-02T10:17:11.647Z",
+  "updatedAt": "2026-08-04T01:16:40.167Z",
   "server": "megaplay",
-  "lang": "dub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/11061/27/dub",
+  "lang": "sub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/11061/27/sub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -24,14 +24,75 @@
     }
   ],
   "serversData": {
-    "sub": [],
-    "dub": []
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/11061/27/sub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/11061/27/sub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/11061/27",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/11061/27/sub?color=39FF14",
+        "server": "nest"
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/11061/27/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/11061/27/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/11061/27",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/11061/27/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
   },
   "sources": [
     {
-      "url": "https://megaplay.buzz/stream/mal/11061/27/dub",
-      "server": "megaplay",
-      "lang": "dub"
+      "name": "Mega",
+      "url": "https://megaplay.buzz/stream/mal/11061/27/sub",
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/11061/27/sub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/11061/27",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/11061/27/sub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
     }
   ]
 }
