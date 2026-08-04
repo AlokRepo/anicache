@@ -1,7 +1,7 @@
 {
   "animeId": 21364,
   "episode": 12,
-  "updatedAt": "2026-08-03T00:54:21.625Z",
+  "updatedAt": "2026-08-04T15:14:49.762Z",
   "server": "megaplay",
   "lang": "dub",
   "streamUrl": "https://megaplay.buzz/stream/mal/31637/12/dub",
@@ -24,14 +24,9 @@
       "label": "Nest"
     },
     {
-      "key": "anikoto-kiwi--720p-",
-      "label": "Kiwi (720p)",
-      "rawName": "Kiwi (720p)"
-    },
-    {
-      "key": "anikoto-kiwi--1080p-",
-      "label": "Kiwi (1080p)",
-      "rawName": "Kiwi (1080p)"
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
     },
     {
       "key": "anikoto-hd-1",
@@ -72,24 +67,57 @@
         "server": "nest"
       },
       {
-        "name": "Kiwi (720p)",
-        "url": "https://kwik.cx/f/CNhY3xclxpJ9"
-      },
-      {
-        "name": "Kiwi (1080p)",
-        "url": "https://kwik.cx/f/5dPUZJzBw3K7"
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "720p": "https://pahe.nekostream.site/zHllN",
+          "1080p": "https://pahe.nekostream.site/isLPI"
+        }
       },
       {
         "name": "HD-1",
-        "url": "https://megaplay.buzz/stream/s-5/14239/sub"
+        "url": "https://megaplay.buzz/stream/s-5/14239/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       },
       {
         "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/14239/sub"
+        "url": "https://megaplay.buzz/stream/s-2/14239/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       },
       {
         "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/WGNhV2t6T1Vhbk1WbGRnWGd0TWtSNjYrNVFNMHpGcGpLZXN0SHdxSmFEMD0/sub"
+        "url": "https://vidtube.site/stream/WGNhV2t6T1Vhbk1WbGRnWGd0TWtSNjYrNVFNMHpGcGpLZXN0SHdxSmFEMD0/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ],
     "dub": [
@@ -115,15 +143,48 @@
       },
       {
         "name": "HD-1",
-        "url": "https://megaplay.buzz/stream/s-5/14239/dub"
+        "url": "https://megaplay.buzz/stream/s-5/14239/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       },
       {
         "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/14239/dub"
+        "url": "https://megaplay.buzz/stream/s-2/14239/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       },
       {
         "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/WGNhV2t6T1Vhbk1WbGRnWGd0TWtSNjYrNVFNMHpGcGpLZXN0SHdxSmFEMD0/dub"
+        "url": "https://vidtube.site/stream/WGNhV2t6T1Vhbk1WbGRnWGd0TWtSNjYrNVFNMHpGcGpLZXN0SHdxSmFEMD0/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ]
   },
