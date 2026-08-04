@@ -1,0 +1,204 @@
+{
+  "animeId": 482,
+  "episode": 66,
+  "updatedAt": "2026-08-04T00:08:38.268Z",
+  "server": "megaplay",
+  "lang": "dub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/482/66/dub",
+  "downloadUrl": "https://megaplay.buzz/stream/s-5/30685/dub",
+  "availableServers": [
+    {
+      "key": "megaplay",
+      "label": "Mega"
+    },
+    {
+      "key": "cage",
+      "label": "Cage"
+    },
+    {
+      "key": "peachify",
+      "label": "Peach"
+    },
+    {
+      "key": "nest",
+      "label": "Nest"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
+    }
+  ],
+  "serversData": {
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/482/66/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/482/66/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/482/66",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/482/66/dub?color=39FF14",
+        "server": "nest"
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/30685/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            86,
+            182
+          ],
+          "outro": [
+            1282,
+            1375
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/30685/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            86,
+            182
+          ],
+          "outro": [
+            1282,
+            1375
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/QldTNitseGxjQ1lBSFBOSWp5Tll0emp6SUpUeHhTbURLejFrNGZwZUJ6QT0/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            86,
+            182
+          ],
+          "outro": [
+            1282,
+            1375
+          ]
+        }
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/482/66/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/482/66/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/482/66",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/482/66/dub?color=39FF14",
+        "server": "nest"
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/30685/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            65,
+            124
+          ],
+          "outro": [
+            1250,
+            1279
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/30685/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            65,
+            124
+          ],
+          "outro": [
+            1250,
+            1279
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/QldTNitseGxjQ1lBSFBOSWp5Tll0emp6SUpUeHhTbURLejFrNGZwZUJ6QT0/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            65,
+            124
+          ],
+          "outro": [
+            1250,
+            1279
+          ]
+        }
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Mega",
+      "url": "https://megaplay.buzz/stream/mal/482/66/dub",
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/482/66/dub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/482/66",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/482/66/dub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
+    }
+  ]
+}
