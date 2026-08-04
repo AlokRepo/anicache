@@ -1,7 +1,7 @@
 {
   "animeId": 194829,
   "episode": 4,
-  "updatedAt": "2026-08-03T21:30:19.636Z",
+  "updatedAt": "2026-08-04T08:38:06.961Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/61897/4/sub",
@@ -24,19 +24,9 @@
       "label": "Nest"
     },
     {
-      "key": "anikoto-kiwi--360p-",
-      "label": "Kiwi (360p)",
-      "rawName": "Kiwi (360p)"
-    },
-    {
-      "key": "anikoto-kiwi--720p-",
-      "label": "Kiwi (720p)",
-      "rawName": "Kiwi (720p)"
-    },
-    {
-      "key": "anikoto-kiwi--1080p-",
-      "label": "Kiwi (1080p)",
-      "rawName": "Kiwi (1080p)"
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
     },
     {
       "key": "anikoto-vidstream-2",
@@ -72,24 +62,43 @@
         "server": "nest"
       },
       {
-        "name": "Kiwi (360p)",
-        "url": "https://kwik.cx/f/uZGzRVi5iil9"
-      },
-      {
-        "name": "Kiwi (720p)",
-        "url": "https://kwik.cx/f/slKm0SGgV5r6"
-      },
-      {
-        "name": "Kiwi (1080p)",
-        "url": "https://kwik.cx/f/x4SzZimZMqGZ"
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/pbXQG",
+          "720p": "https://pahe.nekostream.site/jdXqd",
+          "1080p": "https://pahe.nekostream.site/QHKvB"
+        }
       },
       {
         "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/311409/sub"
+        "url": "https://megaplay.buzz/stream/s-2/311409/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            47,
+            135
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       },
       {
         "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/SDB3R21QcC8xT0x2TlZWOU9GN0tHNWUvTnBxeGFjYjNqS0tWUXBST01wUDdEdXpaTmdFakhzSzQ4STFUWHc0d1B5ajFRNkoydENoS1VhbnJUcXE4Mnc9PQ/sub"
+        "url": "https://vidtube.site/stream/SDB3R21QcC8xT0x2TlZWOU9GN0tHNWUvTnBxeGFjYjNqS0tWUXBST01wUDdEdXpaTmdFakhzSzQ4STFUWHc0d1B5ajFRNkoydENoS1VhbnJUcXE4Mnc9PQ/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            47,
+            135
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ],
     "dub": [
@@ -114,24 +123,43 @@
         "server": "nest"
       },
       {
-        "name": "Kiwi (360p)",
-        "url": "https://kwik.cx/f/NVQTjH7q1ivJ"
-      },
-      {
-        "name": "Kiwi (720p)",
-        "url": "https://kwik.cx/f/jlmX1OnvImAm"
-      },
-      {
-        "name": "Kiwi (1080p)",
-        "url": "https://kwik.cx/f/ZknDAUjdDr11"
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/iRcUX",
+          "720p": "https://pahe.nekostream.site/OYkCI",
+          "1080p": "https://pahe.nekostream.site/iIzxs"
+        }
       },
       {
         "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/311409/dub"
+        "url": "https://megaplay.buzz/stream/s-2/311409/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            47,
+            135
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       },
       {
         "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/SDB3R21QcC8xT0x2TlZWOU9GN0tHNWUvTnBxeGFjYjNqS0tWUXBST01wUDdEdXpaTmdFakhzSzQ4STFUWHc0d1B5ajFRNkoydENoS1VhbnJUcXE4Mnc9PQ/dub"
+        "url": "https://vidtube.site/stream/SDB3R21QcC8xT0x2TlZWOU9GN0tHNWUvTnBxeGFjYjNqS0tWUXBST01wUDdEdXpaTmdFakhzSzQ4STFUWHc0d1B5ajFRNkoydENoS1VhbnJUcXE4Mnc9PQ/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            47,
+            135
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ]
   },
