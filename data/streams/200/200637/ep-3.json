@@ -1,11 +1,11 @@
 {
   "animeId": 200637,
   "episode": 3,
-  "updatedAt": "2026-08-02T15:41:31.555Z",
+  "updatedAt": "2026-08-04T12:43:26.401Z",
   "server": "megaplay",
-  "lang": "sub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/62811/3/sub",
-  "downloadUrl": "https://anikoto.cz/watch/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3-c0d2f/ep-3",
+  "lang": "dub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/62811/3/dub",
+  "downloadUrl": "https://pahe.nekostream.site/iXujb",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,6 +22,11 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
     },
     {
       "key": "anikoto-hd-1",
@@ -43,12 +48,12 @@
     "sub": [
       {
         "name": "Mega",
-        "url": "https://megaplay.buzz/stream/mal/62811/3/sub",
+        "url": "https://megaplay.buzz/stream/mal/62811/3/dub",
         "server": "megaplay"
       },
       {
         "name": "Cage",
-        "url": "https://vidnest.fun/animepahe/200637/3/sub?color=39FF14",
+        "url": "https://vidnest.fun/animepahe/200637/3/dub?color=39FF14",
         "server": "cage"
       },
       {
@@ -58,20 +63,62 @@
       },
       {
         "name": "Nest",
-        "url": "https://vidnest.fun/anime/200637/3/sub?color=39FF14",
+        "url": "https://vidnest.fun/anime/200637/3/dub?color=39FF14",
         "server": "nest"
       },
       {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/iXujb",
+          "720p": "https://pahe.nekostream.site/URqXW",
+          "1080p": "https://pahe.nekostream.site/vsWoP"
+        }
+      },
+      {
         "name": "HD-1",
-        "url": "https://megaplay.buzz/stream/s-5/717090/sub"
+        "url": "https://megaplay.buzz/stream/s-5/717090/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       },
       {
         "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/717090/sub"
+        "url": "https://megaplay.buzz/stream/s-2/717090/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       },
       {
         "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/bFNRNG43SE5xamE3M2VHeWpiMWwzaWJ1aElleTdibVVualRvM081SE85UStRb24xdjlZNzdUL01seWQ5Uy9sOE16RjFVdHlXSklzWHdNZnpuL08xbnVLb0wwQ2RScGdoc29BNTdQV1AzYVU9/sub"
+        "url": "https://vidtube.site/stream/bFNRNG43SE5xamE3M2VHeWpiMWwzaWJ1aElleTdibVVualRvM081SE85UStRb24xdjlZNzdUL01seWQ5Uy9sOE16RjFVdHlXSklzWHdNZnpuL08xbnVLb0wwQ2RScGdoc29BNTdQV1AzYVU9/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ],
     "dub": [
@@ -97,24 +144,46 @@
       },
       {
         "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/717090/dub"
+        "url": "https://megaplay.buzz/stream/s-2/717090/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       },
       {
         "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/bFNRNG43SE5xamE3M2VHeWpiMWwzaWJ1aElleTdibVVualRvM081SE85UStRb24xdjlZNzdUL01seWQ5Uy9sOE16RjFVdHlXSklzWHdNZnpuL08xbnVLb0wwQ2RScGdoc29BNTdQV1AzYVU9/dub"
+        "url": "https://vidtube.site/stream/bFNRNG43SE5xamE3M2VHeWpiMWwzaWJ1aElleTdibVVualRvM081SE85UStRb24xdjlZNzdUL01seWQ5Uy9sOE16RjFVdHlXSklzWHdNZnpuL08xbnVLb0wwQ2RScGdoc29BNTdQV1AzYVU9/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ]
   },
   "sources": [
     {
       "name": "Mega",
-      "url": "https://megaplay.buzz/stream/mal/62811/3/sub",
+      "url": "https://megaplay.buzz/stream/mal/62811/3/dub",
       "quality": "auto",
       "server": "megaplay"
     },
     {
       "name": "Cage",
-      "url": "https://vidnest.fun/animepahe/200637/3/sub?color=39FF14",
+      "url": "https://vidnest.fun/animepahe/200637/3/dub?color=39FF14",
       "quality": "auto",
       "server": "cage"
     },
@@ -126,7 +195,7 @@
     },
     {
       "name": "Nest",
-      "url": "https://vidnest.fun/anime/200637/3/sub?color=39FF14",
+      "url": "https://vidnest.fun/anime/200637/3/dub?color=39FF14",
       "quality": "auto",
       "server": "nest"
     }
