@@ -1,7 +1,7 @@
 {
   "animeId": 116267,
   "episode": 4,
-  "updatedAt": "2026-08-03T13:11:39.529Z",
+  "updatedAt": "2026-08-04T04:45:16.392Z",
   "server": "megaplay",
   "lang": "dub",
   "streamUrl": "https://megaplay.buzz/stream/mal/41389/4/dub",
@@ -24,9 +24,19 @@
       "label": "Nest"
     },
     {
-      "key": "anikoto-kiwi",
-      "label": "Kiwi",
-      "rawName": "Kiwi"
+      "key": "anikoto-kiwi--360p-",
+      "label": "Kiwi (360p)",
+      "rawName": "Kiwi (360p)"
+    },
+    {
+      "key": "anikoto-kiwi--720p-",
+      "label": "Kiwi (720p)",
+      "rawName": "Kiwi (720p)"
+    },
+    {
+      "key": "anikoto-kiwi--1080p-",
+      "label": "Kiwi (1080p)",
+      "rawName": "Kiwi (1080p)"
     },
     {
       "key": "anikoto-hd-1",
@@ -67,58 +77,28 @@
         "server": "nest"
       },
       {
-        "name": "Kiwi",
-        "url": "",
-        "download": {
-          "360p": "https://pahe.nekostream.site/oYAdI",
-          "720p": "https://pahe.nekostream.site/wwLoM",
-          "1080p": "https://pahe.nekostream.site/tpMVI"
-        }
+        "name": "Kiwi (360p)",
+        "url": "https://kwik.cx/f/NIUCRDkOa0Qj"
+      },
+      {
+        "name": "Kiwi (720p)",
+        "url": "https://kwik.cx/f/GkgpaT29zXrm"
+      },
+      {
+        "name": "Kiwi (1080p)",
+        "url": "https://kwik.cx/f/yfnX5MIjFWoM"
       },
       {
         "name": "HD-1",
-        "url": "https://megaplay.buzz/stream/s-5/54941/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
+        "url": "https://megaplay.buzz/stream/s-5/54941/sub"
       },
       {
         "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/54941/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
+        "url": "https://megaplay.buzz/stream/s-2/54941/sub"
       },
       {
         "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/bTVSWW5JTjlINkNVb043SGVkNlQ1ejVkT29CUWE5RXkzcFUwWDZtTEhxVkRYbWpSanZhWk42R2VjaWlNMGtFZkZzdlhJTlVTRkZuR2JicVVFVzZuaFE9PQ/hsub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
+        "url": "https://vidtube.site/stream/bTVSWW5JTjlINkNVb043SGVkNlQ1ejVkT29CUWE5RXkzcFUwWDZtTEhxVkRYbWpSanZhWk42R2VjaWlNMGtFZkZzdlhJTlVTRkZuR2JicVVFVzZuaFE9PQ/sub"
       }
     ],
     "dub": [
