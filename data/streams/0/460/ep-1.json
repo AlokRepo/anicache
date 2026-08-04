@@ -1,10 +1,11 @@
 {
   "animeId": 460,
   "episode": 1,
-  "updatedAt": "2026-08-04T08:10:27.047Z",
+  "updatedAt": "2026-08-04T10:35:34.662Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/460/1/sub",
+  "downloadUrl": "https://pahe.nekostream.site/xJnYO",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,31 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi--720p-",
+      "label": "Kiwi (720p)",
+      "rawName": "Kiwi (720p)"
+    },
+    {
+      "key": "anikoto-kiwi--1080p-",
+      "label": "Kiwi (1080p)",
+      "rawName": "Kiwi (1080p)"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -44,6 +70,26 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/460/1/sub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi (720p)",
+        "url": "https://kwik.cx/f/GzKVmz808hr1"
+      },
+      {
+        "name": "Kiwi (1080p)",
+        "url": "https://kwik.cx/f/VEwvmD74tzQ0"
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/58123/sub"
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/58123/sub"
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/a1g1Q2tKQUhJQkhLdWh2SFcwRU04NFBwUVpoWE8wb0kxV3VoTHY2dTJSa3BPa0ZPM0dSY2d4STZrY2dDQUs5Mw/sub"
       }
     ],
     "dub": [
