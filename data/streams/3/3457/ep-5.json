@@ -1,0 +1,223 @@
+{
+  "animeId": 3457,
+  "episode": 5,
+  "updatedAt": "2026-08-04T19:47:08.512Z",
+  "server": "megaplay",
+  "lang": "sub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/3457/5/sub",
+  "downloadUrl": "https://pahe.nekostream.site/uMsPT",
+  "availableServers": [
+    {
+      "key": "megaplay",
+      "label": "Mega"
+    },
+    {
+      "key": "cage",
+      "label": "Cage"
+    },
+    {
+      "key": "peachify",
+      "label": "Peach"
+    },
+    {
+      "key": "nest",
+      "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
+    }
+  ],
+  "serversData": {
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/3457/5/sub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/3457/5/sub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/3457/5",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/3457/5/sub?color=39FF14",
+        "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "480p": "https://pahe.nekostream.site/uMsPT"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/28208/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            55,
+            145
+          ],
+          "outro": [
+            1349,
+            1438
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/28208/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            55,
+            145
+          ],
+          "outro": [
+            1349,
+            1438
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/bm1ZQWhYc1VKT2ZpWnRMV0hqM21KNWsrb0NsWU5LZ3EzNC9rQjBqZjhSZz0/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            55,
+            145
+          ],
+          "outro": [
+            1349,
+            1438
+          ]
+        }
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/3457/5/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/3457/5/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/3457/5",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/3457/5/dub?color=39FF14",
+        "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "480p": "https://pahe.nekostream.site/aQhqi"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/28208/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            55,
+            145
+          ],
+          "outro": [
+            1340,
+            1428
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/28208/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            55,
+            145
+          ],
+          "outro": [
+            1340,
+            1428
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/bm1ZQWhYc1VKT2ZpWnRMV0hqM21KNWsrb0NsWU5LZ3EzNC9rQjBqZjhSZz0/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            55,
+            145
+          ],
+          "outro": [
+            1340,
+            1428
+          ]
+        }
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Mega",
+      "url": "https://megaplay.buzz/stream/mal/3457/5/sub",
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/3457/5/sub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/3457/5",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/3457/5/sub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
+    }
+  ]
+}
