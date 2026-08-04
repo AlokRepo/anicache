@@ -125,7 +125,7 @@
     ]
   },
   "nextAiringEpisode": {
-    "episode": 5
+    "episode": 6
   },
   "externalLinks": [
     {
@@ -198,6 +198,9 @@
     },
     {
       "name": "Shoujo"
+    },
+    {
+      "name": "Nudity"
     }
   ],
   "trailer": {
@@ -625,7 +628,17 @@
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b380872-u6IqBlnbKrdI.png"
           }
         },
-        "voiceActors": []
+        "voiceActors": [
+          {
+            "id": 112629,
+            "name": {
+              "userPreferred": "Haruka Shiraishi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112629-U0y9a5Z9ogfk.png"
+            }
+          }
+        ]
       },
       {
         "role": "SUPPORTING",
@@ -756,6 +769,93 @@
         ]
       },
       {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 405646,
+          "name": {
+            "userPreferred": "Joshi B"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 205845,
+            "name": {
+              "userPreferred": "Yuuki Kyouka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n205845-PTyF2iqe1Ens.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 405648,
+          "name": {
+            "userPreferred": "Joshi C"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 259585,
+            "name": {
+              "userPreferred": "Hina Natsume"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n259585-53oyqIYUaYM9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 36310,
+          "name": {
+            "userPreferred": "Sonohokasei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 348128,
+            "name": {
+              "userPreferred": "Hayato Mori"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n348128-1FiFqsdylKEh.png"
+            }
+          },
+          {
+            "id": 405644,
+            "name": {
+              "userPreferred": "Kouki Ooshiro"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+            }
+          },
+          {
+            "id": 405645,
+            "name": {
+              "userPreferred": "Mizuki Koshikawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+            }
+          }
+        ]
+      },
+      {
         "role": "BACKGROUND",
         "node": {
           "id": 402134,
@@ -869,75 +969,6 @@
             }
           }
         ]
-      },
-      {
-        "role": "BACKGROUND",
-        "node": {
-          "id": 402140,
-          "name": {
-            "userPreferred": "Danshi E"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 402150,
-            "name": {
-              "userPreferred": "Tatsuma Fukumoto"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n402150-ndcBI0kBg27Y.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "BACKGROUND",
-        "node": {
-          "id": 402141,
-          "name": {
-            "userPreferred": "Danshi D"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 262093,
-            "name": {
-              "userPreferred": "Akari Tadano"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n262093-vyK1mn37eeeK.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "BACKGROUND",
-        "node": {
-          "id": 402142,
-          "name": {
-            "userPreferred": "Danshi H"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 174663,
-            "name": {
-              "userPreferred": "Yui Tsukada "
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n174663-rQSXXw5Hls2B.jpg"
-            }
-          }
-        ]
       }
     ]
   },
@@ -1012,6 +1043,18 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105082-eV6eweMiR1FM.png"
+          }
+        }
+      },
+      {
+        "role": "Background Art Assistance (ep 5)",
+        "node": {
+          "id": 105137,
+          "name": {
+            "userPreferred": "Shinichi Uehara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
           }
         }
       },
@@ -1110,22 +1153,10 @@
             "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128854-j3ginwewwgIC.png"
           }
         }
-      },
-      {
-        "role": "Animation Director (ep 1)",
-        "node": {
-          "id": 128876,
-          "name": {
-            "userPreferred": "Hiroshi Tatezaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128876-yqmIKaBpGXhx.png"
-          }
-        }
       }
     ]
   },
   "subCount": 13,
   "dubCount": 0,
-  "updatedAt": "2026-08-04T05:28:30.742Z"
+  "updatedAt": "2026-08-04T20:24:24.517Z"
 }
