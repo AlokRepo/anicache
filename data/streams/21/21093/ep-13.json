@@ -1,11 +1,11 @@
 {
   "animeId": 21093,
   "episode": 13,
-  "updatedAt": "2026-08-04T14:54:58.944Z",
+  "updatedAt": "2026-08-04T14:55:06.984Z",
   "server": "cage",
   "lang": "dub",
   "streamUrl": "https://vidnest.fun/animepahe/21093/13/dub?color=39FF14",
-  "downloadUrl": "https://anikoto.cz/watch/monster-musume-everyday-life-with-monster-girls-acetz/ep-13",
+  "downloadUrl": "https://pahe.nekostream.site/PdxWu",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,6 +22,26 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -45,6 +65,60 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/21093/13/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/PdxWu",
+          "720p": "https://pahe.nekostream.site/gDvXg",
+          "1080p": "https://pahe.nekostream.site/ugKxz"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/31655/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            158,
+            249
+          ],
+          "outro": [
+            1312,
+            1400
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/31655/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            158,
+            249
+          ],
+          "outro": [
+            1312,
+            1400
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/YnpFajRKRG9JZnJLQ25NeG1HekQ1Z1NkUzVQaUZCeVF4VzJNelVBSVBtVkEwV1BqRUh3UUtlY3NpZDFHVXpPNmNyVklUYzBhREhXVGpKZUNDVW8wdWc9PQ/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            158,
+            249
+          ],
+          "outro": [
+            1312,
+            1400
+          ]
+        }
       }
     ],
     "dub": [
@@ -67,6 +141,60 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/21093/13/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/vupth",
+          "720p": "https://pahe.nekostream.site/yKlAP",
+          "1080p": "https://pahe.nekostream.site/weaxW"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/31655/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            157,
+            248
+          ],
+          "outro": [
+            1311,
+            1399
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/31655/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            157,
+            248
+          ],
+          "outro": [
+            1311,
+            1399
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/YnpFajRKRG9JZnJLQ25NeG1HekQ1Z1NkUzVQaUZCeVF4VzJNelVBSVBtVkEwV1BqRUh3UUtlY3NpZDFHVXpPNmNyVklUYzBhREhXVGpKZUNDVW8wdWc9PQ/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            157,
+            248
+          ],
+          "outro": [
+            1311,
+            1399
+          ]
+        }
       }
     ]
   },
