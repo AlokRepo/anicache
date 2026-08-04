@@ -28,11 +28,10 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx523-fErBvxOHP7IX.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx523-fErBvxOHP7IX.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx523-fErBvxOHP7IX.jpg"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx523-fErBvxOHP7IX.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/523-rl12Q0av1fCr.jpg",
-  "description": "Follow the adventures of Satsuki and her four-year-old sister Mei when they move into a new home in the countryside. To their delight they discover that their new neighbor is a mysterious forest spirit called Totoro who can be seen only through the eyes of a child. Totoro introduces them to extraordinary characters, including a cat that doubles as a bus, takes them on a journey through the wonders of nature. <br><br>\n(Source: Disney) ",
+  "description": "Follow the adventures of Satsuki and her four-year-old sister Mei when they move into a new home in the countryside. To their delight they discover that their new neighbor is a mysterious forest spirit called Totoro who can be seen only through the eyes of a child. Totoro introduces them to extraordinary characters, including a cat that doubles as a bus, takes them on a journey through the wonders of nature. <br><br>\n(Source: Disney)",
   "averageScore": 81,
   "genres": [
     "Adventure",
@@ -46,6 +45,7 @@
   "seasonYear": 1988,
   "duration": 86,
   "format": "MOVIE",
+  "isAdult": false,
   "startDate": {
     "year": 1988,
     "month": 4,
@@ -61,7 +61,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 1,
+          "id": 21,
           "name": "Studio Ghibli",
           "isAnimationStudio": true
         }
@@ -69,7 +69,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 2,
+          "id": 24,
           "name": "Studio Fantasia",
           "isAnimationStudio": true
         }
@@ -77,7 +77,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 3,
+          "id": 417,
           "name": "Walt Disney Studios",
           "isAnimationStudio": false
         }
@@ -85,7 +85,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 4,
+          "id": 783,
           "name": "GKIDS",
           "isAnimationStudio": false
         }
@@ -98,19 +98,19 @@
       "site": "Netflix",
       "url": "https://www.netflix.com/title/60032294",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Max",
       "url": "https://www.max.com/movies/5e1eb7b5-c256-402d-b63a-4ce7676a3c8e",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Max",
       "url": "https://www.max.com/movies/24ec30ba-4fa5-4c95-b474-f6a7fea66e73",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     }
   ],
   "tags": [
@@ -137,201 +137,72 @@
     },
     {
       "name": "Kids"
+    },
+    {
+      "name": "Gods"
+    },
+    {
+      "name": "Primarily Female Cast"
+    },
+    {
+      "name": "Iyashikei"
+    },
+    {
+      "name": "Environmental"
+    },
+    {
+      "name": "Horticulture"
     }
   ],
-  "trailer": null,
+  "trailer": {
+    "id": "92a7Hj0ijLs",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/92a7Hj0ijLs/hqdefault.jpg"
+  },
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
+        "relationType": "SEQUEL",
         "node": {
-          "id": 195518,
-          "idMal": 195518,
+          "id": 2488,
           "title": {
-            "romaji": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
-            "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
-            "native": "The Villainess Is Adored by the Prince of the Neighbor Kingdom"
+            "romaji": "Mei to Koneko Bus",
+            "english": "Mei and the Baby Cat Bus"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195518-XXcYHi6tXM6v.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195518-XXcYHi6tXM6v.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195518-XXcYHi6tXM6v.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2488.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2488.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195518-XXcYHi6tXM6v.jpg",
-          "averageScore": 59,
-          "genres": [
-            "Fantasy",
-            "Romance"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
+          "averageScore": 70,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 101371,
-          "idMal": 101371,
-          "title": {
-            "romaji": "Ms. vampire who lives in my neighborhood.",
-            "english": "Ms. vampire who lives in my neighborhood.",
-            "native": "Ms. vampire who lives in my neighborhood."
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101371-36M9Eu65MKlU.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101371-36M9Eu65MKlU.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101371-36M9Eu65MKlU.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101371-36M9Eu65MKlU.jpg",
-          "averageScore": 69,
-          "genres": [
-            "Comedy",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 415,
-          "idMal": 415,
-          "title": {
-            "romaji": "My Neighbors the Yamadas",
-            "english": "My Neighbors the Yamadas",
-            "native": "My Neighbors the Yamadas"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx415-6DDsl72NV0cv.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx415-6DDsl72NV0cv.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx415-6DDsl72NV0cv.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx415-6DDsl72NV0cv.png",
-          "averageScore": 69,
-          "genres": [
-            "Comedy",
-            "Slice of Life"
-          ],
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1999,
-          "duration": 24,
-          "isAdult": false,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1999,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2002,
+          "duration": 14
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "CHARACTER",
         "node": {
-          "id": 7578,
-          "idMal": 7578,
+          "id": 145,
           "title": {
-            "romaji": "Neighborhood Story The Movie",
-            "english": "Neighborhood Story The Movie",
-            "native": "Neighborhood Story The Movie"
+            "romaji": "Kareshi Kanojo no Jijou",
+            "english": "His and Her Circumstances"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7578.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7578.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7578.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145-vcSv07afgy6c.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145-vcSv07afgy6c.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7578.jpg",
-          "averageScore": 60,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1996,
-          "duration": 24,
+          "averageScore": 76,
           "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1996,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
+          "episodes": 26,
+          "format": "TV",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 1998,
+          "duration": 24
         }
       }
     ]
@@ -340,714 +211,773 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 457,
-          "idMal": 457,
+          "id": 10389,
           "title": {
-            "romaji": "MUSHI-SHI",
-            "english": "MUSHI-SHI",
-            "native": "MUSHI-SHI"
+            "romaji": "Momo e no Tegami",
+            "english": "A Letter to Momo"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx457-l6cTtNgI9Bi6.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx457-l6cTtNgI9Bi6.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx457-l6cTtNgI9Bi6.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10389-NMYFKRxI1WwJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10389-NMYFKRxI1WwJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx10389-NMYFKRxI1WwJ.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx457-l6cTtNgI9Bi6.png",
-          "averageScore": 85,
-          "genres": [
-            "Adventure",
-            "Fantasy",
-            "Mystery",
-            "Psychological",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 26,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2005,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2005,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20595,
-          "idMal": 20595,
-          "title": {
-            "romaji": "MUSHI-SHI The Next Passage",
-            "english": "MUSHI-SHI The Next Passage",
-            "native": "MUSHI-SHI The Next Passage"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20595-HcUeaAnvaUhM.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20595-HcUeaAnvaUhM.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20595-HcUeaAnvaUhM.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20595-HcUeaAnvaUhM.jpg",
-          "averageScore": 86,
-          "genres": [
-            "Adventure",
-            "Fantasy",
-            "Mystery",
-            "Psychological",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 10,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20752,
-          "idMal": 20752,
-          "title": {
-            "romaji": "MUSHI-SHI The Next Passage Special - Path of Thorns",
-            "english": "MUSHI-SHI The Next Passage Special - Path of Thorns",
-            "native": "MUSHI-SHI The Next Passage Special - Path of Thorns"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20752-P5EpEJXWGroz.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20752-P5EpEJXWGroz.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20752-P5EpEJXWGroz.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20752-P5EpEJXWGroz.jpg",
-          "averageScore": 82,
-          "genres": [
-            "Adventure",
-            "Fantasy",
-            "Mystery",
-            "Psychological",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 101922,
-          "idMal": 101922,
-          "title": {
-            "romaji": "Demon Slayer: Kimetsu no Yaiba",
-            "english": "Demon Slayer: Kimetsu no Yaiba",
-            "native": "Demon Slayer: Kimetsu no Yaiba"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
-          "averageScore": 83,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 26,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20,
-          "idMal": 20,
-          "title": {
-            "romaji": "Naruto",
-            "english": "Naruto",
-            "native": "Naruto"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
-          "averageScore": 80,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 220,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2002,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2002,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 1735,
-          "idMal": 1735,
-          "title": {
-            "romaji": "Naruto: Shippuden",
-            "english": "Naruto: Shippuden",
-            "native": "Naruto: Shippuden"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
-          "averageScore": 82,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 500,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2007,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2007,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20789,
-          "idMal": 20789,
-          "title": {
-            "romaji": "The Seven Deadly Sins",
-            "english": "The Seven Deadly Sins",
-            "native": "The Seven Deadly Sins"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
           "averageScore": 73,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 24,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 112151,
-          "idMal": 112151,
-          "title": {
-            "romaji": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-            "english": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-            "native": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
-          "averageScore": 84,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Fantasy",
-            "Mystery",
-            "Supernatural"
-          ],
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
-          "isAdult": false,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 120
         }
       },
       {
         "mediaRecommendation": {
           "id": 199,
-          "idMal": 199,
           "title": {
-            "romaji": "Spirited Away",
-            "english": "Spirited Away",
-            "native": "Spirited Away"
+            "romaji": "Sen to Chihiro no Kamikakushi",
+            "english": "Spirited Away"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199-sWefXJvXkDOb.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199-sWefXJvXkDOb.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199-sWefXJvXkDOb.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199-sWefXJvXkDOb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199-sWefXJvXkDOb.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199-sWefXJvXkDOb.jpg",
           "averageScore": 86,
-          "genres": [
-            "Adventure",
-            "Drama",
-            "Fantasy",
-            "Supernatural"
-          ],
+          "isAdult": false,
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2001,
-          "duration": 24,
-          "isAdult": false,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2001,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 142329,
-          "idMal": 142329,
-          "title": {
-            "romaji": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-            "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-            "native": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
-          "averageScore": 86,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 11,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2022,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2022,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "duration": 125
         }
       },
       {
         "mediaRecommendation": {
-          "id": 3588,
-          "idMal": 3588,
+          "id": 5084,
           "title": {
-            "romaji": "Soul Eater",
-            "english": "Soul Eater",
-            "native": "Soul Eater"
+            "romaji": "Mai Mai Shinko to Sennen no Mahou",
+            "english": "Mai-Mai Miracle"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5084-rm8FNL5yYOIv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5084-rm8FNL5yYOIv.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5084-rm8FNL5yYOIv.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
-          "averageScore": 77,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 51,
+          "averageScore": 70,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2008,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2008,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "duration": 93
         }
       },
       {
         "mediaRecommendation": {
-          "id": 145139,
-          "idMal": 145139,
+          "id": 572,
           "title": {
-            "romaji": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-            "english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-            "native": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc"
+            "romaji": "Kaze no Tani no Nausicaä",
+            "english": "Nausicaä of the Valley of the Wind"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx572-ZE3kHBA6U0X1.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx572-ZE3kHBA6U0X1.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx572-ZE3kHBA6U0X1.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
           "averageScore": 81,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 11,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2023,
-          "duration": 24,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2023,
-            "month": 12,
-            "day": 31
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 117
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 12355,
+          "title": {
+            "romaji": "Ookami Kodomo no Ame to Yuki",
+            "english": "Wolf Children"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12355-wNsvhEsXEgrH.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12355-wNsvhEsXEgrH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12355-wNsvhEsXEgrH.png"
+          },
+          "averageScore": 83,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 117
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20617,
+          "title": {
+            "romaji": "Sanzoku no Musume Ronja",
+            "english": "Ronja, the Robber's Daughter"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20617-cyIq3bsPRExg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20617-cyIq3bsPRExg.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx20617-cyIq3bsPRExg.jpg"
+          },
+          "averageScore": 65,
+          "isAdult": false,
+          "episodes": 26,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 2890,
+          "title": {
+            "romaji": "Gake no Ue no Ponyo",
+            "english": "Ponyo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2890-wcNtFr6aUYOR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2890-wcNtFr6aUYOR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2890-wcNtFr6aUYOR.jpg"
+          },
+          "averageScore": 79,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 101
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 2611,
+          "title": {
+            "romaji": "Panda Kopanda",
+            "english": "Panda! Go Panda!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2611-ZF5KS3QolIse.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2611-ZF5KS3QolIse.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b2611-ZF5KS3QolIse.png"
+          },
+          "averageScore": 61,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 30
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 7711,
+          "title": {
+            "romaji": "Karigurashi no Arrietty",
+            "english": "The Secret World of Arrietty"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7711-IDDzqp6d3tQz.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7711-IDDzqp6d3tQz.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7711-IDDzqp6d3tQz.jpg"
+          },
+          "averageScore": 77,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 94
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20722,
+          "title": {
+            "romaji": "Barakamon",
+            "english": "Barakamon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20722-2KAeq72E95dr.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20722-2KAeq72E95dr.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20722-2KAeq72E95dr.png"
+          },
+          "averageScore": 82,
+          "isAdult": false,
+          "episodes": 12,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 22
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 100749,
+          "title": {
+            "romaji": "Mirai no Mirai",
+            "english": "Mirai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100749-7Tptl7EAMAWH.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100749-7Tptl7EAMAWH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx100749-7Tptl7EAMAWH.jpg"
+          },
+          "averageScore": 72,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 103
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 98249,
+          "title": {
+            "romaji": "Yoake Tsugeru Lu no Uta",
+            "english": "Lu Over the Wall"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98249-5NF3RwYZtc7h.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98249-5NF3RwYZtc7h.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98249-5NF3RwYZtc7h.jpg"
+          },
+          "averageScore": 72,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 112
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 267,
+          "name": {
+            "userPreferred": "Satsuki Kusakabe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/267.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95181,
+            "name": {
+              "userPreferred": "Noriko Hidaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95181-VZKOK4WN0UuO.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 268,
+          "name": {
+            "userPreferred": "Mei Kusakabe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/268.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95387,
+            "name": {
+              "userPreferred": "Chika Sakamoto"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95387-CLYs2OZwhe9c.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 269,
+          "name": {
+            "userPreferred": "Totoro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b269-sbPL4w1ygjSe.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96161,
+            "name": {
+              "userPreferred": "Hitoshi Takagi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96161-9pBq668RS9J9.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 270,
+          "name": {
+            "userPreferred": "Kanta Oogaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/270.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 116227,
+            "name": {
+              "userPreferred": "Toshiyuki Amagasa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 271,
+          "name": {
+            "userPreferred": "Nekobasu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/271.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96161,
+            "name": {
+              "userPreferred": "Hitoshi Takagi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96161-9pBq668RS9J9.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8047,
+          "name": {
+            "userPreferred": "Tatsuo Kusakabe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8047.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 102509,
+            "name": {
+              "userPreferred": "Shigesato Itoi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102509-1YxEK1xnlpig.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 8048,
+          "name": {
+            "userPreferred": "Yasuko Kusakabe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/8048.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95425,
+            "name": {
+              "userPreferred": "Sumi Shimamoto"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95425-wEl09IWpLxIA.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 11276,
+          "name": {
+            "userPreferred": "Kanta no Obaa-chan"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/11276.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 170381,
+            "name": {
+              "userPreferred": "Tanie Kitabayashi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n170381-gKG6R7bHaKqr.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 13393,
+          "name": {
+            "userPreferred": "Makkuro-Kurosuke"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13393-YggqgLU41aiP.png"
+          }
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 334519,
+          "name": {
+            "userPreferred": "Chu-totoro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b334519-fI50gaFFSkzh.png"
+          }
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 334520,
+          "name": {
+            "userPreferred": "Shou-totoro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b334520-SIBl0iTlBni1.png"
+          }
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 279048,
+          "name": {
+            "userPreferred": "Gakkou no Sensei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279048-lurklnChwAJC.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95961,
+            "name": {
+              "userPreferred": "Machiko Washio"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/961.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 279050,
+          "name": {
+            "userPreferred": "Honke no Obaa-chan"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279050-U97C3V4JZDpH.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 101504,
+            "name": {
+              "userPreferred": "Reiko Suzuki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101504-v5pnjcD80zDL.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 279051,
+          "name": {
+            "userPreferred": "Nousagyousha ni Notteita Onna"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279051-JUTBrloZnNAn.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95485,
+            "name": {
+              "userPreferred": "Yuuko Mizutani"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95485-fKXiqJdcVHHs.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 279052,
+          "name": {
+            "userPreferred": "Nousagyousha wo Unten Shiteita Otoko"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279052-cQfXCwYWPBKU.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 101207,
+            "name": {
+              "userPreferred": "Daiki Nakamura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101207-auZVaqSt1LfQ.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "BACKGROUND",
+        "node": {
+          "id": 279053,
+          "name": {
+            "userPreferred": "Yuubin Haitaitsuin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b279053-RzQyXjGuMtrj.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95295,
+            "name": {
+              "userPreferred": "Tomohiro Nishimura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95295-wAC8cLzBjWet.png"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
-  }
+    "edges": [
+      {
+        "role": "Director",
+        "node": {
+          "id": 96870,
+          "name": {
+            "userPreferred": "Hayao Miyazaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96870-cM3pfPVIR8RW.png"
+          }
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 96870,
+          "name": {
+            "userPreferred": "Hayao Miyazaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96870-cM3pfPVIR8RW.png"
+          }
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 96870,
+          "name": {
+            "userPreferred": "Hayao Miyazaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96870-cM3pfPVIR8RW.png"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Lyrics (ED)",
+        "node": {
+          "id": 96870,
+          "name": {
+            "userPreferred": "Hayao Miyazaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96870-cM3pfPVIR8RW.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation Assistance",
+        "node": {
+          "id": 97762,
+          "name": {
+            "userPreferred": "Tensai Okamura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97762-v2ZiOuaBQuMZ.png"
+          }
+        }
+      },
+      {
+        "role": "Background Art",
+        "node": {
+          "id": 100373,
+          "name": {
+            "userPreferred": "Shinji Kimura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100373-bhOzNVAZztmW.png"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (OP, ED)",
+        "node": {
+          "id": 100738,
+          "name": {
+            "userPreferred": "Joe Hisaishi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100738-A4zdECZ3RalM.jpg"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Composition (OP, ED)",
+        "node": {
+          "id": 100738,
+          "name": {
+            "userPreferred": "Joe Hisaishi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100738-A4zdECZ3RalM.jpg"
+          }
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 100738,
+          "name": {
+            "userPreferred": "Joe Hisaishi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100738-A4zdECZ3RalM.jpg"
+          }
+        }
+      },
+      {
+        "role": "ADR Director (German)",
+        "node": {
+          "id": 100886,
+          "name": {
+            "userPreferred": "Inez Günther"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5886.jpg"
+          }
+        }
+      },
+      {
+        "role": "Production Committee",
+        "node": {
+          "id": 101638,
+          "name": {
+            "userPreferred": "Toshio Suzuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101638-J080Kfw5E9P8.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 101825,
+          "name": {
+            "userPreferred": "Katsuya Kondou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101825-baJdGLH1KP6s.png"
+          }
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 102290,
+          "name": {
+            "userPreferred": "Yoshiharu Satou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102290-f4QSpTgGCeGC.png"
+          }
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 104132,
+          "name": {
+            "userPreferred": "Kazuo Oga"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104132-krk4lN0nJXAi.png"
+          }
+        }
+      },
+      {
+        "role": "In-Betweens Check",
+        "node": {
+          "id": 104391,
+          "name": {
+            "userPreferred": "Hitomi Tateno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104391-DsY78lCzzYow.png"
+          }
+        }
+      }
+    ]
+  },
+  "subCount": 1,
+  "dubCount": 0,
+  "updatedAt": "2026-08-04T11:09:03.352Z"
 }
