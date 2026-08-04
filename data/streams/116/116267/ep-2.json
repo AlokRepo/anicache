@@ -1,10 +1,10 @@
 {
   "animeId": 116267,
   "episode": 2,
-  "updatedAt": "2026-08-04T03:30:30.173Z",
+  "updatedAt": "2026-08-04T03:30:32.527Z",
   "server": "megaplay",
-  "lang": "sub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/41389/2/sub",
+  "lang": "dub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/41389/2/dub",
   "downloadUrl": "https://pahe.nekostream.site/oYAdI",
   "availableServers": [
     {
@@ -24,9 +24,19 @@
       "label": "Nest"
     },
     {
-      "key": "anikoto-kiwi",
-      "label": "Kiwi",
-      "rawName": "Kiwi"
+      "key": "anikoto-kiwi--360p-",
+      "label": "Kiwi (360p)",
+      "rawName": "Kiwi (360p)"
+    },
+    {
+      "key": "anikoto-kiwi--720p-",
+      "label": "Kiwi (720p)",
+      "rawName": "Kiwi (720p)"
+    },
+    {
+      "key": "anikoto-kiwi--1080p-",
+      "label": "Kiwi (1080p)",
+      "rawName": "Kiwi (1080p)"
     },
     {
       "key": "anikoto-hd-1",
@@ -48,12 +58,12 @@
     "sub": [
       {
         "name": "Mega",
-        "url": "https://megaplay.buzz/stream/mal/41389/2/sub",
+        "url": "https://megaplay.buzz/stream/mal/41389/2/dub",
         "server": "megaplay"
       },
       {
         "name": "Cage",
-        "url": "https://vidnest.fun/animepahe/116267/2/sub?color=39FF14",
+        "url": "https://vidnest.fun/animepahe/116267/2/dub?color=39FF14",
         "server": "cage"
       },
       {
@@ -63,62 +73,32 @@
       },
       {
         "name": "Nest",
-        "url": "https://vidnest.fun/anime/116267/2/sub?color=39FF14",
+        "url": "https://vidnest.fun/anime/116267/2/dub?color=39FF14",
         "server": "nest"
       },
       {
-        "name": "Kiwi",
-        "url": "",
-        "download": {
-          "360p": "https://pahe.nekostream.site/oYAdI",
-          "720p": "https://pahe.nekostream.site/wwLoM",
-          "1080p": "https://pahe.nekostream.site/tpMVI"
-        }
+        "name": "Kiwi (360p)",
+        "url": "https://kwik.cx/f/NIUCRDkOa0Qj"
+      },
+      {
+        "name": "Kiwi (720p)",
+        "url": "https://kwik.cx/f/GkgpaT29zXrm"
+      },
+      {
+        "name": "Kiwi (1080p)",
+        "url": "https://kwik.cx/f/yfnX5MIjFWoM"
       },
       {
         "name": "HD-1",
-        "url": "https://megaplay.buzz/stream/s-5/54941/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
+        "url": "https://megaplay.buzz/stream/s-5/54941/sub"
       },
       {
         "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/54941/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
+        "url": "https://megaplay.buzz/stream/s-2/54941/sub"
       },
       {
         "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/bTVSWW5JTjlINkNVb043SGVkNlQ1ejVkT29CUWE5RXkzcFUwWDZtTEhxVkRYbWpSanZhWk42R2VjaWlNMGtFZkZzdlhJTlVTRkZuR2JicVVFVzZuaFE9PQ/hsub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
+        "url": "https://vidtube.site/stream/bTVSWW5JTjlINkNVb043SGVkNlQ1ejVkT29CUWE5RXkzcFUwWDZtTEhxVkRYbWpSanZhWk42R2VjaWlNMGtFZkZzdlhJTlVTRkZuR2JicVVFVzZuaFE9PQ/sub"
       }
     ],
     "dub": [
@@ -147,13 +127,13 @@
   "sources": [
     {
       "name": "Mega",
-      "url": "https://megaplay.buzz/stream/mal/41389/2/sub",
+      "url": "https://megaplay.buzz/stream/mal/41389/2/dub",
       "quality": "auto",
       "server": "megaplay"
     },
     {
       "name": "Cage",
-      "url": "https://vidnest.fun/animepahe/116267/2/sub?color=39FF14",
+      "url": "https://vidnest.fun/animepahe/116267/2/dub?color=39FF14",
       "quality": "auto",
       "server": "cage"
     },
@@ -165,7 +145,7 @@
     },
     {
       "name": "Nest",
-      "url": "https://vidnest.fun/anime/116267/2/sub?color=39FF14",
+      "url": "https://vidnest.fun/anime/116267/2/dub?color=39FF14",
       "quality": "auto",
       "server": "nest"
     }
