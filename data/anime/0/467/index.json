@@ -13,8 +13,7 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx467-mBTtIoR13qs2.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx467-mBTtIoR13qs2.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx467-mBTtIoR13qs2.jpg"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx467-mBTtIoR13qs2.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/467-n0kTT3ecHMrG.jpg",
   "description": "In the not so distant future, mankind has advanced to a state where complete body transplants from flesh to machine is possible. This allows for great increases in both physical and cybernetic prowess and blurring the lines between the two worlds. However, criminals can also make full use of such technology, leading to new and sometimes, very dangerous crimes. In response to such innovative new methods, the Japanese Government has established Section 9, an independently operating police unit which deals with such highly sensitive crimes.<br><br>\nLed by Daisuke Aramaki and Motoko Kusanagi, Section 9 deals with such crimes over the entire social spectrum, usually with success. However, when faced with a new A level hacker nicknamed “The Laughing Man”, the team is thrown into a dangerous cat and mouse game, following the hacker’s trail as it leaves its mark on Japan.<br><br>\n(Source: MyAnimeList)",
@@ -31,6 +30,7 @@
   "seasonYear": 2002,
   "duration": 25,
   "format": "TV",
+  "isAdult": false,
   "startDate": {
     "year": 2002,
     "month": 10,
@@ -46,7 +46,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 1,
+          "id": 10,
           "name": "Production I.G",
           "isAnimationStudio": true
         }
@@ -54,15 +54,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 2,
-          "name": "Trilogy Future Studio",
-          "isAnimationStudio": true
-        }
-      },
-      {
-        "isMain": false,
-        "node": {
-          "id": 3,
+          "id": 159,
           "name": "Kodansha",
           "isAnimationStudio": false
         }
@@ -70,7 +62,15 @@
       {
         "isMain": false,
         "node": {
-          "id": 4,
+          "id": 178,
+          "name": "Trilogy Future Studio",
+          "isAnimationStudio": true
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 233,
           "name": "Bandai Entertainment",
           "isAnimationStudio": false
         }
@@ -78,7 +78,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 5,
+          "id": 382,
           "name": "Tokuma Shoten",
           "isAnimationStudio": false
         }
@@ -91,19 +91,19 @@
       "site": "Adult Swim",
       "url": "https://www.adultswim.com/videos/ghost-in-the-shell",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/70213091",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Hoopla",
       "url": "https://www.hoopladigital.com/television/ghost-in-the-shell-stand-alone-complex-season-1-mary-elizabeth-mcglynn/11079586",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     }
   ],
   "tags": [
@@ -141,13 +141,13 @@
       "name": "Urban"
     },
     {
-      "name": "Seinen"
-    },
-    {
       "name": "Detective"
     },
     {
       "name": "Military"
+    },
+    {
+      "name": "Seinen"
     },
     {
       "name": "Female Protagonist"
@@ -175,633 +175,267 @@
     },
     {
       "name": "Dystopian"
+    },
+    {
+      "name": "CGI"
+    },
+    {
+      "name": "Body Swapping"
+    },
+    {
+      "name": "Kuudere"
+    },
+    {
+      "name": "Gore"
     }
   ],
-  "trailer": null,
+  "trailer": {
+    "id": "Gf6YFrV7zes",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/Gf6YFrV7zes/hqdefault.jpg"
+  },
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
-        "node": {
-          "id": 1566,
-          "idMal": 1566,
-          "title": {
-            "romaji": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
-            "english": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
-            "native": "Ghost in the Shell: Stand Alone Complex - Solid State Society"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1566-FSNFIcsT91Ni.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1566-FSNFIcsT91Ni.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1566-FSNFIcsT91Ni.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1566-FSNFIcsT91Ni.jpg",
-          "averageScore": 78,
-          "genres": [
-            "Mystery",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2006,
-          "duration": 24,
-          "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2006,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 2449,
-          "idMal": 2449,
-          "title": {
-            "romaji": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
-            "english": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
-            "native": "Ghost in the Shell: Stand Alone Complex - The Laughing Man"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2449-YZaDA9hyf7Ku.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2449-YZaDA9hyf7Ku.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2449-YZaDA9hyf7Ku.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2449-YZaDA9hyf7Ku.jpg",
-          "averageScore": 76,
-          "genres": [
-            "Action",
-            "Mecha",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2005,
-          "duration": 24,
-          "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2005,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Mecha"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
+        "relationType": "SEQUEL",
         "node": {
           "id": 801,
-          "idMal": 801,
           "title": {
-            "romaji": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
-            "english": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
-            "native": "Ghost in the Shell: Stand Alone Complex 2nd GIG"
+            "romaji": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+            "english": "Ghost in the Shell: Stand Alone Complex 2nd GIG"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx801-nF9RyvPJu6s4.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx801-nF9RyvPJu6s4.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx801-nF9RyvPJu6s4.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx801-nF9RyvPJu6s4.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx801-nF9RyvPJu6s4.jpg",
           "averageScore": 84,
-          "genres": [
-            "Action",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "episodes": 26,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2004,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 26,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2004,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2004,
+          "duration": 25
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 10949,
+          "title": {
+            "romaji": "Koukaku Kidoutai: STAND ALONE COMPLEX - Interval",
+            "english": "Ghost in the Shell: Stand Alone Complex - Interval"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10949.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10949.jpg"
+          },
+          "averageScore": 57,
+          "isAdult": false,
+          "episodes": 3,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2004,
+          "duration": 3
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 2449,
+          "title": {
+            "romaji": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man",
+            "english": "Ghost in the Shell: Stand Alone Complex - The Laughing Man"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2449-YZaDA9hyf7Ku.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2449-YZaDA9hyf7Ku.jpg"
+          },
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "OVA",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2005,
+          "duration": 160
+        }
+      },
+      {
+        "relationType": "SPIN_OFF",
+        "node": {
+          "id": 17187,
+          "title": {
+            "romaji": "Koukaku Kidoutai ARISE: GHOST IN THE SHELL - border:1 Ghost Pain",
+            "english": "Ghost in the Shell: Arise - Border:1 Ghost Pain"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17187-d1NyuScaQ3Ou.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17187-d1NyuScaQ3Ou.png"
+          },
+          "averageScore": 71,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2013,
+          "duration": 58
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 43,
+          "title": {
+            "romaji": "GHOST IN THE SHELL: Koukaku Kidoutai",
+            "english": "Ghost in the Shell"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx43-Y6EjeEMM14dj.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx43-Y6EjeEMM14dj.png"
+          },
+          "averageScore": 80,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 1995,
+          "duration": 83
+        }
+      },
+      {
+        "relationType": "ADAPTATION",
+        "node": {
+          "id": 61935,
+          "title": {
+            "romaji": "Koukaku Kidoutai: Stand Alone Complex",
+            "english": "Ghost in the Shell: Stand Alone Complex"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx61935-WLJW4gVGf3g6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx61935-WLJW4gVGf3g6.jpg"
+          },
+          "averageScore": 63,
+          "isAdult": false,
+          "episodes": null,
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "ADAPTATION",
+        "node": {
+          "id": 37848,
+          "title": {
+            "romaji": "Koukaku Kidoutai: Stand Alone Complex",
+            "english": "Ghost in the Shell: Stand Alone Complex"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37848-Ox6ro7DJKzxd.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37848-Ox6ro7DJKzxd.jpg"
+          },
+          "averageScore": 62,
+          "isAdult": false,
+          "episodes": null,
+          "format": "NOVEL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
         "node": {
           "id": 1335,
-          "idMal": 1335,
           "title": {
-            "romaji": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
-            "english": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
-            "native": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days"
+            "romaji": "Koukaku Kidoutai: STAND ALONE COMPLEX - Section 9 Science File \"Tachikoma na Hibi\"",
+            "english": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1335.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1335.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1335.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1335.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1335.jpg",
           "averageScore": 65,
-          "genres": [
-            "Comedy",
-            "Mecha",
-            "Sci-Fi"
-          ],
-          "episodes": 26,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2002,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 26,
           "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2002,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Mecha"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 1
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "ADAPTATION",
         "node": {
-          "id": 19195,
-          "idMal": 19195,
+          "id": 93023,
           "title": {
-            "romaji": "Ghost in the Shell: Arise - Border:4 Ghost Stands Alone",
-            "english": "Ghost in the Shell: Arise - Border:4 Ghost Stands Alone",
-            "native": "Ghost in the Shell: Arise - Border:4 Ghost Stands Alone"
+            "romaji": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19195-649F6wuytP5T.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19195-649F6wuytP5T.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19195-649F6wuytP5T.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx93023-lSEadZByjtm3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93023-lSEadZByjtm3.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19195-649F6wuytP5T.jpg",
-          "averageScore": 70,
-          "genres": [
-            "Action",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
+          "averageScore": null,
           "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "episodes": null,
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "ADAPTATION",
+        "node": {
+          "id": 31023,
+          "title": {
+            "romaji": "Koukaku Kidoutai",
+            "english": "The Ghost in the Shell"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31023-iozeApEMjmPP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31023-iozeApEMjmPP.jpg"
+          },
+          "averageScore": 74,
+          "isAdult": false,
+          "episodes": null,
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
         "node": {
           "id": 177699,
-          "idMal": 177699,
           "title": {
-            "romaji": "THE GHOST IN THE SHELL",
-            "english": "THE GHOST IN THE SHELL",
-            "native": "THE GHOST IN THE SHELL"
+            "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
+            "english": "THE GHOST IN THE SHELL"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-hnzc1CS5ZSM2.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
-          "averageScore": 0,
-          "genres": [
-            "Action",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "NOT_YET_RELEASED",
-          "season": "SPRING",
+          "averageScore": 77,
+          "isAdult": false,
+          "episodes": null,
+          "format": "TV",
+          "status": "RELEASING",
+          "season": "SUMMER",
           "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 138899,
-          "idMal": 138899,
-          "title": {
-            "romaji": "Ghost in the Shell: SAC_2045 Sustainable War",
-            "english": "Ghost in the Shell: SAC_2045 Sustainable War",
-            "native": "Ghost in the Shell: SAC_2045 Sustainable War"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138899-mtjPqyGw7Yxf.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138899-mtjPqyGw7Yxf.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138899-mtjPqyGw7Yxf.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138899-mtjPqyGw7Yxf.jpg",
-          "averageScore": 60,
-          "genres": [
-            "Action",
-            "Mystery",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2021,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2021,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 106154,
-          "idMal": 106154,
-          "title": {
-            "romaji": "Ghost in the Shell: SAC_2045",
-            "english": "Ghost in the Shell: SAC_2045",
-            "native": "Ghost in the Shell: SAC_2045"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106154-14XxxKUUwh13.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106154-14XxxKUUwh13.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106154-14XxxKUUwh13.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106154-14XxxKUUwh13.jpg",
-          "averageScore": 63,
-          "genres": [
-            "Action",
-            "Mystery",
-            "Sci-Fi"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
-          "isAdult": false,
-          "format": "ONA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21511,
-          "idMal": 21511,
-          "title": {
-            "romaji": "Pandora in the Crimson Shell Ghost Urn",
-            "english": "Pandora in the Crimson Shell Ghost Urn",
-            "native": "Pandora in the Crimson Shell Ghost Urn"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21511-D0tPX9spNPQW.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21511-D0tPX9spNPQW.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21511-D0tPX9spNPQW.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21511-D0tPX9spNPQW.png",
-          "averageScore": 62,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Sci-Fi"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21056,
-          "idMal": 21056,
-          "title": {
-            "romaji": "Ghost in the Shell Arise: Alternative Architecture",
-            "english": "Ghost in the Shell Arise: Alternative Architecture",
-            "native": "Ghost in the Shell Arise: Alternative Architecture"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21056-Lv2scuQyXusc.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21056-Lv2scuQyXusc.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21056-Lv2scuQyXusc.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21056-Lv2scuQyXusc.png",
-          "averageScore": 68,
-          "genres": [
-            "Action",
-            "Mecha",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "episodes": 10,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Mecha"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21057,
-          "idMal": 21057,
-          "title": {
-            "romaji": "Ghost in the Shell: The New Movie",
-            "english": "Ghost in the Shell: The New Movie",
-            "native": "Ghost in the Shell: The New Movie"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21057-qiJBybrqTUnq.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21057-qiJBybrqTUnq.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21057-qiJBybrqTUnq.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21057-qiJBybrqTUnq.png",
-          "averageScore": 72,
-          "genres": [
-            "Action",
-            "Mecha",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Mecha"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21463,
-          "idMal": 21463,
-          "title": {
-            "romaji": "Pandora in the Crimson Shell: Ghost Urn",
-            "english": "Pandora in the Crimson Shell: Ghost Urn",
-            "native": "Pandora in the Crimson Shell: Ghost Urn"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21463-JfkwWZ145By6.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21463-JfkwWZ145By6.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21463-JfkwWZ145By6.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21463-JfkwWZ145By6.jpg",
-          "averageScore": 59,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "duration": 24
         }
       }
     ]
@@ -810,750 +444,885 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 30,
-          "idMal": 30,
+          "id": 13601,
           "title": {
-            "romaji": "Neon Genesis Evangelion",
-            "english": "Neon Genesis Evangelion",
-            "native": "Neon Genesis Evangelion"
+            "romaji": "PSYCHO-PASS",
+            "english": "PSYCHO-PASS"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13601-i42VFuHpqEOJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13601-i42VFuHpqEOJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx13601-i42VFuHpqEOJ.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
-          "averageScore": 83,
-          "genres": [
-            "Action",
-            "Drama",
-            "Mecha",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "episodes": 26,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1995,
-          "duration": 24,
+          "averageScore": 81,
           "isAdult": false,
+          "episodes": 22,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1995,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Mecha"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 23
         }
       },
       {
         "mediaRecommendation": {
-          "id": 124845,
-          "idMal": 124845,
+          "id": 8100,
           "title": {
-            "romaji": "WONDER EGG PRIORITY",
-            "english": "WONDER EGG PRIORITY",
-            "native": "WONDER EGG PRIORITY"
+            "romaji": "Mardock Scramble: The First Compression",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124845-JXORhqCTGt04.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124845-JXORhqCTGt04.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124845-JXORhqCTGt04.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8100-ta0O3nZxySqe.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8100-ta0O3nZxySqe.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8100-ta0O3nZxySqe.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124845-JXORhqCTGt04.jpg",
-          "averageScore": 74,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi",
-            "Thriller"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2021,
-          "duration": 24,
+          "averageScore": 70,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2021,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            },
-            {
-              "name": "Thriller"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 100643,
-          "idMal": 100643,
-          "title": {
-            "romaji": "Made in Abyss: Dawn of the Deep Soul",
-            "english": "Made in Abyss: Dawn of the Deep Soul",
-            "native": "Made in Abyss: Dawn of the Deep Soul"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
-          "averageScore": 85,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Fantasy",
-            "Horror",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi"
-          ],
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
-          "isAdult": false,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Horror"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 70
         }
       },
       {
         "mediaRecommendation": {
-          "id": 145665,
-          "idMal": 145665,
+          "id": 108478,
           "title": {
-            "romaji": "NieR:Automata Ver1.1a",
-            "english": "NieR:Automata Ver1.1a",
-            "native": "NieR:Automata Ver1.1a"
+            "romaji": "No Guns Life",
+            "english": "No Guns Life"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145665-Qs53Mta5ngqs.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145665-Qs53Mta5ngqs.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145665-Qs53Mta5ngqs.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108478-yHMnmQCtHSDb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108478-yHMnmQCtHSDb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx108478-yHMnmQCtHSDb.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145665-Qs53Mta5ngqs.jpg",
-          "averageScore": 73,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi"
-          ],
+          "averageScore": 66,
+          "isAdult": false,
           "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2023,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2023,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 99088,
-          "idMal": 99088,
-          "title": {
-            "romaji": "PLUTO",
-            "english": "PLUTO",
-            "native": "PLUTO"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99088-LTJskMD1wbbQ.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99088-LTJskMD1wbbQ.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99088-LTJskMD1wbbQ.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99088-LTJskMD1wbbQ.png",
-          "averageScore": 84,
-          "genres": [
-            "Action",
-            "Drama",
-            "Mecha",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi",
-            "Thriller"
-          ],
-          "episodes": 8,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2023,
-          "duration": 24,
-          "isAdult": false,
-          "format": "ONA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2023,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Mecha"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            },
-            {
-              "name": "Thriller"
-            }
-          ]
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 21509,
-          "idMal": 21509,
+          "id": 20513,
           "title": {
-            "romaji": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc",
-            "english": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc",
-            "native": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc"
+            "romaji": "PSYCHO-PASS 2",
+            "english": "PSYCHO-PASS 2"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21509-3Ih7TTU0Romm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21509-3Ih7TTU0Romm.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21509-3Ih7TTU0Romm.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20513-pVQqYhMwBGoh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20513-pVQqYhMwBGoh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20513-pVQqYhMwBGoh.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21509-3Ih7TTU0Romm.jpg",
-          "averageScore": 69,
-          "genres": [
-            "Action",
-            "Horror",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi",
-            "Thriller"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Horror"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            },
-            {
-              "name": "Thriller"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 21825,
-          "idMal": 21825,
-          "title": {
-            "romaji": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
-            "english": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
-            "native": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21825-OjVRUQwM8bTz.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21825-OjVRUQwM8bTz.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21825-OjVRUQwM8bTz.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21825-OjVRUQwM8bTz.png",
           "averageScore": 71,
-          "genres": [
-            "Action",
-            "Drama",
-            "Horror",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi",
-            "Thriller"
-          ],
+          "isAdult": false,
           "episodes": 11,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Horror"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            },
-            {
-              "name": "Thriller"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 23
         }
       },
       {
         "mediaRecommendation": {
-          "id": 6573,
-          "idMal": 6573,
+          "id": 324,
           "title": {
-            "romaji": "Darker than Black: Gemini of the Meteor",
-            "english": "Darker than Black: Gemini of the Meteor",
-            "native": "Darker than Black: Gemini of the Meteor"
+            "romaji": "Kidou Keisatsu Patlabor ON TELEVISION",
+            "english": "Patlabor the Mobile Police"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6573-8D21dF6qwXQ2.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6573-8D21dF6qwXQ2.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6573-8D21dF6qwXQ2.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx324-fAAhdp1NQIts.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx324-fAAhdp1NQIts.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx324-fAAhdp1NQIts.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6573-8D21dF6qwXQ2.png",
-          "averageScore": 71,
-          "genres": [
-            "Action",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi",
-            "Supernatural"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2009,
-          "duration": 24,
+          "averageScore": 76,
           "isAdult": false,
+          "episodes": 47,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2009,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 25
         }
       },
       {
         "mediaRecommendation": {
-          "id": 801,
-          "idMal": 801,
+          "id": 3859,
           "title": {
-            "romaji": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
-            "english": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
-            "native": "Ghost in the Shell: Stand Alone Complex 2nd GIG"
+            "romaji": "Himitsu: Top Secret - The Revelation",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx801-nF9RyvPJu6s4.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx801-nF9RyvPJu6s4.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx801-nF9RyvPJu6s4.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3859-vVJrx02pHzHm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3859-vVJrx02pHzHm.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3859-vVJrx02pHzHm.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx801-nF9RyvPJu6s4.jpg",
-          "averageScore": 84,
-          "genres": [
-            "Action",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi"
-          ],
+          "averageScore": 68,
+          "isAdult": false,
           "episodes": 26,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2004,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2004,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 22
         }
       },
       {
         "mediaRecommendation": {
-          "id": 105807,
-          "idMal": 105807,
+          "id": 2025,
           "title": {
-            "romaji": "7SEEDS",
-            "english": "7SEEDS",
-            "native": "7SEEDS"
+            "romaji": "DARKER THAN BLACK: Kuro no Keiyakusha",
+            "english": "Darker than Black"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105807-Ivd7xc40XdGF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105807-Ivd7xc40XdGF.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105807-Ivd7xc40XdGF.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2025-ZKVteVzUyFLH.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2025-ZKVteVzUyFLH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b2025-ZKVteVzUyFLH.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105807-Ivd7xc40XdGF.jpg",
-          "averageScore": 63,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Horror",
-            "Mystery",
-            "Psychological",
-            "Romance",
-            "Sci-Fi"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
+          "averageScore": 77,
           "isAdult": false,
-          "format": "ONA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Horror"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20677,
-          "idMal": 20677,
-          "title": {
-            "romaji": "DRAMAtical Murder",
-            "english": "DRAMAtical Murder",
-            "native": "DRAMAtical Murder"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20677-ehVURG1q3Svw.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20677-ehVURG1q3Svw.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20677-ehVURG1q3Svw.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20677-ehVURG1q3Svw.jpg",
-          "averageScore": 55,
-          "genres": [
-            "Action",
-            "Drama",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
+          "episodes": 25,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 567,
-          "idMal": 567,
+          "id": 790,
           "title": {
-            "romaji": "The Big O",
-            "english": "The Big O",
-            "native": "The Big O"
+            "romaji": "Ergo Proxy",
+            "english": "Ergo Proxy"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx567-iWOJNRu4begJ.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx567-iWOJNRu4begJ.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx567-iWOJNRu4begJ.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx790-YTUCvBKX8ZWK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx790-YTUCvBKX8ZWK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx790-YTUCvBKX8ZWK.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx567-iWOJNRu4begJ.png",
-          "averageScore": 74,
-          "genres": [
-            "Action",
-            "Mecha",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi"
-          ],
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 23,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1,
+          "title": {
+            "romaji": "Cowboy Bebop",
+            "english": "Cowboy Bebop"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1-GCsPm7waJ4kS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1-GCsPm7waJ4kS.png"
+          },
+          "averageScore": 86,
+          "isAdult": false,
+          "episodes": 26,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 339,
+          "title": {
+            "romaji": "serial experiments lain",
+            "english": "Serial Experiments Lain"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx339-xF2wp1NQuQ4r.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx339-xF2wp1NQuQ4r.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx339-xF2wp1NQuQ4r.png"
+          },
+          "averageScore": 80,
+          "isAdult": false,
           "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1999,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1999,
-            "month": 12,
-            "day": 31
+          "status": "FINISHED",
+          "duration": 23
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 26,
+          "title": {
+            "romaji": "TEXHNOLYZE",
+            "english": "Texhnolyze"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Mecha"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx26-ADSztyHBNO39.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx26-ADSztyHBNO39.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx26-ADSztyHBNO39.jpg"
+          },
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 22,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 23
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 19,
+          "title": {
+            "romaji": "MONSTER",
+            "english": "Monster"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-gtMC64182sm4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-gtMC64182sm4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx19-gtMC64182sm4.jpg"
+          },
+          "averageScore": 88,
+          "isAdult": false,
+          "episodes": 74,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 1795,
+          "name": {
+            "userPreferred": "Motoko Kusanagi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1795-vKakY5aXVyCl.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95100,
+            "name": {
+              "userPreferred": "Atsuko Tanaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-v07xvA8V2Yeh.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2653,
+          "name": {
+            "userPreferred": "Batou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2653.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95146,
+            "name": {
+              "userPreferred": "Akio Ootsuka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95146-T6IEmqXW3xUN.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2654,
+          "name": {
+            "userPreferred": "Togusa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2654.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95011,
+            "name": {
+              "userPreferred": "Kouichi Yamadera"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2677,
+          "name": {
+            "userPreferred": "Daisuke Aramaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n2677-lPWyWsFWTJhp.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95147,
+            "name": {
+              "userPreferred": "Osamu Saka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95147-FQpTmnogj7v1.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 1796,
+          "name": {
+            "userPreferred": "The Laughing Man"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1796-ucRPHc6nLKaa.png"
+          }
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2655,
+          "name": {
+            "userPreferred": "Pazu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2655.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 110457,
+            "name": {
+              "userPreferred": "Takashi Onozuka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110457-0uMrhHbGj9Gd.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2656,
+          "name": {
+            "userPreferred": "Saito"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2656.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95243,
+            "name": {
+              "userPreferred": "Tooru Ookawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95243-zhk18RRqSAmx.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2675,
+          "name": {
+            "userPreferred": "Borma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2675.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95989,
+            "name": {
+              "userPreferred": "Tarou Yamaguchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95989-SwsXqIywUZXc.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2676,
+          "name": {
+            "userPreferred": "Ishikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2676-2wg98eOH9BEh.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 102260,
+            "name": {
+              "userPreferred": "Yutaka Nakano"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102260-OSLwIM0iBKFa.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 4808,
+          "name": {
+            "userPreferred": "Tachikoma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4808-iHecJsS0FXK2.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95448,
+            "name": {
+              "userPreferred": "Sakiko Tamagawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95448-aZ4oV0K3UJf2.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 19208,
+          "name": {
+            "userPreferred": "Aoi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/19208.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95011,
+            "name": {
+              "userPreferred": "Kouichi Yamadera"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 21421,
+          "name": {
+            "userPreferred": "Operator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21421-6sJyX9vsKT3Z.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 101360,
+            "name": {
+              "userPreferred": "Eri Oono"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101360-g1rgIXj9MzR5.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 25803,
+          "name": {
+            "userPreferred": "Kurta Nasami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b25803-Kdf0OUAxHsSj.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 103017,
+            "name": {
+              "userPreferred": "Yuuko Sumitomo"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103017-Piytwi9mEz6d.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 33853,
+          "name": {
+            "userPreferred": "Kubota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b33853-elxPaRpu6Sk6.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 103015,
+            "name": {
+              "userPreferred": "Taimei Suzuki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8015.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 39455,
+          "name": {
+            "userPreferred": "Miki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b39455-jeX1kC0Iv43m.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95148,
+            "name": {
+              "userPreferred": "Akiko Yajima"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95148-JiNi79wg9ScS.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 51859,
+          "name": {
+            "userPreferred": "Foreign Minister"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51859-MP0MXiTy5N0Z.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 107203,
+            "name": {
+              "userPreferred": "Ryuuichi Horibe"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12203.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 51861,
+          "name": {
+            "userPreferred": "Roujin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51861-aYfcyP7HJqcq.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 105076,
+            "name": {
+              "userPreferred": "Kouichi Kitamura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105076-xLjAn85wWGJt.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 51863,
+          "name": {
+            "userPreferred": "Terrorist"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51863-uZsixUpw1F3X.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96433,
+            "name": {
+              "userPreferred": "Eiji Sekiguchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1433.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 52083,
+          "name": {
+            "userPreferred": "Oba Toshio"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b52083-WMKq2rVjbf5p.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95022,
+            "name": {
+              "userPreferred": "Shinichirou Miki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 52101,
+          "name": {
+            "userPreferred": "Daido"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b52101-M9ZWzyM3ReAU.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 107196,
+            "name": {
+              "userPreferred": "Ryo Kamon"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12196.jpg"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
-  }
+    "edges": [
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 95269,
+          "name": {
+            "userPreferred": "Mary Elizabeth McGlynn"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95269-PhQ87wkVzLBb.jpg"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (OP, ED)",
+        "node": {
+          "id": 95508,
+          "name": {
+            "userPreferred": "Youko Kanno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95508-CRYonC3sfc4S.png"
+          }
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 95508,
+          "name": {
+            "userPreferred": "Youko Kanno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95508-CRYonC3sfc4S.png"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Composition (OP, ED)",
+        "node": {
+          "id": 95508,
+          "name": {
+            "userPreferred": "Youko Kanno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95508-CRYonC3sfc4S.png"
+          }
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97609,
+          "name": {
+            "userPreferred": "Masamune Shirow"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/2609.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ep 24)",
+        "node": {
+          "id": 98185,
+          "name": {
+            "userPreferred": "Mutsumi Sasaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/98185-yXs3UZWXzmgf.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ep 5)",
+        "node": {
+          "id": 99006,
+          "name": {
+            "userPreferred": "Haruo Sotozaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99006-NuAjczMqcL3W.jpg"
+          }
+        }
+      },
+      {
+        "role": "Script (eps 9, 10, 20, 21, 26)",
+        "node": {
+          "id": 100245,
+          "name": {
+            "userPreferred": "Dai Satou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100245-5IiemeCT9AHa.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation  (ep 26)",
+        "node": {
+          "id": 100325,
+          "name": {
+            "userPreferred": "Minako Shiba"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100325-uGYQvBnmLf69.png"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (eps 1, 4, 9, 16)",
+        "node": {
+          "id": 100348,
+          "name": {
+            "userPreferred": "Kenji Kamiyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100348-PVpNBhGzEMsq.png"
+          }
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 100348,
+          "name": {
+            "userPreferred": "Kenji Kamiyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100348-PVpNBhGzEMsq.png"
+          }
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100348,
+          "name": {
+            "userPreferred": "Kenji Kamiyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100348-PVpNBhGzEMsq.png"
+          }
+        }
+      },
+      {
+        "role": "Script (eps 1, 14)",
+        "node": {
+          "id": 100348,
+          "name": {
+            "userPreferred": "Kenji Kamiyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100348-PVpNBhGzEMsq.png"
+          }
+        }
+      },
+      {
+        "role": "Episode Director (ep 5)",
+        "node": {
+          "id": 100359,
+          "name": {
+            "userPreferred": "Ryuutarou Nakamura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100359-14rcvH4cfJ7s.png"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (ep 5)",
+        "node": {
+          "id": 100359,
+          "name": {
+            "userPreferred": "Ryuutarou Nakamura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100359-14rcvH4cfJ7s.png"
+          }
+        }
+      }
+    ]
+  },
+  "subCount": 26,
+  "dubCount": 0,
+  "updatedAt": "2026-08-04T06:04:38.193Z"
 }
