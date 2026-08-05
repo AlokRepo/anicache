@@ -8,8 +8,8 @@
   },
   "synonyms": [],
   "coverImage": {
-    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204436-gGUp9DNszIY5.png",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204436-gGUp9DNszIY5.png"
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204436-bJJsu28NEiIO.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204436-bJJsu28NEiIO.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204436-OHyoHGQhdcrA.jpg",
   "description": "The second season of <i>Gachiakuta</i>.",
@@ -37,7 +37,16 @@
     "day": null
   },
   "studios": {
-    "edges": []
+    "edges": [
+      {
+        "isMain": true,
+        "node": {
+          "id": 7585,
+          "name": "bones film",
+          "isAnimationStudio": true
+        }
+      }
+    ]
   },
   "nextAiringEpisode": null,
   "externalLinks": [
@@ -327,5 +336,8 @@
         }
       }
     ]
-  }
+  },
+  "subCount": 0,
+  "dubCount": 0,
+  "updatedAt": "2026-08-05T09:44:10.336Z"
 }
