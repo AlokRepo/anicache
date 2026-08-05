@@ -13,8 +13,7 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21827-ubzq619ZA2E9.png"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21827-ROucgYiiiSpR.jpg",
   "description": "A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation. Violet Evergarden, a young girl formerly known as “the weapon”, has left the battlefield to start a new life at CH Postal Service. There, she is deeply moved by the work of “Auto Memories Dolls”, who carry people's thoughts and convert them into words. Violet begins her journey as an Auto Memories Doll, and comes face to face with various people's emotions and differing shapes of love. There are words Violet heard on the battlefield, which she cannot forget. These words were given to her by someone she holds dear, more than anyone else. She does not yet know their meaning but she searches to find it.<br>\n<br>\n(Source: Anime News Network)",
@@ -30,6 +29,7 @@
   "seasonYear": 2018,
   "duration": 24,
   "format": "TV",
+  "isAdult": false,
   "startDate": {
     "year": 2018,
     "month": 1,
@@ -45,7 +45,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 1,
+          "id": 2,
           "name": "Kyoto Animation",
           "isAnimationStudio": true
         }
@@ -53,7 +53,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 2,
+          "id": 104,
           "name": "Lantis",
           "isAnimationStudio": false
         }
@@ -61,7 +61,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 3,
+          "id": 144,
           "name": "Pony Canyon",
           "isAnimationStudio": false
         }
@@ -69,7 +69,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 4,
+          "id": 211,
           "name": "Rakuonsha",
           "isAnimationStudio": false
         }
@@ -77,7 +77,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 5,
+          "id": 6454,
           "name": "Madman Entertainment",
           "isAnimationStudio": false
         }
@@ -85,7 +85,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 6,
+          "id": 6377,
           "name": "ABC Animation",
           "isAnimationStudio": false
         }
@@ -95,10 +95,22 @@
   "nextAiringEpisode": null,
   "externalLinks": [
     {
+      "site": "Twitter",
+      "url": "https://twitter.com/Violet_Letter",
+      "type": "SOCIAL",
+      "language": "Japanese"
+    },
+    {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/80182123",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
+    },
+    {
+      "site": "Official Site",
+      "url": "http://tv.violet-evergarden.jp/",
+      "type": "INFO",
+      "language": "Japanese"
     }
   ],
   "tags": [
@@ -154,210 +166,117 @@
       "name": "Steampunk"
     },
     {
+      "name": "Heterosexual"
+    },
+    {
       "name": "Age Gap"
+    },
+    {
+      "name": "Foreign"
+    },
+    {
+      "name": "Assassins"
+    },
+    {
+      "name": "Trains"
+    },
+    {
+      "name": "Guns"
     }
   ],
-  "trailer": null,
+  "trailer": {
+    "id": "_grmduuECm4",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/_grmduuECm4/hqdefault.jpg"
+  },
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
-        "node": {
-          "id": 103047,
-          "idMal": 103047,
-          "title": {
-            "romaji": "Violet Evergarden: the Movie",
-            "english": "Violet Evergarden: the Movie",
-            "native": "Violet Evergarden: the Movie"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg",
-          "averageScore": 87,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 109190,
-          "idMal": 109190,
-          "title": {
-            "romaji": "Violet Evergarden: Eternity and the Auto Memory Doll",
-            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
-            "native": "Violet Evergarden: Eternity and the Auto Memory Doll"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
-          "averageScore": 83,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
+        "relationType": "SIDE_STORY",
         "node": {
           "id": 101432,
-          "idMal": 101432,
           "title": {
-            "romaji": "Violet Evergarden: Special",
-            "english": "Violet Evergarden: Special",
-            "native": "Violet Evergarden: Special"
+            "romaji": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+            "english": "Violet Evergarden: Special"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101432-NQSedsCDQ6dP.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101432-NQSedsCDQ6dP.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101432-NQSedsCDQ6dP.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101432-NQSedsCDQ6dP.png",
           "averageScore": 82,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 1,
           "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2018,
+          "duration": 34
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "ADAPTATION",
         "node": {
-          "id": 4264,
-          "idMal": 4264,
+          "id": 97298,
           "title": {
-            "romaji": "Ultraviolet: Code 044",
-            "english": "Ultraviolet: Code 044",
-            "native": "Ultraviolet: Code 044"
+            "romaji": "Violet Evergarden",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4264-5jdwiLMET49D.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4264-5jdwiLMET49D.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4264-5jdwiLMET49D.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97298-2KETOAaDaTw7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97298-2KETOAaDaTw7.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4264-5jdwiLMET49D.jpg",
-          "averageScore": 48,
-          "genres": [
-            "Action",
-            "Sci-Fi"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2008,
-          "duration": 24,
+          "averageScore": 83,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2008,
-            "month": 12,
-            "day": 31
+          "episodes": null,
+          "format": "NOVEL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "SEQUEL",
+        "node": {
+          "id": 109190,
+          "title": {
+            "romaji": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "english": "Violet Evergarden: Eternity and the Auto Memory Doll"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109190-e8mv1qdmpjLW.jpg"
+          },
+          "averageScore": 84,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2019,
+          "duration": 91
+        }
+      },
+      {
+        "relationType": "OTHER",
+        "node": {
+          "id": 154164,
+          "title": {
+            "romaji": "Violet Evergarden CM",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154164-3fNKxQJWaFf0.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154164-3fNKxQJWaFf0.jpg"
+          },
+          "averageScore": 80,
+          "isAdult": false,
+          "episodes": 2,
+          "format": "ONA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 1
         }
       }
     ]
@@ -366,658 +285,904 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 18153,
-          "idMal": 18153,
+          "id": 21519,
           "title": {
-            "romaji": "Beyond the Boundary",
-            "english": "Beyond the Boundary",
-            "native": "Beyond the Boundary"
+            "romaji": "Kimi no Na wa.",
+            "english": "Your Name."
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18153-oDqA9zQzQPOq.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18153-oDqA9zQzQPOq.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18153-oDqA9zQzQPOq.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-SUo3ZQuCbYhJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-SUo3ZQuCbYhJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21519-SUo3ZQuCbYhJ.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18153-oDqA9zQzQPOq.png",
-          "averageScore": 74,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
+          "averageScore": 86,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 98436,
-          "idMal": 98436,
-          "title": {
-            "romaji": "The Ancient Magus' Bride",
-            "english": "The Ancient Magus' Bride",
-            "native": "The Ancient Magus' Bride"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98436-n7sK6POCd0XV.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98436-n7sK6POCd0XV.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98436-n7sK6POCd0XV.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98436-n7sK6POCd0XV.png",
-          "averageScore": 78,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 24,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 103047,
-          "idMal": 103047,
-          "title": {
-            "romaji": "Violet Evergarden: the Movie",
-            "english": "Violet Evergarden: the Movie",
-            "native": "Violet Evergarden: the Movie"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg",
-          "averageScore": 87,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Slice of Life"
-          ],
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
-          "isAdult": false,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 107
         }
       },
       {
         "mediaRecommendation": {
-          "id": 12355,
-          "idMal": 12355,
+          "id": 20954,
           "title": {
-            "romaji": "Wolf Children",
-            "english": "Wolf Children",
-            "native": "Wolf Children"
+            "romaji": "Koe no Katachi",
+            "english": "A Silent Voice"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12355-wNsvhEsXEgrH.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12355-wNsvhEsXEgrH.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12355-wNsvhEsXEgrH.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20954-sYRfE5jQRtSB.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20954-sYRfE5jQRtSB.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12355-wNsvhEsXEgrH.png",
-          "averageScore": 83,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance",
-            "Slice of Life"
-          ],
+          "averageScore": 88,
+          "isAdult": false,
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2012,
-          "duration": 24,
-          "isAdult": false,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 130
         }
       },
       {
         "mediaRecommendation": {
-          "id": 512,
-          "idMal": 512,
+          "id": 99750,
           "title": {
-            "romaji": "Kiki's Delivery Service",
-            "english": "Kiki's Delivery Service",
-            "native": "Kiki's Delivery Service"
+            "romaji": "Kimi no Suizou wo Tabetai",
+            "english": "I Want to Eat Your Pancreas"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx512-UwP8X4BR8YoM.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx512-UwP8X4BR8YoM.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx512-UwP8X4BR8YoM.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-pNyly9d3MEgV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99750-pNyly9d3MEgV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx99750-pNyly9d3MEgV.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx512-UwP8X4BR8YoM.png",
-          "averageScore": 81,
-          "genres": [
-            "Adventure",
-            "Drama",
-            "Fantasy",
-            "Slice of Life"
-          ],
+          "averageScore": 84,
+          "isAdult": false,
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1989,
-          "duration": 24,
-          "isAdult": false,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1989,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 109190,
-          "idMal": 109190,
-          "title": {
-            "romaji": "Violet Evergarden: Eternity and the Auto Memory Doll",
-            "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
-            "native": "Violet Evergarden: Eternity and the Auto Memory Doll"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
-          "averageScore": 83,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "episodes": 1,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 16067,
-          "idMal": 16067,
-          "title": {
-            "romaji": "A Lull in the Sea",
-            "english": "A Lull in the Sea",
-            "native": "A Lull in the Sea"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16067-CFX0g435pLob.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16067-CFX0g435pLob.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16067-CFX0g435pLob.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16067-CFX0g435pLob.png",
-          "averageScore": 77,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "episodes": 26,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "duration": 108
         }
       },
       {
         "mediaRecommendation": {
           "id": 4081,
-          "idMal": 4081,
           "title": {
-            "romaji": "Natsume's Book of Friends Season 1",
-            "english": "Natsume's Book of Friends Season 1",
-            "native": "Natsume's Book of Friends Season 1"
+            "romaji": "Natsume Yuujinchou",
+            "english": "Natsume's Book of Friends Season 1"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4081-xi08naD69tjr.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4081-xi08naD69tjr.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4081-xi08naD69tjr.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4081-xi08naD69tjr.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4081-xi08naD69tjr.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4081-xi08naD69tjr.jpg",
           "averageScore": 80,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Slice of Life",
-            "Supernatural"
-          ],
+          "isAdult": false,
           "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2008,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2008,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 21860,
-          "idMal": 21860,
+          "id": 4181,
           "title": {
-            "romaji": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
-            "english": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
-            "native": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?"
+            "romaji": "CLANNAD: After Story",
+            "english": "Clannad: After Story"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21860-lSIbYJtEbAXu.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21860-lSIbYJtEbAXu.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21860-lSIbYJtEbAXu.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4181-zUKE7BZC62OF.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4181-zUKE7BZC62OF.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4181-zUKE7BZC62OF.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21860-lSIbYJtEbAXu.jpg",
-          "averageScore": 75,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Mystery",
-            "Romance",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
+          "averageScore": 88,
           "isAdult": false,
+          "episodes": 24,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 101432,
-          "idMal": 101432,
-          "title": {
-            "romaji": "Violet Evergarden: Special",
-            "english": "Violet Evergarden: Special",
-            "native": "Violet Evergarden: Special"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101432-NQSedsCDQ6dP.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101432-NQSedsCDQ6dP.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101432-NQSedsCDQ6dP.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101432-NQSedsCDQ6dP.png",
-          "averageScore": 82,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "episodes": 1,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 108617,
-          "idMal": 108617,
+          "id": 486,
           "title": {
-            "romaji": "Somali and the Forest Spirit",
-            "english": "Somali and the Forest Spirit",
-            "native": "Somali and the Forest Spirit"
+            "romaji": "Kino no Tabi: the Beautiful World",
+            "english": "Kino's Journey"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108617-PgoYLgWzzm0c.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108617-PgoYLgWzzm0c.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108617-PgoYLgWzzm0c.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx486-xXUgNOEBuxGs.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx486-xXUgNOEBuxGs.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx486-xXUgNOEBuxGs.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108617-PgoYLgWzzm0c.png",
-          "averageScore": 76,
-          "genres": [
-            "Adventure",
-            "Drama",
-            "Fantasy",
-            "Slice of Life"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
+          "averageScore": 81,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 387,
-          "idMal": 387,
-          "title": {
-            "romaji": "Haibane Renmei",
-            "english": "Haibane Renmei",
-            "native": "Haibane Renmei"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx387-dS4aJivu0zPB.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx387-dS4aJivu0zPB.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx387-dS4aJivu0zPB.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx387-dS4aJivu0zPB.png",
-          "averageScore": 79,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Mystery",
-            "Psychological",
-            "Slice of Life"
-          ],
           "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2002,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2002,
-            "month": 12,
-            "day": 31
+          "status": "FINISHED",
+          "duration": 25
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 3420,
+          "title": {
+            "romaji": "Shigofumi",
+            "english": "Shigofumi"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3420-ZHbQqYUJCcUn.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3420-ZHbQqYUJCcUn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3420-ZHbQqYUJCcUn.png"
+          },
+          "averageScore": 71,
+          "isAdult": false,
+          "episodes": 12,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20931,
+          "title": {
+            "romaji": "Death Parade",
+            "english": "Death Parade"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20931-bktYqOcxPERi.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20931-bktYqOcxPERi.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx20931-bktYqOcxPERi.jpg"
+          },
+          "averageScore": 80,
+          "isAdult": false,
+          "episodes": 12,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 23
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20665,
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-TLgkL8T8IRFd.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20665-TLgkL8T8IRFd.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20665-TLgkL8T8IRFd.png"
+          },
+          "averageScore": 84,
+          "isAdult": false,
+          "episodes": 22,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 23
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 134,
+          "title": {
+            "romaji": "GUNSLINGER GIRL",
+            "english": "Gunslinger Girl"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134-f3dmmMOijYdn.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134-f3dmmMOijYdn.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx134-f3dmmMOijYdn.png"
+          },
+          "averageScore": 74,
+          "isAdult": false,
+          "episodes": 13,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 8425,
+          "title": {
+            "romaji": "GOSICK",
+            "english": "Gosick"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx8425-Bn14ayPjnq9o.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx8425-Bn14ayPjnq9o.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx8425-Bn14ayPjnq9o.jpg"
+          },
+          "averageScore": 77,
+          "isAdult": false,
+          "episodes": 24,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 98436,
+          "title": {
+            "romaji": "Mahoutsukai no Yome",
+            "english": "The Ancient Magus' Bride"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98436-n7sK6POCd0XV.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98436-n7sK6POCd0XV.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98436-n7sK6POCd0XV.png"
+          },
+          "averageScore": 78,
+          "isAdult": false,
+          "episodes": 24,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90169,
+          "name": {
+            "userPreferred": "Violet Evergarden"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 100142,
+            "name": {
+              "userPreferred": "Yui Ishikawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100142-k6RP0HzXffUG.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124787,
+          "name": {
+            "userPreferred": "Cattleya Baudelaire"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124787-1HuZGawvoejp.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95054,
+            "name": {
+              "userPreferred": "Aya Endou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124788,
+          "name": {
+            "userPreferred": "Benedict Blue"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124788-upZ5vtGwndzt.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96764,
+            "name": {
+              "userPreferred": "Kouki Uchiyama"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96764-yJWGrhjanDJQ.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124789,
+          "name": {
+            "userPreferred": "Dietfried Bougainvillea"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124789-DLp0QEJZeiQ8.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95174,
+            "name": {
+              "userPreferred": "Hidenobu Kiuchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95174-yTsadXRKchp7.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124790,
+          "name": {
+            "userPreferred": "Gilbert Bougainvillea"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124790-QR7zyemTK0zq.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95087,
+            "name": {
+              "userPreferred": "Daisuke Namikawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124791,
+          "name": {
+            "userPreferred": "Bridget"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124791-UZv7eQrf3b2J.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 124796,
+            "name": {
+              "userPreferred": "Yurika Aizawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/124796-ya8TT1a9zedA.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124792,
+          "name": {
+            "userPreferred": "Erica Brown"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124792-NWFK2r8zIxYX.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95053,
+            "name": {
+              "userPreferred": "Minori Chihara"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95053-wN1MdNMSGTMn.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124793,
+          "name": {
+            "userPreferred": "Iris Cannary"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/124793-dLsKOcQbMu85.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95890,
+            "name": {
+              "userPreferred": "Haruka Tomatsu"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124794,
+          "name": {
+            "userPreferred": "Iberis Conoway"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/124794-nNNzoCGufkAF.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 124800,
+            "name": {
+              "userPreferred": "Mari Doi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/124800-FPvwpyPB4IGV.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124795,
+          "name": {
+            "userPreferred": "Tiffany Evergarden"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/124795-TVTdrCVsDONn.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 106833,
+            "name": {
+              "userPreferred": "Toshiko Sawada"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106833-23lZsptjXOVT.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124798,
+          "name": {
+            "userPreferred": "Dansei Kyaku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124798-CKa1Jqfjm8nN.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 142167,
+            "name": {
+              "userPreferred": "Takuya Inagaki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142167-wA3thaqLrgLE.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124799,
+          "name": {
+            "userPreferred": "Claudia Hodgins"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95160,
+            "name": {
+              "userPreferred": "Takehito Koyasu"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124801,
+          "name": {
+            "userPreferred": "Lilian"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124801-RQQ3TxLi4d4y.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 124802,
+            "name": {
+              "userPreferred": "Rie Hikisaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124802-VNbDkz25pnAd.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124803,
+          "name": {
+            "userPreferred": "Iris no Mei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124803-9qK35gh1KwkO.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 124802,
+            "name": {
+              "userPreferred": "Rie Hikisaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124802-VNbDkz25pnAd.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124805,
+          "name": {
+            "userPreferred": "Spencer Marlborough"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/124805-EouyBUScvHdi.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 107480,
+            "name": {
+              "userPreferred": "Subaru Kimura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107480-h2RgLXNP7hcj.png"
+            }
+          },
+          {
+            "id": 102263,
+            "name": {
+              "userPreferred": "Youko Hikasa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124806,
+          "name": {
+            "userPreferred": "Bluebell Unoa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/124806-s4r4rTM7JTwN.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 124811,
+            "name": {
+              "userPreferred": "Shouko Yuzuki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/124811-MJSltvaQ2H5D.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124807,
+          "name": {
+            "userPreferred": "Roland"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/124807-cTrQjEhuQC5e.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 124812,
+            "name": {
+              "userPreferred": "Riki Kagami"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124812-FeNFM7iMFO4b.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124808,
+          "name": {
+            "userPreferred": "Oliver"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124808-zzb8RhH6z3LX.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 104531,
+            "name": {
+              "userPreferred": "Naoya Nosaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9531.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124809,
+          "name": {
+            "userPreferred": "Nerine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124809-0xAWuBr638EZ.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 119187,
+            "name": {
+              "userPreferred": "Aya Saitou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/24187-ZRFMfE9Y2KCQ.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 124810,
+          "name": {
+            "userPreferred": "Luculia Marlborough"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124810-CuoTUTc7U08r.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 112297,
+            "name": {
+              "userPreferred": "Azusa Tadokoro"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112297-seUP8O4obuYO.png"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
-  }
+    "edges": [
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 95053,
+          "name": {
+            "userPreferred": "Minori Chihara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95053-wN1MdNMSGTMn.png"
+          }
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 97076,
+          "name": {
+            "userPreferred": "Reiko Yoshida"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97076-t79Rv9X7LDJa.jpg"
+          }
+        }
+      },
+      {
+        "role": "Script (eps 1, 2, 4, 7-10, 13)",
+        "node": {
+          "id": 97076,
+          "name": {
+            "userPreferred": "Reiko Yoshida"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97076-t79Rv9X7LDJa.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (eps 7, 10, 11)",
+        "node": {
+          "id": 99891,
+          "name": {
+            "userPreferred": "Seiya Kumano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (eps 4, 9)",
+        "node": {
+          "id": 101771,
+          "name": {
+            "userPreferred": "Yasuhiro Takemoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101771-8t6BcVpxQnGs.jpg"
+          }
+        }
+      },
+      {
+        "role": "Episode Director (ep 9)",
+        "node": {
+          "id": 101771,
+          "name": {
+            "userPreferred": "Yasuhiro Takemoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101771-8t6BcVpxQnGs.jpg"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (ep 6)",
+        "node": {
+          "id": 102025,
+          "name": {
+            "userPreferred": "Yoshiji Kigami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102025-tk5wuCgBGTBf.png"
+          }
+        }
+      },
+      {
+        "role": "Episode Director (ep 6)",
+        "node": {
+          "id": 102025,
+          "name": {
+            "userPreferred": "Yoshiji Kigami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102025-tk5wuCgBGTBf.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (PV, eps 8, 10, 13)",
+        "node": {
+          "id": 102025,
+          "name": {
+            "userPreferred": "Yoshiji Kigami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102025-tk5wuCgBGTBf.png"
+          }
+        }
+      },
+      {
+        "role": "Script (eps 3, 6, 11)",
+        "node": {
+          "id": 102191,
+          "name": {
+            "userPreferred": "Tatsuhiko Urahata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102191-eAveZw3hOsfn.jpg"
+          }
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 102194,
+          "name": {
+            "userPreferred": "Youta Tsuruoka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102194-sNl1LjAzgxNe.png"
+          }
+        }
+      },
+      {
+        "role": "Production",
+        "node": {
+          "id": 102194,
+          "name": {
+            "userPreferred": "Youta Tsuruoka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102194-sNl1LjAzgxNe.png"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (ep 5)",
+        "node": {
+          "id": 102498,
+          "name": {
+            "userPreferred": "Naoko Yamada"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102498-r3KcLl0ckZve.png"
+          }
+        }
+      },
+      {
+        "role": "Animation Director (ep 12)",
+        "node": {
+          "id": 102724,
+          "name": {
+            "userPreferred": "Kazumi Ikeda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102724-wfKOpfenxcLL.png"
+          }
+        }
+      },
+      {
+        "role": "Animation Director (eps 11, 12)",
+        "node": {
+          "id": 102736,
+          "name": {
+            "userPreferred": "Shouko Ikeda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102736-MZqM6G022CqR.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "subCount": 13,
+  "dubCount": 0,
+  "updatedAt": "2026-08-05T17:33:39.319Z"
 }
