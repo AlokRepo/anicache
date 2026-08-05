@@ -1,7 +1,7 @@
 {
   "animeId": 159309,
   "episode": 5,
-  "updatedAt": "2026-08-05T18:52:53.286Z",
+  "updatedAt": "2026-08-05T23:59:38.973Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/54000/5/sub",
@@ -27,6 +27,11 @@
       "key": "anikoto-vidstream-2",
       "label": "Vidstream-2",
       "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -54,6 +59,21 @@
       {
         "name": "Vidstream-2",
         "url": "https://megaplay.buzz/stream/s-2/324211/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            40,
+            130
+          ],
+          "outro": [
+            1315,
+            1405
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/dGQ3YmZRRDY3aXgyYk4vcjdYOGhvNVdqUS8wY1U3eTdocmE3RERObGp3d0orNng4ZitJZGo5enI4emZESmF1UjdZcWpneHRHZkk4em5oVXBIeU10SXA0bG5pL2pINFFPVTZaVVpWc2p6V1RaTUUxMVQ1dmRMVkdZZkVKNHlkcEc/hsub",
         "download": {},
         "skip_data": {
           "intro": [
