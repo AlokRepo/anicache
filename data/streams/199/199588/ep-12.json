@@ -1,10 +1,11 @@
 {
   "animeId": 199588,
   "episode": 12,
-  "updatedAt": "2026-08-05T22:25:57.967Z",
+  "updatedAt": "2026-08-06T06:05:58.541Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/62604/12/sub",
+  "downloadUrl": "https://pahe.nekostream.site/sQuRE",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,26 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -44,6 +65,60 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/199588/12/sub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/sQuRE",
+          "720p": "https://pahe.nekostream.site/KwRyM",
+          "1080p": "https://pahe.nekostream.site/HsYuC"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/553776/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            1306,
+            1389
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/553776/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            1306,
+            1389
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/K3FRTGtlWW0zWEljZys3Mjl2a3l5bDhxQmIrazlzYlRyK0JGSFNUaUR5S3JYbGRwZHBkUTcrTTRPcHBlMEtlUg/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            1306,
+            1389
+          ]
+        }
       }
     ],
     "dub": [
