@@ -13,12 +13,11 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20594-FhRgZ1H9Istt.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20594-FhRgZ1H9Istt.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20594-FhRgZ1H9Istt.jpg"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20594-FhRgZ1H9Istt.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20594-BZOLwqidcS1G.jpg",
   "description": "One year after the SAO incident, Kirito is approached by Seijiro Kikuoka from Japan's Ministry of Internal Affairs and Communications Department \"VR Division\" with a rather peculiar request.\r\n\r\nThat was an investigation on the \"Death Gun\" incident that occurred in the gun and steel filled VRMMO called Gun Gale Online (GGO). \"Players who are shot by a mysterious avatar with a jet black gun lose their lives even in the real world...\" Failing to turn down Kikuoka's bizarre request, Kirito logs in to GGO even though he is not completely convinced that the virtual world could physically affect the real world.<br>\r\n<br>\r\nKirito wanders in an unfamiliar world in order to gain any clues about the \"Death Gun.\" Then, a female sniper named Sinon who owns a gigantic \"Hecate II\" rifle extends Kirito a helping hand. With Sinon's help, Kirito decides to enter the \"Bullet of Bullets,\" a large tournament to choose the most powerful gunner within the realm of GGO, in hopes to become the target of the \"Death Gun\" and make direct contact with the mysterious avatar.<br>\r\n<br>\r\n(Source: Crunchyroll)",
-  "averageScore": 65,
+  "averageScore": 66,
   "genres": [
     "Action",
     "Adventure",
@@ -31,6 +30,7 @@
   "seasonYear": 2014,
   "duration": 24,
   "format": "TV",
+  "isAdult": false,
   "startDate": {
     "year": 2014,
     "month": 7,
@@ -44,9 +44,17 @@
   "studios": {
     "edges": [
       {
+        "isMain": false,
+        "node": {
+          "id": 17,
+          "name": "Aniplex",
+          "isAnimationStudio": false
+        }
+      },
+      {
         "isMain": true,
         "node": {
-          "id": 1,
+          "id": 561,
           "name": "A-1 Pictures",
           "isAnimationStudio": true
         }
@@ -54,15 +62,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 2,
-          "name": "Aniplex",
-          "isAnimationStudio": false
-        }
-      },
-      {
-        "isMain": false,
-        "node": {
-          "id": 3,
+          "id": 79,
           "name": "Genco",
           "isAnimationStudio": false
         }
@@ -70,7 +70,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 4,
+          "id": 315,
           "name": "DAX Production",
           "isAnimationStudio": false
         }
@@ -78,7 +78,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 5,
+          "id": 493,
           "name": "Aniplex of America",
           "isAnimationStudio": false
         }
@@ -86,7 +86,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 6,
+          "id": 681,
           "name": "ASCII Media Works",
           "isAnimationStudio": false
         }
@@ -99,31 +99,43 @@
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/sword-art-online",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Hulu",
       "url": "http://www.hulu.com/sword-art-online-ii",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
+    },
+    {
+      "site": "Twitter",
+      "url": "https://twitter.com/sao_anime",
+      "type": "SOCIAL",
+      "language": null
+    },
+    {
+      "site": "Official Site",
+      "url": "http://www.swordart-online.net/",
+      "type": "INFO",
+      "language": null
     },
     {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/80082107",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "iQ",
       "url": "https://www.iq.com/album/xus47m66c9",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/media/35933",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     }
   ],
   "tags": [
@@ -134,25 +146,28 @@
       "name": "Video Games"
     },
     {
-      "name": "Primarily Female Cast"
-    },
-    {
       "name": "Male Protagonist"
     },
     {
       "name": "Battle Royale"
     },
     {
+      "name": "Primarily Female Cast"
+    },
+    {
       "name": "Guns"
+    },
+    {
+      "name": "Isekai"
     },
     {
       "name": "Primarily Teen Cast"
     },
     {
-      "name": "Swordplay"
+      "name": "Female Protagonist"
     },
     {
-      "name": "Female Protagonist"
+      "name": "Swordplay"
     },
     {
       "name": "Death Game"
@@ -161,630 +176,296 @@
       "name": "Tragedy"
     },
     {
+      "name": "Unrequited Love"
+    },
+    {
+      "name": "Bullying"
+    },
+    {
       "name": "Kuudere"
+    },
+    {
+      "name": "Crossdressing"
+    },
+    {
+      "name": "Assassins"
+    },
+    {
+      "name": "Female Harem"
+    },
+    {
+      "name": "Tomboy"
     }
   ],
-  "trailer": null,
+  "trailer": {
+    "id": "K0Ghr_rbJmQ",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/K0Ghr_rbJmQ/hqdefault.jpg"
+  },
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
-        "node": {
-          "id": 208754,
-          "idMal": 208754,
-          "title": {
-            "romaji": "Unanswered//butterfly: Sword Art Online",
-            "english": "Unanswered//butterfly: Sword Art Online",
-            "native": "Unanswered//butterfly: Sword Art Online"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208754-333Nyh5abrqS.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208754-333Nyh5abrqS.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208754-333Nyh5abrqS.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208754-333Nyh5abrqS.png",
-          "averageScore": 0,
-          "genres": [
-            "Action",
-            "Adventure"
-          ],
-          "episodes": 1,
-          "status": "NOT_YET_RELEASED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 140999,
-          "idMal": 140999,
-          "title": {
-            "romaji": "Sword Art Online the Movie -Progressive- Scherzo of Deep Night",
-            "english": "Sword Art Online the Movie -Progressive- Scherzo of Deep Night",
-            "native": "Sword Art Online the Movie -Progressive- Scherzo of Deep Night"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140999-8nRYAPkywhbl.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140999-8nRYAPkywhbl.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140999-8nRYAPkywhbl.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140999-8nRYAPkywhbl.jpg",
-          "averageScore": 76,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Romance"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2022,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2022,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 124140,
-          "idMal": 124140,
-          "title": {
-            "romaji": "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
-            "english": "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
-            "native": "Sword Art Online the Movie -Progressive- Aria of a Starless Night"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124140-HNL0CpH6ig6y.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124140-HNL0CpH6ig6y.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124140-HNL0CpH6ig6y.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124140-HNL0CpH6ig6y.png",
-          "averageScore": 78,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Romance"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2021,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2021,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 108759,
-          "idMal": 108759,
-          "title": {
-            "romaji": "Sword Art Online: Alicization - War of Underworld",
-            "english": "Sword Art Online: Alicization - War of Underworld",
-            "native": "Sword Art Online: Alicization - War of Underworld"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108759-jcXbDf9BJTcb.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108759-jcXbDf9BJTcb.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108759-jcXbDf9BJTcb.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108759-jcXbDf9BJTcb.jpg",
-          "averageScore": 75,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 100182,
-          "idMal": 100182,
-          "title": {
-            "romaji": "Sword Art Online: Alicization",
-            "english": "Sword Art Online: Alicization",
-            "native": "Sword Art Online: Alicization"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100182-KctPmCJ2smHQ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100182-KctPmCJ2smHQ.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100182-KctPmCJ2smHQ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100182-KctPmCJ2smHQ.jpg",
-          "averageScore": 75,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-          ],
-          "episodes": 24,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 100183,
-          "idMal": 100183,
-          "title": {
-            "romaji": "Sword Art Online Alternative: Gun Gale Online",
-            "english": "Sword Art Online Alternative: Gun Gale Online",
-            "native": "Sword Art Online Alternative: Gun Gale Online"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100183-v4S2sGAG3A24.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100183-v4S2sGAG3A24.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100183-v4S2sGAG3A24.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100183-v4S2sGAG3A24.jpg",
-          "averageScore": 69,
-          "genres": [
-            "Action",
-            "Sci-Fi"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21403,
-          "idMal": 21403,
-          "title": {
-            "romaji": "Sword Art Online the Movie: Ordinal Scale",
-            "english": "Sword Art Online the Movie: Ordinal Scale",
-            "native": "Sword Art Online the Movie: Ordinal Scale"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png",
-          "averageScore": 74,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Romance",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
+        "relationType": "PREQUEL",
         "node": {
           "id": 20021,
-          "idMal": 20021,
           "title": {
-            "romaji": "Sword Art Online EXTRA EDITION",
-            "english": "Sword Art Online EXTRA EDITION",
-            "native": "Sword Art Online EXTRA EDITION"
+            "romaji": "Sword Art Online: Extra Edition",
+            "english": "Sword Art Online EXTRA EDITION"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20021-BZA5XTwahXPj.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20021-BZA5XTwahXPj.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20021-BZA5XTwahXPj.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20021-BZA5XTwahXPj.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20021-BZA5XTwahXPj.png",
           "averageScore": 62,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Romance"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 1,
           "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2013,
+          "duration": 101
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "ADAPTATION",
         "node": {
-          "id": 11757,
-          "idMal": 11757,
+          "id": 51479,
           "title": {
             "romaji": "Sword Art Online",
-            "english": "Sword Art Online",
-            "native": "Sword Art Online"
+            "english": "Sword Art Online"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx51479-ufMREP6e1UkT.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx51479-ufMREP6e1UkT.jpg"
+          },
+          "averageScore": 77,
+          "isAdult": false,
+          "episodes": null,
+          "format": "NOVEL",
+          "status": "RELEASING",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "SEQUEL",
+        "node": {
+          "id": 21403,
+          "title": {
+            "romaji": "Sword Art Online: Ordinal Scale",
+            "english": "Sword Art Online the Movie: Ordinal Scale"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21403-k8DZhZ3x1BCO.png"
+          },
+          "averageScore": 74,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2017,
+          "duration": 119
+        }
+      },
+      {
+        "relationType": "OTHER",
+        "node": {
+          "id": 104437,
+          "title": {
+            "romaji": "Sword Art Online Fatal Bullet -The Third Episode-",
+            "english": "Sword Art Online Fatal Bullet -The Third Episode-"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104437-Gp1DFPGaTXUP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104437-Gp1DFPGaTXUP.jpg"
+          },
+          "averageScore": 58,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2018,
+          "duration": 3
+        }
+      },
+      {
+        "relationType": "PREQUEL",
+        "node": {
+          "id": 11757,
+          "title": {
+            "romaji": "Sword Art Online",
+            "english": "Sword Art Online"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11757-SxYDUzdr9rh2.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
           "averageScore": 70,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Romance"
-          ],
+          "isAdult": false,
           "episodes": 25,
+          "format": "TV",
           "status": "FINISHED",
-          "season": "SPRING",
+          "season": "SUMMER",
           "seasonYear": 2012,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
+          "duration": 23
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "OTHER",
         "node": {
-          "id": 141933,
-          "idMal": 141933,
+          "id": 21155,
           "title": {
-            "romaji": "Sword and Fairy 4",
-            "english": "Sword and Fairy 4",
-            "native": "Sword and Fairy 4"
+            "romaji": "Sword Art Offline II",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141933-Ge0OcKCEDDff.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141933-Ge0OcKCEDDff.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141933-Ge0OcKCEDDff.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21155-cW5V6F8ViSXE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21155-cW5V6F8ViSXE.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141933-Ge0OcKCEDDff.jpg",
-          "averageScore": 0,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance"
-          ],
+          "averageScore": 61,
+          "isAdult": false,
+          "episodes": 9,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2014,
+          "duration": 13
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 85440,
+          "title": {
+            "romaji": "Sword Art Online: Phantom Bullet",
+            "english": "Sword Art Online: Phantom Bullet"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85440-xNXxOczrfAmY.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85440-xNXxOczrfAmY.png"
+          },
+          "averageScore": 71,
+          "isAdult": false,
           "episodes": null,
-          "status": "NOT_YET_RELEASED",
-          "season": "SPRING",
-          "seasonYear": 2027,
-          "duration": 24,
-          "isAdult": false,
-          "format": "ONA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2027,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "ALTERNATIVE",
         "node": {
-          "id": 172463,
-          "idMal": 172463,
+          "id": 99189,
           "title": {
-            "romaji": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
-            "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
-            "native": "JUJUTSU KAISEN Season 3: The Culling Game Part 1"
+            "romaji": "Sword Art Online: Mother's Rosario",
+            "english": "Sword Art Online: Mother's Rosary"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99189-Wh2XPi3szdoV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99189-Wh2XPi3szdoV.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg",
-          "averageScore": 86,
-          "genres": [
-            "Action",
-            "Drama",
-            "Supernatural"
-          ],
+          "averageScore": 73,
+          "isAdult": false,
+          "episodes": null,
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "ADAPTATION",
+        "node": {
+          "id": 71027,
+          "title": {
+            "romaji": "Sword Art Online SS: Caliber SS-han",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx71027-2amcO67Zis4R.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx71027-2amcO67Zis4R.jpg"
+          },
+          "averageScore": 62,
+          "isAdult": false,
+          "episodes": null,
+          "format": "NOVEL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 92130,
+          "title": {
+            "romaji": "Sword Art Online: Calibur",
+            "english": "Sword Art Online: Calibur"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx92130-ovooPu5OHRhq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx92130-ovooPu5OHRhq.jpg"
+          },
+          "averageScore": 65,
+          "isAdult": false,
+          "episodes": null,
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "PARENT",
+        "node": {
+          "id": 151640,
+          "title": {
+            "romaji": "Sword Art Online Fatal Bullet -The Third Episode- Pilot-ban",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151640-ZZK3SqDckkOd.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151640-ZZK3SqDckkOd.jpg"
+          },
+          "averageScore": 52,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "ONA",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2018,
+          "duration": 3
+        }
+      },
+      {
+        "relationType": "SPIN_OFF",
+        "node": {
+          "id": 100183,
+          "title": {
+            "romaji": "Sword Art Online Alternative: Gun Gale Online",
+            "english": "Sword Art Online Alternative: Gun Gale Online"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100183-v4S2sGAG3A24.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100183-v4S2sGAG3A24.jpg"
+          },
+          "averageScore": 69,
+          "isAdult": false,
           "episodes": 12,
+          "format": "TV",
           "status": "FINISHED",
           "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 182300,
-          "idMal": 182300,
-          "title": {
-            "romaji": "Wistoria: Wand and Sword Season 2",
-            "english": "Wistoria: Wand and Sword Season 2",
-            "native": "Wistoria: Wand and Sword Season 2"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
-          "averageScore": 82,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Fantasy"
-          ],
-          "episodes": 12,
-          "status": "RELEASING",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            }
-          ]
+          "seasonYear": 2018,
+          "duration": 24
         }
       }
     ]
@@ -793,718 +474,895 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 223,
-          "idMal": 223,
+          "id": 100183,
           "title": {
-            "romaji": "Dragon Ball",
-            "english": "Dragon Ball",
-            "native": "Dragon Ball"
+            "romaji": "Sword Art Online Alternative: Gun Gale Online",
+            "english": "Sword Art Online Alternative: Gun Gale Online"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100183-v4S2sGAG3A24.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100183-v4S2sGAG3A24.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx100183-v4S2sGAG3A24.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png",
-          "averageScore": 78,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Sci-Fi",
-            "Supernatural"
-          ],
-          "episodes": 153,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1986,
-          "duration": 24,
+          "averageScore": 69,
           "isAdult": false,
+          "episodes": 12,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1986,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 21175,
-          "idMal": 21175,
+          "id": 105190,
           "title": {
-            "romaji": "Dragon Ball Super",
-            "english": "Dragon Ball Super",
-            "native": "Dragon Ball Super"
+            "romaji": "Darwin's Game",
+            "english": "Darwin's Game"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105190-lSoQNlnMF6UP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105190-lSoQNlnMF6UP.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105190-lSoQNlnMF6UP.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-          "averageScore": 73,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Sci-Fi"
-          ],
-          "episodes": 131,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
+          "averageScore": 70,
           "isAdult": false,
+          "episodes": 11,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 21403,
-          "idMal": 21403,
+          "id": 11759,
           "title": {
-            "romaji": "Sword Art Online the Movie: Ordinal Scale",
-            "english": "Sword Art Online the Movie: Ordinal Scale",
-            "native": "Sword Art Online the Movie: Ordinal Scale"
+            "romaji": "Accel World",
+            "english": "Accel World"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11759-o3ZRpFYnP5Lc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11759-o3ZRpFYnP5Lc.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11759-o3ZRpFYnP5Lc.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png",
-          "averageScore": 74,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Romance",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
+          "averageScore": 67,
           "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
+          "episodes": 24,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 873,
+          "title": {
+            "romaji": ".hack//Roots",
+            "english": ".hack//Roots"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx873-OizdLkXe1uYR.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx873-OizdLkXe1uYR.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx873-OizdLkXe1uYR.png"
+          },
+          "averageScore": 65,
+          "isAdult": false,
+          "episodes": 26,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 126791,
+          "title": {
+            "romaji": "Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara",
+            "english": "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126791-Rwhm1a5QFope.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126791-Rwhm1a5QFope.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx126791-Rwhm1a5QFope.jpg"
+          },
+          "averageScore": 62,
+          "isAdult": false,
+          "episodes": 12,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 98505,
+          "title": {
+            "romaji": "Princess Principal",
+            "english": "Princess Principal"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98505-uxUXC7fQ9lMk.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98505-uxUXC7fQ9lMk.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98505-uxUXC7fQ9lMk.jpg"
+          },
+          "averageScore": 75,
+          "isAdult": false,
+          "episodes": 12,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
           "id": 151970,
-          "idMal": 151970,
           "title": {
             "romaji": "Shangri-La Frontier",
-            "english": "Shangri-La Frontier",
-            "native": "Shangri-La Frontier"
+            "english": "Shangri-La Frontier"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-xtIx3VqEk02X.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-xtIx3VqEk02X.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-xtIx3VqEk02X.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151970-xtIx3VqEk02X.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151970-xtIx3VqEk02X.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-xtIx3VqEk02X.jpg",
           "averageScore": 80,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Sci-Fi"
-          ],
+          "isAdult": false,
           "episodes": 25,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2023,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2023,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 100643,
-          "idMal": 100643,
-          "title": {
-            "romaji": "Made in Abyss: Dawn of the Deep Soul",
-            "english": "Made in Abyss: Dawn of the Deep Soul",
-            "native": "Made in Abyss: Dawn of the Deep Soul"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
-          "averageScore": 85,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Fantasy",
-            "Horror",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Horror"
-            },
-            {
-              "name": "Mystery"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "duration": 26
         }
       },
       {
         "mediaRecommendation": {
-          "id": 101302,
-          "idMal": 101302,
+          "id": 17265,
           "title": {
-            "romaji": "Dragon Ball Super: Broly",
-            "english": "Dragon Ball Super: Broly",
-            "native": "Dragon Ball Super: Broly"
+            "romaji": "Log Horizon",
+            "english": "Log Horizon"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17265-RyErURYesjJt.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17265-RyErURYesjJt.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx17265-RyErURYesjJt.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
-          "averageScore": 81,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 25,
+          "format": "TV",
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "duration": 25
         }
       },
       {
         "mediaRecommendation": {
-          "id": 116588,
-          "idMal": 116588,
+          "id": 170890,
           "title": {
-            "romaji": "Combatants Will Be Dispatched!",
-            "english": "Combatants Will Be Dispatched!",
-            "native": "Combatants Will Be Dispatched!"
+            "romaji": "THE NEW GATE",
+            "english": "THE NEW GATE"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116588-noyscGIN8FIr.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116588-noyscGIN8FIr.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116588-noyscGIN8FIr.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-XrggQYjAJAGa.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170890-XrggQYjAJAGa.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170890-XrggQYjAJAGa.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116588-noyscGIN8FIr.jpg",
-          "averageScore": 68,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Sci-Fi"
-          ],
+          "averageScore": 64,
+          "isAdult": false,
           "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2021,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2021,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 572,
-          "idMal": 572,
+          "id": 21248,
           "title": {
-            "romaji": "Nausicaä of the Valley of the Wind",
-            "english": "Nausicaä of the Valley of the Wind",
-            "native": "Nausicaä of the Valley of the Wind"
+            "romaji": "PERSONA 3 THE MOVIE: #4 Winter of Rebirth",
+            "english": "Persona 3 the Movie: #4 Winter of Rebirth"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx572-ZE3kHBA6U0X1.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx572-ZE3kHBA6U0X1.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx572-ZE3kHBA6U0X1.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21248-nze05fa3smqI.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21248-nze05fa3smqI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b21248-nze05fa3smqI.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx572-ZE3kHBA6U0X1.jpg",
-          "averageScore": 81,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Fantasy",
-            "Sci-Fi"
-          ],
+          "averageScore": 80,
+          "isAdult": false,
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1984,
-          "duration": 24,
-          "isAdult": false,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1984,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 105
         }
       },
       {
         "mediaRecommendation": {
-          "id": 119683,
-          "idMal": 119683,
+          "id": 2581,
           "title": {
-            "romaji": "EDENS ZERO",
-            "english": "EDENS ZERO",
-            "native": "EDENS ZERO"
+            "romaji": "Kidou Senshi Gundam 00",
+            "english": "Mobile Suit Gundam 00"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119683-BC4i4dF5DGNO.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119683-BC4i4dF5DGNO.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119683-BC4i4dF5DGNO.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2581-MLEf00dNAfqY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2581-MLEf00dNAfqY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2581-MLEf00dNAfqY.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119683-BC4i4dF5DGNO.jpg",
-          "averageScore": 70,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Sci-Fi"
-          ],
+          "averageScore": 78,
+          "isAdult": false,
           "episodes": 25,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2021,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2021,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 552,
-          "idMal": 552,
+          "id": 20671,
           "title": {
-            "romaji": "Digimon: Digital Monsters",
-            "english": "Digimon: Digital Monsters",
-            "native": "Digimon: Digital Monsters"
+            "romaji": "Log Horizon 2",
+            "english": "Log Horizon 2"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20671-ZpNJQ5RixVIq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20671-ZpNJQ5RixVIq.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20671-ZpNJQ5RixVIq.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg",
-          "averageScore": 75,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Sci-Fi"
-          ],
-          "episodes": 54,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1999,
-          "duration": 24,
+          "averageScore": 73,
           "isAdult": false,
+          "episodes": 25,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1999,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 21714,
-          "idMal": 21714,
-          "title": {
-            "romaji": "FLIP FLAPPERS",
-            "english": "FLIP FLAPPERS",
-            "native": "FLIP FLAPPERS"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21714-wfvIxPvc2wo4.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21714-wfvIxPvc2wo4.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21714-wfvIxPvc2wo4.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21714-wfvIxPvc2wo4.jpg",
-          "averageScore": 75,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Mahou Shoujo",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "episodes": 13,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mahou Shoujo"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 166710,
-          "idMal": 166710,
-          "title": {
-            "romaji": "Suicide Squad ISEKAI",
-            "english": "Suicide Squad ISEKAI",
-            "native": "Suicide Squad ISEKAI"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166710-3G2croXhaCOm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166710-3G2croXhaCOm.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166710-3G2croXhaCOm.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166710-3G2croXhaCOm.jpg",
-          "averageScore": 61,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Sci-Fi"
-          ],
-          "episodes": 10,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2024,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2024,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "duration": 25
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36765,
+          "name": {
+            "userPreferred": "Kazuto Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 106817,
+            "name": {
+              "userPreferred": "Yoshitsugu Matsuoka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 36828,
+          "name": {
+            "userPreferred": "Asuna Yuuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95890,
+            "name": {
+              "userPreferred": "Haruka Tomatsu"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 55147,
+          "name": {
+            "userPreferred": "Shino Asada"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95099,
+            "name": {
+              "userPreferred": "Miyuki Sawashiro"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 64523,
+          "name": {
+            "userPreferred": "Yuuki Konno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 101686,
+            "name": {
+              "userPreferred": "Aoi Yuuki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36830,
+          "name": {
+            "userPreferred": "Ryoutarou Tsuboi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36830-41SWIDvhqOo4.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95125,
+            "name": {
+              "userPreferred": "Hiroaki Hirata"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95125-NeFFiJupoDVj.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 36831,
+          "name": {
+            "userPreferred": "Suguha Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 101996,
+            "name": {
+              "userPreferred": "Ayana Taketatsu"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101996-PcY5iaq5LHgd.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 37681,
+          "name": {
+            "userPreferred": "Keiko Ayano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b37681-GDtOAN6NiJ9M.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 100250,
+            "name": {
+              "userPreferred": "Rina Hidaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100250-L8WsoaLevibT.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43892,
+          "name": {
+            "userPreferred": "Yui"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95762,
+            "name": {
+              "userPreferred": "Kanae Itou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95762-qhWmwni3TT6Y.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 43906,
+          "name": {
+            "userPreferred": "Rika Shinozaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43906-15QwTm2ZFDse.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95823,
+            "name": {
+              "userPreferred": "Ayahi Takagaki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95823-gJC6Tr9HDOqy.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 49085,
+          "name": {
+            "userPreferred": "Kyouko Yuuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/49085.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95014,
+            "name": {
+              "userPreferred": "Megumi Hayashibara"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-tFYQYYhlVOF0.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 54099,
+          "name": {
+            "userPreferred": "Andrew Gilbert Mills"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/54099.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95025,
+            "name": {
+              "userPreferred": "Hiroki Yasumoto"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 70683,
+          "name": {
+            "userPreferred": "Vassago Casals"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70683-5ATgLAHphZtc.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95285,
+            "name": {
+              "userPreferred": "Tsuyoshi Koyama"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95285-SCcRgHqau6Q9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 70685,
+          "name": {
+            "userPreferred": "Shouichi Shinkawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70685-gujlpmSzLQLm.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95030,
+            "name": {
+              "userPreferred": "Souichirou Hoshi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 70687,
+          "name": {
+            "userPreferred": "Atsushi Kanamoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70687-Au0xDfoUoBGy.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 110743,
+            "name": {
+              "userPreferred": "Ryouta Oosaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110743-k2SgQwU0JD33.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72205,
+          "name": {
+            "userPreferred": "Seijirou Kikuoka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72205-ghU8EMYyo96L.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95006,
+            "name": {
+              "userPreferred": "Toshiyuki Morikawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72901,
+          "name": {
+            "userPreferred": "Alicia Rue"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72901-nw8klNK66XFl.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95061,
+            "name": {
+              "userPreferred": "Chiwa Saitou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-R8YSAYX7UFCO.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72903,
+          "name": {
+            "userPreferred": "Eugene"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72903-sydZD4sXrDTw.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95720,
+            "name": {
+              "userPreferred": "Kenta Miyake"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 72905,
+          "name": {
+            "userPreferred": "Sigurd"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72905-IgRbCfHOLSCh.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95296,
+            "name": {
+              "userPreferred": "Takuya Kirimoto"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95296-fYLp5Ff3eDI3.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 73151,
+          "name": {
+            "userPreferred": "Kyouji Shinkawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/73151.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 111635,
+            "name": {
+              "userPreferred": "Natsuki Hanae"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 73811,
+          "name": {
+            "userPreferred": "Sakuya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/73811.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95380,
+            "name": {
+              "userPreferred": "Sayuri Yahagi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95380-mOdqKPb6xYnI.png"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
-  }
+    "edges": [
+      {
+        "role": "Theme Song Performance (OP2)",
+        "node": {
+          "id": 95890,
+          "name": {
+            "userPreferred": "Haruka Tomatsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png"
+          }
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 100077,
+          "name": {
+            "userPreferred": "Yuki Kajiura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100077-EQO5m2lkmUQk.jpg"
+          }
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 101016,
+          "name": {
+            "userPreferred": "Yoshikazu Iwanami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101016-H7RaX55ooWr0.png"
+          }
+        }
+      },
+      {
+        "role": "2nd Key Animation (eps 16, 19)",
+        "node": {
+          "id": 101404,
+          "name": {
+            "userPreferred": "Tetsuya Takeuchi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101404-uNh6cRTHPQ46.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (OP1, OP2, eps 2, 5, 8, 9, 13, 16, 21, 24)",
+        "node": {
+          "id": 101404,
+          "name": {
+            "userPreferred": "Tetsuya Takeuchi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101404-uNh6cRTHPQ46.jpg"
+          }
+        }
+      },
+      {
+        "role": "Action Animation Director (eps 2, 5, 8, 9, 13, 16, 19, 21)",
+        "node": {
+          "id": 101404,
+          "name": {
+            "userPreferred": "Tetsuya Takeuchi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101404-uNh6cRTHPQ46.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (OP2)",
+        "node": {
+          "id": 101863,
+          "name": {
+            "userPreferred": "Masayoshi Tanaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101863-yMdxGXtWWigc.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (OP2, ED1)",
+        "node": {
+          "id": 101885,
+          "name": {
+            "userPreferred": "Akira Takata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/101885-JXiMlg2bXLOB.jpg"
+          }
+        }
+      },
+      {
+        "role": "ADR Director (Latin American Spanish; eps 1-14)",
+        "node": {
+          "id": 102694,
+          "name": {
+            "userPreferred": "Víctor Ugarte"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102694-xWqlc4cFqipg.jpg"
+          }
+        }
+      },
+      {
+        "role": "Art Director",
+        "node": {
+          "id": 103102,
+          "name": {
+            "userPreferred": "Yuusuke Takeda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103102-aEjIrYuaUaVn.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ED1)",
+        "node": {
+          "id": 103975,
+          "name": {
+            "userPreferred": "Mai Ootsuka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103975-7utkrQEoIxLK.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ep 12)",
+        "node": {
+          "id": 104300,
+          "name": {
+            "userPreferred": "Tatsuya Oka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ep 2)",
+        "node": {
+          "id": 104381,
+          "name": {
+            "userPreferred": "Hanako Enomoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ep 3)",
+        "node": {
+          "id": 104501,
+          "name": {
+            "userPreferred": "Kyouko Kotani"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104501-Sz48bLMTTlhw.jpg"
+          }
+        }
+      },
+      {
+        "role": "Assistant Animation Director (ep 16)",
+        "node": {
+          "id": 105131,
+          "name": {
+            "userPreferred": "Jun Nakai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105131-nnnS7RJ0Xs8X.png"
+          }
+        }
+      }
+    ]
+  },
+  "subCount": 24,
+  "dubCount": 0,
+  "updatedAt": "2026-08-06T01:48:03.716Z"
 }
