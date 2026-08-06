@@ -17,8 +17,7 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx223-scE5uJfXqqj8.png"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/223-vyRuUBBYfcUb.jpg",
   "description": "Goku Son is a young boy who lives in the woods all alone—that is until a girl named Bulma runs into him in her search for a set of magical objects called the \"Dragon Balls.\" Since the artifacts are said to grant one wish to whoever collects all seven, Bulma hopes to gather them and wish for a perfect boyfriend. Goku happens to be in possession of a dragon ball, but unfortunately for Bulma, he refuses to part ways with it, so she makes him a deal: he can tag along on her journey if he lets her borrow the dragon ball's power. With that, the two set off on the journey of a lifetime.<br>\n<br>\nThey don't go on the journey alone. On the way, they meet the old Muten-Roshi and wannabe disciple Kuririn, with whom Goku trains to become a stronger martial artist for the upcoming World Martial Arts Tournament. However, it's not all fun and games; the ability to make any wish come true is a powerful one, and there are others who would do much worse than just wishing for a boyfriend. To stop those who would try to abuse the legendary power, they train to become stronger fighters, using their newfound strength to help the people around them along the way.<br>\n<br>\n(Source: MAL Rewrite)",
@@ -37,6 +36,7 @@
   "seasonYear": 1986,
   "duration": 25,
   "format": "TV",
+  "isAdult": false,
   "startDate": {
     "year": 1986,
     "month": 2,
@@ -52,7 +52,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 1,
+          "id": 18,
           "name": "Toei Animation",
           "isAnimationStudio": true
         }
@@ -60,7 +60,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 2,
+          "id": 102,
           "name": "Funimation",
           "isAnimationStudio": false
         }
@@ -68,7 +68,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 3,
+          "id": 169,
           "name": "Fuji TV",
           "isAnimationStudio": false
         }
@@ -81,19 +81,25 @@
       "site": "Hulu",
       "url": "http://www.hulu.com/dragon-ball",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/dragon-ball",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/media/1024200",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
+    },
+    {
+      "site": "Official Site",
+      "url": "https://www.toei-anim.co.jp/tv/dragon/",
+      "type": "INFO",
+      "language": "Japanese"
     }
   ],
   "tags": [
@@ -108,6 +114,9 @@
     },
     {
       "name": "Travel"
+    },
+    {
+      "name": "Coming of Age"
     },
     {
       "name": "Male Protagonist"
@@ -125,13 +134,22 @@
       "name": "Dragons"
     },
     {
+      "name": "Aliens"
+    },
+    {
       "name": "Anachronism"
     },
     {
       "name": "Wuxia"
     },
     {
+      "name": "Military"
+    },
+    {
       "name": "Urban Fantasy"
+    },
+    {
+      "name": "Time Skip"
     },
     {
       "name": "Anthropomorphism"
@@ -144,625 +162,281 @@
     },
     {
       "name": "Primarily Male Cast"
+    },
+    {
+      "name": "Demons"
+    },
+    {
+      "name": "Revenge"
+    },
+    {
+      "name": "Adoption"
+    },
+    {
+      "name": "Shapeshifting"
+    },
+    {
+      "name": "Robots"
+    },
+    {
+      "name": "Kaiju"
+    },
+    {
+      "name": "Desert"
+    },
+    {
+      "name": "Tanned Skin"
+    },
+    {
+      "name": "Dissociative Identities"
+    },
+    {
+      "name": "Ninja"
     }
   ],
   "trailer": null,
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
+        "relationType": "SEQUEL",
         "node": {
-          "id": 206814,
-          "idMal": 206814,
+          "id": 813,
           "title": {
-            "romaji": "Dragon Ball Super: Beerus",
-            "english": "Dragon Ball Super: Beerus",
-            "native": "Dragon Ball Super: Beerus"
+            "romaji": "Dragon Ball Z",
+            "english": "Dragon Ball Z"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-1NJiXCcdPatd.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-1NJiXCcdPatd.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-1NJiXCcdPatd.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx813-ZhnFNOeCU5dQ.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-1NJiXCcdPatd.jpg",
-          "averageScore": 0,
-          "genres": [
-            "Action",
-            "Adventure"
-          ],
-          "episodes": 1,
-          "status": "NOT_YET_RELEASED",
-          "season": "SPRING",
-          "seasonYear": 2026,
-          "duration": 24,
+          "averageScore": 80,
           "isAdult": false,
+          "episodes": 291,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 170083,
-          "idMal": 170083,
-          "title": {
-            "romaji": "Dragon Ball DAIMA",
-            "english": "Dragon Ball DAIMA",
-            "native": "Dragon Ball DAIMA"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-GTwRrhTApcLR.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-GTwRrhTApcLR.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-GTwRrhTApcLR.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-GTwRrhTApcLR.png",
-          "averageScore": 75,
-          "genres": [
-            "Action",
-            "Adventure"
-          ],
-          "episodes": 20,
           "status": "FINISHED",
           "season": "SPRING",
-          "seasonYear": 2024,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2024,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            }
-          ]
+          "seasonYear": 1989,
+          "duration": 24
         }
       },
       {
-        "relationType": "SEASON",
-        "node": {
-          "id": 133898,
-          "idMal": 133898,
-          "title": {
-            "romaji": "Dragon Ball Super: SUPER HERO",
-            "english": "Dragon Ball Super: SUPER HERO",
-            "native": "Dragon Ball Super: SUPER HERO"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133898-KdQ7fWTG06n4.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133898-KdQ7fWTG06n4.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133898-KdQ7fWTG06n4.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133898-KdQ7fWTG06n4.png",
-          "averageScore": 76,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2022,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2022,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 101302,
-          "idMal": 101302,
-          "title": {
-            "romaji": "Dragon Ball Super: Broly",
-            "english": "Dragon Ball Super: Broly",
-            "native": "Dragon Ball Super: Broly"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
-          "averageScore": 81,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 102352,
-          "idMal": 102352,
-          "title": {
-            "romaji": "Super Dragon Ball Heroes",
-            "english": "Super Dragon Ball Heroes",
-            "native": "Super Dragon Ball Heroes"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102352-iTBUsIV9x7KH.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102352-iTBUsIV9x7KH.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102352-iTBUsIV9x7KH.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102352-iTBUsIV9x7KH.jpg",
-          "averageScore": 53,
-          "genres": [
-            "Action",
-            "Adventure"
-          ],
-          "episodes": 56,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "ONA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 20778,
-          "idMal": 20778,
-          "title": {
-            "romaji": "Dragon Ball Z: Resurrection 'F'",
-            "english": "Dragon Ball Z: Resurrection 'F'",
-            "native": "Dragon Ball Z: Resurrection 'F'"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20778-HYEes09iv8fJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20778-HYEes09iv8fJ.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20778-HYEes09iv8fJ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20778-HYEes09iv8fJ.jpg",
-          "averageScore": 67,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21175,
-          "idMal": 21175,
-          "title": {
-            "romaji": "Dragon Ball Super",
-            "english": "Dragon Ball Super",
-            "native": "Dragon Ball Super"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-          "averageScore": 73,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Sci-Fi"
-          ],
-          "episodes": 131,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 14837,
-          "idMal": 14837,
-          "title": {
-            "romaji": "Dragon Ball Z: Battle of Gods",
-            "english": "Dragon Ball Z: Battle of Gods",
-            "native": "Dragon Ball Z: Battle of Gods"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14837.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14837.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14837.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14837.jpg",
-          "averageScore": 72,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 12231,
-          "idMal": 12231,
-          "title": {
-            "romaji": "Dragon Ball: Episode of Bardock",
-            "english": "Dragon Ball: Episode of Bardock",
-            "native": "Dragon Ball: Episode of Bardock"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12231.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12231.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12231.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12231.jpg",
-          "averageScore": 68,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2011,
-          "duration": 24,
-          "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2011,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
+        "relationType": "SEQUEL",
         "node": {
           "id": 6033,
-          "idMal": 6033,
           "title": {
-            "romaji": "Dragon Ball Z Kai",
-            "english": "Dragon Ball Z Kai",
-            "native": "Dragon Ball Z Kai"
+            "romaji": "Dragon Ball Kai",
+            "english": "Dragon Ball Z Kai"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6033-TKDWyjZN3dXk.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6033-TKDWyjZN3dXk.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6033-TKDWyjZN3dXk.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6033-TKDWyjZN3dXk.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6033-TKDWyjZN3dXk.png",
           "averageScore": 77,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy"
-          ],
+          "isAdult": false,
           "episodes": 97,
+          "format": "TV",
           "status": "FINISHED",
           "season": "SPRING",
           "seasonYear": 2009,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2009,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            }
-          ]
+          "duration": 23
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "ADAPTATION",
         "node": {
-          "id": 5152,
-          "idMal": 5152,
+          "id": 30042,
           "title": {
-            "romaji": "Dragon Ball: Yo! Son Goku and His Friends Return!!",
-            "english": "Dragon Ball: Yo! Son Goku and His Friends Return!!",
-            "native": "Dragon Ball: Yo! Son Goku and His Friends Return!!"
+            "romaji": "Dragon Ball",
+            "english": "Dragon Ball"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5152-tcimIQ3XcuPf.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5152-tcimIQ3XcuPf.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5152-tcimIQ3XcuPf.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30042-4SetGiEbGc9x.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30042-4SetGiEbGc9x.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5152-tcimIQ3XcuPf.jpg",
+          "averageScore": 84,
+          "isAdult": false,
+          "episodes": null,
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 502,
+          "title": {
+            "romaji": "Dragon Ball: Shen Long no Densetsu",
+            "english": "Dragon Ball: Curse of the Blood Rubies"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/502-qMhEQOjbNK0w.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/502-qMhEQOjbNK0w.jpg"
+          },
           "averageScore": 63,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2008,
-          "duration": 24,
           "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2008,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            }
-          ]
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 1986,
+          "duration": 50
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "ALTERNATIVE",
         "node": {
-          "id": 987,
-          "idMal": 987,
+          "id": 891,
           "title": {
-            "romaji": "Dragon Ball GT: A Hero's Legacy",
-            "english": "Dragon Ball GT: A Hero's Legacy",
-            "native": "Dragon Ball GT: A Hero's Legacy"
+            "romaji": "Dragon Ball: Majinjou no Nemuri Hime",
+            "english": "Dragon Ball: Sleeping Princess in Devil's Castle"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/987.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/987.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/987.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n891-OBrwN8w6ffyD.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n891-OBrwN8w6ffyD.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/987.jpg",
-          "averageScore": 62,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy"
-          ],
+          "averageScore": 63,
+          "isAdult": false,
           "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 1987,
+          "duration": 45
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 892,
+          "title": {
+            "romaji": "Dragon Ball: Makafushigi Daibouken",
+            "english": "Dragon Ball: Mystical Adventure"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx892-qSAVWaHQzBwE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx892-qSAVWaHQzBwE.jpg"
+          },
+          "averageScore": 64,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 1988,
+          "duration": 45
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 893,
+          "title": {
+            "romaji": "Dragon Ball: Saikyou e no Michi",
+            "english": "Dragon Ball: The Path to Power"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b893-bzc4Y5KYngZJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b893-bzc4Y5KYngZJ.jpg"
+          },
+          "averageScore": 68,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
           "status": "FINISHED",
           "season": "SPRING",
-          "seasonYear": 1997,
-          "duration": 24,
-          "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1997,
-            "month": 12,
-            "day": 31
+          "seasonYear": 1996,
+          "duration": 74
+        }
+      },
+      {
+        "relationType": "SPIN_OFF",
+        "node": {
+          "id": 2520,
+          "title": {
+            "romaji": "Dragon Ball Specials",
+            "english": "Dragon Ball Specials"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2520-eqphP91bPMGQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2520-eqphP91bPMGQ.png"
+          },
+          "averageScore": 62,
+          "isAdult": false,
+          "episodes": 2,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 12
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 2222,
+          "title": {
+            "romaji": "Dr. Slump: Arale-chan",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2222-wJc3oXlh4SDV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2222-wJc3oXlh4SDV.jpg"
+          },
+          "averageScore": 70,
+          "isAdult": false,
+          "episodes": 243,
+          "format": "TV",
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 1981,
+          "duration": 25
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 3312,
+          "title": {
+            "romaji": "Dr. Slump",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3312-TKaY87KYR301.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3312-TKaY87KYR301.jpg"
+          },
+          "averageScore": 67,
+          "isAdult": false,
+          "episodes": 74,
+          "format": "TV",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 1997,
+          "duration": 25
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 7157,
+          "title": {
+            "romaji": "Dr. Slump: Arale-chan - Ncha! Penguin Mura yori Ai wo Komete",
+            "english": "Dr. Slump and Arale-chan: N-cha! Love Comes From Penguin Village"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7157.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7157.jpg"
+          },
+          "averageScore": 59,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 1993,
+          "duration": 31
         }
       }
     ]
@@ -771,727 +445,913 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 1122,
-          "idMal": 1122,
-          "title": {
-            "romaji": "Pokémon: Destiny Deoxys",
-            "english": "Pokémon: Destiny Deoxys",
-            "native": "Pokémon: Destiny Deoxys"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1122-HCkAs0hqlJwK.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1122-HCkAs0hqlJwK.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1122-HCkAs0hqlJwK.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1122-HCkAs0hqlJwK.jpg",
-          "averageScore": 67,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Sci-Fi",
-            "Supernatural"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2004,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2004,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
           "id": 20,
-          "idMal": 20,
           "title": {
-            "romaji": "Naruto",
-            "english": "Naruto",
-            "native": "Naruto"
+            "romaji": "NARUTO",
+            "english": "Naruto"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20-dE6UHbFFg1A5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20-dE6UHbFFg1A5.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
           "averageScore": 80,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Supernatural"
-          ],
+          "isAdult": false,
           "episodes": 220,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2002,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2002,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 23
         }
       },
       {
         "mediaRecommendation": {
-          "id": 1735,
-          "idMal": 1735,
+          "id": 2222,
           "title": {
-            "romaji": "Naruto: Shippuden",
-            "english": "Naruto: Shippuden",
-            "native": "Naruto: Shippuden"
+            "romaji": "Dr. Slump: Arale-chan",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2222-wJc3oXlh4SDV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2222-wJc3oXlh4SDV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2222-wJc3oXlh4SDV.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
-          "averageScore": 82,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 500,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2007,
-          "duration": 24,
+          "averageScore": 70,
           "isAdult": false,
+          "episodes": 243,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2007,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 25
         }
       },
       {
         "mediaRecommendation": {
-          "id": 20789,
-          "idMal": 20789,
+          "id": 21,
           "title": {
-            "romaji": "The Seven Deadly Sins",
-            "english": "The Seven Deadly Sins",
-            "native": "The Seven Deadly Sins"
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
-          "averageScore": 73,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 24,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
+          "averageScore": 87,
           "isAdult": false,
+          "episodes": null,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "RELEASING",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 3588,
-          "idMal": 3588,
+          "id": 11061,
           "title": {
-            "romaji": "Soul Eater",
-            "english": "Soul Eater",
-            "native": "Soul Eater"
+            "romaji": "HUNTER×HUNTER (2011)",
+            "english": "Hunter x Hunter (2011)"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11061-y5gsT1hoHuHw.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11061-y5gsT1hoHuHw.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
-          "averageScore": 77,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 51,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2008,
-          "duration": 24,
+          "averageScore": 89,
           "isAdult": false,
+          "episodes": 148,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2008,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 99539,
-          "idMal": 99539,
+          "id": 2229,
           "title": {
-            "romaji": "The Seven Deadly Sins: Revival of the Commandments",
-            "english": "The Seven Deadly Sins: Revival of the Commandments",
-            "native": "The Seven Deadly Sins: Revival of the Commandments"
+            "romaji": "Dragon Quest: Dai no Daibouken",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2229-aAZ38PLgyd1P.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2229-aAZ38PLgyd1P.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2229-aAZ38PLgyd1P.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg",
-          "averageScore": 73,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 24,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
+          "averageScore": 72,
           "isAdult": false,
+          "episodes": 46,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 813,
-          "idMal": 813,
-          "title": {
-            "romaji": "Dragon Ball Z",
-            "english": "Dragon Ball Z",
-            "native": "Dragon Ball Z"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
-          "averageScore": 80,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 291,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1989,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1989,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 102976,
-          "idMal": 102976,
+          "id": 21682,
           "title": {
-            "romaji": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
-            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
-            "native": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson"
+            "romaji": "Tiger Mask W",
+            "english": "Tiger Mask W"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21682-7Sb3Ly2fPIxp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21682-7Sb3Ly2fPIxp.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b21682-7Sb3Ly2fPIxp.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png",
-          "averageScore": 82,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 21175,
-          "idMal": 21175,
-          "title": {
-            "romaji": "Dragon Ball Super",
-            "english": "Dragon Ball Super",
-            "native": "Dragon Ball Super"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-          "averageScore": 73,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Sci-Fi"
-          ],
-          "episodes": 131,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 108928,
-          "idMal": 108928,
-          "title": {
-            "romaji": "The Seven Deadly Sins: Imperial Wrath of the Gods",
-            "english": "The Seven Deadly Sins: Imperial Wrath of the Gods",
-            "native": "The Seven Deadly Sins: Imperial Wrath of the Gods"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108928-DuyUzi0JyPIr.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108928-DuyUzi0JyPIr.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108928-DuyUzi0JyPIr.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108928-DuyUzi0JyPIr.jpg",
           "averageScore": 63,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 24,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 38,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 151970,
-          "idMal": 151970,
+          "id": 10033,
           "title": {
-            "romaji": "Shangri-La Frontier",
-            "english": "Shangri-La Frontier",
-            "native": "Shangri-La Frontier"
+            "romaji": "Toriko",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-xtIx3VqEk02X.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-xtIx3VqEk02X.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-xtIx3VqEk02X.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10033-V7xnlgAVtaVR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10033-V7xnlgAVtaVR.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx10033-V7xnlgAVtaVR.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-xtIx3VqEk02X.jpg",
-          "averageScore": 80,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Fantasy",
-            "Sci-Fi"
-          ],
-          "episodes": 25,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2023,
-          "duration": 24,
+          "averageScore": 69,
           "isAdult": false,
+          "episodes": 147,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2023,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 21385,
-          "idMal": 21385,
+          "id": 225,
           "title": {
-            "romaji": "The Seven Deadly Sins: Signs of A Holy War",
-            "english": "The Seven Deadly Sins: Signs of A Holy War",
-            "native": "The Seven Deadly Sins: Signs of A Holy War"
+            "romaji": "Dragon Ball GT",
+            "english": "Dragon Ball GT"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21385-0rOBu6r4C4b9.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21385-0rOBu6r4C4b9.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21385-0rOBu6r4C4b9.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx225-pzkDUVy7tKxH.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx225-pzkDUVy7tKxH.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx225-pzkDUVy7tKxH.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21385-0rOBu6r4C4b9.jpg",
-          "averageScore": 67,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 4,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
+          "averageScore": 63,
           "isAdult": false,
+          "episodes": 64,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 3765,
+          "title": {
+            "romaji": "Pygmalio",
+            "english": null
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3765.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3765.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3765.jpg"
+          },
+          "averageScore": 63,
+          "isAdult": false,
+          "episodes": 39,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 20
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 392,
+          "title": {
+            "romaji": "Yuu☆Yuu☆Hakusho",
+            "english": "Yu Yu Hakusho: Ghostfiles"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx392-z90299zIvYmx.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx392-z90299zIvYmx.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx392-z90299zIvYmx.png"
+          },
+          "averageScore": 83,
+          "isAdult": false,
+          "episodes": 112,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 136,
+          "title": {
+            "romaji": "HUNTER×HUNTER",
+            "english": "Hunter x Hunter"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136-gj0bbCpDNrKG.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136-gj0bbCpDNrKG.jpg"
+          },
+          "averageScore": 83,
+          "isAdult": false,
+          "episodes": 62,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 23
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 2142,
+          "title": {
+            "romaji": "Blue Dragon",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2142.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2142.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2142.jpg"
+          },
+          "averageScore": 60,
+          "isAdult": false,
+          "episodes": 51,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 246,
+          "name": {
+            "userPreferred": "Gokuu Son"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95557,
+            "name": {
+              "userPreferred": "Masako Nozawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95557-5a2nnIBK05ul.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 678,
+          "name": {
+            "userPreferred": "Bulma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b678-2YCe13F0tFos.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95354,
+            "name": {
+              "userPreferred": "Hiromi Tsuru"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/95354-Ds90swc530OH.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 2159,
+          "name": {
+            "userPreferred": "Kuririn"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2159-qtEuMYyOUkwY.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95075,
+            "name": {
+              "userPreferred": "Mayumi Tanaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95075-1qD4TeW1ON92.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 4014,
+          "name": {
+            "userPreferred": "Yamcha"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4014-of2ONLvA7T8p.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95326,
+            "name": {
+              "userPreferred": "Tooru Furuya"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95326-OfRv2DBnFVZU.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 6167,
+          "name": {
+            "userPreferred": "Muten Roushi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6167-aMPt1bHf5YbV.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95670,
+            "name": {
+              "userPreferred": "Jouji Yanami"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95670-fTFcKuDyrOjc.png"
+            }
+          },
+          {
+            "id": 104188,
+            "name": {
+              "userPreferred": "Kouhei Miyauchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9188.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 677,
+          "name": {
+            "userPreferred": "Pu'ar"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b677-PTNZaPeuV1Dx.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95674,
+            "name": {
+              "userPreferred": "Naoko Watanabe"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95674-VNsBjVJQe5kD.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 914,
+          "name": {
+            "userPreferred": "Piccolo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b914-KuS8AWjqBrqa.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95673,
+            "name": {
+              "userPreferred": "Toshio Furukawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95673-jNN4GqGgpssj.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2094,
+          "name": {
+            "userPreferred": "Gyuumaou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2094.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95744,
+            "name": {
+              "userPreferred": "Daisuke Gouri"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95744-Iu1p0eNvShfN.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2095,
+          "name": {
+            "userPreferred": "Suno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2095.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95674,
+            "name": {
+              "userPreferred": "Naoko Watanabe"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95674-VNsBjVJQe5kD.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2096,
+          "name": {
+            "userPreferred": "Upa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2096.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95683,
+            "name": {
+              "userPreferred": "Mitsuko Horie"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95683-MajreqecBQpy.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2097,
+          "name": {
+            "userPreferred": "Yajirobe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2097.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95075,
+            "name": {
+              "userPreferred": "Mayumi Tanaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95075-1qD4TeW1ON92.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2098,
+          "name": {
+            "userPreferred": "Jinzouningen 8-gou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2098.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95726,
+            "name": {
+              "userPreferred": "Shouzou Iizuka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95726-SddF7dYKZshB.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2101,
+          "name": {
+            "userPreferred": "Bora"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2101-VF2lGo5GXtkT.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95330,
+            "name": {
+              "userPreferred": "Banjou Ginga"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95330-PHDm9uDhKAsT.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2102,
+          "name": {
+            "userPreferred": "Chi-Chi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2102.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96649,
+            "name": {
+              "userPreferred": "Mayumi Shou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96649-A5CDLPxmlr8A.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2103,
+          "name": {
+            "userPreferred": "Briefs Hakase"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2103.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95670,
+            "name": {
+              "userPreferred": "Jouji Yanami"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95670-fTFcKuDyrOjc.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2104,
+          "name": {
+            "userPreferred": "Gohan Son"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2104.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95147,
+            "name": {
+              "userPreferred": "Osamu Saka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95147-FQpTmnogj7v1.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2105,
+          "name": {
+            "userPreferred": "Lunch"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2105-u5dq4fBpSho9.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95571,
+            "name": {
+              "userPreferred": "Mami Koyama"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95571-QuL7zlRwRcxa.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2107,
+          "name": {
+            "userPreferred": "Bulma no Mama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2107.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 105681,
+            "name": {
+              "userPreferred": "Mariko Mukai"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105681-gdz4eOxVEEdn.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2108,
+          "name": {
+            "userPreferred": "Oolong"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2108.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96522,
+            "name": {
+              "userPreferred": "Naoki Tatsuta"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1522.jpg"
+            }
+          },
+          {
+            "id": 95761,
+            "name": {
+              "userPreferred": "Tesshou Genda"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95761-nwndYRCqJxno.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 2109,
+          "name": {
+            "userPreferred": "Tenkaichi Budokai Announcer"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/2109.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95138,
+            "name": {
+              "userPreferred": "Kenji Utsumi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95138-0iK7jnkuJb6o.png"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
+    "edges": [
+      {
+        "role": "ADR Director (English; Funimation)",
+        "node": {
+          "id": 95203,
+          "name": {
+            "userPreferred": "Justin Ryan Cook"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95203-S3aCVxUoYwJl.jpg"
+          }
+        }
+      },
+      {
+        "role": "Insert Song Performance (ep 87)",
+        "node": {
+          "id": 95326,
+          "name": {
+            "userPreferred": "Tooru Furuya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95326-OfRv2DBnFVZU.png"
+          }
+        }
+      },
+      {
+        "role": "Insert Song Performance (ep 43)",
+        "node": {
+          "id": 95557,
+          "name": {
+            "userPreferred": "Masako Nozawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95557-5a2nnIBK05ul.png"
+          }
+        }
+      },
+      {
+        "role": "ADR Script (English; BLT)",
+        "node": {
+          "id": 95882,
+          "name": {
+            "userPreferred": "Terry Klassen"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95882-kxJcqIphneZ3.jpg"
+          }
+        }
+      },
+      {
+        "role": "ADR Script (English; Harmony Gold)",
+        "node": {
+          "id": 96035,
+          "name": {
+            "userPreferred": "Doug Stone"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1035.jpg"
+          }
+        }
+      },
+      {
+        "role": "ADR Script (English; Harmony Gold)",
+        "node": {
+          "id": 96561,
+          "name": {
+            "userPreferred": "Edie Mirman"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1561.jpg"
+          }
+        }
+      },
+      {
+        "role": "Director (English; Harmony Gold)",
+        "node": {
+          "id": 96828,
+          "name": {
+            "userPreferred": "Dave Mallow"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96828-CIfHs83C57oX.jpg"
+          }
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 96901,
+          "name": {
+            "userPreferred": "Akira Toriyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96901-f40brDFeIlzf.png"
+          }
+        }
+      },
+      {
+        "role": "Script (eps 125, 127)",
+        "node": {
+          "id": 100170,
+          "name": {
+            "userPreferred": "Yoshiyuki Suga"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100170-znhdDCa8kmcd.png"
+          }
+        }
+      },
+      {
+        "role": "ADR Script (English; BLT)",
+        "node": {
+          "id": 100276,
+          "name": {
+            "userPreferred": "Ian James Corlett"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100276-YIem9joZ4Kw0.jpg"
+          }
+        }
+      },
+      {
+        "role": "Executive Producer (English; Funimation)",
+        "node": {
+          "id": 100316,
+          "name": {
+            "userPreferred": "Gen Fukunaga"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100316-tG6FdGzqgxli.png"
+          }
+        }
+      },
+      {
+        "role": "Voice Director (English; BLT)",
+        "node": {
+          "id": 100973,
+          "name": {
+            "userPreferred": "Michael Donovan"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100973-m6QO3BdjYIuq.jpg"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (OP, ED)",
+        "node": {
+          "id": 101055,
+          "name": {
+            "userPreferred": "Kouhei Tanaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101055-3QNbr0raaApy.jpg"
+          }
+        }
+      },
+      {
+        "role": "Insert Song Arrangement (ep 48)",
+        "node": {
+          "id": 101055,
+          "name": {
+            "userPreferred": "Kouhei Tanaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101055-3QNbr0raaApy.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 101187,
+          "name": {
+            "userPreferred": "Takahiro Yoshimatsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101187-r707iYOUsA1n.png"
+          }
+        }
+      }
+    ]
   },
-  "anikotoEpisodeList": []
+  "subCount": 153,
+  "dubCount": 0,
+  "updatedAt": "2026-08-06T12:02:11.987Z"
 }
