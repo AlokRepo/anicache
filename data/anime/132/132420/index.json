@@ -11,8 +11,7 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132420-aE5g1TCAbvUG.png",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132420-aE5g1TCAbvUG.png",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132420-aE5g1TCAbvUG.png"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132420-aE5g1TCAbvUG.png"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132420-ISRJCkMxIVcb.jpg",
   "description": "The fourth film in the six-part Girls und Panzer: Saishuushou film series.\n\nOarai Girls team stunned by early Anko Team loss. Despite disadvantage, they bravely battle Continuity Academy. Separately, Kuromorimine's Erika Itsumi, who charted unique tank course, engages clever St. Gloriana's Darjeeling.",
@@ -27,6 +26,7 @@
   "seasonYear": 2023,
   "duration": 54,
   "format": "MOVIE",
+  "isAdult": false,
   "startDate": {
     "year": 2023,
     "month": 10,
@@ -42,7 +42,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 1,
+          "id": 60,
           "name": "Actas",
           "isAnimationStudio": true
         }
@@ -52,10 +52,22 @@
   "nextAiringEpisode": null,
   "externalLinks": [
     {
+      "site": "Twitter",
+      "url": "https://twitter.com/garupan/",
+      "type": "SOCIAL",
+      "language": "Japanese"
+    },
+    {
+      "site": "Official Site",
+      "url": "https://girls-und-panzer-finale.jp/",
+      "type": "INFO",
+      "language": "Japanese"
+    },
+    {
       "site": "HIDIVE",
       "url": "https://www.hidive.com/playlist/34086",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     }
   ],
   "tags": [
@@ -78,568 +90,95 @@
       "name": "Snowscape"
     },
     {
+      "name": "School Club"
+    },
+    {
       "name": "Cute Girls Doing Cute Things"
     },
     {
       "name": "Female Protagonist"
     },
     {
-      "name": "School Club"
+      "name": "School"
+    },
+    {
+      "name": "Twins"
+    },
+    {
+      "name": "Chuunibyou"
     }
   ],
-  "trailer": null,
+  "trailer": {
+    "id": "CxNqHf8AnW0",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/CxNqHf8AnW0/hqdefault.jpg"
+  },
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
+        "relationType": "PREQUEL",
         "node": {
           "id": 124115,
-          "idMal": 124115,
           "title": {
-            "romaji": "Girls und Panzer das Finale - Part 3",
-            "english": "Girls und Panzer das Finale - Part 3",
-            "native": "Girls und Panzer das Finale - Part 3"
+            "romaji": "Girls und Panzer: Saishuushou 3",
+            "english": "Girls und Panzer das Finale - Part 3"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124115-Rob17qmn3tBP.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124115-Rob17qmn3tBP.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124115-Rob17qmn3tBP.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124115-Rob17qmn3tBP.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124115-Rob17qmn3tBP.jpg",
           "averageScore": 81,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
+          "isAdult": false,
           "episodes": 1,
+          "format": "MOVIE",
           "status": "FINISHED",
           "season": "SPRING",
           "seasonYear": 2021,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2021,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "duration": 48
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SIDE_STORY",
         "node": {
-          "id": 107208,
-          "idMal": 107208,
+          "id": 176663,
           "title": {
-            "romaji": "Girls und Panzer das Finale - Part 2",
-            "english": "Girls und Panzer das Finale - Part 2",
-            "native": "Girls und Panzer das Finale - Part 2"
+            "romaji": "Girls und Panzer: Taichou War!",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107208-MjhBWAkUT4Yh.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107208-MjhBWAkUT4Yh.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107208-MjhBWAkUT4Yh.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176663-HhhpS7kGw6gT.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176663-HhhpS7kGw6gT.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107208-MjhBWAkUT4Yh.png",
-          "averageScore": 80,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
+          "averageScore": 73,
+          "isAdult": false,
           "episodes": 1,
+          "format": "OVA",
           "status": "FINISHED",
           "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "seasonYear": 2024,
+          "duration": 10
         }
       },
       {
-        "relationType": "SEASON",
-        "node": {
-          "id": 99938,
-          "idMal": 99938,
-          "title": {
-            "romaji": "Girls und Panzer das Finale - Part 1",
-            "english": "Girls und Panzer das Finale - Part 1",
-            "native": "Girls und Panzer das Finale - Part 1"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99938-3BNqsG0QrZOV.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99938-3BNqsG0QrZOV.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99938-3BNqsG0QrZOV.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99938-3BNqsG0QrZOV.png",
-          "averageScore": 79,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
+        "relationType": "SEQUEL",
         "node": {
           "id": 202390,
-          "idMal": 202390,
           "title": {
             "romaji": "Girls und Panzer: Saishuushou 5",
-            "english": "Girls und Panzer: Saishuushou 5",
-            "native": "Girls und Panzer: Saishuushou 5"
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202390-HCkyjItNJ4Go.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202390-HCkyjItNJ4Go.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202390-HCkyjItNJ4Go.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202390-XrdgWaUKxDUg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202390-XrdgWaUKxDUg.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202390-HCkyjItNJ4Go.png",
-          "averageScore": 0,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
+          "averageScore": null,
+          "isAdult": false,
           "episodes": 1,
+          "format": "MOVIE",
           "status": "NOT_YET_RELEASED",
-          "season": "SPRING",
+          "season": "FALL",
           "seasonYear": 2026,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2026,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 18617,
-          "idMal": 18617,
-          "title": {
-            "romaji": "Girls und Panzer der Film",
-            "english": "Girls und Panzer der Film",
-            "native": "Girls und Panzer der Film"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx18617-bzfsyLDahhm8.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx18617-bzfsyLDahhm8.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx18617-bzfsyLDahhm8.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx18617-bzfsyLDahhm8.jpg",
-          "averageScore": 81,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 18619,
-          "idMal": 18619,
-          "title": {
-            "romaji": "Girls und Panzer: This is the Real Anzio Battle!",
-            "english": "Girls und Panzer: This is the Real Anzio Battle!",
-            "native": "Girls und Panzer: This is the Real Anzio Battle!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18619-HLJObts9x0rp.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18619-HLJObts9x0rp.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18619-HLJObts9x0rp.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18619-HLJObts9x0rp.jpg",
-          "averageScore": 76,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 15811,
-          "idMal": 15811,
-          "title": {
-            "romaji": "Girls und Panzer OVA Series",
-            "english": "Girls und Panzer OVA Series",
-            "native": "Girls und Panzer OVA Series"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15811-xa6AKWptSjG1.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15811-xa6AKWptSjG1.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15811-xa6AKWptSjG1.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15811-xa6AKWptSjG1.png",
-          "averageScore": 70,
-          "genres": [
-            "Action",
-            "Slice of Life",
-            "Sports"
-          ],
-          "episodes": 6,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
-          "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 14131,
-          "idMal": 14131,
-          "title": {
-            "romaji": "Girls und Panzer",
-            "english": "Girls und Panzer",
-            "native": "Girls und Panzer"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14131-EP12xXteLTiF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14131-EP12xXteLTiF.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14131-EP12xXteLTiF.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14131-EP12xXteLTiF.jpg",
-          "averageScore": 74,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2012,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 146140,
-          "idMal": 146140,
-          "title": {
-            "romaji": "BanG Dream! Girls Band Party! 5th Anniversary Animation -CiRCLE THANKS PARTY!-",
-            "english": "BanG Dream! Girls Band Party! 5th Anniversary Animation -CiRCLE THANKS PARTY!-",
-            "native": "BanG Dream! Girls Band Party! 5th Anniversary Animation -CiRCLE THANKS PARTY!-"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146140-gT0U3M9znCoC.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146140-gT0U3M9znCoC.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146140-gT0U3M9znCoC.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146140-gT0U3M9znCoC.jpg",
-          "averageScore": 74,
-          "genres": [
-            "Music",
-            "Slice of Life"
-          ],
-          "episodes": 2,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2022,
-          "duration": 24,
-          "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2022,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Music"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 101632,
-          "idMal": 101632,
-          "title": {
-            "romaji": "BanG Dream! Girls Band Party!☆PICO",
-            "english": "BanG Dream! Girls Band Party!☆PICO",
-            "native": "BanG Dream! Girls Band Party!☆PICO"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101632-5OU4PENKC8CV.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101632-5OU4PENKC8CV.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101632-5OU4PENKC8CV.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101632-5OU4PENKC8CV.jpg",
-          "averageScore": 75,
-          "genres": [
-            "Comedy",
-            "Music",
-            "Slice of Life"
-          ],
-          "episodes": 26,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV_SHORT",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Music"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 99196,
-          "idMal": 99196,
-          "title": {
-            "romaji": "Laughing Under the Clouds: Gaiden Part 2",
-            "english": "Laughing Under the Clouds: Gaiden Part 2",
-            "native": "Laughing Under the Clouds: Gaiden Part 2"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99196-VwzvzxjMWwcw.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99196-VwzvzxjMWwcw.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99196-VwzvzxjMWwcw.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99196-VwzvzxjMWwcw.jpg",
-          "averageScore": 71,
-          "genres": [
-            "Action"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 99197,
-          "idMal": 99197,
-          "title": {
-            "romaji": "Laughing Under the Clouds: Gaiden Part 3",
-            "english": "Laughing Under the Clouds: Gaiden Part 3",
-            "native": "Laughing Under the Clouds: Gaiden Part 3"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99197-7wj0FlYEi1UW.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99197-7wj0FlYEi1UW.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99197-7wj0FlYEi1UW.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99197-7wj0FlYEi1UW.jpg",
-          "averageScore": 69,
-          "genres": [
-            "Action"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            }
-          ]
+          "duration": null
         }
       }
     ]
@@ -648,594 +187,695 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 137822,
-          "idMal": 137822,
+          "id": 9751,
           "title": {
-            "romaji": "BLUE LOCK",
-            "english": "BLUE LOCK",
-            "native": "BLUE LOCK"
+            "romaji": "Strike Witches Movie",
+            "english": "Strike Witches: The Movie"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9751-HZPD9Jz8pK12.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9751-HZPD9Jz8pK12.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9751-HZPD9Jz8pK12.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
-          "averageScore": 80,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 24,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2022,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2022,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 124153,
-          "idMal": 124153,
-          "title": {
-            "romaji": "SK8 the Infinity",
-            "english": "SK8 the Infinity",
-            "native": "SK8 the Infinity"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124153-uEBI764OSavB.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124153-uEBI764OSavB.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124153-uEBI764OSavB.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124153-uEBI764OSavB.png",
-          "averageScore": 79,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2021,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2021,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 100298,
-          "idMal": 100298,
-          "title": {
-            "romaji": "Megalobox",
-            "english": "Megalobox",
-            "native": "Megalobox"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100298-A5VQUcw7ZC64.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100298-A5VQUcw7ZC64.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100298-A5VQUcw7ZC64.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100298-A5VQUcw7ZC64.jpg",
-          "averageScore": 77,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sci-Fi",
-            "Sports"
-          ],
-          "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sci-Fi"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 97888,
-          "idMal": 97888,
-          "title": {
-            "romaji": "BAKI",
-            "english": "BAKI",
-            "native": "BAKI"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97888-tdZ1r7qN1DRs.jpg",
-          "averageScore": 72,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
-          "episodes": 26,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
-          "format": "ONA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 163146,
-          "idMal": 163146,
-          "title": {
-            "romaji": "BLUE LOCK Season 2",
-            "english": "BLUE LOCK Season 2",
-            "native": "BLUE LOCK Season 2"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-BVZPgyzkqi82.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-BVZPgyzkqi82.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-BVZPgyzkqi82.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-BVZPgyzkqi82.png",
-          "averageScore": 75,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 14,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2024,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2024,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 185,
-          "idMal": 185,
-          "title": {
-            "romaji": "Initial D 1st Stage",
-            "english": "Initial D 1st Stage",
-            "native": "Initial D 1st Stage"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185-GvXiR8AKTmdn.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185-GvXiR8AKTmdn.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185-GvXiR8AKTmdn.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185-GvXiR8AKTmdn.jpg",
-          "averageScore": 82,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 26,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1998,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1998,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 6675,
-          "idMal": 6675,
-          "title": {
-            "romaji": "Redline",
-            "english": "Redline",
-            "native": "Redline"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6675-NF4tFzAxSjkj.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6675-NF4tFzAxSjkj.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6675-NF4tFzAxSjkj.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6675-NF4tFzAxSjkj.png",
-          "averageScore": 81,
-          "genres": [
-            "Action",
-            "Romance",
-            "Sci-Fi",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2009,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2009,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Sci-Fi"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 14131,
-          "idMal": 14131,
-          "title": {
-            "romaji": "Girls und Panzer",
-            "english": "Girls und Panzer",
-            "native": "Girls und Panzer"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14131-EP12xXteLTiF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14131-EP12xXteLTiF.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14131-EP12xXteLTiF.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14131-EP12xXteLTiF.jpg",
           "averageScore": 74,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2012,
-          "duration": 24,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 97
         }
       },
       {
         "mediaRecommendation": {
-          "id": 857,
-          "idMal": 857,
+          "id": 101499,
           "title": {
-            "romaji": "Air Gear",
-            "english": "Air Gear",
-            "native": "Air Gear"
+            "romaji": "High School Fleet Movie",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b857-0pbF6kMJpUeL.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b857-0pbF6kMJpUeL.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b857-0pbF6kMJpUeL.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101499-5uIIVuEiCTQq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101499-5uIIVuEiCTQq.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101499-5uIIVuEiCTQq.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b857-0pbF6kMJpUeL.png",
-          "averageScore": 70,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Sports"
-          ],
-          "episodes": 25,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2006,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2006,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 124195,
-          "idMal": 124195,
-          "title": {
-            "romaji": "Baki Hanma",
-            "english": "Baki Hanma",
-            "native": "Baki Hanma"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124195-5Z1JSrRlbMRe.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124195-5Z1JSrRlbMRe.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124195-5Z1JSrRlbMRe.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124195-5Z1JSrRlbMRe.jpg",
-          "averageScore": 76,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2021,
-          "duration": 24,
-          "isAdult": false,
-          "format": "ONA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2021,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 186,
-          "idMal": 186,
-          "title": {
-            "romaji": "Initial D 2nd Stage",
-            "english": "Initial D 2nd Stage",
-            "native": "Initial D 2nd Stage"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186-eygBSoYwLCYt.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186-eygBSoYwLCYt.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186-eygBSoYwLCYt.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186-eygBSoYwLCYt.jpg",
-          "averageScore": 81,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1999,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1999,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 100891,
-          "idMal": 100891,
-          "title": {
-            "romaji": "KENGAN ASHURA Part I",
-            "english": "KENGAN ASHURA Part I",
-            "native": "KENGAN ASHURA Part I"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100891-vPfnfkzizYFe.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100891-vPfnfkzizYFe.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100891-vPfnfkzizYFe.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100891-vPfnfkzizYFe.jpg",
           "averageScore": 73,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
           "isAdult": false,
-          "format": "ONA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 105
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 65271,
+          "name": {
+            "userPreferred": "Momo Kawashima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65271-NHJbmnkplMVe.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95116,
+            "name": {
+              "userPreferred": "Kana Ueda"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 67491,
+          "name": {
+            "userPreferred": "Azusa Sawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67491-aa3VFl8rW65C.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 113447,
+            "name": {
+              "userPreferred": "Hitomi Takeuchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113447-0Hj1Zty2cvWW.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90085,
+          "name": {
+            "userPreferred": "Mika"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/90085-pAC1N9M383VW.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95040,
+            "name": {
+              "userPreferred": "Mamiko Noto"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90086,
+          "name": {
+            "userPreferred": "Aki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/90086-zrYRHFsFUuuK.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 118841,
+            "name": {
+              "userPreferred": "Shino Shimoji"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118841-5xfivvcPDvpH.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 90087,
+          "name": {
+            "userPreferred": "Mikko"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/90087-l5dh0K0U1Q6B.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 120131,
+            "name": {
+              "userPreferred": "Miho Ishigami"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/25131-p3x04dNRUNdm.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 62939,
+          "name": {
+            "userPreferred": "Miho Nishizumi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62939-WXOAXdfAhHrF.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 104593,
+            "name": {
+              "userPreferred": "Mai Fuchigami"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104593-yZz5rvm3oIXH.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 62941,
+          "name": {
+            "userPreferred": "Saori Takebe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62941-zuJumccZ2I1q.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 105765,
+            "name": {
+              "userPreferred": "Ai Kayano"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 62943,
+          "name": {
+            "userPreferred": "Hana Isuzu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62943-eP7QURZkIMzQ.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 112007,
+            "name": {
+              "userPreferred": "Mami Ozaki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112007-xfp8mQB0IeXe.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 62945,
+          "name": {
+            "userPreferred": "Yukari Akiyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62945-X9Y608pYoTZK.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 112009,
+            "name": {
+              "userPreferred": "Ikumi Nakagami"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112009-F39RV9nNITnq.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 62947,
+          "name": {
+            "userPreferred": "Mako Reizei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b62947-i0EbCOwtyyIG.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95885,
+            "name": {
+              "userPreferred": "Yuka Iguchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95885-NrKdS094Ae59.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65267,
+          "name": {
+            "userPreferred": "Anzu Kadotani"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65267-VIXi60SIleM5.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95207,
+            "name": {
+              "userPreferred": "Misato Fukuen"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95207-TYPMa0JKUDAf.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 65269,
+          "name": {
+            "userPreferred": "Yuzu Koyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65269-AGGSTvLWhezD.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95132,
+            "name": {
+              "userPreferred": "Mikako Takahashi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95132-TpIFKL0tJg84.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67475,
+          "name": {
+            "userPreferred": "Noriko Isobe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67475-SwSrzkuAaRih.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95375,
+            "name": {
+              "userPreferred": "Mika Kikuchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95375-stpUfkuF5uEL.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67477,
+          "name": {
+            "userPreferred": "Taeko Kondou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67477-jzyaIsC5MxSI.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 113445,
+            "name": {
+              "userPreferred": "Maya Yoshioka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113445-0MwHnf2LYgxa.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67479,
+          "name": {
+            "userPreferred": "Shinobu Kawanishi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67479-nGsMjwqdFzuZ.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 113443,
+            "name": {
+              "userPreferred": "Mari Kirimura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113443-co2EE47g3c5R.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67481,
+          "name": {
+            "userPreferred": "Akebi Sasaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67481-9DGgtvnD7uBD.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 111323,
+            "name": {
+              "userPreferred": "Sakura Nakamura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111323-3rH4zdQLTjue.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67483,
+          "name": {
+            "userPreferred": "Takako Suzuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67483-jiYE2bwyvTPD.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95523,
+            "name": {
+              "userPreferred": "Eri Sendai"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95523-Z2mIzxl8NgnE.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67485,
+          "name": {
+            "userPreferred": "Riko Matsumoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67485-yJkJuIZxBDgy.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 106640,
+            "name": {
+              "userPreferred": "Satomi Moriya"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106640-RCSHeQYxB6nh.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67487,
+          "name": {
+            "userPreferred": "Takeko Nogami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67487-gYTYC9cqgyyP.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 100938,
+            "name": {
+              "userPreferred": "Ayuru Oohashi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100938-2lFwKy8LViBl.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67489,
+          "name": {
+            "userPreferred": "Kiyomi Sugiyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67489-WXupJtFIni43.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 113441,
+            "name": {
+              "userPreferred": "Yuka Inoue"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/18441.jpg"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
-  }
+    "edges": [
+      {
+        "role": "Assistant ADR Director (English)",
+        "node": {
+          "id": 95201,
+          "name": {
+            "userPreferred": "John Swasey"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95201-cas6XbtZmMay.jpg"
+          }
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 97076,
+          "name": {
+            "userPreferred": "Reiko Yoshida"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97076-t79Rv9X7LDJa.jpg"
+          }
+        }
+      },
+      {
+        "role": "Storyboard",
+        "node": {
+          "id": 104552,
+          "name": {
+            "userPreferred": "Tsutomu Mizushima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104552-a358ZJ5UE6zt.png"
+          }
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 104552,
+          "name": {
+            "userPreferred": "Tsutomu Mizushima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104552-a358ZJ5UE6zt.png"
+          }
+        }
+      },
+      {
+        "role": "Unit Director",
+        "node": {
+          "id": 104552,
+          "name": {
+            "userPreferred": "Tsutomu Mizushima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104552-a358ZJ5UE6zt.png"
+          }
+        }
+      },
+      {
+        "role": "Assistant ADR Director (English)",
+        "node": {
+          "id": 105617,
+          "name": {
+            "userPreferred": "Kyle C.  Jones"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105617-5arIxAKK7VvT.png"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 108997,
+          "name": {
+            "userPreferred": "ChouCho"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108997-OB8M64yTaNVL.png"
+          }
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 119997,
+          "name": {
+            "userPreferred": "Isao Sugimoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119997-Ib2hokhzQAdB.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 119997,
+          "name": {
+            "userPreferred": "Isao Sugimoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119997-Ib2hokhzQAdB.png"
+          }
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 119997,
+          "name": {
+            "userPreferred": "Isao Sugimoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119997-Ib2hokhzQAdB.png"
+          }
+        }
+      },
+      {
+        "role": "Animation Director",
+        "node": {
+          "id": 119997,
+          "name": {
+            "userPreferred": "Isao Sugimoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119997-Ib2hokhzQAdB.png"
+          }
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 129147,
+          "name": {
+            "userPreferred": "Christina Kelly"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129147-I19GWVyaMPKe.png"
+          }
+        }
+      },
+      {
+        "role": "Mechanical Animation Director",
+        "node": {
+          "id": 129875,
+          "name": {
+            "userPreferred": "Takeshi Itou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129875-M66xkJkeBoHQ.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation",
+        "node": {
+          "id": 129875,
+          "name": {
+            "userPreferred": "Takeshi Itou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129875-M66xkJkeBoHQ.png"
+          }
+        }
+      },
+      {
+        "role": "Assistant ADR Director (English)",
+        "node": {
+          "id": 147813,
+          "name": {
+            "userPreferred": "Shannon D. Reed"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n147813-6e5lXkwkhnlk.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "subCount": 1,
+  "dubCount": 0,
+  "updatedAt": "2026-08-06T18:49:40.027Z"
 }
