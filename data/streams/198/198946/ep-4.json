@@ -1,10 +1,11 @@
 {
   "animeId": 198946,
   "episode": 4,
-  "updatedAt": "2026-08-03T08:33:59.729Z",
-  "server": "megaplay",
+  "updatedAt": "2026-08-07T16:17:23.307Z",
+  "server": "cage",
   "lang": "sub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/62513/4/sub",
+  "streamUrl": "https://vidnest.fun/animepahe/198946/4/sub?color=39FF14",
+  "downloadUrl": "https://pahe.nekostream.site/Vrfkt",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,11 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
     }
   ],
   "serversData": {
@@ -44,6 +50,15 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/198946/4/sub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/Vrfkt",
+          "720p": "https://pahe.nekostream.site/HHoQC",
+          "1080p": "https://pahe.nekostream.site/adZyA"
+        }
       }
     ],
     "dub": [
@@ -66,6 +81,15 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/198946/4/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/OIahU",
+          "720p": "https://pahe.nekostream.site/rzhmx",
+          "1080p": "https://pahe.nekostream.site/BRZLP"
+        }
       }
     ]
   },
