@@ -1,11 +1,10 @@
 {
   "animeId": 101759,
   "episode": 1,
-  "updatedAt": "2026-08-06T13:13:45.332Z",
+  "updatedAt": "2026-08-07T16:14:14.096Z",
   "server": "megaplay",
-  "lang": "sub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/37779/1/sub",
-  "downloadUrl": "https://pahe.nekostream.site/yxZQA",
+  "lang": "dub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/37779/1/dub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,38 +21,18 @@
     {
       "key": "nest",
       "label": "Nest"
-    },
-    {
-      "key": "anikoto-kiwi",
-      "label": "Kiwi",
-      "rawName": "Kiwi"
-    },
-    {
-      "key": "anikoto-hd-1",
-      "label": "HD-1",
-      "rawName": "HD-1"
-    },
-    {
-      "key": "anikoto-vidstream-2",
-      "label": "Vidstream-2",
-      "rawName": "Vidstream-2"
-    },
-    {
-      "key": "anikoto-vidplay-1",
-      "label": "VidPlay-1",
-      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
     "sub": [
       {
         "name": "Mega",
-        "url": "https://megaplay.buzz/stream/mal/37779/1/sub",
+        "url": "https://megaplay.buzz/stream/mal/37779/1/dub",
         "server": "megaplay"
       },
       {
         "name": "Cage",
-        "url": "https://vidnest.fun/animepahe/101759/1/sub?color=39FF14",
+        "url": "https://vidnest.fun/animepahe/101759/1/dub?color=39FF14",
         "server": "cage"
       },
       {
@@ -63,62 +42,8 @@
       },
       {
         "name": "Nest",
-        "url": "https://vidnest.fun/anime/101759/1/sub?color=39FF14",
+        "url": "https://vidnest.fun/anime/101759/1/dub?color=39FF14",
         "server": "nest"
-      },
-      {
-        "name": "Kiwi",
-        "url": "",
-        "download": {
-          "360p": "https://pahe.nekostream.site/yxZQA",
-          "720p": "https://pahe.nekostream.site/SOSjA",
-          "1080p": "https://pahe.nekostream.site/Wvhdj"
-        }
-      },
-      {
-        "name": "HD-1",
-        "url": "https://megaplay.buzz/stream/s-5/1389/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            60,
-            152
-          ],
-          "outro": [
-            1285,
-            1375
-          ]
-        }
-      },
-      {
-        "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/1389/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            60,
-            152
-          ],
-          "outro": [
-            1285,
-            1375
-          ]
-        }
-      },
-      {
-        "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/SlBsbjg2dk9Ed2dZVDAyRHpBK08yRndLWE5ZTTZLYU0rMkRJdHNSc0VqTT0/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            60,
-            152
-          ],
-          "outro": [
-            1285,
-            1375
-          ]
-        }
       }
     ],
     "dub": [
@@ -141,73 +66,19 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/101759/1/dub?color=39FF14",
         "server": "nest"
-      },
-      {
-        "name": "Kiwi",
-        "url": "",
-        "download": {
-          "360p": "https://pahe.nekostream.site/ZLXuP",
-          "720p": "https://pahe.nekostream.site/MqcSd",
-          "1080p": "https://pahe.nekostream.site/PrZWy"
-        }
-      },
-      {
-        "name": "HD-1",
-        "url": "https://megaplay.buzz/stream/s-5/1389/dub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            57,
-            149
-          ],
-          "outro": [
-            1281,
-            1371
-          ]
-        }
-      },
-      {
-        "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/1389/dub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            57,
-            149
-          ],
-          "outro": [
-            1281,
-            1371
-          ]
-        }
-      },
-      {
-        "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/SlBsbjg2dk9Ed2dZVDAyRHpBK08yRndLWE5ZTTZLYU0rMkRJdHNSc0VqTT0/dub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            57,
-            149
-          ],
-          "outro": [
-            1281,
-            1371
-          ]
-        }
       }
     ]
   },
   "sources": [
     {
       "name": "Mega",
-      "url": "https://megaplay.buzz/stream/mal/37779/1/sub",
+      "url": "https://megaplay.buzz/stream/mal/37779/1/dub",
       "quality": "auto",
       "server": "megaplay"
     },
     {
       "name": "Cage",
-      "url": "https://vidnest.fun/animepahe/101759/1/sub?color=39FF14",
+      "url": "https://vidnest.fun/animepahe/101759/1/dub?color=39FF14",
       "quality": "auto",
       "server": "cage"
     },
@@ -219,7 +90,7 @@
     },
     {
       "name": "Nest",
-      "url": "https://vidnest.fun/anime/101759/1/sub?color=39FF14",
+      "url": "https://vidnest.fun/anime/101759/1/dub?color=39FF14",
       "quality": "auto",
       "server": "nest"
     }
