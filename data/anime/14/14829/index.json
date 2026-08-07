@@ -11,8 +11,7 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14829-PZVOr1ZxwOJV.png",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14829-PZVOr1ZxwOJV.png",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14829-PZVOr1ZxwOJV.png"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14829-PZVOr1ZxwOJV.png"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14829-BkeJaqab8coy.jpg",
   "description": "Illyasviel von Einzbern’s normal life is suddenly halted by the Kaleidostick Ruby, a magical wand on the run from her former master, who instantly decides that little Illya has all the right stuff to become the next great magical girl. However, Ruby’s previous owner Rin Tohsaka isn’t exactly thrilled to be de-wanded, especially since she’s just accepted an assignment to collect the seven legendary Class Cards. It seems the only solution is for Illya to take up the task and learn the ropes under Rin’s supervision. Meanwhile, a girl named Miyu has been chosen by the Kaleidostick Sapphire as HER new master, much to the irritation of Sapphire’s previous master, Rin’s arch rival Luviagelita Edelfelt! Exactly what kind of plan are the wands conjuring up?<br>\n<br>\n(Source: Sentai Filmworks)<br>\n<br>\n<i>Note: The show streamed in advance on Niconico Live on July 6, 2013 in Japan. The regular TV broadcast started on July 13, 2013.",
@@ -30,6 +29,7 @@
   "seasonYear": 2013,
   "duration": 24,
   "format": "ONA",
+  "isAdult": false,
   "startDate": {
     "year": 2013,
     "month": 7,
@@ -45,7 +45,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 1,
+          "id": 300,
           "name": "SILVER LINK.",
           "isAnimationStudio": true
         }
@@ -53,7 +53,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 2,
+          "id": 376,
           "name": "Sentai Filmworks",
           "isAnimationStudio": false
         }
@@ -61,7 +61,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 3,
+          "id": 703,
           "name": "Notes",
           "isAnimationStudio": false
         }
@@ -69,7 +69,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 4,
+          "id": 104,
           "name": "Lantis",
           "isAnimationStudio": false
         }
@@ -77,7 +77,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 5,
+          "id": 113,
           "name": "Kadokawa Shoten",
           "isAnimationStudio": false
         }
@@ -85,7 +85,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 6,
+          "id": 238,
           "name": "AT-X",
           "isAnimationStudio": false
         }
@@ -93,7 +93,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 7,
+          "id": 315,
           "name": "DAX Production",
           "isAnimationStudio": false
         }
@@ -101,7 +101,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 8,
+          "id": 715,
           "name": "Dwango",
           "isAnimationStudio": false
         }
@@ -114,7 +114,19 @@
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/fatekaleid-liner-prisma-illya",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
+    },
+    {
+      "site": "Official Site",
+      "url": "http://anime.prisma-illya.jp/1st/",
+      "type": "INFO",
+      "language": null
+    },
+    {
+      "site": "Twitter",
+      "url": "https://twitter.com/prisma_illya",
+      "type": "SOCIAL",
+      "language": null
     }
   ],
   "tags": [
@@ -134,10 +146,25 @@
       "name": "Henshin"
     },
     {
+      "name": "Witch"
+    },
+    {
       "name": "Parody"
     },
     {
+      "name": "Alternate Universe"
+    },
+    {
       "name": "Otaku Culture"
+    },
+    {
+      "name": "Yuri"
+    },
+    {
+      "name": "Dissociative Identities"
+    },
+    {
+      "name": "Body Swapping"
     },
     {
       "name": "Urban Fantasy"
@@ -158,7 +185,7 @@
       "name": "Adoption"
     },
     {
-      "name": "Yuri"
+      "name": "Nudity"
     },
     {
       "name": "Ojou-sama"
@@ -167,410 +194,236 @@
       "name": "Kuudere"
     },
     {
-      "name": "Nudity"
-    },
-    {
       "name": "Butler"
     },
     {
       "name": "Archery"
+    },
+    {
+      "name": "Nekomimi"
+    },
+    {
+      "name": "School"
+    },
+    {
+      "name": "Isekai"
+    },
+    {
+      "name": "Meta"
+    },
+    {
+      "name": "Swordplay"
+    },
+    {
+      "name": "Maids"
+    },
+    {
+      "name": "Spearplay"
     }
   ],
-  "trailer": null,
+  "trailer": {
+    "id": "AiBsbR2wmEQ",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/AiBsbR2wmEQ/hqdefault.jpg"
+  },
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
+        "relationType": "ADAPTATION",
         "node": {
-          "id": 118743,
-          "idMal": 118743,
+          "id": 33526,
           "title": {
-            "romaji": "Fate/kaleid liner Prisma☆Illya: Licht Nameless Girl",
-            "english": "Fate/kaleid liner Prisma☆Illya: Licht Nameless Girl",
-            "native": "Fate/kaleid liner Prisma☆Illya: Licht Nameless Girl"
+            "romaji": "Fate/kaleid liner Prisma☆Illya",
+            "english": "Fate/Kaleid Liner Prisma Illya"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118743-T2Zm7kA33pnj.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118743-T2Zm7kA33pnj.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118743-T2Zm7kA33pnj.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx33526-vWnQdnv0SyFj.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx33526-vWnQdnv0SyFj.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118743-T2Zm7kA33pnj.jpg",
-          "averageScore": 71,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy",
-            "Mahou Shoujo"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2021,
-          "duration": 24,
+          "averageScore": 67,
           "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2021,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mahou Shoujo"
-            }
-          ]
+          "episodes": null,
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
         }
       },
       {
-        "relationType": "SEASON",
-        "node": {
-          "id": 100269,
-          "idMal": 100269,
-          "title": {
-            "romaji": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
-            "english": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
-            "native": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100269-V8Z7e1OXrDBZ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100269-V8Z7e1OXrDBZ.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100269-V8Z7e1OXrDBZ.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100269-V8Z7e1OXrDBZ.jpg",
-          "averageScore": 65,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Fantasy",
-            "Mahou Shoujo"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mahou Shoujo"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 97757,
-          "idMal": 97757,
-          "title": {
-            "romaji": "Fate/kaleid liner Prisma☆Illya: Vow in the Snow",
-            "english": "Fate/kaleid liner Prisma☆Illya: Vow in the Snow",
-            "native": "Fate/kaleid liner Prisma☆Illya: Vow in the Snow"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97757-BWFRkX81LpGS.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97757-BWFRkX81LpGS.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97757-BWFRkX81LpGS.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97757-BWFRkX81LpGS.png",
-          "averageScore": 78,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy",
-            "Psychological"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Psychological"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21379,
-          "idMal": 21379,
-          "title": {
-            "romaji": "Fate/kaleid liner Prisma☆Illya 3rei!!",
-            "english": "Fate/kaleid liner Prisma☆Illya 3rei!!",
-            "native": "Fate/kaleid liner Prisma☆Illya 3rei!!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21379-RDJgELNOIGDS.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21379-RDJgELNOIGDS.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21379-RDJgELNOIGDS.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21379-RDJgELNOIGDS.png",
-          "averageScore": 73,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Mahou Shoujo"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mahou Shoujo"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 18851,
-          "idMal": 18851,
-          "title": {
-            "romaji": "Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!",
-            "english": "Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!",
-            "native": "Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18851-6TjNHfkWaB6B.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18851-6TjNHfkWaB6B.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18851-6TjNHfkWaB6B.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18851-6TjNHfkWaB6B.png",
-          "averageScore": 64,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Mahou Shoujo",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mahou Shoujo"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 20467,
-          "idMal": 20467,
-          "title": {
-            "romaji": "Fate/kaleid liner Prisma☆Illya 2wei!",
-            "english": "Fate/kaleid liner Prisma☆Illya 2wei!",
-            "native": "Fate/kaleid liner Prisma☆Illya 2wei!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20467-GwWFUCzsiUF7.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20467-GwWFUCzsiUF7.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20467-GwWFUCzsiUF7.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20467-GwWFUCzsiUF7.png",
-          "averageScore": 70,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Mahou Shoujo"
-          ],
-          "episodes": 10,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mahou Shoujo"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
+        "relationType": "SIDE_STORY",
         "node": {
           "id": 19109,
-          "idMal": 19109,
           "title": {
-            "romaji": "Fate/Kaleid liner Prisma Illya Specials",
-            "english": "Fate/Kaleid liner Prisma Illya Specials",
-            "native": "Fate/Kaleid liner Prisma Illya Specials"
+            "romaji": "Fate/kaleid liner Prisma☆Illya Short Anime",
+            "english": null
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19109.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19109.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19109.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19109.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19109.jpg",
           "averageScore": 65,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Mahou Shoujo"
-          ],
+          "isAdult": false,
           "episodes": 5,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2013,
+          "duration": 5
+        }
+      },
+      {
+        "relationType": "SEQUEL",
+        "node": {
+          "id": 18851,
+          "title": {
+            "romaji": "Fate/kaleid liner Prisma☆Illya: Undoukai DE Dance!",
+            "english": "Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18851-6TjNHfkWaB6B.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18851-6TjNHfkWaB6B.png"
+          },
+          "averageScore": 64,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "OVA",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2014,
+          "duration": 25
+        }
+      },
+      {
+        "relationType": "PARENT",
+        "node": {
+          "id": 356,
+          "title": {
+            "romaji": "Fate/stay night",
+            "english": "Fate/stay night"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx356-mTpMvtillumS.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx356-mTpMvtillumS.png"
+          },
+          "averageScore": 68,
+          "isAdult": false,
+          "episodes": 24,
+          "format": "TV",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2006,
+          "duration": 24
+        }
+      },
+      {
+        "relationType": "PARENT",
+        "node": {
+          "id": 19603,
+          "title": {
+            "romaji": "Fate/stay night: Unlimited Blade Works",
+            "english": "Fate/stay night: Unlimited Blade Works"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19603-ycT0pyEgDVQu.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19603-ycT0pyEgDVQu.jpg"
+          },
+          "averageScore": 80,
+          "isAdult": false,
+          "episodes": 13,
+          "format": "TV",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2014,
+          "duration": 24
+        }
+      },
+      {
+        "relationType": "PARENT",
+        "node": {
+          "id": 20791,
+          "title": {
+            "romaji": "Fate/stay night [Heaven's Feel] I. presage flower",
+            "english": "Fate/stay night [Heaven's Feel] I. presage flower"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20791-yPCX5GJuMH2k.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20791-yPCX5GJuMH2k.png"
+          },
+          "averageScore": 80,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2017,
+          "duration": 120
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 87195,
+          "title": {
+            "romaji": "Fate/kaleid liner Prisma☆Illya",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57195-5ulDdzVbDOSi.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57195-5ulDdzVbDOSi.jpg"
+          },
+          "averageScore": 60,
+          "isAdult": false,
+          "episodes": null,
+          "format": "NOVEL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 100269,
+          "title": {
+            "romaji": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+            "english": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100269-V8Z7e1OXrDBZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100269-V8Z7e1OXrDBZ.jpg"
+          },
+          "averageScore": 65,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "OVA",
           "status": "FINISHED",
           "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
-          "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
+          "seasonYear": 2019,
+          "duration": 62
+        }
+      },
+      {
+        "relationType": "PARENT",
+        "node": {
+          "id": 6922,
+          "title": {
+            "romaji": "Fate/stay night Movie: UNLIMITED BLADE WORKS",
+            "english": "Fate/stay night: Unlimited Blade Works (Movie)"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mahou Shoujo"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6922-g3hsIYOWGXL8.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6922-g3hsIYOWGXL8.jpg"
+          },
+          "averageScore": 70,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2010,
+          "duration": 105
         }
       }
     ]
@@ -579,722 +432,885 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 20467,
-          "idMal": 20467,
-          "title": {
-            "romaji": "Fate/kaleid liner Prisma☆Illya 2wei!",
-            "english": "Fate/kaleid liner Prisma☆Illya 2wei!",
-            "native": "Fate/kaleid liner Prisma☆Illya 2wei!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20467-GwWFUCzsiUF7.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20467-GwWFUCzsiUF7.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20467-GwWFUCzsiUF7.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20467-GwWFUCzsiUF7.png",
-          "averageScore": 70,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Mahou Shoujo"
-          ],
-          "episodes": 10,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mahou Shoujo"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
           "id": 21379,
-          "idMal": 21379,
           "title": {
             "romaji": "Fate/kaleid liner Prisma☆Illya 3rei!!",
-            "english": "Fate/kaleid liner Prisma☆Illya 3rei!!",
-            "native": "Fate/kaleid liner Prisma☆Illya 3rei!!"
+            "english": "Fate/kaleid liner Prisma☆Illya 3rei!!"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21379-RDJgELNOIGDS.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21379-RDJgELNOIGDS.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21379-RDJgELNOIGDS.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21379-RDJgELNOIGDS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21379-RDJgELNOIGDS.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21379-RDJgELNOIGDS.png",
           "averageScore": 73,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Mahou Shoujo"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 12,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mahou Shoujo"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 18851,
-          "idMal": 18851,
+          "id": 10012,
           "title": {
-            "romaji": "Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!",
-            "english": "Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!",
-            "native": "Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!"
+            "romaji": "Carnival Phantasm",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18851-6TjNHfkWaB6B.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18851-6TjNHfkWaB6B.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18851-6TjNHfkWaB6B.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10012-MNLVctKXaIAf.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10012-MNLVctKXaIAf.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx10012-MNLVctKXaIAf.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18851-6TjNHfkWaB6B.png",
-          "averageScore": 64,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Mahou Shoujo",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
+          "averageScore": 77,
           "isAdult": false,
+          "episodes": 12,
           "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mahou Shoujo"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20789,
-          "idMal": 20789,
-          "title": {
-            "romaji": "The Seven Deadly Sins",
-            "english": "The Seven Deadly Sins",
-            "native": "The Seven Deadly Sins"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-Ma5ouSYPkru9.jpg",
-          "averageScore": 73,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 24,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "duration": 14
         }
       },
       {
         "mediaRecommendation": {
-          "id": 11617,
-          "idMal": 11617,
+          "id": 21422,
           "title": {
-            "romaji": "High School DxD",
-            "english": "High School DxD",
-            "native": "High School DxD"
+            "romaji": "Mahou Shoujo Nante Mou Ii desu kara.",
+            "english": "Mahou Shoujo Nante Mouiidesukara"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21422-jbHQOtmJKft5.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21422-jbHQOtmJKft5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21422-jbHQOtmJKft5.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg",
-          "averageScore": 69,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
-          ],
+          "averageScore": 57,
+          "isAdult": false,
           "episodes": 12,
+          "format": "TV_SHORT",
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2012,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
+          "duration": 4
         }
       },
       {
         "mediaRecommendation": {
-          "id": 99539,
-          "idMal": 99539,
+          "id": 107490,
           "title": {
-            "romaji": "The Seven Deadly Sins: Revival of the Commandments",
-            "english": "The Seven Deadly Sins: Revival of the Commandments",
-            "native": "The Seven Deadly Sins: Revival of the Commandments"
+            "romaji": "Machikado Mazoku",
+            "english": "The Demon Girl Next Door"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107490-OaUP9KSAJQt9.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107490-OaUP9KSAJQt9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx107490-OaUP9KSAJQt9.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg",
-          "averageScore": 73,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 24,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
+          "averageScore": 75,
           "isAdult": false,
+          "episodes": 12,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 15583,
-          "idMal": 15583,
+          "id": 20496,
           "title": {
-            "romaji": "Date A Live",
-            "english": "Date A Live",
-            "native": "Date A Live"
+            "romaji": "Sekai Seifuku: Bouryaku no Zvezda",
+            "english": "World Conquest Zvezda Plot"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15583-Sxd2J4RJdRhj.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15583-Sxd2J4RJdRhj.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15583-Sxd2J4RJdRhj.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20496-fTwlGOKd8OPb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20496-fTwlGOKd8OPb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20496-fTwlGOKd8OPb.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15583-Sxd2J4RJdRhj.jpg",
           "averageScore": 68,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Mecha",
-            "Romance",
-            "Sci-Fi"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 12,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Mecha"
-            },
-            {
-              "name": "Romance"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 102976,
-          "idMal": 102976,
+          "id": 97757,
           "title": {
-            "romaji": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
-            "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
-            "native": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson"
+            "romaji": "Fate/kaleid liner Prisma☆Illya: Sekka no Chikai",
+            "english": "Fate/kaleid liner Prisma☆Illya: Vow in the Snow"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97757-BWFRkX81LpGS.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97757-BWFRkX81LpGS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b97757-BWFRkX81LpGS.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png",
-          "averageScore": 82,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Supernatural"
-          ],
+          "averageScore": 78,
+          "isAdult": false,
           "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 108928,
-          "idMal": 108928,
-          "title": {
-            "romaji": "The Seven Deadly Sins: Imperial Wrath of the Gods",
-            "english": "The Seven Deadly Sins: Imperial Wrath of the Gods",
-            "native": "The Seven Deadly Sins: Imperial Wrath of the Gods"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108928-DuyUzi0JyPIr.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108928-DuyUzi0JyPIr.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108928-DuyUzi0JyPIr.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108928-DuyUzi0JyPIr.jpg",
-          "averageScore": 63,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "episodes": 24,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2019,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2019,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
+          "duration": 89
         }
       },
       {
         "mediaRecommendation": {
-          "id": 15451,
-          "idMal": 15451,
+          "id": 77,
           "title": {
-            "romaji": "High School DxD NEW",
-            "english": "High School DxD NEW",
-            "native": "High School DxD NEW"
+            "romaji": "Mahou Shoujo Lyrical Nanoha A's",
+            "english": "Magical Girl Lyrical Nanoha A's"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx15451-A5T54vmxUq9t.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx15451-A5T54vmxUq9t.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx15451-A5T54vmxUq9t.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx77-SwBCj7R1enWi.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx77-SwBCj7R1enWi.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx77-SwBCj7R1enWi.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx15451-A5T54vmxUq9t.jpg",
+          "averageScore": 78,
+          "isAdult": false,
+          "episodes": 13,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 232,
+          "title": {
+            "romaji": "Cardcaptor Sakura",
+            "english": "Cardcaptor Sakura"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx232-ERyKCNNPJJeh.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx232-ERyKCNNPJJeh.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx232-ERyKCNNPJJeh.png"
+          },
+          "averageScore": 81,
+          "isAdult": false,
+          "episodes": 70,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21738,
+          "title": {
+            "romaji": "Hina Logi: from Luck & Logic",
+            "english": "Hina Logic - from Luck & Logic"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21738-SMMRGISxAUKx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21738-SMMRGISxAUKx.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx21738-SMMRGISxAUKx.jpg"
+          },
+          "averageScore": 64,
+          "isAdult": false,
+          "episodes": 12,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21440,
+          "title": {
+            "romaji": "Nurse Witch Komugi-chan R",
+            "english": "Nurse Witch KOMUGI R"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21440-CmsSHryWcxip.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21440-CmsSHryWcxip.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21440-CmsSHryWcxip.jpg"
+          },
+          "averageScore": 56,
+          "isAdult": false,
+          "episodes": 12,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 22
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 76,
+          "title": {
+            "romaji": "Mahou Shoujo Lyrical Nanoha",
+            "english": "Magical Girl Lyrical Nanoha"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx76-wRwZobrx9MPj.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx76-wRwZobrx9MPj.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx76-wRwZobrx9MPj.jpg"
+          },
           "averageScore": 71,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 13,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 25
         }
       },
       {
         "mediaRecommendation": {
-          "id": 20631,
-          "idMal": 20631,
+          "id": 21088,
           "title": {
-            "romaji": "TRINITY SEVEN",
-            "english": "TRINITY SEVEN",
-            "native": "TRINITY SEVEN"
+            "romaji": "Yuru Yuri San☆Hai!",
+            "english": "YuruYuri Season 3"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20631-LdCiy3goitcT.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20631-LdCiy3goitcT.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20631-LdCiy3goitcT.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21088-T5qFaSe9ohRK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21088-T5qFaSe9ohRK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21088-T5qFaSe9ohRK.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20631-LdCiy3goitcT.png",
-          "averageScore": 67,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
+          "averageScore": 78,
           "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20745,
-          "idMal": 20745,
-          "title": {
-            "romaji": "High School DxD BorN",
-            "english": "High School DxD BorN",
-            "native": "High School DxD BorN"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20745-HzWTPFv0P13I.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20745-HzWTPFv0P13I.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20745-HzWTPFv0P13I.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20745-HzWTPFv0P13I.jpg",
-          "averageScore": 71,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
-          ],
           "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Ecchi"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Romance"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 23
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 498,
+          "name": {
+            "userPreferred": "Rin Tohsaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95116,
+            "name": {
+              "userPreferred": "Kana Ueda"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 503,
+          "name": {
+            "userPreferred": "Illyasviel von Einzbern"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b503-SmS87yq6l2tD.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95117,
+            "name": {
+              "userPreferred": "Mai Kadowaki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95117-TpLo1AeJRfVJ.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 21636,
+          "name": {
+            "userPreferred": "Luviagelita Edelfelt"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21636-pxuF4W4Eh9x7.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95093,
+            "name": {
+              "userPreferred": "Shizuka Itou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 21728,
+          "name": {
+            "userPreferred": "Miyu Edelfelt"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21728-CmrlcSHNEAW9.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95078,
+            "name": {
+              "userPreferred": "Kaori Nazuka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 496,
+          "name": {
+            "userPreferred": "Shirou Emiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b496-GI0waavDjyk3.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95016,
+            "name": {
+              "userPreferred": "Noriaki Sugiyama"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95016-03m7lAUZBMDv.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 497,
+          "name": {
+            "userPreferred": "Artoria Pendragon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95013,
+            "name": {
+              "userPreferred": "Ayako Kawasumi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95013-854sZdHTaabG.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 502,
+          "name": {
+            "userPreferred": "Medusa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b502-Nc5U3ghTR7Gy.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95119,
+            "name": {
+              "userPreferred": "Yuu Asakawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95119-ExV6YzTBbIZE.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 504,
+          "name": {
+            "userPreferred": "Heracles"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b504-2k7LldrHYSAP.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96359,
+            "name": {
+              "userPreferred": "Tadahisa Saizen"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1359.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 505,
+          "name": {
+            "userPreferred": "Taiga Fujimura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b505-QL0cNIE6Q0RI.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95121,
+            "name": {
+              "userPreferred": "Miki Itou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95121-FCp9NcoFgKZk.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 3440,
+          "name": {
+            "userPreferred": "Medea"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3440-134Ip9KiQeZL.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95100,
+            "name": {
+              "userPreferred": "Atsuko Tanaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-v07xvA8V2Yeh.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 15164,
+          "name": {
+            "userPreferred": "Irisviel von Einzbern"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b15164-BPfYcnNR3PwN.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95092,
+            "name": {
+              "userPreferred": "Sayaka Oohara"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 16025,
+          "name": {
+            "userPreferred": "Hassan-i-Sabbah"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16025-K9BmRRDigyWU.png"
+          }
+        },
+        "voiceActors": []
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 24333,
+          "name": {
+            "userPreferred": "Leysritt"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24333-alhbcqCDBbzZ.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 100721,
+            "name": {
+              "userPreferred": "Miho Miyagawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100721-uRUu4DMce3Dd.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 44025,
+          "name": {
+            "userPreferred": "Sella"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b44025-IxzAC5F26k9R.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96501,
+            "name": {
+              "userPreferred": "Haruhi Nanao"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96501-YdNWqvlQGpIE.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53227,
+          "name": {
+            "userPreferred": "Magical Ruby"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b53227-uLaA89zM1Qp7.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96856,
+            "name": {
+              "userPreferred": "Naoko Takano"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96856-8Pnq7PbFpxZA.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53229,
+          "name": {
+            "userPreferred": "Magical Sapphire"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/53229.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95401,
+            "name": {
+              "userPreferred": "Miyu Matsuki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95401-2ffju56ewc36.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53233,
+          "name": {
+            "userPreferred": "Suzuka Kurihara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/53233.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95762,
+            "name": {
+              "userPreferred": "Kanae Itou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95762-qhWmwni3TT6Y.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53235,
+          "name": {
+            "userPreferred": "Nanaki Moriyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/53235.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95655,
+            "name": {
+              "userPreferred": "Mariya Ise"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95655-cR519BXmteKA.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53237,
+          "name": {
+            "userPreferred": "Tatsuko Gakumazawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/53237.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95052,
+            "name": {
+              "userPreferred": "Emiri Katou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95052-mvDPeBcLCWmX.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 53239,
+          "name": {
+            "userPreferred": "Mimi Katsura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/53239.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 101560,
+            "name": {
+              "userPreferred": "Satomi Satou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101560-YN8w6EZZtIhb.jpg"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
-  }
+    "edges": [
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 97582,
+          "name": {
+            "userPreferred": "Type-Moon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97582-3Mi4DbWITF4T.jpg"
+          }
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 98696,
+          "name": {
+            "userPreferred": "Hiroshi Hiroyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98696-yW1548fVa0rk.png"
+          }
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 101753,
+          "name": {
+            "userPreferred": "Shin Oonuma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101753-pdcEgD306uEw.png"
+          }
+        }
+      },
+      {
+        "role": "Series Composition",
+        "node": {
+          "id": 102108,
+          "name": {
+            "userPreferred": "Kenji Inoue"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/102108-UDVQFcTHKXaM.jpg"
+          }
+        }
+      },
+      {
+        "role": "Producer (English)",
+        "node": {
+          "id": 102621,
+          "name": {
+            "userPreferred": "John Ledford"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7621.jpg"
+          }
+        }
+      },
+      {
+        "role": "Executive Producer (English)",
+        "node": {
+          "id": 102621,
+          "name": {
+            "userPreferred": "John Ledford"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7621.jpg"
+          }
+        }
+      },
+      {
+        "role": "ADR Director (English)",
+        "node": {
+          "id": 105617,
+          "name": {
+            "userPreferred": "Kyle C.  Jones"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105617-5arIxAKK7VvT.png"
+          }
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 108115,
+          "name": {
+            "userPreferred": "Tatsuya Katou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/108115-0l56m5nW53zR.jpg"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Performance (OP)",
+        "node": {
+          "id": 108997,
+          "name": {
+            "userPreferred": "ChouCho"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108997-OB8M64yTaNVL.png"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Performance (ED)",
+        "node": {
+          "id": 111177,
+          "name": {
+            "userPreferred": "StylipS"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/111177-Xfuh2snBaTWy.jpg"
+          }
+        }
+      },
+      {
+        "role": "Script",
+        "node": {
+          "id": 112175,
+          "name": {
+            "userPreferred": "Hazuki Minase"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112175-mOqoxPXlLMJR.png"
+          }
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 118912,
+          "name": {
+            "userPreferred": "Satoki Iida"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118912-bijGF9kyBmMN.jpg"
+          }
+        }
+      },
+      {
+        "role": "Chief Animation Director",
+        "node": {
+          "id": 119343,
+          "name": {
+            "userPreferred": "Nozomi Ushijima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 119343,
+          "name": {
+            "userPreferred": "Nozomi Ushijima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      },
+      {
+        "role": "Chief Director",
+        "node": {
+          "id": 120531,
+          "name": {
+            "userPreferred": "Mirai Minato"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120531-lUgzMoyQJCMK.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "subCount": 10,
+  "dubCount": 0,
+  "updatedAt": "2026-08-07T07:27:50.968Z"
 }
