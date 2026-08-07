@@ -3,7 +3,7 @@
   "idMal": 3437,
   "title": {
     "romaji": "Mister Ajikko",
-    "english": null,
+    "english": "Mister Ajikko",
     "native": "ミスター味っ子"
   },
   "synonyms": [
@@ -11,10 +11,11 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3437-wBfBvioNuQ7D.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3437-wBfBvioNuQ7D.jpg"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3437-wBfBvioNuQ7D.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3437-wBfBvioNuQ7D.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3437-lbFt6eOP9bS4.jpg",
-  "description": "Ajiyoshi Yoichi is a culinary prodigy who manages the eating house together with his mother. One day, Murata Genjiro appears in the eating house and is surprised at the delicious taste and delicate culinary skills of the katsu-don prepared by Youichi. Subsequently, Youichi is being invited to the Aji-oh Building in which he is involved in a spaghetti match with the in-house Italian chef, Marui. Youichi's novel culinary ideas, coupled with his enthusiasm of serving the best for his guests, allow him to defeat Marui in the match. From then on, Youichi begins to compete with other rivals in the race for the best tastes and dishes. <br><br>\n(Source: Anime News Network)",
+  "description": "Ajiyoshi Yoichi is a culinary prodigy who manages the eating house together with his mother. One day, Murata Genjiro appears in the eating house and is surprised at the delicious taste and delicate culinary skills of the katsu-don prepared by Youichi. Subsequently, Youichi is being invited to the Aji-oh Building in which he is involved in a spaghetti match with the in-house Italian chef, Marui. Youichi's novel culinary ideas, coupled with his enthusiasm of serving the best for his guests, allow him to defeat Marui in the match. From then on, Youichi begins to compete with other rivals in the race for the best tastes and dishes. <br><br>\n(Source: Anime News Network) ",
   "averageScore": 67,
   "genres": [
     "Comedy",
@@ -42,7 +43,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 14,
+          "id": 1,
           "name": "Sunrise",
           "isAnimationStudio": true
         }
@@ -50,7 +51,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 16,
+          "id": 2,
           "name": "TV Tokyo",
           "isAnimationStudio": false
         }
@@ -63,13 +64,13 @@
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/media/1015462",
       "type": "STREAMING",
-      "language": null
+      "language": "English"
     },
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/1015462",
       "type": "STREAMING",
-      "language": null
+      "language": "English"
     }
   ],
   "tags": [
@@ -78,482 +79,699 @@
     },
     {
       "name": "Shounen"
-    },
-    {
-      "name": "Male Protagonist"
     }
   ],
   "trailer": null,
   "relations": {
-    "edges": [
-      {
-        "relationType": "ADAPTATION",
-        "node": {
-          "id": 39797,
-          "title": {
-            "romaji": "Mister Ajikko",
-            "english": null
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39797-4u0aAKSijqCT.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39797-4u0aAKSijqCT.jpg"
-          },
-          "averageScore": null,
-          "isAdult": false,
-          "episodes": null,
-          "format": "MANGA",
-          "status": "FINISHED",
-          "season": null,
-          "seasonYear": null,
-          "duration": null
-        }
-      }
-    ]
+    "edges": []
   },
   "recommendations": {
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 20923,
+          "id": 21,
+          "idMal": 21,
           "title": {
-            "romaji": "Shokugeki no Souma",
-            "english": "Food Wars!"
+            "romaji": "ONE PIECE",
+            "english": "ONE PIECE",
+            "native": "ONE PIECE"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-pNT38pjW3RFH.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20923-pNT38pjW3RFH.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20923-pNT38pjW3RFH.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg"
           },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+          "averageScore": 87,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+          ],
+          "episodes": 1168,
+          "status": "RELEASING",
+          "season": "SPRING",
+          "seasonYear": 1999,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 1999,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20,
+          "idMal": 20,
+          "title": {
+            "romaji": "Naruto",
+            "english": "Naruto",
+            "native": "Naruto"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+          "averageScore": 80,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "episodes": 220,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2002,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2002,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20755,
+          "idMal": 20755,
+          "title": {
+            "romaji": "Assassination Classroom",
+            "english": "Assassination Classroom",
+            "native": "Assassination Classroom"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg",
+          "averageScore": 79,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Supernatural"
+          ],
+          "episodes": 22,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2015,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21507,
+          "idMal": 21507,
+          "title": {
+            "romaji": "Mob Psycho 100",
+            "english": "Mob Psycho 100",
+            "native": "Mob Psycho 100"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+          "averageScore": 84,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Psychological",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2016,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Slice of Life"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1735,
+          "idMal": 1735,
+          "title": {
+            "romaji": "Naruto: Shippuden",
+            "english": "Naruto: Shippuden",
+            "native": "Naruto: Shippuden"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+          "averageScore": 82,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "episodes": 500,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2007,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2007,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20464,
+          "idMal": 20464,
+          "title": {
+            "romaji": "HAIKYU!!",
+            "english": "HAIKYU!!",
+            "native": "HAIKYU!!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
+          "averageScore": 84,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Sports"
+          ],
+          "episodes": 25,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2014,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2014,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Sports"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 101291,
+          "idMal": 101291,
+          "title": {
+            "romaji": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+            "native": "Rascal Does Not Dream of Bunny Girl Senpai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101291-wfEdgPqtfU0l.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101291-wfEdgPqtfU0l.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101291-wfEdgPqtfU0l.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101291-wfEdgPqtfU0l.jpg",
+          "averageScore": 81,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "episodes": 13,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2018,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2018,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 4224,
+          "idMal": 4224,
+          "title": {
+            "romaji": "Toradora!",
+            "english": "Toradora!",
+            "native": "Toradora!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
           "averageScore": 78,
-          "isAdult": false,
-          "episodes": 24,
-          "format": "TV",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "episodes": 25,
           "status": "FINISHED",
-          "duration": 25
+          "season": "SPRING",
+          "seasonYear": 2008,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2008,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Slice of Life"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 8123,
+          "id": 6547,
+          "idMal": 6547,
           "title": {
-            "romaji": "Cooking Papa",
-            "english": null
+            "romaji": "Angel Beats!",
+            "english": "Angel Beats!",
+            "native": "Angel Beats!"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8123-wJO9M6IqTl4I.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8123-wJO9M6IqTl4I.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8123-wJO9M6IqTl4I.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6547-SYexAn5aFyss.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6547-SYexAn5aFyss.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6547-SYexAn5aFyss.png"
           },
-          "averageScore": 63,
-          "isAdult": false,
-          "episodes": 151,
-          "format": "TV",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6547-SYexAn5aFyss.png",
+          "averageScore": 77,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Supernatural"
+          ],
+          "episodes": 13,
           "status": "FINISHED",
-          "duration": 25
+          "season": "SPRING",
+          "seasonYear": 2010,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2010,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 1093,
+          "id": 20997,
+          "idMal": 20997,
           "title": {
-            "romaji": "Oishinbo",
-            "english": null
+            "romaji": "Charlotte",
+            "english": "Charlotte",
+            "native": "Charlotte"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1093-oNUjFBdNsYlU.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1093-oNUjFBdNsYlU.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b1093-oNUjFBdNsYlU.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20997-axVYrsIfjtYJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20997-axVYrsIfjtYJ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20997-axVYrsIfjtYJ.jpg"
           },
-          "averageScore": 66,
-          "isAdult": false,
-          "episodes": 136,
-          "format": "TV",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20997-axVYrsIfjtYJ.jpg",
+          "averageScore": 75,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "episodes": 13,
           "status": "FINISHED",
-          "duration": 26
+          "season": "SPRING",
+          "seasonYear": 2015,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Supernatural"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 6384,
+          "id": 20992,
+          "idMal": 20992,
           "title": {
-            "romaji": "Ippon Bouchou Mantarou",
-            "english": null
+            "romaji": "HAIKYU!! 2nd Season",
+            "english": "HAIKYU!! 2nd Season",
+            "native": "HAIKYU!! 2nd Season"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6384.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6384.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6384.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png"
           },
-          "averageScore": 53,
-          "isAdult": false,
-          "episodes": 2,
-          "format": "OVA",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
+          "averageScore": 86,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Sports"
+          ],
+          "episodes": 25,
           "status": "FINISHED",
-          "duration": 45
+          "season": "SPRING",
+          "seasonYear": 2015,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Sports"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 28,
+          "id": 2001,
+          "idMal": 2001,
           "title": {
-            "romaji": "Yakitate!! Japan",
-            "english": null
+            "romaji": "Gurren Lagann",
+            "english": "Gurren Lagann",
+            "native": "Gurren Lagann"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx28-QuKcZpUjTXzV.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx28-QuKcZpUjTXzV.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx28-QuKcZpUjTXzV.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-XwRnjzGeFWRQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-XwRnjzGeFWRQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-XwRnjzGeFWRQ.png"
           },
-          "averageScore": 76,
-          "isAdult": false,
-          "episodes": 69,
-          "format": "TV",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-XwRnjzGeFWRQ.png",
+          "averageScore": 85,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "episodes": 27,
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 2007,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2007,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
         }
       }
     ]
   },
   "characters": {
-    "edges": [
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 16138,
-          "name": {
-            "userPreferred": "Murata Genjirou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16138.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95339,
-            "name": {
-              "userPreferred": "Kiyoshi Kobayashi"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95339-lEIGi2vIa2hN.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 16139,
-          "name": {
-            "userPreferred": "Youichi Ajiyoshi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16139-rvehWAyg014u.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95024,
-            "name": {
-              "userPreferred": "Minami Takayama"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95024-qsZgGp8VHqMP.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 16137,
-          "name": {
-            "userPreferred": "Marui Yoshio"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16137.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95726,
-            "name": {
-              "userPreferred": "Shouzou Iizuka"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95726-SddF7dYKZshB.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 16140,
-          "name": {
-            "userPreferred": "Tareme"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16140.jpg"
-          }
-        },
-        "voiceActors": []
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 16141,
-          "name": {
-            "userPreferred": "Mitsuko Yamaoka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16141.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 103793,
-            "name": {
-              "userPreferred": "Youko Kawanami"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103793-ABOn8cqigHMb.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 16142,
-          "name": {
-            "userPreferred": "Shigeru Yamaoka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/16142.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 96600,
-            "name": {
-              "userPreferred": "Miki Narahashi"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96600-v6elhY0JP2iR.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 33774,
-          "name": {
-            "userPreferred": "Heita Nakae"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95286,
-            "name": {
-              "userPreferred": "Nozomu Sasaki"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95286-1RlrFeFKx3jn.png"
-            }
-          }
-        ]
-      }
-    ]
+    "edges": []
   },
   "staff": {
-    "edges": [
-      {
-        "role": "Key Animation (eps 76, 94, 96, 98, 99)",
-        "node": {
-          "id": 97307,
-          "name": {
-            "userPreferred": "Keiji Gotou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97307-zziUpWjBxWFO.png"
-          }
-        }
-      },
-      {
-        "role": "Director",
-        "node": {
-          "id": 98710,
-          "name": {
-            "userPreferred": "Yasuhiro Imagawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98710-QGjFQgT46i54.jpg"
-          }
-        }
-      },
-      {
-        "role": "Key Animation (ep 99)",
-        "node": {
-          "id": 100066,
-          "name": {
-            "userPreferred": "Kouji Morimoto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100066-AXb2Jo7gLO0d.png"
-          }
-        }
-      },
-      {
-        "role": "Chief Episode Director (eps 51-99)",
-        "node": {
-          "id": 100651,
-          "name": {
-            "userPreferred": "Noriyuki Nakamura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100651-pkgyC7E4VrwB.png"
-          }
-        }
-      },
-      {
-        "role": "Key Animation (eps 43, 48, 53, 59, 64, 69, 74, 81, 86, 91, 99)",
-        "node": {
-          "id": 101185,
-          "name": {
-            "userPreferred": "Tadashi Hiramatsu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101185-CJLT9YKxSDZC.png"
-          }
-        }
-      },
-      {
-        "role": "Animation Director (eps 14, 17)",
-        "node": {
-          "id": 101189,
-          "name": {
-            "userPreferred": "Hiroshi Watanabe"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101189-75gcBWulqVnl.png"
-          }
-        }
-      },
-      {
-        "role": "Key Animation (eps 38, 43, 48, 53)",
-        "node": {
-          "id": 101524,
-          "name": {
-            "userPreferred": "Hisashi Hirai"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101524-FjEzNHVrRyhX.jpg"
-          }
-        }
-      },
-      {
-        "role": "Storyboard (eps 38, 44, 46, 49, 52, 55, 62, 67, 74, 75, 82, 84, 89, 93, 95, 98, 99)",
-        "node": {
-          "id": 102282,
-          "name": {
-            "userPreferred": "Kazuyoshi Katayama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102282-4ew8aRoj10tu.jpg"
-          }
-        }
-      },
-      {
-        "role": "Storyboard (ep 42)",
-        "node": {
-          "id": 102538,
-          "name": {
-            "userPreferred": "Toshifumi Kawase"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102538-X18k6whq5QpP.png"
-          }
-        }
-      },
-      {
-        "role": "Episode Director (eps 32, 37, 42, 48)",
-        "node": {
-          "id": 102538,
-          "name": {
-            "userPreferred": "Toshifumi Kawase"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102538-X18k6whq5QpP.png"
-          }
-        }
-      },
-      {
-        "role": "Original Creator",
-        "node": {
-          "id": 103233,
-          "name": {
-            "userPreferred": "Daisuke Terasawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8233.jpg"
-          }
-        }
-      },
-      {
-        "role": "Storyboard (eps 21, 27)",
-        "node": {
-          "id": 104826,
-          "name": {
-            "userPreferred": "Tetsurou Amino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104826-Bdux9THDLcw5.png"
-          }
-        }
-      },
-      {
-        "role": "Storyboard (eps 56, 60, 63, 72, 78, 85)",
-        "node": {
-          "id": 106268,
-          "name": {
-            "userPreferred": "Hitoshi Nanba"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106268-CeT41yVzfJFT.png"
-          }
-        }
-      },
-      {
-        "role": "Key Animation (ep 44)",
-        "node": {
-          "id": 106398,
-          "name": {
-            "userPreferred": "Yoshinori Kanada"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106398-xNTLM6NCgBZW.png"
-          }
-        }
-      },
-      {
-        "role": "Key Animation (eps 95, 97)",
-        "node": {
-          "id": 107352,
-          "name": {
-            "userPreferred": "Akitoshi Yokoyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107352-fFEr0bFLyyyu.png"
-          }
-        }
-      }
-    ]
+    "edges": []
   },
   "subCount": 99,
   "dubCount": 0,
-  "updatedAt": "2026-08-05T02:05:38.131Z"
+  "updatedAt": "2026-08-07T20:04:45.508Z"
 }
