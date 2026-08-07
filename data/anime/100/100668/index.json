@@ -12,7 +12,8 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100668-DvOn5bMOt4cy.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100668-DvOn5bMOt4cy.jpg"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100668-DvOn5bMOt4cy.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100668-DvOn5bMOt4cy.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100668-9ZQSB5x5St7c.jpg",
   "description": "When a classroom of students is transported to another world to act as its saviors, Hajime Nagumo finds himself the weakest link. As his friends and classmates are granted strong classes and impressive abilities due to their existing skills, he is given the weak title of Synergist. When a dungeon quest leaves him separated from his group, Hajime must discover his own talents or be left to rot in this world forever.\n<br><br>\n(Source: Seven Seas Entertainment)",
@@ -45,15 +46,15 @@
       {
         "isMain": true,
         "node": {
-          "id": 314,
+          "id": 1,
           "name": "WHITE FOX",
           "isAnimationStudio": true
         }
       },
       {
-        "isMain": true,
+        "isMain": false,
         "node": {
-          "id": 163,
+          "id": 2,
           "name": "Asread",
           "isAnimationStudio": true
         }
@@ -61,7 +62,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 7010,
+          "id": 3,
           "name": "OVERLAP",
           "isAnimationStudio": false
         }
@@ -69,7 +70,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 777,
+          "id": 4,
           "name": "Hakuhodo DY Music & Pictures",
           "isAnimationStudio": false
         }
@@ -77,7 +78,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 6612,
+          "id": 5,
           "name": "FuRyu",
           "isAnimationStudio": false
         }
@@ -85,7 +86,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 238,
+          "id": 6,
           "name": "AT-X",
           "isAnimationStudio": false
         }
@@ -93,7 +94,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 6758,
+          "id": 7,
           "name": "Sony Music Solutions",
           "isAnimationStudio": false
         }
@@ -101,7 +102,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 882,
+          "id": 8,
           "name": "Toranoana",
           "isAnimationStudio": false
         }
@@ -109,7 +110,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 6331,
+          "id": 9,
           "name": "Bandai Namco Arts",
           "isAnimationStudio": false
         }
@@ -117,7 +118,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 775,
+          "id": 10,
           "name": "Bushiroad",
           "isAnimationStudio": false
         }
@@ -127,40 +128,22 @@
   "nextAiringEpisode": null,
   "externalLinks": [
     {
-      "site": "Official Site",
-      "url": "https://arifureta.com/",
-      "type": "INFO",
-      "language": "Japanese"
-    },
-    {
-      "site": "Twitter",
-      "url": "https://twitter.com/ARIFURETA_info",
-      "type": "SOCIAL",
-      "language": "Japanese"
-    },
-    {
       "site": "Hulu",
       "url": "https://www.hulu.com/series/arifureta-from-commonplace-to-worlds-strongest-f3ebfa6a-c651-4e2b-b939-6c46dec8a66a",
       "type": "STREAMING",
-      "language": null
-    },
-    {
-      "site": "Twitter",
-      "url": "https://twitter.com/Arifureta_anime",
-      "type": "SOCIAL",
       "language": "English"
     },
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/arifureta-from-commonplace-to-worlds-strongest",
       "type": "STREAMING",
-      "language": null
+      "language": "English"
     },
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/34517",
       "type": "STREAMING",
-      "language": null
+      "language": "English"
     }
   ],
   "tags": [
@@ -174,16 +157,10 @@
       "name": "Magic"
     },
     {
-      "name": "Alternate Universe"
-    },
-    {
       "name": "Dungeon"
     },
     {
       "name": "Anti-Hero"
-    },
-    {
-      "name": "Nudity"
     },
     {
       "name": "CGI"
@@ -198,10 +175,10 @@
       "name": "Female Harem"
     },
     {
-      "name": "Conspiracy"
+      "name": "Primarily Female Cast"
     },
     {
-      "name": "Primarily Female Cast"
+      "name": "Nudity"
     },
     {
       "name": "Vampire"
@@ -226,187 +203,641 @@
     },
     {
       "name": "Anachronism"
-    },
-    {
-      "name": "Tragedy"
-    },
-    {
-      "name": "Software Development"
-    },
-    {
-      "name": "Dragons"
-    },
-    {
-      "name": "Drugs"
-    },
-    {
-      "name": "Kuudere"
-    },
-    {
-      "name": "Cannibalism"
-    },
-    {
-      "name": "Death Game"
-    },
-    {
-      "name": "Battle Royale"
-    },
-    {
-      "name": "Primarily Teen Cast"
-    },
-    {
-      "name": "Tsundere"
-    },
-    {
-      "name": "Swordplay"
-    },
-    {
-      "name": "Pirates"
-    },
-    {
-      "name": "Gore"
-    },
-    {
-      "name": "Cohabitation"
     }
   ],
-  "trailer": {
-    "id": "xoIaPNWLxy0",
-    "site": "youtube",
-    "thumbnail": "https://i.ytimg.com/vi/xoIaPNWLxy0/hqdefault.jpg"
-  },
+  "trailer": null,
   "relations": {
     "edges": [
       {
-        "relationType": "ADAPTATION",
-        "node": {
-          "id": 86274,
-          "title": {
-            "romaji": "Arifureta Shokugyou de Sekai Saikyou",
-            "english": "Arifureta: From Commonplace to World's Strongest"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86274-nAItDrzi9fne.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86274-nAItDrzi9fne.jpg"
-          },
-          "averageScore": 74,
-          "isAdult": false,
-          "episodes": null,
-          "format": "NOVEL",
-          "status": "RELEASING",
-          "season": null,
-          "seasonYear": null,
-          "duration": null
-        }
-      },
-      {
-        "relationType": "ALTERNATIVE",
-        "node": {
-          "id": 96834,
-          "title": {
-            "romaji": "Arifureta Shokugyou de Sekai Saikyou",
-            "english": "Arifureta: From Commonplace to World’s Strongest"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96834-N5hCllCng8pg.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96834-N5hCllCng8pg.jpg"
-          },
-          "averageScore": 68,
-          "isAdult": false,
-          "episodes": null,
-          "format": "MANGA",
-          "status": "RELEASING",
-          "season": null,
-          "seasonYear": null,
-          "duration": null
-        }
-      },
-      {
-        "relationType": "SIDE_STORY",
-        "node": {
-          "id": 111729,
-          "title": {
-            "romaji": "Arifureta Shokugyou de Sekai Saikyou Specials",
-            "english": "Arifureta: From Commonplace to World's Strongest Specials"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111729-NEhPwaytwM0O.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111729-NEhPwaytwM0O.jpg"
-          },
-          "averageScore": 65,
-          "isAdult": false,
-          "episodes": 2,
-          "format": "SPECIAL",
-          "status": "FINISHED",
-          "season": "FALL",
-          "seasonYear": 2019,
-          "duration": 9
-        }
-      },
-      {
-        "relationType": "SEQUEL",
+        "relationType": "SEASON",
         "node": {
           "id": 112323,
+          "idMal": 112323,
           "title": {
-            "romaji": "Arifureta Shokugyou de Sekai Saikyou 2nd season",
-            "english": "Arifureta: From Commonplace to World's Strongest Season 2"
+            "romaji": "Arifureta: From Commonplace to World's Strongest Season 2",
+            "english": "Arifureta: From Commonplace to World's Strongest Season 2",
+            "native": "Arifureta: From Commonplace to World's Strongest Season 2"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112323-C6nlP84x8jH8.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112323-C6nlP84x8jH8.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112323-C6nlP84x8jH8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112323-C6nlP84x8jH8.png"
           },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112323-C6nlP84x8jH8.png",
           "averageScore": 70,
-          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Psychological"
+          ],
           "episodes": 12,
-          "format": "TV",
           "status": "FINISHED",
-          "season": "WINTER",
+          "season": "SPRING",
           "seasonYear": 2022,
-          "duration": 24
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2022,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Psychological"
+            }
+          ]
         }
       },
       {
-        "relationType": "PREQUEL",
+        "relationType": "SEASON",
         "node": {
-          "id": 145560,
+          "id": 111729,
+          "idMal": 111729,
           "title": {
-            "romaji": "Arifureta Shokugyou de Sekai Saikyou Prologue",
-            "english": null
+            "romaji": "Arifureta: From Commonplace to World's Strongest Specials",
+            "english": "Arifureta: From Commonplace to World's Strongest Specials",
+            "native": "Arifureta: From Commonplace to World's Strongest Specials"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145560-dTD1Rrxpjunb.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145560-dTD1Rrxpjunb.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111729-NEhPwaytwM0O.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111729-NEhPwaytwM0O.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111729-NEhPwaytwM0O.jpg"
           },
-          "averageScore": 66,
-          "isAdult": false,
-          "episodes": 1,
-          "format": "ONA",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111729-NEhPwaytwM0O.jpg",
+          "averageScore": 65,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "episodes": 2,
           "status": "FINISHED",
-          "season": "WINTER",
-          "seasonYear": 2020,
-          "duration": 7
-        }
-      },
-      {
-        "relationType": "SIDE_STORY",
-        "node": {
-          "id": 213514,
-          "title": {
-            "romaji": "Arifureta Shokugyou de Sekai Saikyou Picture Drama",
-            "english": null
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213514-JHeb3mKBphuv.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213514-JHeb3mKBphuv.jpg"
-          },
-          "averageScore": 52,
-          "isAdult": false,
-          "episodes": 13,
-          "format": "ONA",
-          "status": "FINISHED",
-          "season": "SUMMER",
+          "season": "SPRING",
           "seasonYear": 2019,
-          "duration": 1
+          "duration": 24,
+          "isAdult": false,
+          "format": "SPECIAL",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 169935,
+          "idMal": 169935,
+          "title": {
+            "romaji": "The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-",
+            "english": "The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-",
+            "native": "The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169935-w808lLrdFXcl.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169935-w808lLrdFXcl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169935-w808lLrdFXcl.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169935-w808lLrdFXcl.jpg",
+          "averageScore": 59,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2024,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 174043,
+          "idMal": 174043,
+          "title": {
+            "romaji": "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest",
+            "english": "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest",
+            "native": "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-Hh9mvGibvoVb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-Hh9mvGibvoVb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-Hh9mvGibvoVb.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-Hh9mvGibvoVb.jpg",
+          "averageScore": 57,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2024,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 186541,
+          "idMal": 186541,
+          "title": {
+            "romaji": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+            "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+            "native": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-IEzaavXvkJAc.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-IEzaavXvkJAc.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-IEzaavXvkJAc.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-IEzaavXvkJAc.png",
+          "averageScore": 0,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "episodes": 1,
+          "status": "NOT_YET_RELEASED",
+          "season": "SPRING",
+          "seasonYear": 2026,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2026,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 194829,
+          "idMal": 194829,
+          "title": {
+            "romaji": "From Old Country Bumpkin to Master Swordsman Season 2",
+            "english": "From Old Country Bumpkin to Master Swordsman Season 2",
+            "native": "From Old Country Bumpkin to Master Swordsman Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-aBGjk68756e4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-aBGjk68756e4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-aBGjk68756e4.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-aBGjk68756e4.jpg",
+          "averageScore": 0,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "episodes": 1,
+          "status": "NOT_YET_RELEASED",
+          "season": "SPRING",
+          "seasonYear": 2026,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2026,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 200769,
+          "idMal": 200769,
+          "title": {
+            "romaji": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+            "english": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+            "native": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
+          "averageScore": 59,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "episodes": 12,
+          "status": "RELEASING",
+          "season": "SPRING",
+          "seasonYear": 2026,
+          "duration": 24,
+          "isAdult": false,
+          "format": "ONA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2026,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 170650,
+          "idMal": 170650,
+          "title": {
+            "romaji": "I Want to Escape from Princess Lessons",
+            "english": "I Want to Escape from Princess Lessons",
+            "native": "I Want to Escape from Princess Lessons"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170650-iVQC67atMVj3.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170650-iVQC67atMVj3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170650-iVQC67atMVj3.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170650-iVQC67atMVj3.png",
+          "averageScore": 54,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2025,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Romance"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 172453,
+          "idMal": 172453,
+          "title": {
+            "romaji": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+            "english": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+            "native": "From Bureaucrat to Villainess: Dad's Been Reincarnated!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172453-7iYNTAEZpNsJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172453-7iYNTAEZpNsJ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172453-7iYNTAEZpNsJ.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172453-7iYNTAEZpNsJ.png",
+          "averageScore": 73,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2025,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 176496,
+          "idMal": 176496,
+          "title": {
+            "romaji": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+            "native": "Solo Leveling Season 2 -Arise from the Shadow-"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png",
+          "averageScore": 85,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "episodes": 13,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2025,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 178548,
+          "idMal": 178548,
+          "title": {
+            "romaji": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
+            "english": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
+            "native": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+          "averageScore": 63,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2025,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Romance"
+            }
+          ]
+        }
+      },
+      {
+        "relationType": "SEASON",
+        "node": {
+          "id": 179541,
+          "idMal": 179541,
+          "title": {
+            "romaji": "SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
+            "english": "SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
+            "native": "SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179541-lZwENMAHZS9Y.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179541-lZwENMAHZS9Y.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179541-lZwENMAHZS9Y.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179541-lZwENMAHZS9Y.jpg",
+          "averageScore": 64,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2025,
+          "duration": 24,
+          "isAdult": false,
+          "format": "ONA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2025,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Slice of Life"
+            }
+          ]
         }
       }
     ]
@@ -415,895 +846,757 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 20832,
+          "id": 21355,
+          "idMal": 21355,
           "title": {
-            "romaji": "Overlord",
-            "english": "Overlord"
+            "romaji": "Re:ZERO -Starting Life in Another World-",
+            "english": "Re:ZERO -Starting Life in Another World-",
+            "native": "Re:ZERO -Starting Life in Another World-"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20832-vUNm5zrYWifc.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20832-vUNm5zrYWifc.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20832-vUNm5zrYWifc.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg"
           },
-          "averageScore": 77,
-          "isAdult": false,
-          "episodes": 13,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 101280,
-          "title": {
-            "romaji": "Tensei Shitara Slime Datta Ken",
-            "english": "That Time I Got Reincarnated as a Slime"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101280-tDxCVJm714nt.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101280-tDxCVJm714nt.jpg"
-          },
-          "averageScore": 80,
-          "isAdult": false,
-          "episodes": 24,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 98437,
-          "title": {
-            "romaji": "Overlord II",
-            "english": "Overlord II"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98437-5q0GWqHhNAgJ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98437-5q0GWqHhNAgJ.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98437-5q0GWqHhNAgJ.jpg"
-          },
-          "averageScore": 76,
-          "isAdult": false,
-          "episodes": 13,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 99263,
-          "title": {
-            "romaji": "Tate no Yuusha no Nariagari",
-            "english": "The Rising of the Shield Hero"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99263-LcazQwdlWzMy.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99263-LcazQwdlWzMy.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx99263-LcazQwdlWzMy.jpg"
-          },
-          "averageScore": 76,
-          "isAdult": false,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+          "averageScore": 81,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Romance",
+            "Thriller"
+          ],
           "episodes": 25,
-          "format": "TV",
           "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 101547,
-          "title": {
-            "romaji": "Isekai Cheat Magician",
-            "english": "Isekai Cheat Magician"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101547-Y0uARlMRaARP.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101547-Y0uARlMRaARP.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101547-Y0uARlMRaARP.jpg"
-          },
-          "averageScore": 52,
+          "season": "SPRING",
+          "seasonYear": 2016,
+          "duration": 24,
           "isAdult": false,
-          "episodes": 12,
           "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 21445,
+          "id": 20613,
+          "idMal": 20613,
           "title": {
-            "romaji": "Big Order",
-            "english": "Big Order"
+            "romaji": "Akame ga Kill!",
+            "english": "Akame ga Kill!",
+            "native": "Akame ga Kill!"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21445-zXBAdDpNylRR.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21445-zXBAdDpNylRR.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21445-zXBAdDpNylRR.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-HXHpec4bemk5.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-HXHpec4bemk5.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-HXHpec4bemk5.jpg"
           },
-          "averageScore": 48,
-          "isAdult": false,
-          "episodes": 10,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 104252,
-          "title": {
-            "romaji": "Maou-sama, Retry!",
-            "english": "Demon Lord, Retry!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104252-DTFPQy0uae3o.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104252-DTFPQy0uae3o.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx104252-DTFPQy0uae3o.png"
-          },
-          "averageScore": 62,
-          "isAdult": false,
-          "episodes": 12,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20920,
-          "title": {
-            "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
-            "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20920-MTREwZOG4BAD.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20920-MTREwZOG4BAD.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20920-MTREwZOG4BAD.jpg"
-          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-HXHpec4bemk5.jpg",
           "averageScore": 73,
-          "isAdult": false,
-          "episodes": 13,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 100182,
-          "title": {
-            "romaji": "Sword Art Online: Alicization",
-            "english": "Sword Art Online: Alicization"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100182-KctPmCJ2smHQ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100182-KctPmCJ2smHQ.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx100182-KctPmCJ2smHQ.jpg"
-          },
-          "averageScore": 75,
-          "isAdult": false,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Psychological",
+            "Thriller"
+          ],
           "episodes": 24,
-          "format": "TV",
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 2014,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2014,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Horror"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 98491,
+          "id": 108632,
+          "idMal": 108632,
           "title": {
-            "romaji": "Isekai wa Smartphone to Tomo ni.",
-            "english": "In Another World With My Smartphone"
+            "romaji": "Re:ZERO -Starting Life in Another World- Season 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2",
+            "native": "Re:ZERO -Starting Life in Another World- Season 2"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98491-5vyX89aabiHz.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98491-5vyX89aabiHz.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98491-5vyX89aabiHz.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg"
           },
-          "averageScore": 57,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg",
+          "averageScore": 83,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Thriller"
+          ],
+          "episodes": 13,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2020,
+          "duration": 24,
           "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 108725,
+          "idMal": 108725,
+          "title": {
+            "romaji": "The Promised Neverland Season 2",
+            "english": "The Promised Neverland Season 2",
+            "native": "The Promised Neverland Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108725-ZKivuyr4Jtc9.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108725-ZKivuyr4Jtc9.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108725-ZKivuyr4Jtc9.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108725-ZKivuyr4Jtc9.jpg",
+          "averageScore": 52,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Psychological",
+            "Thriller"
+          ],
+          "episodes": 11,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2021,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Horror"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 119661,
+          "idMal": 119661,
+          "title": {
+            "romaji": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+            "native": "Re:ZERO -Starting Life in Another World- Season 2 Part 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119661-GDbUZxrZMz01.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119661-GDbUZxrZMz01.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119661-GDbUZxrZMz01.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119661-GDbUZxrZMz01.png",
+          "averageScore": 84,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Romance",
+            "Thriller"
+          ],
           "episodes": 12,
-          "format": "TV",
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 2021,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 106319,
+          "id": 163134,
+          "idMal": 163134,
           "title": {
-            "romaji": "Hachi-nan tte, Sore wa Nai deshou!",
-            "english": "The 8th Son? Are You Kidding Me?"
+            "romaji": "Re:ZERO -Starting Life in Another World- Season 3",
+            "english": "Re:ZERO -Starting Life in Another World- Season 3",
+            "native": "Re:ZERO -Starting Life in Another World- Season 3"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106319-LDDmqyV2rs4D.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106319-LDDmqyV2rs4D.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx106319-LDDmqyV2rs4D.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-yieRFbvUOH9a.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-yieRFbvUOH9a.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-yieRFbvUOH9a.jpg"
           },
-          "averageScore": 61,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-yieRFbvUOH9a.jpg",
+          "averageScore": 84,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Romance",
+            "Thriller"
+          ],
+          "episodes": 16,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2024,
+          "duration": 24,
           "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 100643,
+          "idMal": 100643,
+          "title": {
+            "romaji": "Made in Abyss: Dawn of the Deep Soul",
+            "english": "Made in Abyss: Dawn of the Deep Soul",
+            "native": "Made in Abyss: Dawn of the Deep Soul"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
+          "averageScore": 85,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi"
+          ],
+          "episodes": 1,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2020,
+          "duration": 24,
+          "isAdult": false,
+          "format": "MOVIE",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Horror"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 112323,
+          "idMal": 112323,
+          "title": {
+            "romaji": "Arifureta: From Commonplace to World's Strongest Season 2",
+            "english": "Arifureta: From Commonplace to World's Strongest Season 2",
+            "native": "Arifureta: From Commonplace to World's Strongest Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112323-C6nlP84x8jH8.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112323-C6nlP84x8jH8.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112323-C6nlP84x8jH8.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112323-C6nlP84x8jH8.png",
+          "averageScore": 70,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Psychological"
+          ],
           "episodes": 12,
-          "format": "TV",
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 2022,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2022,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Psychological"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 17265,
+          "id": 132473,
+          "idMal": 132473,
           "title": {
-            "romaji": "Log Horizon",
-            "english": "Log Horizon"
+            "romaji": "The Faraway Paladin",
+            "english": "The Faraway Paladin",
+            "native": "The Faraway Paladin"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17265-RyErURYesjJt.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17265-RyErURYesjJt.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx17265-RyErURYesjJt.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132473-L64hP24nJyEV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132473-L64hP24nJyEV.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132473-L64hP24nJyEV.jpg"
           },
-          "averageScore": 76,
-          "isAdult": false,
-          "episodes": 25,
-          "format": "TV",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132473-L64hP24nJyEV.jpg",
+          "averageScore": 68,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Mystery",
+            "Psychological"
+          ],
+          "episodes": 12,
           "status": "FINISHED",
-          "duration": 25
+          "season": "SPRING",
+          "seasonYear": 2021,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Psychological"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21714,
+          "idMal": 21714,
+          "title": {
+            "romaji": "FLIP FLAPPERS",
+            "english": "FLIP FLAPPERS",
+            "native": "FLIP FLAPPERS"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21714-wfvIxPvc2wo4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21714-wfvIxPvc2wo4.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21714-wfvIxPvc2wo4.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21714-wfvIxPvc2wo4.jpg",
+          "averageScore": 75,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Mahou Shoujo",
+            "Psychological",
+            "Sci-Fi"
+          ],
+          "episodes": 13,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2016,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mahou Shoujo"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Sci-Fi"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 177104,
+          "idMal": 177104,
+          "title": {
+            "romaji": "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
+            "english": "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
+            "native": "The Most Notorious \"Talker\" Runs the World's Greatest Clan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg",
+          "averageScore": 74,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Psychological"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2024,
+          "duration": 24,
+          "isAdult": false,
+          "format": "ONA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Comedy"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Psychological"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 143085,
+          "idMal": 143085,
+          "title": {
+            "romaji": "The Faraway Paladin: The Lord of Rust Mountains",
+            "english": "The Faraway Paladin: The Lord of Rust Mountains",
+            "native": "The Faraway Paladin: The Lord of Rust Mountains"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143085-caK1SekQLfss.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143085-caK1SekQLfss.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143085-caK1SekQLfss.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143085-caK1SekQLfss.jpg",
+          "averageScore": 73,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Mystery",
+            "Psychological"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2023,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2023,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Psychological"
+            }
+          ]
         }
       }
     ]
   },
   "characters": {
-    "edges": [
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 132847,
-          "name": {
-            "userPreferred": "Yue"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b132847-rxYUEsbcLxTm.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 118399,
-            "name": {
-              "userPreferred": "Yuuki Kuwahara"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118399-qM9moluPEbV2.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 132848,
-          "name": {
-            "userPreferred": "Hajime Nagumo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b132848-HsUfgM0nr2Dz.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 120290,
-            "name": {
-              "userPreferred": "Toshinari Fukamachi"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120290-3BgvVA3SK518.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 132850,
-          "name": {
-            "userPreferred": "Shia Haulia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b132850-MQx1CPfMYGPC.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 117003,
-            "name": {
-              "userPreferred": "Minami Takahashi"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117003-UucaZmQjVSV7.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 132852,
-          "name": {
-            "userPreferred": "Tio Klarus"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b132852-BDazhNHpH8ZA.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 102263,
-            "name": {
-              "userPreferred": "Youko Hikasa"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 132849,
-          "name": {
-            "userPreferred": "Kaori Shirasaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b132849-DWYOwdlxsEqV.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 114884,
-            "name": {
-              "userPreferred": "Saori Oonishi"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 132851,
-          "name": {
-            "userPreferred": "Myuu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n132851-xadySjME94DK.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 105981,
-            "name": {
-              "userPreferred": "Yui Ogura"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105981-CDMPx1Q79Aum.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 141266,
-          "name": {
-            "userPreferred": "Shizuku Yaegashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141266-XbfZ50w8R7fN.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 116543,
-            "name": {
-              "userPreferred": "Yumiri Hanamori"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116543-ugu1HZWiQkqi.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 142270,
-          "name": {
-            "userPreferred": "Aiko Hatayama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b142270-OGNqDfkk46tu.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 113511,
-            "name": {
-              "userPreferred": "Ai Kakuma"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113511-F58Tk4OFKs1w.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 144707,
-          "name": {
-            "userPreferred": "Nia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144707-jk4JtNGHgDfu.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 126865,
-            "name": {
-              "userPreferred": "Yuka Nukui"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n126865-dEIO6FLXLcFH.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 148618,
-          "name": {
-            "userPreferred": "Taeko Sugawara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148618-X70ynqKJIIzu.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 148029,
-            "name": {
-              "userPreferred": "Mayu Mineda"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n148029-Vr472ky5v2W2.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 148619,
-          "name": {
-            "userPreferred": "Cam Haulia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148619-NbZUL6Nlhc9X.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 104816,
-            "name": {
-              "userPreferred": "Nobuaki Kanemitsu"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104816-0kU8ww2ogISO.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 218390,
-          "name": {
-            "userPreferred": "Kouki Amanogawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b218390-h7cZHgGzcMVn.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95167,
-            "name": {
-              "userPreferred": "Tetsuya Kakihara"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95167-wjIShzThRTlS.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 266647,
-          "name": {
-            "userPreferred": "Kousuke Endou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b266647-MkSKaSe2sOir.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 119319,
-            "name": {
-              "userPreferred": "Junya Enoki"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 280433,
-          "name": {
-            "userPreferred": "Meld Loggins"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280433-j6KYptApLa2f.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 104677,
-            "name": {
-              "userPreferred": "Yasuhiro Mamiya"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104677-Jbb7yeij2Vkg.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 280434,
-          "name": {
-            "userPreferred": "Cattleya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280434-jCpDYA9kj5yr.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95184,
-            "name": {
-              "userPreferred": "Hitomi Nabatame"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95184-OpXCWNXhJJpg.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 280435,
-          "name": {
-            "userPreferred": "Oscar Orcus"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280435-IMh4RCY3fvBZ.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95494,
-            "name": {
-              "userPreferred": "Takuma Terashima"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95494-HetCpJKbDy1B.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 280438,
-          "name": {
-            "userPreferred": "Nana Miyazaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280438-8s9lSzDCe220.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 137054,
-            "name": {
-              "userPreferred": "Risa Tsumugi"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n137054-s95k2fao6PyR.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 280445,
-          "name": {
-            "userPreferred": "Ishtar Langbard"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280445-T4Dn1N9dUvYD.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 96472,
-            "name": {
-              "userPreferred": "Shouto Kashii"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1472.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 280446,
-          "name": {
-            "userPreferred": "Eliheid S. B. Heiligh"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280446-T0t4Q5UXs1OX.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 100599,
-            "name": {
-              "userPreferred": "Masafumi Kimura"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100599-Lk00M8kbWDe8.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 280448,
-          "name": {
-            "userPreferred": "Yuuka Sonobe"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280448-Mig2p6xxjtI4.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 119518,
-            "name": {
-              "userPreferred": "Miyu Tomita"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119518-vZN7TPy12iuu.png"
-            }
-          }
-        ]
-      }
-    ]
+    "edges": []
   },
   "staff": {
-    "edges": [
-      {
-        "role": "ADR Director (English)",
-        "node": {
-          "id": 95202,
-          "name": {
-            "userPreferred": "Mike McFarland"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/202.jpg"
-          }
-        }
-      },
-      {
-        "role": "ADR Producer (English)",
-        "node": {
-          "id": 95203,
-          "name": {
-            "userPreferred": "Justin Ryan Cook"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95203-S3aCVxUoYwJl.jpg"
-          }
-        }
-      },
-      {
-        "role": "Director",
-        "node": {
-          "id": 97067,
-          "name": {
-            "userPreferred": "Kinji Yoshimoto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Script (eps 1-13)",
-        "node": {
-          "id": 97067,
-          "name": {
-            "userPreferred": "Kinji Yoshimoto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Episode Director (ep 6)",
-        "node": {
-          "id": 97067,
-          "name": {
-            "userPreferred": "Kinji Yoshimoto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Series Composition",
-        "node": {
-          "id": 97067,
-          "name": {
-            "userPreferred": "Kinji Yoshimoto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Storyboard (ep 1)",
-        "node": {
-          "id": 97067,
-          "name": {
-            "userPreferred": "Kinji Yoshimoto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Sound Director",
-        "node": {
-          "id": 103155,
-          "name": {
-            "userPreferred": "Yasushi Nagura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103155-Pnk3OzfEL9rZ.png"
-          }
-        }
-      },
-      {
-        "role": "Prop Design",
-        "node": {
-          "id": 105142,
-          "name": {
-            "userPreferred": "Masaki Tanaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Illustrator",
-        "node": {
-          "id": 105907,
-          "name": {
-            "userPreferred": "TakayaKi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105907-qpnuJoln7wtQ.png"
-          }
-        }
-      },
-      {
-        "role": "Original Character Design",
-        "node": {
-          "id": 105907,
-          "name": {
-            "userPreferred": "TakayaKi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105907-qpnuJoln7wtQ.png"
-          }
-        }
-      },
-      {
-        "role": "Episode Director (ep 13)",
-        "node": {
-          "id": 106061,
-          "name": {
-            "userPreferred": "Satomi Nakamura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "ADR Script (English)",
-        "node": {
-          "id": 106630,
-          "name": {
-            "userPreferred": "Tyler Walker"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106630-2fGxgxHVMNgk.png"
-          }
-        }
-      },
-      {
-        "role": "Storyboard (ep 11)",
-        "node": {
-          "id": 111707,
-          "name": {
-            "userPreferred": "Atsushi Ootsuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Storyboard (ep 12)",
-        "node": {
-          "id": 118607,
-          "name": {
-            "userPreferred": "Masafumi Tamura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118607-65H4Be89Shta.jpg"
-          }
-        }
-      }
-    ]
+    "edges": []
   },
   "subCount": 13,
   "dubCount": 0,
-  "updatedAt": "2026-08-06T02:45:58.244Z"
+  "updatedAt": "2026-08-07T03:45:29.271Z"
 }
