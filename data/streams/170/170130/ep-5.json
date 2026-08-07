@@ -1,11 +1,10 @@
 {
   "animeId": 170130,
   "episode": 5,
-  "updatedAt": "2026-08-02T10:29:58.144Z",
-  "server": "megaplay",
+  "updatedAt": "2026-08-07T05:48:46.536Z",
+  "server": "cage",
   "lang": "dub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/56923/5/dub",
-  "downloadUrl": "https://anikoto.cz/watch/chillin-in-another-world-with-level-2-super-cheat-powers-spqpn/ep-5",
+  "streamUrl": "https://vidnest.fun/animepahe/170130/5/dub?color=39FF14",
   "availableServers": [
     {
       "key": "megaplay",
@@ -25,14 +24,75 @@
     }
   ],
   "serversData": {
-    "sub": [],
-    "dub": []
+    "sub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/56923/5/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/170130/5/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/170130/5",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/170130/5/dub?color=39FF14",
+        "server": "nest"
+      }
+    ],
+    "dub": [
+      {
+        "name": "Mega",
+        "url": "https://megaplay.buzz/stream/mal/56923/5/dub",
+        "server": "megaplay"
+      },
+      {
+        "name": "Cage",
+        "url": "https://vidnest.fun/animepahe/170130/5/dub?color=39FF14",
+        "server": "cage"
+      },
+      {
+        "name": "Peach",
+        "url": "https://peachify.top/embed/anime/170130/5",
+        "server": "peachify"
+      },
+      {
+        "name": "Nest",
+        "url": "https://vidnest.fun/anime/170130/5/dub?color=39FF14",
+        "server": "nest"
+      }
+    ]
   },
   "sources": [
     {
+      "name": "Mega",
       "url": "https://megaplay.buzz/stream/mal/56923/5/dub",
-      "server": "megaplay",
-      "lang": "dub"
+      "quality": "auto",
+      "server": "megaplay"
+    },
+    {
+      "name": "Cage",
+      "url": "https://vidnest.fun/animepahe/170130/5/dub?color=39FF14",
+      "quality": "auto",
+      "server": "cage"
+    },
+    {
+      "name": "Peach",
+      "url": "https://peachify.top/embed/anime/170130/5",
+      "quality": "auto",
+      "server": "peachify"
+    },
+    {
+      "name": "Nest",
+      "url": "https://vidnest.fun/anime/170130/5/dub?color=39FF14",
+      "quality": "auto",
+      "server": "nest"
     }
   ]
 }
