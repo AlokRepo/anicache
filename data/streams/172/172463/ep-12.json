@@ -1,11 +1,11 @@
 {
   "animeId": 172463,
   "episode": 12,
-  "updatedAt": "2026-08-02T11:32:25.465Z",
-  "server": "cage",
-  "lang": "dub",
-  "streamUrl": "https://vidnest.fun/animepahe/172463/12/dub?color=39FF14",
-  "downloadUrl": "https://anikoto.cz/watch/jujutsu-kaisen-the-culling-game-part-1-wy8l2/ep-12",
+  "updatedAt": "2026-08-07T04:28:11.973Z",
+  "server": "megaplay",
+  "lang": "sub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/57658/12/sub",
+  "downloadUrl": "https://pahe.nekostream.site/WsmMR",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,18 +22,38 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
     "sub": [
       {
         "name": "Mega",
-        "url": "https://megaplay.buzz/stream/mal/57658/12/dub",
+        "url": "https://megaplay.buzz/stream/mal/57658/12/sub",
         "server": "megaplay"
       },
       {
         "name": "Cage",
-        "url": "https://vidnest.fun/animepahe/172463/12/dub?color=39FF14",
+        "url": "https://vidnest.fun/animepahe/172463/12/sub?color=39FF14",
         "server": "cage"
       },
       {
@@ -43,8 +63,62 @@
       },
       {
         "name": "Nest",
-        "url": "https://vidnest.fun/anime/172463/12/dub?color=39FF14",
+        "url": "https://vidnest.fun/anime/172463/12/sub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/WsmMR",
+          "720p": "https://pahe.nekostream.site/JSfwf",
+          "1080p": "https://pahe.nekostream.site/BBHWe"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/168919/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            600,
+            797
+          ],
+          "outro": [
+            1619,
+            1710
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/168919/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            600,
+            797
+          ],
+          "outro": [
+            1619,
+            1710
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/b3IvcllsUGx1bkljaEhwUUR5aE1UczFud2FYcjMyazI4SXlveEhJUExwV0ZKelYzU05oelovdTVsa0xwRkg3Vw/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            600,
+            797
+          ],
+          "outro": [
+            1619,
+            1710
+          ]
+        }
       }
     ],
     "dub": [
@@ -67,19 +141,73 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/172463/12/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/WcHZD",
+          "720p": "https://pahe.nekostream.site/zUUdJ",
+          "1080p": "https://pahe.nekostream.site/RxmWS"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/168919/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            600,
+            797
+          ],
+          "outro": [
+            1619,
+            1710
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/168919/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            600,
+            797
+          ],
+          "outro": [
+            1619,
+            1710
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/b3IvcllsUGx1bkljaEhwUUR5aE1UczFud2FYcjMyazI4SXlveEhJUExwV0ZKelYzU05oelovdTVsa0xwRkg3Vw/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            600,
+            797
+          ],
+          "outro": [
+            1619,
+            1710
+          ]
+        }
       }
     ]
   },
   "sources": [
     {
       "name": "Mega",
-      "url": "https://megaplay.buzz/stream/mal/57658/12/dub",
+      "url": "https://megaplay.buzz/stream/mal/57658/12/sub",
       "quality": "auto",
       "server": "megaplay"
     },
     {
       "name": "Cage",
-      "url": "https://vidnest.fun/animepahe/172463/12/dub?color=39FF14",
+      "url": "https://vidnest.fun/animepahe/172463/12/sub?color=39FF14",
       "quality": "auto",
       "server": "cage"
     },
@@ -91,7 +219,7 @@
     },
     {
       "name": "Nest",
-      "url": "https://vidnest.fun/anime/172463/12/dub?color=39FF14",
+      "url": "https://vidnest.fun/anime/172463/12/sub?color=39FF14",
       "quality": "auto",
       "server": "nest"
     }
