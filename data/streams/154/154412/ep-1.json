@@ -1,10 +1,10 @@
 {
   "animeId": 154412,
   "episode": 1,
-  "updatedAt": "2026-08-05T12:41:08.910Z",
-  "server": "megaplay",
-  "lang": "dub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/52973/1/dub",
+  "updatedAt": "2026-08-07T15:05:33.697Z",
+  "server": "peachify",
+  "lang": "sub",
+  "streamUrl": "https://megaplay.buzz/stream/mal/52973/1/sub",
   "downloadUrl": "https://pahe.nekostream.site/RvlbT",
   "availableServers": [
     {
@@ -37,23 +37,18 @@
       "key": "anikoto-vidstream-2",
       "label": "Vidstream-2",
       "rawName": "Vidstream-2"
-    },
-    {
-      "key": "anikoto-vidplay-1",
-      "label": "VidPlay-1",
-      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
     "sub": [
       {
         "name": "Mega",
-        "url": "https://megaplay.buzz/stream/mal/52973/1/dub",
+        "url": "https://megaplay.buzz/stream/mal/52973/1/sub",
         "server": "megaplay"
       },
       {
         "name": "Cage",
-        "url": "https://vidnest.fun/animepahe/154412/1/dub?color=39FF14",
+        "url": "https://vidnest.fun/animepahe/154412/1/sub?color=39FF14",
         "server": "cage"
       },
       {
@@ -63,7 +58,7 @@
       },
       {
         "name": "Nest",
-        "url": "https://vidnest.fun/anime/154412/1/dub?color=39FF14",
+        "url": "https://vidnest.fun/anime/154412/1/sub?color=39FF14",
         "server": "nest"
       },
       {
@@ -104,21 +99,6 @@
             0
           ]
         }
-      },
-      {
-        "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/anNnN1BmYlpBd2xEWjlzczNPeFhuRkJvVnhlQ1dnU0s3R2l3NWxxSlVZTHFVbk8rMnVjZHQ3TEN3ZzdPdTBSZA/hsub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            142,
-            231
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
       }
     ],
     "dub": [
@@ -147,13 +127,13 @@
   "sources": [
     {
       "name": "Mega",
-      "url": "https://megaplay.buzz/stream/mal/52973/1/dub",
+      "url": "https://megaplay.buzz/stream/mal/52973/1/sub",
       "quality": "auto",
       "server": "megaplay"
     },
     {
       "name": "Cage",
-      "url": "https://vidnest.fun/animepahe/154412/1/dub?color=39FF14",
+      "url": "https://vidnest.fun/animepahe/154412/1/sub?color=39FF14",
       "quality": "auto",
       "server": "cage"
     },
@@ -165,7 +145,7 @@
     },
     {
       "name": "Nest",
-      "url": "https://vidnest.fun/anime/154412/1/dub?color=39FF14",
+      "url": "https://vidnest.fun/anime/154412/1/sub?color=39FF14",
       "quality": "auto",
       "server": "nest"
     }
