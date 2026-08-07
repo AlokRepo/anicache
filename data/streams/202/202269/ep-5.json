@@ -1,10 +1,11 @@
 {
   "animeId": 202269,
   "episode": 5,
-  "updatedAt": "2026-08-03T18:55:39.260Z",
+  "updatedAt": "2026-08-07T13:31:08.422Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/62936/5/sub",
+  "downloadUrl": "https://pahe.nekostream.site/nIINV",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,21 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
     }
   ],
   "serversData": {
@@ -44,6 +60,43 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/202269/5/sub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/nIINV"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/800510/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            35,
+            126
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/800510/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            35,
+            126
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ],
     "dub": [
