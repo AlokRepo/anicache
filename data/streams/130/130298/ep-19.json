@@ -1,10 +1,11 @@
 {
   "animeId": 130298,
   "episode": 19,
-  "updatedAt": "2026-08-07T13:52:45.157Z",
+  "updatedAt": "2026-08-07T13:52:50.500Z",
   "server": "cage",
   "lang": "sub",
   "streamUrl": "https://vidnest.fun/animepahe/130298/19/sub?color=39FF14",
+  "downloadUrl": "https://pahe.nekostream.site/WHMtt",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,21 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
+    },
+    {
+      "key": "anikoto-hd-1",
+      "label": "HD-1",
+      "rawName": "HD-1"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
     }
   ],
   "serversData": {
@@ -44,6 +60,45 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/130298/19/sub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/WHMtt",
+          "720p": "https://pahe.nekostream.site/GPCty",
+          "1080p": "https://pahe.nekostream.site/DsAcU"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/98056/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            155,
+            244
+          ],
+          "outro": [
+            1331,
+            1466
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/98056/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            155,
+            244
+          ],
+          "outro": [
+            1331,
+            1466
+          ]
+        }
       }
     ],
     "dub": [
@@ -66,6 +121,45 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/130298/19/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/VBbsv",
+          "720p": "https://pahe.nekostream.site/XDECz",
+          "1080p": "https://pahe.nekostream.site/Ptrlo"
+        }
+      },
+      {
+        "name": "HD-1",
+        "url": "https://megaplay.buzz/stream/s-5/98056/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            160,
+            249
+          ],
+          "outro": [
+            1335,
+            1471
+          ]
+        }
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/98056/dub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            160,
+            249
+          ],
+          "outro": [
+            1335,
+            1471
+          ]
+        }
       }
     ]
   },
