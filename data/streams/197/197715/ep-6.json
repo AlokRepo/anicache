@@ -1,11 +1,10 @@
 {
   "animeId": 197715,
   "episode": 6,
-  "updatedAt": "2026-08-05T16:05:09.674Z",
+  "updatedAt": "2026-08-07T14:11:06.644Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/62322/6/sub",
-  "downloadUrl": "https://pahe.nekostream.site/nlijk",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,21 +21,6 @@
     {
       "key": "nest",
       "label": "Nest"
-    },
-    {
-      "key": "anikoto-kiwi",
-      "label": "Kiwi",
-      "rawName": "Kiwi"
-    },
-    {
-      "key": "anikoto-vidstream-2",
-      "label": "Vidstream-2",
-      "rawName": "Vidstream-2"
-    },
-    {
-      "key": "anikoto-vidplay-1",
-      "label": "VidPlay-1",
-      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -60,45 +44,6 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/197715/6/sub?color=39FF14",
         "server": "nest"
-      },
-      {
-        "name": "Kiwi",
-        "url": "",
-        "download": {
-          "360p": "https://pahe.nekostream.site/nlijk",
-          "720p": "https://pahe.nekostream.site/TkDEt",
-          "1080p": "https://pahe.nekostream.site/nkwpm"
-        }
-      },
-      {
-        "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/529874/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            84,
-            170
-          ],
-          "outro": [
-            1336,
-            1392
-          ]
-        }
-      },
-      {
-        "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/a3YzcHpVOEdaa0pHZUhwQ0pWMlBQTU45bDEwQ0FQcVdmdHp4ZWRYeHBFMD0/hsub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            84,
-            170
-          ],
-          "outro": [
-            1336,
-            1392
-          ]
-        }
       }
     ],
     "dub": [
