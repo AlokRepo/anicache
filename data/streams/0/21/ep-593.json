@@ -1,10 +1,10 @@
 {
   "animeId": 21,
   "episode": 593,
-  "updatedAt": "2026-08-04T06:36:39.681Z",
-  "server": "megaplay",
-  "lang": "sub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/21/593/sub",
+  "updatedAt": "2026-08-07T14:58:33.209Z",
+  "server": "cage",
+  "lang": "dub",
+  "streamUrl": "https://vidnest.fun/animepahe/21/593/dub?color=39FF14",
   "downloadUrl": "https://pahe.nekostream.site/JplpR",
   "availableServers": [
     {
@@ -42,23 +42,18 @@
       "key": "anikoto-vidstream-2",
       "label": "Vidstream-2",
       "rawName": "Vidstream-2"
-    },
-    {
-      "key": "anikoto-vidplay-1",
-      "label": "VidPlay-1",
-      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
     "sub": [
       {
         "name": "Mega",
-        "url": "https://megaplay.buzz/stream/mal/21/593/sub",
+        "url": "https://megaplay.buzz/stream/mal/21/593/dub",
         "server": "megaplay"
       },
       {
         "name": "Cage",
-        "url": "https://vidnest.fun/animepahe/21/593/sub?color=39FF14",
+        "url": "https://vidnest.fun/animepahe/21/593/dub?color=39FF14",
         "server": "cage"
       },
       {
@@ -68,7 +63,7 @@
       },
       {
         "name": "Nest",
-        "url": "https://vidnest.fun/anime/21/593/sub?color=39FF14",
+        "url": "https://vidnest.fun/anime/21/593/dub?color=39FF14",
         "server": "nest"
       },
       {
@@ -86,10 +81,6 @@
       {
         "name": "Vidstream-2",
         "url": "https://megaplay.buzz/stream/s-2/73497/sub"
-      },
-      {
-        "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/T1Q2NGFHaTF0L0ovZi9OSndEQTFQazhKbmo4Z3BtNXFiOStqQTIrTk5sM1dQdUdXemdxcnFYTlovUW9maWNmdHBoUHpXZDYwcHhWeTdkK2RHOFFIMEE9PQ/sub"
       }
     ],
     "dub": [
@@ -118,13 +109,13 @@
   "sources": [
     {
       "name": "Mega",
-      "url": "https://megaplay.buzz/stream/mal/21/593/sub",
+      "url": "https://megaplay.buzz/stream/mal/21/593/dub",
       "quality": "auto",
       "server": "megaplay"
     },
     {
       "name": "Cage",
-      "url": "https://vidnest.fun/animepahe/21/593/sub?color=39FF14",
+      "url": "https://vidnest.fun/animepahe/21/593/dub?color=39FF14",
       "quality": "auto",
       "server": "cage"
     },
@@ -136,7 +127,7 @@
     },
     {
       "name": "Nest",
-      "url": "https://vidnest.fun/anime/21/593/sub?color=39FF14",
+      "url": "https://vidnest.fun/anime/21/593/dub?color=39FF14",
       "quality": "auto",
       "server": "nest"
     }
