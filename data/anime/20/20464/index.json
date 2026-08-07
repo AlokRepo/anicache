@@ -15,8 +15,7 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20464-ooZUyBe4ptp9.png"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20464-PpYjO9cPN1gs.jpg",
   "description": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by the \"King of the Court,\" Tobio Kageyama. Hinata vows to surpass Kageyama, and so after graduating from middle school, he joins Karasuno High School's volleyball team—only to find that his sworn rival, Kageyama, is now his teammate.\n<br><br>\nThanks to his short height, Hinata struggles to find his role on the team, even with his superior jumping power. Surprisingly, Kageyama has his own problems that only Hinata can help with, and learning to work together appears to be the only way for the team to be successful. Based on Haruichi Furudate's popular shounen manga of the same name, Haikyuu!! is an exhilarating and emotional sports comedy following two determined athletes as they attempt to patch a heated rivalry in order to make their high school volleyball team the best in Japan.\n<br><br>\n[Written by MAL Rewrite]",
@@ -48,7 +47,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 1,
+          "id": 10,
           "name": "Production I.G",
           "isAnimationStudio": true
         }
@@ -56,7 +55,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 2,
+          "id": 376,
           "name": "Sentai Filmworks",
           "isAnimationStudio": false
         }
@@ -69,43 +68,55 @@
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/haikyu",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
+    },
+    {
+      "site": "Official Site",
+      "url": "http://www.j-haikyu.com/anime/index.html",
+      "type": "INFO",
+      "language": "Japanese"
+    },
+    {
+      "site": "Twitter",
+      "url": "https://twitter.com/animehaikyu_com",
+      "type": "SOCIAL",
+      "language": "Japanese"
     },
     {
       "site": "Amazon Prime Video",
       "url": "https://www.amazon.com/gp/video/detail/B07WNMBJG2/",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/80090673",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "iQ",
       "url": "https://www.iq.com/album/1m26il1p739",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jj89wMj2yzRnsY-db5DswlG",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/play/34475",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Bilibili",
       "url": "https://www.bilibili.com/bangumi/media/md28221614",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     }
   ],
   "tags": [
@@ -135,559 +146,173 @@
     },
     {
       "name": "Coming of Age"
+    },
+    {
+      "name": "Fitness"
+    },
+    {
+      "name": "Kuudere"
     }
   ],
-  "trailer": null,
+  "trailer": {
+    "id": "9kLRkH9zC5k",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/9kLRkH9zC5k/hqdefault.jpg"
+  },
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
-        "node": {
-          "id": 153658,
-          "idMal": 153658,
-          "title": {
-            "romaji": "HAIKYU!! The Dumpster Battle",
-            "english": "HAIKYU!! The Dumpster Battle",
-            "native": "HAIKYU!! The Dumpster Battle"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153658-KVnjW77cQw3y.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153658-KVnjW77cQw3y.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153658-KVnjW77cQw3y.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153658-KVnjW77cQw3y.jpg",
-          "averageScore": 86,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2024,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2024,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 106625,
-          "idMal": 106625,
-          "title": {
-            "romaji": "HAIKYU!! TO THE TOP",
-            "english": "HAIKYU!! TO THE TOP",
-            "native": "HAIKYU!! TO THE TOP"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
-          "averageScore": 83,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 111790,
-          "idMal": 111790,
-          "title": {
-            "romaji": "HAIKYU!! LAND VS. AIR",
-            "english": "HAIKYU!! LAND VS. AIR",
-            "native": "HAIKYU!! LAND VS. AIR"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg",
-          "averageScore": 79,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 2,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
-          "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 98884,
-          "idMal": 98884,
-          "title": {
-            "romaji": "Haikyu!! The Movie: Talent and Sense",
-            "english": "Haikyu!! The Movie: Talent and Sense",
-            "native": "Haikyu!! The Movie: Talent and Sense"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
-          "averageScore": 80,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 98885,
-          "idMal": 98885,
-          "title": {
-            "romaji": "Haikyu!! The Movie: Battle of Concepts",
-            "english": "Haikyu!! The Movie: Battle of Concepts",
-            "native": "Haikyu!! The Movie: Battle of Concepts"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98885-xzHYFUr0keBT.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98885-xzHYFUr0keBT.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98885-xzHYFUr0keBT.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98885-xzHYFUr0keBT.jpg",
-          "averageScore": 81,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2017,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2017,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 21698,
-          "idMal": 21698,
-          "title": {
-            "romaji": "HAIKYU!! 3rd Season",
-            "english": "HAIKYU!! 3rd Season",
-            "native": "HAIKYU!! 3rd Season"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
-          "averageScore": 87,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 10,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 20992,
-          "idMal": 20992,
-          "title": {
-            "romaji": "HAIKYU!! 2nd Season",
-            "english": "HAIKYU!! 2nd Season",
-            "native": "HAIKYU!! 2nd Season"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
-          "averageScore": 86,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 25,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
+        "relationType": "SUMMARY",
         "node": {
           "id": 21120,
-          "idMal": 21120,
           "title": {
-            "romaji": "Haikyu!! the Movie: The End and the Beginning",
-            "english": "Haikyu!! the Movie: The End and the Beginning",
-            "native": "Haikyu!! the Movie: The End and the Beginning"
+            "romaji": "Haikyuu!!: Owari to Hajimari",
+            "english": "Haikyu!! the Movie: The End and the Beginning"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21120-x1TAu6HfHnyr.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg",
-          "averageScore": 78,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
+          "averageScore": 79,
           "isAdult": false,
+          "episodes": 1,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2015,
+          "duration": 89
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SUMMARY",
         "node": {
           "id": 21244,
-          "idMal": 21244,
           "title": {
-            "romaji": "Haikyuu!! the Movie: The Winner and the Loser",
-            "english": "Haikyuu!! the Movie: The Winner and the Loser",
-            "native": "Haikyuu!! the Movie: The Winner and the Loser"
+            "romaji": "Haikyuu!!: Shousha to Haisha",
+            "english": "Haikyuu!! the Movie: The Winner and the Loser"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21244-xvjWi4fV0qkw.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png",
-          "averageScore": 78,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
+          "averageScore": 79,
           "isAdult": false,
+          "episodes": 1,
           "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 2015,
+          "duration": 88
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "ADAPTATION",
         "node": {
-          "id": 21348,
-          "idMal": 21348,
+          "id": 65243,
           "title": {
-            "romaji": "HAIKYU!!: VS Failing Marks",
-            "english": "HAIKYU!!: VS Failing Marks",
-            "native": "HAIKYU!!: VS Failing Marks"
+            "romaji": "Haikyuu!!",
+            "english": "Haikyu!!"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21348-VIKyHcNUWIlb.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21348-VIKyHcNUWIlb.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21348-VIKyHcNUWIlb.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx65243-mR4MnJFmfaOF.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65243-mR4MnJFmfaOF.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21348-VIKyHcNUWIlb.jpg",
-          "averageScore": 77,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
+          "averageScore": 89,
           "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "episodes": null,
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
         }
       },
       {
-        "relationType": "SEASON",
+        "relationType": "SEQUEL",
+        "node": {
+          "id": 20992,
+          "title": {
+            "romaji": "Haikyuu!! 2nd Season",
+            "english": "HAIKYU!! 2nd Season"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20992-aHgNbcalVEqk.png"
+          },
+          "averageScore": 86,
+          "isAdult": false,
+          "episodes": 25,
+          "format": "TV",
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2015,
+          "duration": 24
+        }
+      },
+      {
+        "relationType": "OTHER",
+        "node": {
+          "id": 115217,
+          "title": {
+            "romaji": "Haikyuu!! Ningyou Anime",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115217-5Q8RImxnZc9a.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115217-5Q8RImxnZc9a.png"
+          },
+          "averageScore": 65,
+          "isAdult": false,
+          "episodes": 10,
+          "format": "OVA",
+          "status": "FINISHED",
+          "season": "WINTER",
+          "seasonYear": 2020,
+          "duration": 2
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
         "node": {
           "id": 20884,
-          "idMal": 20884,
           "title": {
-            "romaji": "HAIKYU!!: Lev Appears!",
-            "english": "HAIKYU!!: Lev Appears!",
-            "native": "HAIKYU!!: Lev Appears!"
+            "romaji": "Haikyuu!!: Lev Kenzan!",
+            "english": "HAIKYU!!: Lev Appears!"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20884-5U9SNWxDJBeT.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20884-5U9SNWxDJBeT.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20884-5U9SNWxDJBeT.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20884-5U9SNWxDJBeT.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20884-5U9SNWxDJBeT.jpg",
-          "averageScore": 75,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
+          "averageScore": 76,
           "isAdult": false,
+          "episodes": 1,
           "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
+          "status": "FINISHED",
+          "season": "FALL",
+          "seasonYear": 2014,
+          "duration": 25
+        }
+      },
+      {
+        "relationType": "OTHER",
+        "node": {
+          "id": 107263,
+          "title": {
+            "romaji": "Haikyuu Quest",
+            "english": "Haikyuu!! Quest Picture Drama"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107263-oF8OnpCOHFXd.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107263-oF8OnpCOHFXd.jpg"
+          },
+          "averageScore": 63,
+          "isAdult": false,
+          "episodes": 3,
+          "format": "OVA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 4
         }
       }
     ]
@@ -696,613 +321,895 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 20992,
-          "idMal": 20992,
+          "id": 101239,
           "title": {
-            "romaji": "HAIKYU!! 2nd Season",
-            "english": "HAIKYU!! 2nd Season",
-            "native": "HAIKYU!! 2nd Season"
+            "romaji": "Ahiru no Sora",
+            "english": "Ahiru no Sora"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101239-iGhniUbzVgpn.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101239-iGhniUbzVgpn.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101239-iGhniUbzVgpn.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
-          "averageScore": 86,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 25,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2015,
-          "duration": 24,
+          "averageScore": 70,
           "isAdult": false,
+          "episodes": 50,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2015,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 21698,
-          "idMal": 21698,
+          "id": 101903,
           "title": {
-            "romaji": "HAIKYU!! 3rd Season",
-            "english": "HAIKYU!! 3rd Season",
-            "native": "HAIKYU!! 3rd Season"
+            "romaji": "Kaze ga Tsuyoku Fuiteiru",
+            "english": "Run with the Wind"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101903-ncgPJbbA5Nou.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101903-ncgPJbbA5Nou.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101903-ncgPJbbA5Nou.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
-          "averageScore": 87,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 10,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 106625,
-          "idMal": 106625,
-          "title": {
-            "romaji": "HAIKYU!! TO THE TOP",
-            "english": "HAIKYU!! TO THE TOP",
-            "native": "HAIKYU!! TO THE TOP"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
           "averageScore": 83,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
           "isAdult": false,
+          "episodes": 23,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 21709,
-          "idMal": 21709,
-          "title": {
-            "romaji": "Yuri!!! on ICE",
-            "english": "Yuri!!! on ICE",
-            "native": "Yuri!!! on ICE"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21709-aqPBDxJPruYR.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21709-aqPBDxJPruYR.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21709-aqPBDxJPruYR.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21709-aqPBDxJPruYR.png",
-          "averageScore": 78,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 12,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
           "id": 18507,
-          "idMal": 18507,
           "title": {
-            "romaji": "Free! -Iwatobi Swim Club-",
-            "english": "Free! -Iwatobi Swim Club-",
-            "native": "Free! -Iwatobi Swim Club-"
+            "romaji": "Free!",
+            "english": "Free! -Iwatobi Swim Club-"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18507-RajfCYPpBfT3.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18507-RajfCYPpBfT3.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18507-RajfCYPpBfT3.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18507-RajfCYPpBfT3.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx18507-RajfCYPpBfT3.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18507-RajfCYPpBfT3.png",
           "averageScore": 72,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Slice of Life",
-            "Sports"
-          ],
+          "isAdult": false,
           "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 263,
-          "idMal": 263,
-          "title": {
-            "romaji": "Hajime no Ippo: The Fighting!",
-            "english": "Hajime no Ippo: The Fighting!",
-            "native": "Hajime no Ippo: The Fighting!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx263-ivVyn9xAgwSZ.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx263-ivVyn9xAgwSZ.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx263-ivVyn9xAgwSZ.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx263-ivVyn9xAgwSZ.png",
-          "averageScore": 87,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 75,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2000,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2000,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 111790,
-          "idMal": 111790,
+          "id": 11771,
           "title": {
-            "romaji": "HAIKYU!! LAND VS. AIR",
-            "english": "HAIKYU!! LAND VS. AIR",
-            "native": "HAIKYU!! LAND VS. AIR"
+            "romaji": "Kuroko no Basket",
+            "english": "Kuroko's Basketball"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11771-uvr44RAwRxPw.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11771-uvr44RAwRxPw.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11771-uvr44RAwRxPw.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg",
-          "averageScore": 79,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 2,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2020,
-          "duration": 24,
+          "averageScore": 78,
           "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 153658,
-          "idMal": 153658,
-          "title": {
-            "romaji": "HAIKYU!! The Dumpster Battle",
-            "english": "HAIKYU!! The Dumpster Battle",
-            "native": "HAIKYU!! The Dumpster Battle"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153658-KVnjW77cQw3y.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153658-KVnjW77cQw3y.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153658-KVnjW77cQw3y.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153658-KVnjW77cQw3y.jpg",
-          "averageScore": 86,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2024,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2024,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20614,
-          "idMal": 20614,
-          "title": {
-            "romaji": "Free! -Eternal Summer-",
-            "english": "Free! -Eternal Summer-",
-            "native": "Free! -Eternal Summer-"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20614-Dr962gTXZzMs.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20614-Dr962gTXZzMs.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20614-Dr962gTXZzMs.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20614-Dr962gTXZzMs.png",
-          "averageScore": 75,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Slice of Life",
-            "Sports"
-          ],
-          "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2014,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2014,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 170,
-          "idMal": 170,
-          "title": {
-            "romaji": "Slam Dunk",
-            "english": "Slam Dunk",
-            "native": "Slam Dunk"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170-cmD8A0vZsp6g.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170-cmD8A0vZsp6g.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170-cmD8A0vZsp6g.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170-cmD8A0vZsp6g.jpg",
-          "averageScore": 83,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Slice of Life",
-            "Sports"
-          ],
-          "episodes": 101,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1993,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1993,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 19647,
-          "idMal": 19647,
-          "title": {
-            "romaji": "Hajime No Ippo: The Fighting! - Rising -",
-            "english": "Hajime No Ippo: The Fighting! - Rising -",
-            "native": "Hajime No Ippo: The Fighting! - Rising -"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19647-cIy7ShTL6e9h.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19647-cIy7ShTL6e9h.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19647-cIy7ShTL6e9h.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19647-cIy7ShTL6e9h.jpg",
-          "averageScore": 85,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
           "episodes": 25,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 5258,
-          "idMal": 5258,
+          "id": 18179,
           "title": {
-            "romaji": "Hajime no Ippo: The Fighting! New Challenger",
-            "english": "Hajime no Ippo: The Fighting! New Challenger",
-            "native": "Hajime no Ippo: The Fighting! New Challenger"
+            "romaji": "Yowamushi Pedal",
+            "english": null
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5258-Qn6GBiSY57iT.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5258-Qn6GBiSY57iT.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5258-Qn6GBiSY57iT.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18179-YG0tghcQBxGe.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18179-YG0tghcQBxGe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx18179-YG0tghcQBxGe.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5258-Qn6GBiSY57iT.jpg",
-          "averageScore": 85,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 26,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2009,
-          "duration": 24,
+          "averageScore": 77,
           "isAdult": false,
+          "episodes": 38,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2009,
-            "month": 12,
-            "day": 31
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 15,
+          "title": {
+            "romaji": "Eyeshield 21",
+            "english": "Eyeshield 21"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15-A4F2t0TgWoi4.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15-A4F2t0TgWoi4.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx15-A4F2t0TgWoi4.png"
+          },
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 145,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 23
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 98005,
+          "title": {
+            "romaji": "Ballroom e Youkoso",
+            "english": "Welcome to the Ballroom"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98005-kwoBQIEeXa8J.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98005-kwoBQIEeXa8J.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98005-kwoBQIEeXa8J.png"
+          },
+          "averageScore": 79,
+          "isAdult": false,
+          "episodes": 24,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 104052,
+          "title": {
+            "romaji": "Hoshiai no Sora",
+            "english": "Stars Align"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104052-vjxtx7LJiTgb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104052-vjxtx7LJiTgb.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx104052-vjxtx7LJiTgb.jpg"
+          },
+          "averageScore": 76,
+          "isAdult": false,
+          "episodes": 12,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20923,
+          "title": {
+            "romaji": "Shokugeki no Souma",
+            "english": "Food Wars!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-pNT38pjW3RFH.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20923-pNT38pjW3RFH.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20923-pNT38pjW3RFH.jpg"
+          },
+          "averageScore": 78,
+          "isAdult": false,
+          "episodes": 24,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 18689,
+          "title": {
+            "romaji": "Diamond no Ace",
+            "english": "Ace of the Diamond"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18689-LRIiRcgTJS1f.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18689-LRIiRcgTJS1f.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx18689-LRIiRcgTJS1f.jpg"
+          },
+          "averageScore": 80,
+          "isAdult": false,
+          "episodes": 75,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20607,
+          "title": {
+            "romaji": "Ping Pong THE ANIMATION",
+            "english": "Ping Pong the Animation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20607-fIOxVISIl0HY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20607-fIOxVISIl0HY.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20607-fIOxVISIl0HY.jpg"
+          },
+          "averageScore": 86,
+          "isAdult": false,
+          "episodes": 11,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 23
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 10800,
+          "title": {
+            "romaji": "Chihayafuru",
+            "english": "Chihayafuru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10800-hofcUL0YEL7O.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10800-hofcUL0YEL7O.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx10800-hofcUL0YEL7O.png"
+          },
+          "averageScore": 80,
+          "isAdult": false,
+          "episodes": 25,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 22
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 64769,
+          "name": {
+            "userPreferred": "Shouyou Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 110919,
+            "name": {
+              "userPreferred": "Ayumu Murase"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 64771,
+          "name": {
+            "userPreferred": "Tobio Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 115156,
+            "name": {
+              "userPreferred": "Kaito Ishikawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67321,
+          "name": {
+            "userPreferred": "Koushi Sugawara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67321-cxP7NdI0JC3H.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95088,
+            "name": {
+              "userPreferred": "Miyu Irino"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67323,
+          "name": {
+            "userPreferred": "Daichi Sawamura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67323-yFbLDAfJ5ysG.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95245,
+            "name": {
+              "userPreferred": "Satoshi Hino"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67325,
+          "name": {
+            "userPreferred": "Ryuunosuke Tanaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67325-yPkbZJkofp5w.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 116157,
+            "name": {
+              "userPreferred": "Yuu Hayashi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116157-MAPYgEeptEUh.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67327,
+          "name": {
+            "userPreferred": "Yuu Nishinoya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95270,
+            "name": {
+              "userPreferred": "Nobuhiko Okamoto"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67329,
+          "name": {
+            "userPreferred": "Kei Tsukishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67329-k7mDdqQ6rJ4w.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96764,
+            "name": {
+              "userPreferred": "Kouki Uchiyama"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96764-yJWGrhjanDJQ.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67331,
+          "name": {
+            "userPreferred": "Chikara Ennoshita"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n67331-skTD3AJ7jrWr.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 107017,
+            "name": {
+              "userPreferred": "Toshiki Masuda"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107017-Jv96B9DBJOy9.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67333,
+          "name": {
+            "userPreferred": "Asahi Azumane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67333-on5KXeKxZqKs.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 100626,
+            "name": {
+              "userPreferred": "Yoshimasa Hosoya"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 67689,
+          "name": {
+            "userPreferred": "Kiyoko Shimizu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67689-QaYw1qDMjwKM.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95078,
+            "name": {
+              "userPreferred": "Kaori Nazuka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 70857,
+          "name": {
+            "userPreferred": "Kouji Sekimukai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70857-UXTpSRfkS1Xj.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 119712,
+            "name": {
+              "userPreferred": "Seigo Yokota"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/24712-DqThz8keDHhV.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 70859,
+          "name": {
+            "userPreferred": "Yukitaka Izumi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70859-IZDZD34pzMms.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 107389,
+            "name": {
+              "userPreferred": "Kyousuke Ikeda"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107389-YGHHoQHzClzc.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 70861,
+          "name": {
+            "userPreferred": "Keishin Ukai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70861-mW9IE5G9Ov8J.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95738,
+            "name": {
+              "userPreferred": "Kazunari Tanaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95738-TbYK2DzO5d1Y.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 71267,
+          "name": {
+            "userPreferred": "Kenma Kozume"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95672,
+            "name": {
+              "userPreferred": "Yuuki Kaji"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-RN4nm0OFwCyU.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 71269,
+          "name": {
+            "userPreferred": "Tetsurou Kuroo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71269-pi9vjyxKPFAu.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95513,
+            "name": {
+              "userPreferred": "Yuuichi Nakamura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 71609,
+          "name": {
+            "userPreferred": "Tadashi Yamaguchi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71609-5Ht0aqB34eEa.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 113227,
+            "name": {
+              "userPreferred": "Souma Saitou"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 71611,
+          "name": {
+            "userPreferred": "Tooru Oikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95087,
+            "name": {
+              "userPreferred": "Daisuke Namikawa"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 73673,
+          "name": {
+            "userPreferred": "Taketora Yamamoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n73673-SbfcLzHol5y7.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 119712,
+            "name": {
+              "userPreferred": "Seigo Yokota"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/24712-DqThz8keDHhV.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 73675,
+          "name": {
+            "userPreferred": "Sou Inuoka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n73675-23YnN9WbIVIc.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 107389,
+            "name": {
+              "userPreferred": "Kyousuke Ikeda"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107389-YGHHoQHzClzc.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 73677,
+          "name": {
+            "userPreferred": "Yuuki Shibayama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73677-Q6cR5bzHez9T.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 128193,
+            "name": {
+              "userPreferred": "Takumi Watanabe"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128193-pzfJaNfRUjE1.png"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
+    "edges": [
+      {
+        "role": "ADR Director (Italian)",
+        "node": {
+          "id": 96268,
+          "name": {
+            "userPreferred": "Patrizio Prata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96268-zO83Agjsj8HU.png"
+          }
+        }
+      },
+      {
+        "role": "Music",
+        "node": {
+          "id": 99980,
+          "name": {
+            "userPreferred": "Yuuki Hayashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99980-4xS4V6qrH3Ab.png"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (ED1)",
+        "node": {
+          "id": 100348,
+          "name": {
+            "userPreferred": "Kenji Kamiyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100348-PVpNBhGzEMsq.png"
+          }
+        }
+      },
+      {
+        "role": "Character Design",
+        "node": {
+          "id": 101403,
+          "name": {
+            "userPreferred": "Takahiro Kishida"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101403-nSqMj1CdIn1e.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ep 9)",
+        "node": {
+          "id": 101404,
+          "name": {
+            "userPreferred": "Tetsuya Takeuchi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101404-uNh6cRTHPQ46.jpg"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (ep 25)",
+        "node": {
+          "id": 101518,
+          "name": {
+            "userPreferred": "Masahiro Andou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101518-daLPjgrbCaQi.png"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (ep 16)",
+        "node": {
+          "id": 102156,
+          "name": {
+            "userPreferred": "Masayuki Miyaji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102156-X3anKOUSrB1M.png"
+          }
+        }
+      },
+      {
+        "role": "Sound Director",
+        "node": {
+          "id": 102469,
+          "name": {
+            "userPreferred": "Hiromi Kikuta"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102469-NmhsYnPvQTKK.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ep 25)",
+        "node": {
+          "id": 102673,
+          "name": {
+            "userPreferred": "Tokuyuki Matsutake"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102673-bzMCG1CxP5sQ.png"
+          }
+        }
+      },
+      {
+        "role": "Background Art (ED2, eps 3, 5)",
+        "node": {
+          "id": 103079,
+          "name": {
+            "userPreferred": "Hiroshi Oono"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103079-RlQdgoj3UeEc.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ep 17)",
+        "node": {
+          "id": 103124,
+          "name": {
+            "userPreferred": "Saeko Oofuji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 103260,
+          "name": {
+            "userPreferred": "Haruichi Furudate"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103260-ZSdswyvhtqFj.jpg"
+          }
+        }
+      },
+      {
+        "role": "Production",
+        "node": {
+          "id": 103267,
+          "name": {
+            "userPreferred": "Mitsuhisa Ishikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103267-4zn1mWuBlmoV.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ep 25)",
+        "node": {
+          "id": 103724,
+          "name": {
+            "userPreferred": "Toshiyuki Inoue"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103724-BYFOcvjF2gg9.png"
+          }
+        }
+      },
+      {
+        "role": "Theme Song Arrangement (ED1)",
+        "node": {
+          "id": 103965,
+          "name": {
+            "userPreferred": "NICO Touches the Walls"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103965-p57xeQTHjjbq.png"
+          }
+        }
+      }
+    ]
   },
   "subCount": 25,
   "dubCount": 0,
-  "updatedAt": "2026-08-07T11:06:09.683Z"
+  "updatedAt": "2026-08-06T11:27:07.296Z"
 }
