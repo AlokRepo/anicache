@@ -1,10 +1,11 @@
 {
   "animeId": 201514,
   "episode": 5,
-  "updatedAt": "2026-08-02T14:54:59.227Z",
-  "server": "peachify",
+  "updatedAt": "2026-08-08T13:38:51.960Z",
+  "server": "cage",
   "lang": "sub",
-  "streamUrl": "https://megaplay.buzz/stream/mal/62876/5/sub",
+  "streamUrl": "https://vidnest.fun/animepahe/201514/5/sub?color=39FF14",
+  "downloadUrl": "https://pahe.nekostream.site/Ghwga",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,16 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-kiwi",
+      "label": "Kiwi",
+      "rawName": "Kiwi"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -44,6 +55,30 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/201514/5/sub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Kiwi",
+        "url": "",
+        "download": {
+          "360p": "https://pahe.nekostream.site/Ghwga",
+          "720p": "https://pahe.nekostream.site/IICpL",
+          "1080p": "https://pahe.nekostream.site/wKcDu"
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/THZKVXFzY1ZEUDc4ZWFCTmR6TmdIbnBBeWJMN3hJRDRnbk42cS9YamlzWE1uOWJ1dkZwZzBuam8xRTdRckFYSjVlcmlFa0N1ZTd4WmI0WjV4cnFwQVJST1M5SW8wSXVGbkxmbnJ4cGRrZFNpNUhab1ZFT3VySnBSQ2lacFB3aU02NXBWZmc0N3Q1UmhjQzk5NXRPVU93PT0/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ],
     "dub": [
