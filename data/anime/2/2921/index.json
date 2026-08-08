@@ -12,8 +12,7 @@
   ],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2921-PxFepBRCGD0K.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2921-PxFepBRCGD0K.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2921-PxFepBRCGD0K.jpg"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2921-PxFepBRCGD0K.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2921-8cz7wULNyEgs.jpg",
   "description": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, but unknown to himself and his trainer, he now suffers deep-set issues holding him back from fighting. In attempt to quell those issues, Carlos Rivera, a world renowned boxer is invited from Venezuela to help Joe recover.\n",
@@ -30,6 +29,7 @@
   "seasonYear": 1980,
   "duration": 24,
   "format": "TV",
+  "isAdult": false,
   "startDate": {
     "year": 1980,
     "month": 10,
@@ -45,7 +45,7 @@
       {
         "isMain": true,
         "node": {
-          "id": 1,
+          "id": 65,
           "name": "Tokyo Movie Shinsha",
           "isAnimationStudio": true
         }
@@ -53,7 +53,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 2,
+          "id": 6620,
           "name": "Nippon Television Network",
           "isAnimationStudio": false
         }
@@ -66,13 +66,13 @@
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/champion-joe-2",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     },
     {
       "site": "Amazon Prime Video",
       "url": "https://www.amazon.com/Bell-Sounds-Off-Devils-Ring/dp/B09HSZVGTK/ref=sr_1_1?keywords=Ashita+no+Joe+2&qid=1637258101&qsid=147-6548211-3023644&s=instant-video&sr=1-1&sres=B09HT35LSG%2CB0974BM7B1",
       "type": "STREAMING",
-      "language": "English"
+      "language": null
     }
   ],
   "tags": [
@@ -80,7 +80,13 @@
       "name": "Boxing"
     },
     {
+      "name": "Tragedy"
+    },
+    {
       "name": "Coming of Age"
+    },
+    {
+      "name": "Rehabilitation"
     },
     {
       "name": "Male Protagonist"
@@ -92,6 +98,12 @@
       "name": "Shounen"
     },
     {
+      "name": "Foreign"
+    },
+    {
+      "name": "Historical"
+    },
+    {
       "name": "Primarily Adult Cast"
     },
     {
@@ -99,351 +111,140 @@
     },
     {
       "name": "Urban"
+    },
+    {
+      "name": "Language Barrier"
+    },
+    {
+      "name": "Delinquents"
+    },
+    {
+      "name": "Ojou-sama"
+    },
+    {
+      "name": "Class Struggle"
+    },
+    {
+      "name": "Yakuza"
+    },
+    {
+      "name": "War"
+    },
+    {
+      "name": "Military"
+    },
+    {
+      "name": "Bar"
+    },
+    {
+      "name": "Mafia"
+    },
+    {
+      "name": "Love Triangle"
+    },
+    {
+      "name": "Body Image"
+    },
+    {
+      "name": "Heterosexual"
+    },
+    {
+      "name": "Anti-Hero"
     }
   ],
-  "trailer": null,
+  "trailer": {
+    "id": "hJ5KjrjfD40",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/hJ5KjrjfD40/hqdefault.jpg"
+  },
   "relations": {
     "edges": [
       {
-        "relationType": "SEASON",
-        "node": {
-          "id": 278,
-          "idMal": 278,
-          "title": {
-            "romaji": "Viewtiful Joe",
-            "english": "Viewtiful Joe",
-            "native": "Viewtiful Joe"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/278.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/278.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/278.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/278.jpg",
-          "averageScore": 62,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Sci-Fi"
-          ],
-          "episodes": 51,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2004,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2004,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 4298,
-          "idMal": 4298,
-          "title": {
-            "romaji": "Joe vs Joe",
-            "english": "Joe vs Joe",
-            "native": "Joe vs Joe"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4298.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4298.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4298.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4298.jpg",
-          "averageScore": 49,
-          "genres": [
-            "Sports"
-          ],
-          "episodes": 6,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2003,
-          "duration": 24,
-          "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2003,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 2696,
-          "idMal": 2696,
-          "title": {
-            "romaji": "Crusher Joe: The OVAs",
-            "english": "Crusher Joe: The OVAs",
-            "native": "Crusher Joe: The OVAs"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2696-6063TksRtX8M.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2696-6063TksRtX8M.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2696-6063TksRtX8M.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2696-6063TksRtX8M.jpg",
-          "averageScore": 66,
-          "genres": [
-            "Adventure",
-            "Sci-Fi"
-          ],
-          "episodes": 2,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1989,
-          "duration": 24,
-          "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1989,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 2722,
-          "idMal": 2722,
-          "title": {
-            "romaji": "Crusher Joe: The Movie",
-            "english": "Crusher Joe: The Movie",
-            "native": "Crusher Joe: The Movie"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2722-z9zqg2mEfGW4.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2722-z9zqg2mEfGW4.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2722-z9zqg2mEfGW4.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2722-z9zqg2mEfGW4.jpg",
-          "averageScore": 69,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1983,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1983,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Adventure"
-            },
-            {
-              "name": "Sci-Fi"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 2922,
-          "idMal": 2922,
-          "title": {
-            "romaji": "Tomorrow's Joe 2 the Movie",
-            "english": "Tomorrow's Joe 2 the Movie",
-            "native": "Tomorrow's Joe 2 the Movie"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2922-LvUB8Ny8EHyw.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2922-LvUB8Ny8EHyw.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2922-LvUB8Ny8EHyw.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2922-LvUB8Ny8EHyw.png",
-          "averageScore": 69,
-          "genres": [
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1981,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1981,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
-        "node": {
-          "id": 2920,
-          "idMal": 2920,
-          "title": {
-            "romaji": "Tomorrow's Joe: The Movie",
-            "english": "Tomorrow's Joe: The Movie",
-            "native": "Tomorrow's Joe: The Movie"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png",
-          "averageScore": 66,
-          "genres": [
-            "Action",
-            "Drama",
-            "Slice of Life",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1980,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1980,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "relationType": "SEASON",
+        "relationType": "PREQUEL",
         "node": {
           "id": 2402,
-          "idMal": 2402,
           "title": {
-            "romaji": "Tomorrow's Joe",
-            "english": "Tomorrow's Joe",
-            "native": "Tomorrow's Joe"
+            "romaji": "Ashita no Joe",
+            "english": "Tomorrow's Joe"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2402-hbo1SbfcM5hm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2402-hbo1SbfcM5hm.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2402-hbo1SbfcM5hm.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2402-hbo1SbfcM5hm.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2402-hbo1SbfcM5hm.jpg",
           "averageScore": 81,
-          "genres": [
-            "Action",
-            "Drama",
-            "Slice of Life",
-            "Sports"
-          ],
+          "isAdult": false,
           "episodes": 79,
+          "format": "TV",
           "status": "FINISHED",
           "season": "SPRING",
           "seasonYear": 1970,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1970,
-            "month": 12,
-            "day": 31
+          "duration": 25
+        }
+      },
+      {
+        "relationType": "ADAPTATION",
+        "node": {
+          "id": 31303,
+          "title": {
+            "romaji": "Ashita no Joe",
+            "english": "Ashita no Joe: Fighting for Tomorrow"
           },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31303-l21HJn9AXl7w.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31303-l21HJn9AXl7w.jpg"
+          },
+          "averageScore": 89,
+          "isAdult": false,
+          "episodes": null,
+          "format": "MANGA",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": null
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 2922,
+          "title": {
+            "romaji": "Ashita no Joe 2 (Movie)",
+            "english": "Tomorrow's Joe 2 the Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2922-LvUB8Ny8EHyw.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2922-LvUB8Ny8EHyw.png"
+          },
+          "averageScore": 69,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "season": "SUMMER",
+          "seasonYear": 1981,
+          "duration": 112
+        }
+      },
+      {
+        "relationType": "OTHER",
+        "node": {
+          "id": 151627,
+          "title": {
+            "romaji": "Nippon Seimei CM",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151627-BZ3O1Wq0DkKh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151627-BZ3O1Wq0DkKh.jpg"
+          },
+          "averageScore": null,
+          "isAdult": false,
+          "episodes": 3,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "season": null,
+          "seasonYear": null,
+          "duration": 1
         }
       }
     ]
@@ -452,654 +253,895 @@
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 2402,
-          "idMal": 2402,
+          "id": 2001,
           "title": {
-            "romaji": "Tomorrow's Joe",
-            "english": "Tomorrow's Joe",
-            "native": "Tomorrow's Joe"
+            "romaji": "Tengen Toppa Gurren Lagann",
+            "english": "Gurren Lagann"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2402-hbo1SbfcM5hm.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2402-hbo1SbfcM5hm.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2402-hbo1SbfcM5hm.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-XwRnjzGeFWRQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2001-XwRnjzGeFWRQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2001-XwRnjzGeFWRQ.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2402-hbo1SbfcM5hm.jpg",
-          "averageScore": 81,
-          "genres": [
-            "Action",
-            "Drama",
-            "Slice of Life",
-            "Sports"
-          ],
-          "episodes": 79,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1970,
-          "duration": 24,
+          "averageScore": 85,
           "isAdult": false,
+          "episodes": 27,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1970,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 136381,
-          "idMal": 136381,
+          "id": 263,
           "title": {
-            "romaji": "SK8 the Infinity EXTRA PART",
-            "english": "SK8 the Infinity EXTRA PART",
-            "native": "SK8 the Infinity EXTRA PART"
+            "romaji": "Hajime no Ippo: THE FIGHTING!",
+            "english": "Hajime no Ippo: The Fighting!"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136381-t6c5rfKjnqqd.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136381-t6c5rfKjnqqd.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136381-t6c5rfKjnqqd.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx263-ivVyn9xAgwSZ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx263-ivVyn9xAgwSZ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx263-ivVyn9xAgwSZ.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136381-t6c5rfKjnqqd.jpg",
-          "averageScore": 78,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Slice of Life",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2025,
-          "duration": 24,
+          "averageScore": 87,
           "isAdult": false,
-          "format": "OVA",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2025,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 2920,
-          "idMal": 2920,
-          "title": {
-            "romaji": "Tomorrow's Joe: The Movie",
-            "english": "Tomorrow's Joe: The Movie",
-            "native": "Tomorrow's Joe: The Movie"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png",
-          "averageScore": 66,
-          "genres": [
-            "Action",
-            "Drama",
-            "Slice of Life",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1980,
-          "duration": 24,
-          "isAdult": false,
-          "format": "MOVIE",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1980,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 2009,
-          "idMal": 2009,
-          "title": {
-            "romaji": "YAWARA! Special: Zutto Kimi no Koto ga... .",
-            "english": "YAWARA! Special: Zutto Kimi no Koto ga... .",
-            "native": "YAWARA! Special: Zutto Kimi no Koto ga... ."
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2009.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2009.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2009.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2009.jpg",
-          "averageScore": 66,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Slice of Life",
-            "Sports"
-          ],
-          "episodes": 1,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 1996,
-          "duration": 24,
-          "isAdult": false,
-          "format": "SPECIAL",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 1996,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 21507,
-          "idMal": 21507,
-          "title": {
-            "romaji": "Mob Psycho 100",
-            "english": "Mob Psycho 100",
-            "native": "Mob Psycho 100"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
-          "averageScore": 84,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Psychological",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2016,
-          "duration": 24,
-          "isAdult": false,
+          "episodes": 75,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2016,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Psychological"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 137822,
-          "idMal": 137822,
-          "title": {
-            "romaji": "BLUE LOCK",
-            "english": "BLUE LOCK",
-            "native": "BLUE LOCK"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
-          "averageScore": 80,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 24,
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2022,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2022,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 18153,
-          "idMal": 18153,
-          "title": {
-            "romaji": "Beyond the Boundary",
-            "english": "Beyond the Boundary",
-            "native": "Beyond the Boundary"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18153-oDqA9zQzQPOq.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18153-oDqA9zQzQPOq.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18153-oDqA9zQzQPOq.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18153-oDqA9zQzQPOq.png",
-          "averageScore": 74,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Fantasy"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Supernatural"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 124153,
-          "idMal": 124153,
-          "title": {
-            "romaji": "SK8 the Infinity",
-            "english": "SK8 the Infinity",
-            "native": "SK8 the Infinity"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124153-uEBI764OSavB.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124153-uEBI764OSavB.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124153-uEBI764OSavB.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124153-uEBI764OSavB.png",
-          "averageScore": 79,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2021,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2021,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 18507,
-          "idMal": 18507,
-          "title": {
-            "romaji": "Free! -Iwatobi Swim Club-",
-            "english": "Free! -Iwatobi Swim Club-",
-            "native": "Free! -Iwatobi Swim Club-"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18507-RajfCYPpBfT3.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18507-RajfCYPpBfT3.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18507-RajfCYPpBfT3.png"
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18507-RajfCYPpBfT3.png",
-          "averageScore": 72,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Slice of Life",
-            "Sports"
-          ],
-          "episodes": 12,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2013,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2013,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Slice of Life"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "duration": 23
         }
       },
       {
         "mediaRecommendation": {
           "id": 100298,
-          "idMal": 100298,
           "title": {
-            "romaji": "Megalobox",
-            "english": "Megalobox",
-            "native": "Megalobox"
+            "romaji": "Megalo Box",
+            "english": "Megalobox"
           },
           "coverImage": {
             "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100298-A5VQUcw7ZC64.jpg",
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100298-A5VQUcw7ZC64.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100298-A5VQUcw7ZC64.jpg"
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b100298-A5VQUcw7ZC64.jpg"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100298-A5VQUcw7ZC64.jpg",
           "averageScore": 77,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sci-Fi",
-            "Sports"
-          ],
+          "isAdult": false,
           "episodes": 13,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2018,
-          "duration": 24,
-          "isAdult": false,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2018,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sci-Fi"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 25
         }
       },
       {
         "mediaRecommendation": {
-          "id": 163146,
-          "idMal": 163146,
+          "id": 113359,
           "title": {
-            "romaji": "BLUE LOCK Season 2",
-            "english": "BLUE LOCK Season 2",
-            "native": "BLUE LOCK Season 2"
+            "romaji": "NOMAD: Megalo Box 2",
+            "english": "MEGALOBOX 2: NOMAD"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-BVZPgyzkqi82.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-BVZPgyzkqi82.png",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-BVZPgyzkqi82.png"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113359-FnjG2VppJF9f.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113359-FnjG2VppJF9f.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113359-FnjG2VppJF9f.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-BVZPgyzkqi82.png",
-          "averageScore": 75,
-          "genres": [
-            "Action",
-            "Drama",
-            "Sports"
-          ],
-          "episodes": 14,
-          "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2024,
-          "duration": 24,
+          "averageScore": 81,
           "isAdult": false,
+          "episodes": 13,
           "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2024,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Sports"
-            }
-          ]
+          "status": "FINISHED",
+          "duration": 24
         }
       },
       {
         "mediaRecommendation": {
-          "id": 155907,
-          "idMal": 155907,
+          "id": 1,
           "title": {
-            "romaji": "Buddy Daddies",
-            "english": "Buddy Daddies",
-            "native": "Buddy Daddies"
+            "romaji": "Cowboy Bebop",
+            "english": "Cowboy Bebop"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155907-wY1RqFUHvZ60.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155907-wY1RqFUHvZ60.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155907-wY1RqFUHvZ60.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1-GCsPm7waJ4kS.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1-GCsPm7waJ4kS.png"
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155907-wY1RqFUHvZ60.jpg",
-          "averageScore": 80,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Drama",
-            "Slice of Life"
-          ],
+          "averageScore": 86,
+          "isAdult": false,
+          "episodes": 26,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 124223,
+          "title": {
+            "romaji": "Uma Musume: Pretty Derby Season 2",
+            "english": "Umamusume: Pretty Derby Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124223-XMOEUPopjtrI.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124223-XMOEUPopjtrI.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx124223-XMOEUPopjtrI.png"
+          },
+          "averageScore": 83,
+          "isAdult": false,
+          "episodes": 13,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 24
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 3213,
+          "title": {
+            "romaji": "Ganbare Genki",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3213.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3213.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3213.jpg"
+          },
+          "averageScore": 69,
+          "isAdult": false,
+          "episodes": 35,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 23
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 9177,
+          "title": {
+            "romaji": "B.B BURNING BLOOD",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9177.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9177.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9177.jpg"
+          },
+          "averageScore": 56,
+          "isAdult": false,
+          "episodes": 3,
+          "format": "OVA",
+          "status": "FINISHED",
+          "duration": 42
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 2920,
+          "title": {
+            "romaji": "Ashita no Joe (Movie)",
+            "english": "Tomorrow's Joe: The Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2920-7rvrEGt2PODe.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2920-7rvrEGt2PODe.png"
+          },
+          "averageScore": 67,
+          "isAdult": false,
+          "episodes": 1,
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "duration": 153
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 19973,
+          "title": {
+            "romaji": "Ashita no Joe Pilots",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19973-csV8PzQ4eKx2.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19973-csV8PzQ4eKx2.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx19973-csV8PzQ4eKx2.png"
+          },
+          "averageScore": 59,
+          "isAdult": false,
+          "episodes": 2,
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "duration": 10
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 134732,
+          "title": {
+            "romaji": "Aoashi",
+            "english": "Aoashi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134732-OXKSrOhF9pCM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134732-OXKSrOhF9pCM.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx134732-OXKSrOhF9pCM.jpg"
+          },
+          "averageScore": 81,
+          "isAdult": false,
+          "episodes": 24,
+          "format": "TV",
+          "status": "FINISHED",
+          "duration": 25
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 312,
+          "title": {
+            "romaji": "Ace wo Nerae: Final Stage",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx312-dMZG3uDq8wWl.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx312-dMZG3uDq8wWl.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx312-dMZG3uDq8wWl.jpg"
+          },
+          "averageScore": 70,
+          "isAdult": false,
           "episodes": 12,
+          "format": "OVA",
           "status": "FINISHED",
-          "season": "SPRING",
-          "seasonYear": 2023,
-          "duration": 24,
-          "isAdult": false,
-          "format": "TV",
-          "countryOfOrigin": "JP",
-          "nextAiringEpisode": null,
-          "endDate": {
-            "year": 2023,
-            "month": 12,
-            "day": 31
-          },
-          "externalLinks": [],
-          "tags": [
-            {
-              "name": "Action"
-            },
-            {
-              "name": "Comedy"
-            },
-            {
-              "name": "Drama"
-            },
-            {
-              "name": "Slice of Life"
-            }
-          ]
+          "duration": 24
         }
       }
     ]
   },
   "characters": {
-    "edges": []
+    "edges": [
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 11804,
+          "name": {
+            "userPreferred": "Joe Yabuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11804-iGb4oJ99VCcz.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 106710,
+            "name": {
+              "userPreferred": "Teruhiko Aoi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106710-vKegANnQIIXD.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 46019,
+          "name": {
+            "userPreferred": "Danpei Tange"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46019-YU0gtkPwrcKU.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 108039,
+            "name": {
+              "userPreferred": "Juukei Fujioka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108039-X0qbxcnVhdkZ.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "MAIN",
+        "node": {
+          "id": 46051,
+          "name": {
+            "userPreferred": "Youko Shiraki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46051-3bh1VnlgIzZb.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 186873,
+            "name": {
+              "userPreferred": "Emi Tanaka"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n186873-PApUoYE6VozP.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 20185,
+          "name": {
+            "userPreferred": "Tooru Rikiishi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b20185-A2ItKKrpgfcB.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 107486,
+            "name": {
+              "userPreferred": "Shuusei Nakamura"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107486-dlg0xH788Fkx.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 46043,
+          "name": {
+            "userPreferred": "Kanichi Nishi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46043-RhjmXS5LfXGg.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 135076,
+            "name": {
+              "userPreferred": "Jirou Daruma"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135076-VipT7NZYi3uE.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 46053,
+          "name": {
+            "userPreferred": "Carlos Rivera"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46053-zvMW5tmmibAL.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95259,
+            "name": {
+              "userPreferred": "Ryuusei Nakao"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95259-A1sNVqfD2MWp.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 46055,
+          "name": {
+            "userPreferred": "Wolf Kanagushi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46055-xEaDcw1U1HrW.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96128,
+            "name": {
+              "userPreferred": "Rokuro Naya"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96128-cHvdKhF6dgK9.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 46057,
+          "name": {
+            "userPreferred": "José Mendoza"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46057-Zz81SJG4cThl.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 196335,
+            "name": {
+              "userPreferred": "Miyamura Yoshito"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n196335-IsPw2Fotg8Yo.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 59779,
+          "name": {
+            "userPreferred": "Noriko Hayashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b59779-oHwt1uL1nKFg.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 216377,
+            "name": {
+              "userPreferred": "Megumi Moriwaki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n216377-VJF5xVpp6eDS.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76166,
+          "name": {
+            "userPreferred": "Robert Harry"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76166-BxzJG0EelQkW.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96075,
+            "name": {
+              "userPreferred": "Michihiro Ikemizu"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96075-pKIYt8gerJmJ.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 76168,
+          "name": {
+            "userPreferred": "Mikinosuke Shiraki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76168-7O4vhh6K9asc.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95892,
+            "name": {
+              "userPreferred": "Tamio Ooki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95892-hARexeaqvxfo.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 85465,
+          "name": {
+            "userPreferred": "Sachi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85465-jO5v1lydF8Fo.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 103860,
+            "name": {
+              "userPreferred": "Fuyumi Shiraishi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103860-jVyAdLz2MZf1.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 137064,
+          "name": {
+            "userPreferred": "Kinoko"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137064-ATltrH5Xax5j.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 101453,
+            "name": {
+              "userPreferred": "Junko Hori"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101453-pAwpxoveMbbg.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 137065,
+          "name": {
+            "userPreferred": "Tarou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137065-xHLOh8fJH7Yo.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 96129,
+            "name": {
+              "userPreferred": "Kiyonobu Suzuki"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96129-7bThBoEPzMsd.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 137066,
+          "name": {
+            "userPreferred": "Hyoromatsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137066-7vMmFaJsh7A7.jpg"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 100278,
+            "name": {
+              "userPreferred": "Noriko Tsukase"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5278.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 137067,
+          "name": {
+            "userPreferred": "Tonkichi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137067-aTCUpg2SLhxz.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 107721,
+            "name": {
+              "userPreferred": "Hiroko Maruyama"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107721-hlGQmncXVdh0.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 158161,
+          "name": {
+            "userPreferred": "Goromaki Gondou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158161-9cGK7eThY4Pt.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 100766,
+            "name": {
+              "userPreferred": "Takeshi Watabe"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100766-pEmshnWgDwiN.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 158164,
+          "name": {
+            "userPreferred": "Tiger Ozaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158164-OrGHsWC9d48E.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95718,
+            "name": {
+              "userPreferred": "Hiroya Ishimaru"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95718-3ke4CyMs9um5.png"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 174868,
+          "name": {
+            "userPreferred": "Harimao"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174868-G74stE8DRzy3.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 105789,
+            "name": {
+              "userPreferred": "Takashi Taguchi"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10789.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "role": "SUPPORTING",
+        "node": {
+          "id": 196332,
+          "name": {
+            "userPreferred": "Yong-Bi Kim"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b196332-m31IEF8GJ4l6.png"
+          }
+        },
+        "voiceActors": [
+          {
+            "id": 95084,
+            "name": {
+              "userPreferred": "Norio Wakamoto"
+            },
+            "image": {
+              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95084-RTrZSU38POPF.png"
+            }
+          }
+        ]
+      }
+    ]
   },
   "staff": {
-    "edges": []
-  }
+    "edges": [
+      {
+        "role": "Key Animation (eps 2, 5, 9)",
+        "node": {
+          "id": 98155,
+          "name": {
+            "userPreferred": "Gaku Miyao"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98155-GBjFmq0p1rPs.jpg"
+          }
+        }
+      },
+      {
+        "role": "Supervisor",
+        "node": {
+          "id": 99017,
+          "name": {
+            "userPreferred": "Ikki Kajiwara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99017-MtlVDsk5ZaiP.jpg"
+          }
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 99017,
+          "name": {
+            "userPreferred": "Ikki Kajiwara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n99017-MtlVDsk5ZaiP.jpg"
+          }
+        }
+      },
+      {
+        "role": "In-Between Animation (ep 1)",
+        "node": {
+          "id": 100066,
+          "name": {
+            "userPreferred": "Kouji Morimoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100066-AXb2Jo7gLO0d.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (eps 12, 15, 17, 18, 19, 21, 23, 25, 27, 29, 31, 33, 34, 40, 42, 43, 44, 45, 46, 47)",
+        "node": {
+          "id": 100066,
+          "name": {
+            "userPreferred": "Kouji Morimoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100066-AXb2Jo7gLO0d.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (eps 4, 8, 12, 15, 17, 19, 21, 24, 27, 29, 31, 33-34)",
+        "node": {
+          "id": 100359,
+          "name": {
+            "userPreferred": "Ryuutarou Nakamura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100359-14rcvH4cfJ7s.png"
+          }
+        }
+      },
+      {
+        "role": "Director",
+        "node": {
+          "id": 100393,
+          "name": {
+            "userPreferred": "Osamu Dezaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100393-lYIq2h5QrcQ4.png"
+          }
+        }
+      },
+      {
+        "role": "Storyboard (eps 1-35, 37, 39, 40, 42-47)",
+        "node": {
+          "id": 100393,
+          "name": {
+            "userPreferred": "Osamu Dezaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100393-lYIq2h5QrcQ4.png"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (eps 7, 11, 15-16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36-43)",
+        "node": {
+          "id": 101164,
+          "name": {
+            "userPreferred": "Kenji Kodama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101164-5IQeegohyKMN.png"
+          }
+        }
+      },
+      {
+        "role": "Original Creator",
+        "node": {
+          "id": 101217,
+          "name": {
+            "userPreferred": "Tetsuya Chiba"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/101217-2WsGt65WzHNK.jpg"
+          }
+        }
+      },
+      {
+        "role": "Supervisor",
+        "node": {
+          "id": 101217,
+          "name": {
+            "userPreferred": "Tetsuya Chiba"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/101217-2WsGt65WzHNK.jpg"
+          }
+        }
+      },
+      {
+        "role": "In-Between Animation (eps 20, 24, 28, 34)",
+        "node": {
+          "id": 101619,
+          "name": {
+            "userPreferred": "Shigeki Awai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/101619-xtKp7aezZd5T.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ep 13)",
+        "node": {
+          "id": 101935,
+          "name": {
+            "userPreferred": "Setsuko Shibuichi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6935.jpg"
+          }
+        }
+      },
+      {
+        "role": "Key Animation (ep 13)",
+        "node": {
+          "id": 101936,
+          "name": {
+            "userPreferred": "Yukari Kobayashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101936-Q7x8GkJtXFRo.png"
+          }
+        }
+      },
+      {
+        "role": "In-Between Animation (eps 3, 7, 11, 17, 18)",
+        "node": {
+          "id": 102187,
+          "name": {
+            "userPreferred": "Masaaki Kannan"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "subCount": 47,
+  "dubCount": 0,
+  "updatedAt": "2026-08-08T08:53:22.539Z"
 }
