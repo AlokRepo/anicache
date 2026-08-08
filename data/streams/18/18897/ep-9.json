@@ -1,11 +1,10 @@
 {
   "animeId": 18897,
   "episode": 9,
-  "updatedAt": "2026-08-08T09:52:37.339Z",
+  "updatedAt": "2026-08-08T10:01:44.674Z",
   "server": "megaplay",
   "lang": "sub",
   "streamUrl": "https://megaplay.buzz/stream/mal/18897/9/sub",
-  "downloadUrl": "https://pahe.nekostream.site/RpjPd",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,26 +21,6 @@
     {
       "key": "nest",
       "label": "Nest"
-    },
-    {
-      "key": "anikoto-kiwi",
-      "label": "Kiwi",
-      "rawName": "Kiwi"
-    },
-    {
-      "key": "anikoto-hd-1",
-      "label": "HD-1",
-      "rawName": "HD-1"
-    },
-    {
-      "key": "anikoto-vidstream-2",
-      "label": "Vidstream-2",
-      "rawName": "Vidstream-2"
-    },
-    {
-      "key": "anikoto-vidplay-1",
-      "label": "VidPlay-1",
-      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -65,60 +44,6 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/18897/9/sub?color=39FF14",
         "server": "nest"
-      },
-      {
-        "name": "Kiwi",
-        "url": "",
-        "download": {
-          "360p": "https://pahe.nekostream.site/RpjPd",
-          "720p": "https://pahe.nekostream.site/qhCrM",
-          "1080p": "https://pahe.nekostream.site/nPzdr"
-        }
-      },
-      {
-        "name": "HD-1",
-        "url": "https://megaplay.buzz/stream/s-5/23564/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            60,
-            156
-          ],
-          "outro": [
-            1362,
-            1452
-          ]
-        }
-      },
-      {
-        "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/23564/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            60,
-            156
-          ],
-          "outro": [
-            1362,
-            1452
-          ]
-        }
-      },
-      {
-        "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/M0EwWUphbmF5Nm9pUXA3dWgzcXU5WG80bXdwNUY3YUF3aDZhN1lTakpsOD0/hsub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            60,
-            156
-          ],
-          "outro": [
-            1362,
-            1452
-          ]
-        }
       }
     ],
     "dub": [
