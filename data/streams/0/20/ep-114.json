@@ -1,10 +1,11 @@
 {
   "animeId": 20,
   "episode": 114,
-  "updatedAt": "2026-08-05T23:27:38.954Z",
+  "updatedAt": "2026-08-08T12:37:02.542Z",
   "server": "megaplay",
   "lang": "dub",
   "streamUrl": "https://megaplay.buzz/stream/mal/20/114/dub",
+  "downloadUrl": "https://megaplay.buzz/stream/s-5/94736/sub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -62,15 +63,48 @@
       },
       {
         "name": "HD-1",
-        "url": "https://megaplay.buzz/stream/s-5/94736/sub"
+        "url": "https://megaplay.buzz/stream/s-5/94736/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       },
       {
         "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/94736/sub"
+        "url": "https://megaplay.buzz/stream/s-2/94736/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       },
       {
         "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/UDZnSkZUb1lHQlVVZGM4dlpJN2JQbVNzV0MrcHMwclFic2dKRXVxS3ZWST0/sub"
+        "url": "https://vidtube.site/stream/UDZnSkZUb1lHQlVVZGM4dlpJN2JQbVNzV0MrcHMwclFic2dKRXVxS3ZWST0/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            0,
+            0
+          ],
+          "outro": [
+            0,
+            0
+          ]
+        }
       }
     ],
     "dub": [
