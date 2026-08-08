@@ -1,10 +1,11 @@
 {
   "animeId": 182205,
   "episode": 17,
-  "updatedAt": "2026-08-07T19:54:08.117Z",
-  "server": "megaplay",
+  "updatedAt": "2026-08-08T01:45:16.770Z",
+  "server": "peachify",
   "lang": "dub",
   "streamUrl": "https://megaplay.buzz/stream/mal/59970/17/dub",
+  "downloadUrl": "https://megaplay.buzz/stream/s-2/220204/sub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -21,6 +22,16 @@
     {
       "key": "nest",
       "label": "Nest"
+    },
+    {
+      "key": "anikoto-vidstream-2",
+      "label": "Vidstream-2",
+      "rawName": "Vidstream-2"
+    },
+    {
+      "key": "anikoto-vidplay-1",
+      "label": "VidPlay-1",
+      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -44,6 +55,36 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/182205/17/dub?color=39FF14",
         "server": "nest"
+      },
+      {
+        "name": "Vidstream-2",
+        "url": "https://megaplay.buzz/stream/s-2/220204/sub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            81,
+            168
+          ],
+          "outro": [
+            1357,
+            1441
+          ]
+        }
+      },
+      {
+        "name": "VidPlay-1",
+        "url": "https://vidtube.site/stream/M0FNUDVvNjVNYU5FUnlPMWk1VkE1TUlxcVl3TlJ3VHp5b0tiODBlS2hDL1VVMThhdllHNnIxbGJkbnNyYURWYTJheDh0aWY5elFCMnNUTkpEWFFnQ2c9PQ/hsub",
+        "download": {},
+        "skip_data": {
+          "intro": [
+            81,
+            168
+          ],
+          "outro": [
+            1357,
+            1441
+          ]
+        }
       }
     ],
     "dub": [
