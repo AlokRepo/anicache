@@ -9,7 +9,8 @@
   "synonyms": [],
   "coverImage": {
     "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185116-DIFRjiMgz1IS.jpg"
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg"
   },
   "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
   "description": "The story of <i>GNOSIA</i> takes place on a ship drifting through space. Gnosia is an enemy that disguises itself as a human and attacks them. It is now on the spaceship, causing everyone onboard to be suspicious of each other. The crew decides to vote on the most suspicious-looking person every day and put them into a cold sleep.<br><br>\n\nIf the humans succeed in putting Gnosia to sleep, they'll win. On the other hand, if they don't, everyone on board is in danger. The right decision must be made. No matter what decision is made by the main character, Yuri, she finds herself in a time loop that returns her to the first day of the crisis. <br><br>\n\nWill the crew on board make the right decision? What is the secret behind the time loop? What secrets hide behind the faces of everyone on board?<br><br>\n\n<i>GNOSIA</i> begins now – a story of looping, fleeting moments that feels like an eternity but passes by in an instant.<br><br>\n\nHave a pleasant journey.<br><br>\n(Source: Crunchyroll)",
@@ -40,33 +41,33 @@
   "studios": {
     "edges": [
       {
+        "isMain": true,
+        "node": {
+          "id": 1,
+          "name": "domerica",
+          "isAnimationStudio": true
+        }
+      },
+      {
         "isMain": false,
         "node": {
-          "id": 17,
+          "id": 2,
+          "name": "domerica",
+          "isAnimationStudio": true
+        }
+      },
+      {
+        "isMain": false,
+        "node": {
+          "id": 3,
           "name": "Aniplex",
           "isAnimationStudio": false
         }
       },
       {
-        "isMain": true,
-        "node": {
-          "id": 6496,
-          "name": "domerica",
-          "isAnimationStudio": true
-        }
-      },
-      {
         "isMain": false,
         "node": {
-          "id": 6496,
-          "name": "domerica",
-          "isAnimationStudio": true
-        }
-      },
-      {
-        "isMain": false,
-        "node": {
-          "id": 6259,
+          "id": 4,
           "name": "TOKYO MX",
           "isAnimationStudio": false
         }
@@ -74,7 +75,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 6616,
+          "id": 5,
           "name": "BS11",
           "isAnimationStudio": false
         }
@@ -82,7 +83,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 166,
+          "id": 6,
           "name": "Movic",
           "isAnimationStudio": false
         }
@@ -90,7 +91,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 7718,
+          "id": 7,
           "name": "PLAYISM",
           "isAnimationStudio": false
         }
@@ -98,7 +99,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 7719,
+          "id": 8,
           "name": "Petit Depot",
           "isAnimationStudio": false
         }
@@ -106,7 +107,7 @@
       {
         "isMain": false,
         "node": {
-          "id": 493,
+          "id": 9,
           "name": "Aniplex of America",
           "isAnimationStudio": false
         }
@@ -116,39 +117,21 @@
   "nextAiringEpisode": null,
   "externalLinks": [
     {
-      "site": "Twitter",
-      "url": "https://x.com/gnosia_off",
-      "type": "SOCIAL",
-      "language": "Japanese"
-    },
-    {
-      "site": "Official Site",
-      "url": "https://gnosia-anime.com/",
-      "type": "INFO",
-      "language": "Japanese"
-    },
-    {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/GT00365132/gnosia",
       "type": "STREAMING",
-      "language": null
+      "language": "English"
     }
   ],
   "tags": [
     {
-      "name": "Alternate Universe"
-    },
-    {
-      "name": "Time Loop"
-    },
-    {
       "name": "Survival"
     },
     {
-      "name": "Ensemble Cast"
+      "name": "Aliens"
     },
     {
-      "name": "Aliens"
+      "name": "Ensemble Cast"
     },
     {
       "name": "Space"
@@ -163,1013 +146,755 @@
       "name": "Amnesia"
     },
     {
-      "name": "Artificial Intelligence"
-    },
-    {
-      "name": "Philosophy"
-    },
-    {
-      "name": "Clone"
-    },
-    {
-      "name": "Religion"
-    },
-    {
       "name": "LGBTQ+ Themes"
     },
     {
-      "name": "Transgender"
-    },
-    {
       "name": "CGI"
-    },
-    {
-      "name": "Robots"
-    },
-    {
-      "name": "Agender"
-    },
-    {
-      "name": "Asexual"
-    },
-    {
-      "name": "Bisexual"
-    },
-    {
-      "name": "Cosmic Horror"
-    },
-    {
-      "name": "Gender Bending"
-    },
-    {
-      "name": "Aromantic"
-    },
-    {
-      "name": "POV"
-    },
-    {
-      "name": "Gods"
-    },
-    {
-      "name": "Heterosexual"
-    },
-    {
-      "name": "Achromatic"
-    },
-    {
-      "name": "Suicide"
-    },
-    {
-      "name": "Gyaru"
-    },
-    {
-      "name": "Ghost"
     }
   ],
-  "trailer": {
-    "id": "Rm4ipMdFpeA",
-    "site": "youtube",
-    "thumbnail": "https://i.ytimg.com/vi/Rm4ipMdFpeA/hqdefault.jpg"
-  },
+  "trailer": null,
   "relations": {
-    "edges": [
-      {
-        "relationType": "SPIN_OFF",
-        "node": {
-          "id": 203816,
-          "title": {
-            "romaji": "Yurutto✧Gnosia",
-            "english": null
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx203816-AAGyXLmqKyY0.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx203816-AAGyXLmqKyY0.jpg"
-          },
-          "averageScore": null,
-          "isAdult": false,
-          "episodes": null,
-          "format": "MANGA",
-          "status": "FINISHED",
-          "season": null,
-          "seasonYear": null,
-          "duration": null
-        }
-      }
-    ]
+    "edges": []
   },
   "recommendations": {
     "nodes": [
       {
         "mediaRecommendation": {
-          "id": 16592,
+          "id": 124845,
+          "idMal": 124845,
           "title": {
-            "romaji": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation",
-            "english": "Danganronpa: The Animation"
+            "romaji": "WONDER EGG PRIORITY",
+            "english": "WONDER EGG PRIORITY",
+            "native": "WONDER EGG PRIORITY"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16592-mFn1gfMXlKtw.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16592-mFn1gfMXlKtw.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx16592-mFn1gfMXlKtw.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124845-JXORhqCTGt04.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124845-JXORhqCTGt04.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124845-JXORhqCTGt04.jpg"
           },
-          "averageScore": 69,
-          "isAdult": false,
-          "episodes": 13,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 107663,
-          "title": {
-            "romaji": "Kanata no Astra",
-            "english": "ASTRA LOST IN SPACE"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107663-gfIpy1h36kUL.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107663-gfIpy1h36kUL.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx107663-gfIpy1h36kUL.jpg"
-          },
-          "averageScore": 79,
-          "isAdult": false,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124845-JXORhqCTGt04.jpg",
+          "averageScore": 74,
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi",
+            "Thriller"
+          ],
           "episodes": 12,
-          "format": "TV",
           "status": "FINISHED",
-          "duration": 28
+          "season": "SPRING",
+          "seasonYear": 2021,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 21803,
+          "id": 110350,
+          "idMal": 110350,
           "title": {
-            "romaji": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai",
-            "english": "Kubikiri Cycle: The Blue Savant and the Nonsense User"
+            "romaji": "ID: INVADED",
+            "english": "ID: INVADED",
+            "native": "ID: INVADED"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21803-BAQClgq6Q0DP.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21803-BAQClgq6Q0DP.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b21803-BAQClgq6Q0DP.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110350-uchN78wglmhN.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110350-uchN78wglmhN.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110350-uchN78wglmhN.png"
           },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110350-uchN78wglmhN.png",
           "averageScore": 77,
-          "isAdult": false,
-          "episodes": 8,
-          "format": "OVA",
-          "status": "FINISHED",
-          "duration": 30
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 20955,
-          "title": {
-            "romaji": "Rokka no Yuusha",
-            "english": "Rokka -Braves of the Six Flowers-"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20955-MeZp4OtwKGl1.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20955-MeZp4OtwKGl1.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20955-MeZp4OtwKGl1.jpg"
-          },
-          "averageScore": 70,
-          "isAdult": false,
-          "episodes": 12,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 1901,
-          "title": {
-            "romaji": "11-nin Iru!",
-            "english": "They Were 11"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1901.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1901.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/1901.jpg"
-          },
-          "averageScore": 67,
-          "isAdult": false,
-          "episodes": 1,
-          "format": "MOVIE",
-          "status": "FINISHED",
-          "duration": 91
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 21355,
-          "title": {
-            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
-            "english": "Re:ZERO -Starting Life in Another World-"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-wRVUrGxpvIQQ.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21355-wRVUrGxpvIQQ.jpg"
-          },
-          "averageScore": 81,
-          "isAdult": false,
-          "episodes": 25,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 25
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 117343,
-          "title": {
-            "romaji": "Munou na Nana",
-            "english": "Talentless Nana"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117343-NgCLZTaxallv.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117343-NgCLZTaxallv.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx117343-NgCLZTaxallv.jpg"
-          },
-          "averageScore": 70,
-          "isAdult": false,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi",
+            "Thriller"
+          ],
           "episodes": 13,
-          "format": "TV",
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 2020,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 99629,
+          "id": 5630,
+          "idMal": 5630,
           "title": {
-            "romaji": "Satsuriku no Tenshi",
-            "english": "Angels of Death"
+            "romaji": "Eden of the East",
+            "english": "Eden of the East",
+            "native": "Eden of the East"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99629-BXyAJ6PDq4sr.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99629-BXyAJ6PDq4sr.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx99629-BXyAJ6PDq4sr.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5630-l1YM9YDO8tpt.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5630-l1YM9YDO8tpt.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5630-l1YM9YDO8tpt.png"
           },
-          "averageScore": 68,
-          "isAdult": false,
-          "episodes": 12,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 98443,
-          "title": {
-            "romaji": "Juuni Taisen",
-            "english": "JUNI TAISEN：ZODIAC WAR"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98443-1d7qImgzb6Dj.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98443-1d7qImgzb6Dj.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98443-1d7qImgzb6Dj.jpg"
-          },
-          "averageScore": 62,
-          "isAdult": false,
-          "episodes": 12,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 116566,
-          "title": {
-            "romaji": "Akudama Drive",
-            "english": "Akudama Drive"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116566-PPIVQt359vQY.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116566-PPIVQt359vQY.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116566-PPIVQt359vQY.jpg"
-          },
-          "averageScore": 75,
-          "isAdult": false,
-          "episodes": 12,
-          "format": "TV",
-          "status": "FINISHED",
-          "duration": 24
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 105190,
-          "title": {
-            "romaji": "Darwin's Game",
-            "english": "Darwin's Game"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105190-lSoQNlnMF6UP.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105190-lSoQNlnMF6UP.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105190-lSoQNlnMF6UP.jpg"
-          },
-          "averageScore": 70,
-          "isAdult": false,
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5630-l1YM9YDO8tpt.png",
+          "averageScore": 74,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Sci-Fi",
+            "Thriller"
+          ],
           "episodes": 11,
-          "format": "TV",
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 2009,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2009,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Romance"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
         }
       },
       {
         "mediaRecommendation": {
-          "id": 14345,
+          "id": 99088,
+          "idMal": 99088,
           "title": {
-            "romaji": "BTOOOM!",
-            "english": "BTOOOM!"
+            "romaji": "PLUTO",
+            "english": "PLUTO",
+            "native": "PLUTO"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14345-BeDPCuhQGtL5.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14345-BeDPCuhQGtL5.jpg",
-            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx14345-BeDPCuhQGtL5.jpg"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99088-LTJskMD1wbbQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99088-LTJskMD1wbbQ.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99088-LTJskMD1wbbQ.png"
           },
-          "averageScore": 68,
-          "isAdult": false,
-          "episodes": 12,
-          "format": "TV",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99088-LTJskMD1wbbQ.png",
+          "averageScore": 84,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "episodes": 8,
           "status": "FINISHED",
-          "duration": 24
+          "season": "SPRING",
+          "seasonYear": 2023,
+          "duration": 24,
+          "isAdult": false,
+          "format": "ONA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2023,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21825,
+          "idMal": 21825,
+          "title": {
+            "romaji": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+            "english": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc",
+            "native": "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21825-OjVRUQwM8bTz.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21825-OjVRUQwM8bTz.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21825-OjVRUQwM8bTz.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21825-OjVRUQwM8bTz.png",
+          "averageScore": 71,
+          "genres": [
+            "Action",
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "episodes": 11,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2016,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Horror"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 239,
+          "idMal": 239,
+          "title": {
+            "romaji": "Gankutsuou: The Count of Monte Cristo",
+            "english": "Gankutsuou: The Count of Monte Cristo",
+            "native": "Gankutsuou: The Count of Monte Cristo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx239-eldiiZxky1Ul.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx239-eldiiZxky1Ul.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx239-eldiiZxky1Ul.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx239-eldiiZxky1Ul.png",
+          "averageScore": 79,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi",
+            "Supernatural",
+            "Thriller"
+          ],
+          "episodes": 24,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2004,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Supernatural"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21190,
+          "idMal": 21190,
+          "title": {
+            "romaji": "The Perfect Insider",
+            "english": "The Perfect Insider",
+            "native": "The Perfect Insider"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21190-CcEb1nZfY729.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21190-CcEb1nZfY729.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21190-CcEb1nZfY729.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21190-CcEb1nZfY729.jpg",
+          "averageScore": 69,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "episodes": 11,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2015,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 101814,
+          "idMal": 101814,
+          "title": {
+            "romaji": "AFTERLOST",
+            "english": "AFTERLOST",
+            "native": "AFTERLOST"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101814-QVFBowThHDDh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101814-QVFBowThHDDh.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101814-QVFBowThHDDh.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101814-QVFBowThHDDh.jpg",
+          "averageScore": 48,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2019,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Adventure"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 13863,
+          "idMal": 13863,
+          "title": {
+            "romaji": "Arve Rezzle: Kikaijikake no Yousei-tachi",
+            "english": "Arve Rezzle: Kikaijikake no Yousei-tachi",
+            "native": "Arve Rezzle: Kikaijikake no Yousei-tachi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13863.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13863.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13863.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13863.jpg",
+          "averageScore": 57,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "episodes": 1,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2013,
+          "duration": 24,
+          "isAdult": false,
+          "format": "MOVIE",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2013,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 110459,
+          "idMal": 110459,
+          "title": {
+            "romaji": "Ling Cage",
+            "english": "Ling Cage",
+            "native": "Ling Cage"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110459-K2lyLvxHj72X.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110459-K2lyLvxHj72X.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110459-K2lyLvxHj72X.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110459-K2lyLvxHj72X.jpg",
+          "averageScore": 68,
+          "genres": [
+            "Action",
+            "Drama",
+            "Horror",
+            "Mecha",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "episodes": 6,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2019,
+          "duration": 24,
+          "isAdult": false,
+          "format": "ONA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Action"
+            },
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Horror"
+            },
+            {
+              "name": "Mecha"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 114123,
+          "idMal": 114123,
+          "title": {
+            "romaji": "San Ti",
+            "english": "San Ti",
+            "native": "San Ti"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114123-YiWboUM2MRIv.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114123-YiWboUM2MRIv.png",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114123-YiWboUM2MRIv.png"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114123-YiWboUM2MRIv.png",
+          "averageScore": 54,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "episodes": 15,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2022,
+          "duration": 24,
+          "isAdult": false,
+          "format": "ONA",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2022,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Sci-Fi"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 101759,
+          "idMal": 101759,
+          "title": {
+            "romaji": "The Promised Neverland",
+            "english": "The Promised Neverland",
+            "native": "The Promised Neverland"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg",
+            "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg"
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg",
+          "averageScore": 84,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Psychological",
+            "Thriller"
+          ],
+          "episodes": 12,
+          "status": "FINISHED",
+          "season": "SPRING",
+          "seasonYear": 2019,
+          "duration": 24,
+          "isAdult": false,
+          "format": "TV",
+          "countryOfOrigin": "JP",
+          "nextAiringEpisode": null,
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 31
+          },
+          "externalLinks": [],
+          "tags": [
+            {
+              "name": "Drama"
+            },
+            {
+              "name": "Fantasy"
+            },
+            {
+              "name": "Horror"
+            },
+            {
+              "name": "Mystery"
+            },
+            {
+              "name": "Psychological"
+            },
+            {
+              "name": "Thriller"
+            }
+          ]
         }
       }
     ]
   },
   "characters": {
-    "edges": [
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 358221,
-          "name": {
-            "userPreferred": "Yuuri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358221-ap07u4tJJpik.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 106030,
-            "name": {
-              "userPreferred": "Chika Anzai"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106030-oz4RUJZ3D9v9.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 358222,
-          "name": {
-            "userPreferred": "Setsu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358222-tS0VgiFUEd2p.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 132768,
-            "name": {
-              "userPreferred": "Ikumi Hasegawa"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n132768-r4FwpBpHnRtZ.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 358223,
-          "name": {
-            "userPreferred": "SQ"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358223-WxQIv6a7lCb2.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 119722,
-            "name": {
-              "userPreferred": "Akari Kitou"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-Ls7ORfBejJEP.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 358224,
-          "name": {
-            "userPreferred": "Jina"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358224-GDi2b7yFQzWE.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 106787,
-            "name": {
-              "userPreferred": "Asami Seto"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-ojpoY7XEGYgc.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "MAIN",
-        "node": {
-          "id": 358225,
-          "name": {
-            "userPreferred": "Racio"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358225-HIxvbNzIrZZR.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 151342,
-            "name": {
-              "userPreferred": "Hiroki Nanami"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n151342-XKmi9w02EzHU.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 371499,
-          "name": {
-            "userPreferred": "Shigemichi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b371499-zu5c9v43T4bo.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95001,
-            "name": {
-              "userPreferred": "Tomokazu Seki"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 371498,
-          "name": {
-            "userPreferred": "Stella"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b371498-XXpHQxo9Cphk.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95869,
-            "name": {
-              "userPreferred": "Saori Hayami"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 371502,
-          "name": {
-            "userPreferred": "Yuriko"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b371502-OYID7pJSmaeu.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 101686,
-            "name": {
-              "userPreferred": "Aoi Yuuki"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 371504,
-          "name": {
-            "userPreferred": "Comet"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b371504-lfVwaxbeUgXB.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 106622,
-            "name": {
-              "userPreferred": "Ayane Sakura"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 371501,
-          "name": {
-            "userPreferred": "Chipie"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b371501-Gk118ot1ijX0.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95513,
-            "name": {
-              "userPreferred": "Yuuichi Nakamura"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 371506,
-          "name": {
-            "userPreferred": "Jonas"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b371506-CwhmHzouCoxv.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95591,
-            "name": {
-              "userPreferred": "Kenjirou Tsuda"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 371500,
-          "name": {
-            "userPreferred": "Kukurushka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b371500-TWjELoep3fwT.png"
-          }
-        },
-        "voiceActors": []
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 371507,
-          "name": {
-            "userPreferred": "Otome"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b371507-nM0yDmDwLsbL.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95185,
-            "name": {
-              "userPreferred": "Kana Hanazawa"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 371505,
-          "name": {
-            "userPreferred": "Remnan"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b371505-l2eg0syC7N8O.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 128426,
-            "name": {
-              "userPreferred": "Takeo Ootsuka"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128426-uB8KFqVLbogF.png"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 371503,
-          "name": {
-            "userPreferred": "Sha-ming"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b371503-945ugAwPvuLW.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 102695,
-            "name": {
-              "userPreferred": "Takuya Eguchi"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "SUPPORTING",
-        "node": {
-          "id": 397031,
-          "name": {
-            "userPreferred": "Jiyu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b397031-Hc3KoX16wTWs.png"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 95090,
-            "name": {
-              "userPreferred": "Maaya Sakamoto"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95090-oARRP42NEhu0.jpg"
-            }
-          }
-        ]
-      },
-      {
-        "role": "BACKGROUND",
-        "node": {
-          "id": 36310,
-          "name": {
-            "userPreferred": "Sonohokasei"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
-          }
-        },
-        "voiceActors": [
-          {
-            "id": 121940,
-            "name": {
-              "userPreferred": "Shouya Ishige"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121940-VsqIg2qO2RXF.png"
-            }
-          },
-          {
-            "id": 296978,
-            "name": {
-              "userPreferred": "Katsuya Yoshida"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n296978-xL2fHo7BL8o0.png"
-            }
-          },
-          {
-            "id": 251850,
-            "name": {
-              "userPreferred": "Kazuki Kyan"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n251850-mT3vK3ka5yGP.png"
-            }
-          },
-          {
-            "id": 178456,
-            "name": {
-              "userPreferred": "Yuusuke Handa"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n178456-UNzmZt6VYWOy.jpg"
-            }
-          },
-          {
-            "id": 122695,
-            "name": {
-              "userPreferred": "Karin Nanami"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122695-XDxBt1Zpty97.png"
-            }
-          },
-          {
-            "id": 297250,
-            "name": {
-              "userPreferred": "Ryousuke Morita"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n297250-8BK7HTWVdCGG.jpg"
-            }
-          },
-          {
-            "id": 301279,
-            "name": {
-              "userPreferred": "Asaki Yuikawa"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n301279-N47c5eLEsQc5.jpg"
-            }
-          },
-          {
-            "id": 217864,
-            "name": {
-              "userPreferred": "Farahnaz Nikray"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n217864-2D6Ok6jbuzkK.jpg"
-            }
-          },
-          {
-            "id": 129205,
-            "name": {
-              "userPreferred": "Kana Motomiya"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129205-IHF8E9Q1biah.jpg"
-            }
-          },
-          {
-            "id": 110461,
-            "name": {
-              "userPreferred": "Junta Terashima"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/110461-rvAKIkh34SiU.png"
-            }
-          },
-          {
-            "id": 219102,
-            "name": {
-              "userPreferred": "Kouki Koyasu"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n219102-grvhb2wNAWET.png"
-            }
-          },
-          {
-            "id": 119922,
-            "name": {
-              "userPreferred": "Ruriko Aoki"
-            },
-            "image": {
-              "large": "https://s4.anilist.co/file/anilistcdn/staff/large/24922-GZMYC1vTwn4W.jpg"
-            }
-          }
-        ]
-      }
-    ]
+    "edges": []
   },
   "staff": {
-    "edges": [
-      {
-        "role": "ADR Director (Brazilian Portuguese)",
-        "node": {
-          "id": 96423,
-          "name": {
-            "userPreferred": "Marcelo Campos"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96423-YaAvwaxG5fNk.jpg"
-          }
-        }
-      },
-      {
-        "role": "Director ",
-        "node": {
-          "id": 101757,
-          "name": {
-            "userPreferred": "Kazuya Ichikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101757-uZJ8jRFHMD8p.jpg"
-          }
-        }
-      },
-      {
-        "role": "Music ",
-        "node": {
-          "id": 103288,
-          "name": {
-            "userPreferred": "Hideyuki Fukasawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103288-UoR3LcmOL761.png"
-          }
-        }
-      },
-      {
-        "role": "Script",
-        "node": {
-          "id": 107198,
-          "name": {
-            "userPreferred": "Jukki Hanada"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107198-VFEYV6mJjsAF.png"
-          }
-        }
-      },
-      {
-        "role": "Series Composition",
-        "node": {
-          "id": 107198,
-          "name": {
-            "userPreferred": "Jukki Hanada"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107198-VFEYV6mJjsAF.png"
-          }
-        }
-      },
-      {
-        "role": "Theme Song Performance (ED1, ED3)",
-        "node": {
-          "id": 115154,
-          "name": {
-            "userPreferred": "Ling Tosite Sigure"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115154-2mDxvism19Yb.jpg"
-          }
-        }
-      },
-      {
-        "role": "ADR Director (English)",
-        "node": {
-          "id": 119613,
-          "name": {
-            "userPreferred": "Sara Ragsdale"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/24613-2XHgMx9R7AzO.jpg"
-          }
-        }
-      },
-      {
-        "role": "Sound Effects",
-        "node": {
-          "id": 119688,
-          "name": {
-            "userPreferred": "Kiyotaka Kawada"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119688-tz0DEN2UmzVr.jpg"
-          }
-        }
-      },
-      {
-        "role": "ADR Director (English)",
-        "node": {
-          "id": 120733,
-          "name": {
-            "userPreferred": "Jill Harris"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/120733-oXxfxrusFmps.jpg"
-          }
-        }
-      },
-      {
-        "role": "ADR Script (English)",
-        "node": {
-          "id": 127741,
-          "name": {
-            "userPreferred": "Madeleine Morris"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n127741-YLXfUKNBsclt.jpg"
-          }
-        }
-      },
-      {
-        "role": "Theme Song Performance (OP)",
-        "node": {
-          "id": 130673,
-          "name": {
-            "userPreferred": "TeddyLoid"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n130673-WkYwhByAxdnB.png"
-          }
-        }
-      },
-      {
-        "role": "Theme Song Performance (ED4)",
-        "node": {
-          "id": 132768,
-          "name": {
-            "userPreferred": "Ikumi Hasegawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n132768-r4FwpBpHnRtZ.png"
-          }
-        }
-      },
-      {
-        "role": "Character Design",
-        "node": {
-          "id": 138255,
-          "name": {
-            "userPreferred": "Arisa Matsuura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Chief Animation Director",
-        "node": {
-          "id": 138255,
-          "name": {
-            "userPreferred": "Arisa Matsuura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      },
-      {
-        "role": "Storyboard (ED1)",
-        "node": {
-          "id": 138255,
-          "name": {
-            "userPreferred": "Arisa Matsuura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-          }
-        }
-      }
-    ]
+    "edges": []
   },
   "subCount": 21,
   "dubCount": 0,
-  "updatedAt": "2026-08-04T23:08:34.814Z"
+  "updatedAt": "2026-08-08T16:03:40.394Z"
 }
