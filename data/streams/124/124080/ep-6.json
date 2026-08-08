@@ -1,11 +1,10 @@
 {
   "animeId": 124080,
   "episode": 6,
-  "updatedAt": "2026-08-05T14:16:20.363Z",
+  "updatedAt": "2026-08-08T11:36:51.106Z",
   "server": "megaplay",
   "lang": "dub",
   "streamUrl": "https://megaplay.buzz/stream/mal/42897/6/dub",
-  "downloadUrl": "https://megaplay.buzz/stream/s-5/138507/sub",
   "availableServers": [
     {
       "key": "megaplay",
@@ -22,21 +21,6 @@
     {
       "key": "nest",
       "label": "Nest"
-    },
-    {
-      "key": "anikoto-hd-1",
-      "label": "HD-1",
-      "rawName": "HD-1"
-    },
-    {
-      "key": "anikoto-vidstream-2",
-      "label": "Vidstream-2",
-      "rawName": "Vidstream-2"
-    },
-    {
-      "key": "anikoto-vidplay-1",
-      "label": "VidPlay-1",
-      "rawName": "VidPlay-1"
     }
   ],
   "serversData": {
@@ -60,51 +44,6 @@
         "name": "Nest",
         "url": "https://vidnest.fun/anime/124080/6/dub?color=39FF14",
         "server": "nest"
-      },
-      {
-        "name": "HD-1",
-        "url": "https://megaplay.buzz/stream/s-5/138507/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
-      },
-      {
-        "name": "Vidstream-2",
-        "url": "https://megaplay.buzz/stream/s-2/138507/sub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
-      },
-      {
-        "name": "VidPlay-1",
-        "url": "https://vidtube.site/stream/ZlpoOWhydkhpQmhnZmJHYSs0VXE3cUhvbTJaZDREU2VFMXEveGw4QktUcz0/hsub",
-        "download": {},
-        "skip_data": {
-          "intro": [
-            0,
-            0
-          ],
-          "outro": [
-            0,
-            0
-          ]
-        }
       }
     ],
     "dub": [
